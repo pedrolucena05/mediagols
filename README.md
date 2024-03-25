@@ -18,9 +18,6 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 '-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] <br/>
 <p>A demonstração acima é apenas um trecho, pois a lista extrída é muito grande.</p>
 
-
-Tive que organizar a lista acima num arquivo de texto como no england1.txt.
-
 Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a><br/> 
 Link da Série A italiana.
 
