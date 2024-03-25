@@ -1,7 +1,7 @@
 # Cálculo de média de gols e portcentagem de partidas acima de 1.5 gols e 2.5 gols de diversas ligas de futebol.
 
 <p style="text-ident: 20">Fiz essa aplicação para pegar a média de gols de times de diversas ligas de futebol, faço a leitura do site <b><a href="https://www.soccerstats.com/">soccerstats.com</a></b> e o algoritmo organiza os dados como no arquivo 
-**england1.txt**. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo <b>next_games.txt</b>
+<b>england1.txt</b>. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo <b>next_games.txt</b>
 mostra as partidas que vão ter com as medias dos times que vão se enfrentar. </p>
 
 O código acabou ficando complexo por causa que os dados extraidos do site vinham da seguinte forma:
@@ -15,10 +15,14 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 '1', 'Hamm', 'Utdstats-2+Sa', '6', 'AugAltona', '2', '-', '1', 'Osdorfstats+3+Fr', '12', 'AugDassendorf', '4', '-', '2', 'W.', 'Concordiastats+6+Fr', '12', 'AugHamm', 
 'Utd', '2', '-', '1', 'Altonastats+3+Fr', '12', 'AugHamburger', 'SV', 'C', '3', '-', '0', 'Rugenbergenstats+3-Su', '14', 'AugPaloma', '1', '-', '1', 'HEBCstats-2+Su', 
 '14', 'AugT.', 'Wilhelmsburg', '4', '-', '1', 'Curslack-N.stats+5+Su', '14', 'AugNiendorfer', 'TSV', '6', '-', '2', 'Süderelbestats+8+Su', '14', 'AugBuchholz', '1', 
-'-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] // Trecho da lista com os dados de jogos que a biblioteca BeautifulSoup consegue extrair do site **soccerstats.com**
+'-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] 
+// Trecho da lista com os dados de jogos que a biblioteca BeautifulSoup consegue extrair do site **soccerstats.com**
 
 
 Tive que organizar a lista acima num arquivo de texto como no england1.txt.
+
+Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a> 
+Link da Série A italiana.
 
 
 
