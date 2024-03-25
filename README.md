@@ -144,7 +144,7 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 
 Tive que organizar o vetor acima nesse arquivo de texto: 
 '''
-Fr 28 Jul , BW Lohne , 2 - 1 , Hannover 96 B
+Fr 28 Jul , BW Lohne , 2 - 1 , Hannover 96 B /n\n
 Fr 28 Jul , Meppen , 1 - 0 , Drochtersen/A.
 Sa 29 Jul , Weiche F. , 0 - 5 , Teutonia O.
 Su 30 Jul , Hamburger SV B , 0 - 5 , Norderstedt
