@@ -1,0 +1,636 @@
+Sa 30 Mar , Napoli x Atalanta , Average: 2.86 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
+Sa 30 Mar , Genoa x Frosinone , Average: 3.0 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 57.14% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
+Sa 30 Mar , Torino x Monza , Average: 1.97 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 57.14% , Serie A , Italy 
+Sa 30 Mar , Lazio x Juventus , Average: 2.18 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
+Sa 30 Mar , Fiorentina x AC Milan , Average: 3.37 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 20.0% , Serie A , Italy 
+Mo 1 Apr , Bologna x Salernitana , Average: 2.52 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
+Mo 1 Apr , Cagliari x Hellas Verona , Average: 2.57 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 46.67% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 60.0% , Serie A , Italy 
+Mo 1 Apr , Sassuolo x Udinese , Average: 2.69 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 64.29% , Serie A , Italy 
+Mo 1 Apr , Lecce x AS Roma , Average: 2.79 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 35.71% , Serie A , Italy 
+Mo 1 Apr , Inter Milan x Empoli , Average: 2.79 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 57.14% , Serie A , Italy 
+Su 7 Apr , AC Milan x Lecce , Average: 2.23 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 66.67% , Serie A , Italy 
+Su 7 Apr , AS Roma x Lazio , Average: 3.07 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 93.33% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 40.0% , Serie A , Italy 
+Su 7 Apr , Cagliari x Atalanta , Average: 3.07 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
+Su 7 Apr , Empoli x Torino , Average: 2.03 , Home Over 1.5 goals: 53.33% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 73.33% , Away Under 2.5 goals: 73.33% , Serie A , Italy 
+Su 7 Apr , Frosinone x Bologna , Average: 2.88 , Home Over 1.5 goals: 93.33% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 42.86% , Serie A , Italy 
++M 1 Apr , Modena x Bari , Average: 2.27 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 60.0% , Serie B , Italy 
+Mo 1 Apr , Como x Sudtirol , Average: 2.77 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 93.33% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 40.0% , Serie B , Italy 
+Mo 1 Apr , Cosenza x Brescia , Average: 2.41 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 73.33% , Serie B , Italy 
+Mo 1 Apr , Lecco x Cittadella , Average: 2.54 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 71.43% , Serie B , Italy 
+Mo 1 Apr , Parma x Catanzaro , Average: 2.56 , Home Over 1.5 goals: 93.33% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 53.33% , Serie B , Italy 
+Mo 1 Apr , Pisa x Palermo , Average: 2.74 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 46.67% , Away Under 2.5 goals: 53.33% , Serie B , Italy 
+Mo 1 Apr , Spezia x Ascoli , Average: 2.17 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 60.0% , Serie B , Italy 
+Mo 1 Apr , Venezia x Reggiana , Average: 2.87 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 26.67% , Away Under 2.5 goals: 53.33% , Serie B , Italy 
+Mo 1 Apr , Cremonese x FeralpiSalo , Average: 2.37 , Home Over 1.5 goals: 53.33% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 46.67% , Serie B , Italy 
+Mo 1 Apr , Sampdoria x Ternana , Average: 2.98 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 28.57% , Serie B , Italy 
+Fr 5 Apr , Bari x Cremonese , Average: 2.14 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 46.67% , Serie B , Italy 
+Sa 6 Apr , Brescia x Pisa , Average: 2.26 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 73.33% , Away Under 2.5 goals: 60.0% , Serie B , Italy 
+Sa 6 Apr , FeralpiSalo x Cosenza , Average: 2.24 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 86.67% , Serie B , Italy 
+Sa 6 Apr , Spezia x Lecco , Average: 2.34 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 68.75% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 43.75% , Serie B , Italy 
+Sa 6 Apr , Sudtirol x Parma , Average: 2.74 , Home Over 1.5 goals: 53.33% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 26.67% , Serie B , Italy 
+Sa 30 Mar , E. Frankfurt x Union Berlin , Average: 2.65 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 61.54% , Bundesliga , Germany 
+Sa 30 Mar , Leverkusen x Hoffenheim , Average: 3.62 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 15.38% , Bundesliga , Germany 
+Sa 30 Mar , Monchengladbach x Freiburg , Average: 3.19 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 15.38% , Away Under 2.5 goals: 23.08% , Bundesliga , Germany 
+Sa 30 Mar , RB Leipzig x FSV Mainz , Average: 3.2 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , Bundesliga , Germany 
+Sa 30 Mar , Werder Bremen x Wolfsburg , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 46.15% , Bundesliga , Germany 
+Sa 30 Mar , Bayern Munich x Dortmund , Average: 3.66 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 15.38% , Away Under 2.5 goals: 46.15% , Bundesliga , Germany 
+Su 31 Mar , FC Augsburg x FC Koln , Average: 3.0 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 69.23% , Bundesliga , Germany 
+Su 31 Mar , Stuttgart x Heidenheim , Average: 3.32 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 46.15% , Bundesliga , Germany 
+Su 31 Mar , Bochum x Darmstadt , Average: 3.17 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 50.0% , Bundesliga , Germany 
+Fr 5 Apr , E. Frankfurt x Werder Bremen , Average: 2.77 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 53.85% , Bundesliga , Germany 
+Sa 6 Apr , FC Koln x Bochum , Average: 3.0 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 30.77% , Bundesliga , Germany 
+Sa 6 Apr , Freiburg x RB Leipzig , Average: 3.69 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 23.08% , Bundesliga , Germany 
+Sa 6 Apr , FSV Mainz x Darmstadt , Average: 2.71 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 76.92% , Away Under 2.5 goals: 50.0% , Bundesliga , Germany 
+Sa 6 Apr , Heidenheim x Bayern Munich , Average: 3.62 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 7.69% , Bundesliga , Germany 
+Sa 6 Apr , Union Berlin x Leverkusen , Average: 2.92 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 30.77% , Bundesliga , Germany 
+Fr 29 Mar , Austria Wien x BW Linz , Average: 2.46 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 54.55% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 30 Mar , A. Lustenau x Tirol , Average: 2.87 , Home Over 1.5 goals: 81.82% , Away Over 1.5 goals: 63.64% , Home Under 2.5 goals: 36.36% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 30 Mar , Wolfsberger AC x Altach , Average: 2.64 , Home Over 1.5 goals: 90.91% , Away Over 1.5 goals: 72.73% , Home Under 2.5 goals: 36.36% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Su 31 Mar , Hartberg x Rapid Wien , Average: 2.5 , Home Over 1.5 goals: 72.73% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 45.45% , Away Under 2.5 goals: 72.73% , Bundesliga , Austria 
+Su 31 Mar , LASK Linz x A. Klagenfurt , Average: 2.14 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 54.55% , Home Under 2.5 goals: 81.82% , Away Under 2.5 goals: 45.45% , Bundesliga , Austria 
+Su 31 Mar , Sturm Graz x Salzburg , Average: 2.46 , Home Over 1.5 goals: 63.64% , Away Over 1.5 goals: 72.73% , Home Under 2.5 goals: 63.64% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Fr 5 Apr , Altach x Tirol , Average: 2.15 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 63.64% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 6 Apr , Austria Wien x A. Lustenau , Average: 2.04 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 54.55% , Away Under 2.5 goals: 75.0% , Bundesliga , Austria 
+Sa 6 Apr , BW Linz x Wolfsberger AC , Average: 2.46 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 58.33% , Bundesliga , Austria 
+Su 7 Apr , A. Klagenfurt x Hartberg , Average: 2.96 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , Bundesliga , Austria 
+Su 7 Apr , Sturm Graz x LASK Linz , Average: 2.14 , Home Over 1.5 goals: 63.64% , Away Over 1.5 goals: 58.33% , Home Under 2.5 goals: 63.64% , Away Under 2.5 goals: 66.67% , Bundesliga , Austria 
+Su 7 Apr , Salzburg x Rapid Wien , Average: 2.6 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 58.33% , Away Under 2.5 goals: 72.73% , Bundesliga , Austria 
+Fr 12 Apr , LASK Linz x Salzburg , Average: 2.23 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 72.73% , Home Under 2.5 goals: 81.82% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 13 Apr , A. Lustenau x Altach , Average: 2.87 , Home Over 1.5 goals: 81.82% , Away Over 1.5 goals: 72.73% , Home Under 2.5 goals: 36.36% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 13 Apr , Tirol x BW Linz , Average: 3.04 , Home Over 1.5 goals: 91.67% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 58.33% , Away Under 2.5 goals: 54.55% , Bundesliga , Austria 
+Sa 30 Mar , Braunschweig x Elversberg , Average: 2.85 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 38.46% , 2 Bundesliga , Germany 
+Sa 30 Mar , Holstein Kiel x Hansa Rostock , Average: 2.96 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 46.15% , 2 Bundesliga , Germany 
+Sa 30 Mar , Kaiserslautern x Dusseldorf , Average: 3.84 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 7.69% , Away Under 2.5 goals: 23.08% , 2 Bundesliga , Germany 
+Sa 30 Mar , Hertha Berlin x FC Nurnberg , Average: 3.5 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 15.38% , Away Under 2.5 goals: 38.46% , 2 Bundesliga , Germany 
+Su 31 Mar , Greuther Furth x Hamburger SV , Average: 3.16 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , 2 Bundesliga , Germany 
+Su 31 Mar , Magdeburg x Hannover 96 , Average: 3.12 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 38.46% , 2 Bundesliga , Germany 
+Su 31 Mar , Sankt Pauli x Paderborn , Average: 3.04 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 15.38% , 2 Bundesliga , Germany 
+Su 31 Mar , Schalke 04 x Karlsruher SC , Average: 3.56 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 33.33% , 2 Bundesliga , Germany 
+Su 31 Mar , Wehen Wiesbaden x Osnabruck , Average: 2.94 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 23.08% , 2 Bundesliga , Germany 
+Fr 5 Apr , Hansa Rostock x Wehen Wiesbaden , Average: 2.63 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 50.0% , 2 Bundesliga , Germany 
+Fr 5 Apr , Paderborn x Hertha Berlin , Average: 3.19 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 30.77% , 2 Bundesliga , Germany 
+Sa 6 Apr , Elversberg x Magdeburg , Average: 3.0 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 61.54% , 2 Bundesliga , Germany 
+Sa 6 Apr , FC Nurnberg x Holstein Kiel , Average: 2.84 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 53.85% , 2 Bundesliga , Germany 
+Sa 6 Apr , Hamburger SV x Kaiserslautern , Average: 3.34 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 30.77% , 2 Bundesliga , Germany 
+Sa 6 Apr , Karlsruher SC x Sankt Pauli , Average: 3.32 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 21.43% , Away Under 2.5 goals: 46.15% , 2 Bundesliga , Germany 
+Sa 23 Mar , Meppen x Phonix Lubeck , Average: 3.6 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 90.91% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 27.27% , Regionalliga Nord , Germany 
+Sa 23 Mar , Weiche F. x BW Lohne , Average: 3.48 , Home Over 1.5 goals: 90.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 50.0% , Regionalliga Nord , Germany 
+Su 24 Mar , Hamburger SV B x St. Pauli B , Average: 4.14 , Home Over 1.5 goals: 90.0% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 30.77% , Regionalliga Nord , Germany 
+Su 24 Mar , Holstein Kiel B x Oldenburg , Average: 3.41 , Home Over 1.5 goals: 91.67% , Away Over 1.5 goals: 72.73% , Home Under 2.5 goals: 16.67% , Away Under 2.5 goals: 63.64% , Regionalliga Nord , Germany 
+Su 24 Mar , Norderstedt x Eimsbutteler , Average: 3.12 , Home Over 1.5 goals: 91.67% , Away Over 1.5 goals: 58.33% , Home Under 2.5 goals: 41.67% , Away Under 2.5 goals: 41.67% , Regionalliga Nord , Germany 
+Su 24 Mar , Teutonia O. x Jeddeloh , Average: 3.47 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 27.27% , Regionalliga Nord , Germany 
+Su 24 Mar , Drochtersen/A. x Hannover 96 B , Average: 3.48 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 25.0% , Regionalliga Nord , Germany 
+Su 24 Mar , Spelle-Venhaus x Bremer SV , Average: 3.61 , Home Over 1.5 goals: 90.91% , Away Over 1.5 goals: 88.89% , Home Under 2.5 goals: 27.27% , Away Under 2.5 goals: 11.11% , Regionalliga Nord , Germany 
+We 27 Mar , Havelse pp. Kilia KielWe 27 St. Pauli B x Phonix Lubeck , Average: 1.64 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 90.91% , Home Under 2.5 goals: 27.27% , Away Under 2.5 goals: 27.27% , Regionalliga Nord , Germany 
+Th 28 Mar , Spelle-Venhaus x Norderstedt , Average: 4.11 , Home Over 1.5 goals: 90.91% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 27.27% , Away Under 2.5 goals: 8.33% , Regionalliga Nord , Germany 
+Th 28 Mar , Weiche F. x Drochtersen/A. , Average: 3.23 , Home Over 1.5 goals: 90.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 50.0% , Regionalliga Nord , Germany 
+Sa 30 Mar , Oldenburg x Havelse , Average: 3.4 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 41.67% , Regionalliga Nord , Germany 
+Mo 1 Apr , Phonix Lubeck x Hannover 96 B , Average: 4.12 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 30.0% , Away Under 2.5 goals: 25.0% , Regionalliga Nord , Germany 
+Mo 1 Apr , Bremer SV x Jeddeloh , Average: 3.23 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 27.27% , Regionalliga Nord , Germany 
+Fr 5 Apr , Eimsbutteler x Teutonia O. , Average: 3.02 , Home Over 1.5 goals: 90.91% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 27.27% , Away Under 2.5 goals: 58.33% , Regionalliga Nord , Germany 
+Fr 29 Mar , Cadiz x Granada , Average: 2.68 , Home Over 1.5 goals: 64.29% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 57.14% , La Liga , Spain 
+Sa 30 Mar , Getafe x Sevilla FC , Average: 2.4 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 57.14% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 50.0% , La Liga , Spain 
+Sa 30 Mar , Almeria x Osasuna , Average: 2.75 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 57.14% , La Liga , Spain 
+Sa 30 Mar , Valencia x Mallorca , Average: 2.14 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 57.14% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 71.43% , La Liga , Spain 
+Sa 30 Mar , FC Barcelona x Las Palmas , Average: 2.85 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 57.14% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 71.43% , La Liga , Spain 
+Su 31 Mar , Celta Vigo x Rayo Vallecano , Average: 1.86 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 66.67% , La Liga , Spain 
+Su 31 Mar , Girona x Real Betis , Average: 2.93 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 64.29% , La Liga , Spain 
+Su 31 Mar , Alaves x Real Sociedad , Average: 2.34 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 78.57% , Away Under 2.5 goals: 40.0% , La Liga , Spain 
+Su 31 Mar , Real Madrid x Athletic Bilbao , Average: 2.43 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 78.57% , La Liga , Spain 
+Mo 1 Apr , Villarreal x Atletico Madrid , Average: 3.0 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 57.14% , La Liga , Spain 
+Th 4 Apr , Granada x Valencia , Average: 2.9 , Home Over 1.5 goals: 92.86% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 57.14% , Away Under 2.5 goals: 50.0% , La Liga , Spain 
+Fr 12 Apr , Real Betis x Celta Vigo , Average: 2.77 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 33.33% , La Liga , Spain 
+Sa 13 Apr , Atletico Madrid x Girona , Average: 3.13 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 46.67% , La Liga , Spain 
+Sa 13 Apr , Rayo Vallecano x Getafe , Average: 2.89 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 40.0% , La Liga , Spain 
+Sa 13 Apr , Mallorca x Real Madrid , Average: 2.26 , Home Over 1.5 goals: 46.67% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 73.33% , Away Under 2.5 goals: 46.67% , La Liga , Spain 
+-S 23 Mar , Alcorcon x Real Oviedo , Average: 1.8 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 86.67% , Away Under 2.5 goals: 60.0% , La liga 2 , Spain 
+Sa 23 Mar , Cartagena x FC Andorra , Average: 2.2 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 56.25% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 68.75% , La liga 2 , Spain 
+Sa 23 Mar , Villarreal B x Leganes , Average: 2.03 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 46.67% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 73.33% , La liga 2 , Spain 
+Sa 23 Mar , Espanyol x Tenerife , Average: 2.67 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 46.67% , Away Under 2.5 goals: 60.0% , La liga 2 , Spain 
+Su 24 Mar , Amorebieta x Sporting Gijon , Average: 1.75 , Home Over 1.5 goals: 56.25% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 81.25% , Away Under 2.5 goals: 66.67% , La liga 2 , Spain 
+Su 24 Mar , Huesca x Burgos , Average: 2.33 , Home Over 1.5 goals: 46.67% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 40.0% , La liga 2 , Spain 
+Su 24 Mar , Valladolid x Eibar , Average: 2.5 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 40.0% , La liga 2 , Spain 
+Su 24 Mar , Levante x Elche , Average: 2.3 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 80.0% , La liga 2 , Spain 
+Su 24 Mar , Mirandes x Real Zaragoza , Average: 2.33 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 86.67% , La liga 2 , Spain 
+Su 24 Mar , Racing x Eldense , Average: 2.77 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 73.33% , La liga 2 , Spain 
+Mo 25 Mar , Albacete x Racing Ferrol , Average: 2.33 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 60.0% , La liga 2 , Spain 
+Fr 29 Mar , Burgos x Espanyol , Average: 2.25 , Home Over 1.5 goals: 56.25% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 68.75% , Away Under 2.5 goals: 75.0% , La liga 2 , Spain 
+Sa 30 Mar , Valladolid x Levante , Average: 2.13 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 68.75% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 68.75% , La liga 2 , Spain 
+Sa 30 Mar , Eibar x Eldense , Average: 2.51 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 62.5% , Away Under 2.5 goals: 73.33% , La liga 2 , Spain 
+Sa 30 Mar , FC Andorra x Mirandes , Average: 2.16 , Home Over 1.5 goals: 53.33% , Away Over 1.5 goals: 62.5% , Home Under 2.5 goals: 73.33% , Away Under 2.5 goals: 50.0% , La liga 2 , Spain 
++S 30 Mar , Newcastle Utd x West Ham Utd , Average: 3.54 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 28.57% , Away Under 2.5 goals: 21.43% , Premier League , England 
+Sa 30 Mar , Bournemouth x Everton , Average: 2.71 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 57.14% , Premier League , England 
+Sa 30 Mar , Chelsea x Burnley , Average: 3.16 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.86% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 35.71% , Premier League , England 
+Sa 30 Mar , Nottm Forest x Crystal Palace , Average: 2.93 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 42.86% , Premier League , England 
+Sa 30 Mar , Sheffield Utd x Fulham , Average: 3.46 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 21.43% , Away Under 2.5 goals: 35.71% , Premier League , England 
+Sa 30 Mar , Tottenham x Luton Town , Average: 3.65 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 14.29% , Away Under 2.5 goals: 28.57% , Premier League , England 
+Sa 30 Mar , Aston Villa x Wolverhampton , Average: 3.46 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 21.43% , Away Under 2.5 goals: 28.57% , Premier League , England 
+Sa 30 Mar , Brentford x Manchester Utd , Average: 3.21 , Home Over 1.5 goals: 92.86% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 14.29% , Away Under 2.5 goals: 42.86% , Premier League , England 
+Su 31 Mar , Liverpool x Brighton , Average: 3.57 , Home Over 1.5 goals: 92.86% , Away Over 1.5 goals: 92.86% , Home Under 2.5 goals: 28.57% , Away Under 2.5 goals: 28.57% , Premier League , England 
+Su 31 Mar , Manchester City x Arsenal , Average: 3.25 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 42.86% , Premier League , England 
+Tu 2 Apr , Newcastle Utd x Everton , Average: 3.04 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 28.57% , Away Under 2.5 goals: 57.14% , Premier League , England 
+Tu 2 Apr , Nottm Forest x Fulham , Average: 2.96 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 35.71% , Premier League , England 
+Tu 2 Apr , Bournemouth x Crystal Palace , Average: 2.96 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 42.86% , Premier League , England 
+Tu 2 Apr , Burnley x Wolverhampton , Average: 3.2 , Home Over 1.5 goals: 93.33% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 28.57% , Premier League , England 
+Tu 2 Apr , West Ham Utd x Tottenham , Average: 3.46 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 92.86% , Home Under 2.5 goals: 46.67% , Away Under 2.5 goals: 21.43% , Premier League , England 
+Fr 29 Mar , Bristol City x Leicester City , Average: 2.65 , Home Over 1.5 goals: 47.37% , Away Over 1.5 goals: 84.21% , Home Under 2.5 goals: 68.42% , Away Under 2.5 goals: 36.84% , The Championship , England 
+Fr 29 Mar , Millwall x West Brom , Average: 2.44 , Home Over 1.5 goals: 68.42% , Away Over 1.5 goals: 78.95% , Home Under 2.5 goals: 57.89% , Away Under 2.5 goals: 47.37% , The Championship , England 
+Fr 29 Mar , Cardiff City x Sunderland , Average: 2.29 , Home Over 1.5 goals: 73.68% , Away Over 1.5 goals: 63.16% , Home Under 2.5 goals: 57.89% , Away Under 2.5 goals: 57.89% , The Championship , England 
+Fr 29 Mar , Huddersfield x Coventry City , Average: 2.81 , Home Over 1.5 goals: 84.21% , Away Over 1.5 goals: 89.47% , Home Under 2.5 goals: 47.37% , Away Under 2.5 goals: 31.58% , The Championship , England 
+Fr 29 Mar , Hull City x Stoke City , Average: 2.55 , Home Over 1.5 goals: 68.42% , Away Over 1.5 goals: 73.68% , Home Under 2.5 goals: 57.89% , Away Under 2.5 goals: 52.63% , The Championship , England 
+Fr 29 Mar , Norwich City x Plymouth , Average: 2.63 , Home Over 1.5 goals: 78.95% , Away Over 1.5 goals: 68.42% , Home Under 2.5 goals: 47.37% , Away Under 2.5 goals: 52.63% , The Championship , England 
+Fr 29 Mar , Preston x Rotherham , Average: 3.29 , Home Over 1.5 goals: 89.47% , Away Over 1.5 goals: 94.74% , Home Under 2.5 goals: 26.32% , Away Under 2.5 goals: 31.58% , The Championship , England 
+Fr 29 Mar , QP Rangers x Birmingham City , Average: 2.66 , Home Over 1.5 goals: 78.95% , Away Over 1.5 goals: 78.95% , Home Under 2.5 goals: 47.37% , Away Under 2.5 goals: 57.89% , The Championship , England 
+Fr 29 Mar , Sheffield Wed x Swansea City , Average: 2.65 , Home Over 1.5 goals: 73.68% , Away Over 1.5 goals: 84.21% , Home Under 2.5 goals: 52.63% , Away Under 2.5 goals: 36.84% , The Championship , England 
+Fr 29 Mar , Southampton x Middlesbrough , Average: 3.6 , Home Over 1.5 goals: 88.89% , Away Over 1.5 goals: 89.47% , Home Under 2.5 goals: 22.22% , Away Under 2.5 goals: 26.32% , The Championship , England 
+Fr 29 Mar , Blackburn x Ipswich Town , Average: 2.71 , Home Over 1.5 goals: 89.47% , Away Over 1.5 goals: 73.68% , Home Under 2.5 goals: 36.84% , Away Under 2.5 goals: 52.63% , The Championship , England 
+Fr 29 Mar , Watford x Leeds Utd , Average: 2.64 , Home Over 1.5 goals: 78.95% , Away Over 1.5 goals: 63.16% , Home Under 2.5 goals: 42.11% , Away Under 2.5 goals: 63.16% , The Championship , England 
+Mo 1 Apr , Leicester City x Norwich City , Average: 3.12 , Home Over 1.5 goals: 77.78% , Away Over 1.5 goals: 84.21% , Home Under 2.5 goals: 44.44% , Away Under 2.5 goals: 26.32% , The Championship , England 
+Mo 1 Apr , Birmingham City x Preston , Average: 2.54 , Home Over 1.5 goals: 63.16% , Away Over 1.5 goals: 77.78% , Home Under 2.5 goals: 47.37% , Away Under 2.5 goals: 55.56% , The Championship , England 
+Mo 1 Apr , Coventry City x Cardiff City , Average: 2.56 , Home Over 1.5 goals: 77.78% , Away Over 1.5 goals: 73.68% , Home Under 2.5 goals: 55.56% , Away Under 2.5 goals: 47.37% , The Championship , England 
+Sa 23 Mar , Burton Albion x Port Vale , Average: 2.33 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 77.78% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , League One , England 
+Sa 23 Mar , Cambridge Utd x Wycombe , Average: 2.22 , Home Over 1.5 goals: 68.42% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 68.42% , Away Under 2.5 goals: 44.44% , League One , England 
+Sa 23 Mar , Carlisle Utd x Stevenage , Average: 2.63 , Home Over 1.5 goals: 78.95% , Away Over 1.5 goals: 73.68% , Home Under 2.5 goals: 57.89% , Away Under 2.5 goals: 36.84% , League One , England 
+Sa 23 Mar , Charlton x Wigan Athletic , Average: 3.05 , Home Over 1.5 goals: 84.21% , Away Over 1.5 goals: 84.21% , Home Under 2.5 goals: 31.58% , Away Under 2.5 goals: 52.63% , League One , England 
+Sa 23 Mar , Cheltenham x Peterborough , Average: 2.7 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 68.42% , Home Under 2.5 goals: 55.56% , Away Under 2.5 goals: 42.11% , League One , England 
+Sa 23 Mar , Leyton Orient pp. Exeter CitySa 23 Northampton x Derby County , Average: 1.31 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 68.42% , Home Under 2.5 goals: 55.56% , Away Under 2.5 goals: 42.11% , League One , England 
+Sa 23 Mar , Oxford Utd x Lincoln City , Average: 2.58 , Home Over 1.5 goals: 84.21% , Away Over 1.5 goals: 68.42% , Home Under 2.5 goals: 26.32% , Away Under 2.5 goals: 68.42% , League One , England 
+Sa 23 Mar , Portsmouth x Barnsley , Average: 2.94 , Home Over 1.5 goals: 84.21% , Away Over 1.5 goals: 88.89% , Home Under 2.5 goals: 36.84% , Away Under 2.5 goals: 44.44% , League One , England 
+Fr 29 Mar , Barnsley x Cambridge Utd , Average: 2.89 , Home Over 1.5 goals: 85.0% , Away Over 1.5 goals: 73.68% , Home Under 2.5 goals: 30.0% , Away Under 2.5 goals: 42.11% , League One , England 
+Fr 29 Mar , Derby County x Blackpool , Average: 2.42 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 60.0% , League One , England 
+Fr 29 Mar , Exeter City x Charlton , Average: 2.22 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 85.0% , Home Under 2.5 goals: 70.0% , Away Under 2.5 goals: 55.0% , League One , England 
+Fr 29 Mar , Fleetwood x Cheltenham , Average: 2.19 , Home Over 1.5 goals: 70.0% , Away Over 1.5 goals: 52.63% , Home Under 2.5 goals: 55.0% , Away Under 2.5 goals: 68.42% , League One , England 
+Fr 29 Mar , Lincoln City x Leyton Orient , Average: 2.25 , Home Over 1.5 goals: 70.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 55.0% , Away Under 2.5 goals: 60.0% , League One , England 
+Fr 29 Mar , Peterborough x Carlisle Utd , Average: 3.03 , Home Over 1.5 goals: 89.47% , Away Over 1.5 goals: 68.42% , Home Under 2.5 goals: 26.32% , Away Under 2.5 goals: 52.63% , League One , England 
+Fr 29 Mar , Port Vale x Bristol Rovers , Average: 2.71 , Home Over 1.5 goals: 57.89% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 52.63% , Away Under 2.5 goals: 45.0% , League One , England 
+Fr 29 Mar , Gil Vicente x Famalicao , Average: 2.46 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 69.23% , Primeira Liga , Portugal 
+Fr 29 Mar , Benfica x Chaves , Average: 3.0 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 53.85% , Primeira Liga , Portugal 
+Fr 29 Mar , Estrela Amadora x Sporting CP , Average: 3.29 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 25.0% , Primeira Liga , Portugal 
+Sa 30 Mar , Arouca x Farense , Average: 3.16 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , Primeira Liga , Portugal 
+Sa 30 Mar , Guimaraes x Moreirense , Average: 2.54 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 46.15% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 61.54% , Primeira Liga , Portugal 
+Sa 30 Mar , Boavista x Rio Ave , Average: 2.66 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 69.23% , Primeira Liga , Portugal 
+Sa 30 Mar , Estoril x FC Porto , Average: 2.8 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 46.15% , Primeira Liga , Portugal 
+Su 31 Mar , Vizela x Casa Pia , Average: 3.19 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 46.15% , Primeira Liga , Portugal 
+Mo 1 Apr , Portimonense x Sporting Braga , Average: 3.12 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 23.08% , Primeira Liga , Portugal 
+Fr 5 Apr , Farense x Boavista , Average: 2.8 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 46.15% , Primeira Liga , Portugal 
+Sa 6 Apr , Famalicao x Vizela , Average: 2.55 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 53.85% , Primeira Liga , Portugal 
+Sa 6 Apr , Rio Ave x Gil Vicente , Average: 2.76 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 30.77% , Primeira Liga , Portugal 
+Sa 6 Apr , Sporting Braga x Arouca , Average: 2.96 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , Primeira Liga , Portugal 
+Sa 6 Apr , Sporting CP x Benfica , Average: 3.66 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 38.46% , Primeira Liga , Portugal 
+Su 7 Apr , Chaves x Portimonense , Average: 3.5 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 38.46% , Primeira Liga , Portugal 
+Sa 30 Mar , AVS x Santa Clara , Average: 1.89 , Home Over 1.5 goals: 46.15% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 76.92% , Away Under 2.5 goals: 76.92% , Liga Pro , Portugal 
+Sa 30 Mar , Benfica B x Academico Viseu , Average: 2.3 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Sa 30 Mar , Os Belenense x Feirense , Average: 2.16 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Sa 30 Mar , FC Porto B x Penafiel , Average: 2.34 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 38.46% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 76.92% , Liga Pro , Portugal 
+Sa 30 Mar , Mafra x Torreense , Average: 2.08 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 53.85% , Liga Pro , Portugal 
+Sa 30 Mar , Maritimo x Leixoes , Average: 2.43 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 53.85% , Liga Pro , Portugal 
+Sa 30 Mar , Pacos Ferreira x Oliveirense , Average: 2.31 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Sa 30 Mar , Tondela x Vilaverdense , Average: 2.69 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Sa 30 Mar , Uniao de Leiria x Nacional , Average: 2.74 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 46.15% , Liga Pro , Portugal 
+Su 7 Apr , Academico Viseu x FC Porto B , Average: 2.34 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 76.92% , Away Under 2.5 goals: 46.15% , Liga Pro , Portugal 
+Su 7 Apr , Feirense x Tondela , Average: 2.46 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Su 7 Apr , Leixoes x Uniao de Leiria , Average: 1.97 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 84.62% , Away Under 2.5 goals: 61.54% , Liga Pro , Portugal 
+Su 7 Apr , Nacional x AVS , Average: 3.16 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 30.77% , Liga Pro , Portugal 
+Su 7 Apr , Oliveirense x Benfica B , Average: 2.8 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 38.46% , Liga Pro , Portugal 
+Su 7 Apr , Penafiel x Os Belenense , Average: 2.5 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 53.85% , Liga Pro , Portugal 
+Sa 30 Mar , Boca Juniors x San Lorenzo , Average: 2.6 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Central Cordoba x Racing Club , Average: 2.1 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Defensa y J. x Estudiantes , Average: 2.4 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Gimnasia x D. Riestra , Average: 2.4 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 80.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Huracan x River Plate , Average: 1.8 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , I. Rivadavia x Banfield , Average: 2.5 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Independiente x A. Tucuman , Average: 1.9 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Instituto x Argentinos Jrs , Average: 2.08 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Lanus x Union Santa Fe , Average: 1.8 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Platense x Godoy Cruz , Average: 1.18 , Home Over 1.5 goals: 20.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Rosario Central x Barracas C. , Average: 1.32 , Home Over 1.5 goals: 25.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Sarmiento x Newells , Average: 2.4 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 80.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , T. de Cordoba x Velez Sarsfield , Average: 3.1 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 40.0% , Liga Profesional Argentina , Argentina 
+Sa 30 Mar , Tigre x Belgrano , Average: 2.2 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 60.0% , Liga Profesional Argentina , Argentina 
+Sa 6 Apr , A. Tucuman x Gimnasia , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , Liga Profesional Argentina , Argentina 
+Fr 29 Mar , Beerschot x KRC Genk B , Average: 2.88 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 23.08% , Challenger Pro League , Belgium 
+Fr 29 Mar , Club Brugge B x Dender , Average: 2.96 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 46.15% , Challenger Pro League , Belgium 
+Sa 30 Mar , Anderlecht B x Francs Borains , Average: 2.92 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 30.77% , Challenger Pro League , Belgium 
+Sa 30 Mar , Deinze x Zulte-Waregem , Average: 3.16 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 30.77% , Challenger Pro League , Belgium 
+Sa 30 Mar , Standard L. B x Lierse K. , Average: 3.22 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 23.08% , Challenger Pro League , Belgium 
+Su 31 Mar , Seraing x Oostende , Average: 2.92 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 15.38% , Away Under 2.5 goals: 69.23% , Challenger Pro League , Belgium 
+Su 31 Mar , Patro Eisden x Lommel SK , Average: 2.92 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 30.77% , Challenger Pro League , Belgium 
+Su 31 Mar , RFC Liege x Beveren , Average: 2.35 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 53.85% , Challenger Pro League , Belgium 
+Fr 5 Apr , Beveren x Anderlecht B , Average: 2.96 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 53.85% , Challenger Pro League , Belgium 
+Fr 5 Apr , Zulte-Waregem x Patro Eisden , Average: 2.0 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 38.46% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 61.54% , Challenger Pro League , Belgium 
+Sa 6 Apr , Lierse K. x Club Brugge B , Average: 3.2 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 30.77% , Challenger Pro League , Belgium 
+Sa 6 Apr , Dender x Deinze , Average: 2.66 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 53.85% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 46.15% , Challenger Pro League , Belgium 
+Sa 6 Apr , Lommel SK x Seraing , Average: 2.38 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 61.54% , Challenger Pro League , Belgium 
+Su 7 Apr , KRC Genk B x Standard L. B , Average: 3.16 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 38.46% , Challenger Pro League , Belgium 
+Su 7 Apr , Oostende x Beerschot , Average: 2.61 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 38.46% , Challenger Pro League , Belgium 
+Sa 30 Mar , Audax Italiano x Coquimbo Unido , Average: 3.67 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 66.67% , Primera Chile , Chile 
+Sa 30 Mar , Cobreloa x U. de Chile , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Sa 30 Mar , Cobresal x Palestino , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Primera Chile , Chile 
+Sa 30 Mar , Colo-Colo x Everton , Average: 2.58 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 33.33% , Primera Chile , Chile 
+Sa 30 Mar , Copiapo x Union La Calera , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Primera Chile , Chile 
+Sa 30 Mar , Huachipato x U. Catolica , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Primera Chile , Chile 
+Sa 30 Mar , OHiggins x D. Iquique , Average: 3.08 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 150.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 0.0% , Primera Chile , Chile 
+Sa 30 Mar , Union Espanola x Nublense , Average: 2.67 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Sa 6 Apr , Copiapo x D. Iquique , Average: 4.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 150.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Primera Chile , Chile 
+Sa 6 Apr , Coquimbo Unido x Cobreloa , Average: 2.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Sa 6 Apr , Everton x Audax Italiano , Average: 3.38 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Sa 6 Apr , Nublense x Colo-Colo , Average: 1.33 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Primera Chile , Chile 
+Sa 6 Apr , Palestino x Huachipato , Average: 2.33 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Primera Chile , Chile 
+Sa 6 Apr , U. Catolica x Cobresal , Average: 2.17 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Sa 6 Apr , U. de Chile x Union Espanola , Average: 1.75 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Primera Chile , Chile 
+Fr 29 Mar , Sichuan Jiuniu x Cangzhou , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0% , Super League , China 
+Sa 30 Mar , Wuhan Three T. x Beijing Guoan , Average: 2.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Sa 30 Mar , Chengdu x Nantong Zhiyun , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Sa 30 Mar , Qingdao Y. I. x Qingdao Jonoon , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Sa 30 Mar , Shanghai Port x Henan SL , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Su 31 Mar , Changchun Yatai x Tianjin T. , Average: 3.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , Super League , China 
+Su 31 Mar , S. Taishan x S. Shenhua , Average: 2.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Su 31 Mar , Meizhou Hakka x Zhejiang , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , Super League , China 
+Th 4 Apr , Wuhan Three T. x Cangzhou , Average: 4.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , Super League , China 
+Fr 5 Apr , Changchun Yatai x S. Shenhua , Average: 2.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Fr 5 Apr , Henan SL x Sichuan Jiuniu , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Fr 5 Apr , Beijing Guoan x Shanghai Port , Average: 0.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Fr 5 Apr , Qingdao Jonoon x S. Taishan , Average: 1.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , Super League , China 
+Fr 5 Apr , Nantong Zhiyun x Meizhou Hakka , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Super League , China 
+Sa 6 Apr , Tianjin T. x Chengdu , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Super League , China 
+Sa 30 Mar , OFI Crete x Atromitos , Average: 2.73 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 38.46% , Super League , Greece 
+Sa 30 Mar , Panserraikos x Asteras T. , Average: 2.73 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 30.77% , Super League , Greece 
+Sa 30 Mar , PAS Giannina x Panaitolikos , Average: 2.5 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 38.46% , Super League , Greece 
+Sa 30 Mar , Volos x Kifisia , Average: 3.27 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 23.08% , Super League , Greece 
+Su 31 Mar , Panathinaikos x PAOK , Average: 3.39 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , Super League , Greece 
+Su 31 Mar , AEK Athens x Olympiakos , Average: 2.84 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 53.85% , Super League , Greece 
+Fr 22 Mar , Patriotas x Junior , Average: 1.9 , Home Over 1.5 goals: 20.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Liga Betplay Dimayor , Colombia 
+Sa 23 Mar , La Equidad x I. Medelin , Average: 2.37 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 20.0% , Liga Betplay Dimayor , Colombia 
+Sa 23 Mar , Millonarios x Deportivo Cali , Average: 2.42 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Liga Betplay Dimayor , Colombia 
+Sa 23 Mar , Deportes Tolima x D. Pereira , Average: 2.37 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 40.0% , Liga Betplay Dimayor , Colombia 
+Sa 23 Mar , Jaguares de C. x Fortaleza CEIF , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Liga Betplay Dimayor , Colombia 
+Su 24 Mar , America de Cali x Boyaca Chico , Average: 2.24 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 83.33% , Away Under 2.5 goals: 40.0% , Liga Betplay Dimayor , Colombia 
+Su 24 Mar , A. Bucaramanga x Envigado , Average: 2.0 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 66.67% , Liga Betplay Dimayor , Colombia 
+Su 24 Mar , A. Nacional x Deportivo Pasto , Average: 1.57 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 100.0% , Liga Betplay Dimayor , Colombia 
+Mo 25 Mar , R. Aguilas x Santa Fe , Average: 1.75 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 83.33% , Liga Betplay Dimayor , Colombia 
+Mo 25 Mar , Once Caldas x A. Petrolera , Average: 2.25 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 50.0% , Liga Betplay Dimayor , Colombia 
+We 27 Mar , A. Bucaramanga x R. Aguilas , Average: 1.58 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 16.67% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 83.33% , Liga Betplay Dimayor , Colombia 
+We 27 Mar , A. Nacional x Jaguares de C. , Average: 2.17 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 60.0% , Liga Betplay Dimayor , Colombia 
+Th 28 Mar , Millonarios x Santa Fe , Average: 1.92 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 83.33% , Liga Betplay Dimayor , Colombia 
+Fr 29 Mar , A. Petrolera x Deportes Tolima , Average: 2.5 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Liga Betplay Dimayor , Colombia 
+Sa 30 Mar , Junior x La Equidad , Average: 1.83 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Liga Betplay Dimayor , Colombia 
+Fr 29 Mar , Istra x Lok. Zagreb , Average: 2.29 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 42.86% , 1 HNL League , Croatia 
+Fr 29 Mar , Slaven Belupo x Osijek , Average: 2.94 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 33.33% , 1 HNL League , Croatia 
+Sa 30 Mar , Varazdin x Gorica , Average: 1.84 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 46.15% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 76.92% , 1 HNL League , Croatia 
+Sa 30 Mar , Rudes x Rijeka , Average: 2.33 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 69.23% , 1 HNL League , Croatia 
+Sa 30 Mar , Hajduk Split x Dinamo Zagreb , Average: 2.58 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 41.67% , 1 HNL League , Croatia 
+Fr 5 Apr , Rudes x Osijek , Average: 3.04 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , 1 HNL League , Croatia 
+Sa 6 Apr , Lok. Zagreb x Gorica , Average: 2.08 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 46.15% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 76.92% , 1 HNL League , Croatia 
+Sa 6 Apr , Slaven Belupo x Varazdin , Average: 2.5 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 61.54% , 1 HNL League , Croatia 
+Su 7 Apr , Dinamo Zagreb x Istra , Average: 2.54 , Home Over 1.5 goals: 64.29% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 42.86% , 1 HNL League , Croatia 
+Su 7 Apr , Rijeka x Hajduk Split , Average: 2.64 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 21.43% , Away Under 2.5 goals: 71.43% , 1 HNL League , Croatia 
+Fr 12 Apr , Rudes x Slaven Belupo , Average: 3.22 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 21.43% , 1 HNL League , Croatia 
+Sa 13 Apr , Varazdin x Lok. Zagreb , Average: 2.29 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 42.86% , 1 HNL League , Croatia 
+Sa 13 Apr , Gorica x Dinamo Zagreb , Average: 2.83 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 41.67% , 1 HNL League , Croatia 
+Su 14 Apr , Hajduk Split x Osijek , Average: 2.79 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 33.33% , 1 HNL League , Croatia 
+Su 14 Apr , Istra x Rijeka , Average: 2.12 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 69.23% , 1 HNL League , Croatia 
+Th 21 Mar , Tecnico U. x I. del Valle , Average: 1.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Liga Pro , Ecuador 
+Fr 22 Mar , Emelec x Delfin , Average: 1.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , Liga Pro , Ecuador 
+Sa 23 Mar , Mushuc Runa x U. Catolica , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Liga Pro , Ecuador 
+Sa 23 Mar , Imbabura x Cumbaya , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Liga Pro , Ecuador 
+Sa 23 Mar , El Nacional x D. Cuenca , Average: 2.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Liga Pro , Ecuador 
+Su 24 Mar , Tecnico U. x Macara , Average: 1.75 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Liga Pro , Ecuador 
+Su 24 Mar , I. del Valle x Aucas , Average: 3.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Liga Pro , Ecuador 
+Mo 25 Mar , Barcelona SC pp. LDU QuitoMo 25 Delfin x Libertad , Average: 1.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Liga Pro , Ecuador 
+Tu 26 Mar , Orense x Emelec , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Liga Pro , Ecuador 
+Sa 6 Apr , Cumbaya x El Nacional , Average: 3.58 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 33.33% , Liga Pro , Ecuador 
+Sa 6 Apr , D. Cuenca x Delfin , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Liga Pro , Ecuador 
+Sa 6 Apr , Emelec x I. del Valle , Average: 0.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Liga Pro , Ecuador 
+Sa 6 Apr , LDU Quito x Imbabura , Average: 2.83 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 33.33% , Liga Pro , Ecuador 
+Sa 6 Apr , Libertad x Tecnico U. , Average: 2.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Liga Pro , Ecuador 
+Sa 6 Apr , Macara x Barcelona SC , Average: 3.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Liga Pro , Ecuador 
+Fr 29 Mar , Lille x Lens , Average: 2.21 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 58.33% , Away Under 2.5 goals: 61.54% , Ligue 1 , France 
+Sa 30 Mar , Metz x Monaco , Average: 2.92 , Home Over 1.5 goals: 41.67% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 58.33% , Away Under 2.5 goals: 23.08% , Ligue 1 , France 
+Sa 30 Mar , Lyon x Reims , Average: 2.92 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 30.77% , Ligue 1 , France 
+Su 31 Mar , Lorient x Brest , Average: 2.69 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 61.54% , Ligue 1 , France 
+Su 31 Mar , Clermont x Toulouse , Average: 2.27 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 53.85% , Ligue 1 , France 
+Su 31 Mar , Le Havre x Montpellier , Average: 2.5 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 41.67% , Ligue 1 , France 
+Su 31 Mar , Nice x Nantes , Average: 2.01 , Home Over 1.5 goals: 53.85% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 76.92% , Away Under 2.5 goals: 50.0% , Ligue 1 , France 
+Su 31 Mar , Strasbourg x Rennes , Average: 2.27 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 66.67% , Ligue 1 , France 
+Su 31 Mar , Marseille x Paris SG , Average: 2.66 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 53.85% , Ligue 1 , France 
+Fr 5 Apr , Lille x Marseille , Average: 2.63 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 58.33% , Away Under 2.5 goals: 61.54% , Ligue 1 , France 
+Sa 6 Apr , Lens x Le Havre , Average: 2.56 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 42.86% , Ligue 1 , France 
+Sa 6 Apr , Paris SG x Clermont , Average: 3.04 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 15.38% , Away Under 2.5 goals: 38.46% , Ligue 1 , France 
+Su 7 Apr , Monaco x Rennes , Average: 2.31 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 66.67% , Ligue 1 , France 
+Su 7 Apr , Nantes x Lyon , Average: 2.58 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 46.15% , Ligue 1 , France 
+Su 7 Apr , Brest x Metz , Average: 2.44 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 50.0% , Ligue 1 , France 
+Sa 30 Mar , AC Ajaccio x Auxerre , Average: 2.5 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 42.86% , Ligue 2 , France 
+Sa 30 Mar , Concarneau x Angers , Average: 2.67 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 57.14% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 71.43% , Ligue 2 , France 
+Sa 30 Mar , Grenoble x Guingamp , Average: 2.32 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 46.67% , Home Under 2.5 goals: 57.14% , Away Under 2.5 goals: 60.0% , Ligue 2 , France 
+Sa 30 Mar , Quevilly Rouen x Caen , Average: 2.63 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 33.33% , Ligue 2 , France 
+Sa 30 Mar , USL Dunkerque x Annecy , Average: 2.42 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 35.71% , Ligue 2 , France 
+Sa 30 Mar , Valenciennes x Saint-Etienne , Average: 1.93 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 42.86% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 64.29% , Ligue 2 , France 
+Sa 30 Mar , Amiens x Pau FC , Average: 2.19 , Home Over 1.5 goals: 53.33% , Away Over 1.5 goals: 78.57% , Home Under 2.5 goals: 73.33% , Away Under 2.5 goals: 50.0% , Ligue 2 , France 
+Sa 30 Mar , Bordeaux x Paris FC , Average: 2.04 , Home Over 1.5 goals: 42.86% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 71.43% , Ligue 2 , France 
+Sa 30 Mar , Laval x SC Bastia , Average: 2.28 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 71.43% , Ligue 2 , France 
+Sa 30 Mar , Troyes x Rodez Aveyron , Average: 2.89 , Home Over 1.5 goals: 78.57% , Away Over 1.5 goals: 93.33% , Home Under 2.5 goals: 35.71% , Away Under 2.5 goals: 40.0% , Ligue 2 , France 
+Sa 6 Apr , Angers x Laval , Average: 2.27 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 64.29% , Ligue 2 , France 
+Sa 6 Apr , Annecy x Valenciennes , Average: 2.26 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 46.67% , Away Under 2.5 goals: 53.33% , Ligue 2 , France 
+Sa 6 Apr , Auxerre x Troyes , Average: 2.33 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 53.33% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 66.67% , Ligue 2 , France 
+Sa 6 Apr , Caen x Bordeaux , Average: 2.37 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 71.43% , Away Under 2.5 goals: 40.0% , Ligue 2 , France 
+Sa 6 Apr , Guingamp x Amiens , Average: 2.22 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 57.14% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 78.57% , Ligue 2 , France 
+Fr 29 Mar , Puskas Akad. x MOL Fehervar , Average: 2.52 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 53.85% , NB 1 , Hungary 
+Sa 30 Mar , Kisvarda x Debrecen , Average: 2.42 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 41.67% , Away Under 2.5 goals: 50.0% , NB 1 , Hungary 
+Sa 30 Mar , MTK x Kecskemeti TE , Average: 3.0 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 41.67% , NB 1 , Hungary 
+Sa 30 Mar , Zalaegerszegi x Diosgyor VTK , Average: 3.55 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 90.91% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 18.18% , NB 1 , Hungary 
+Su 31 Mar , Paks x Ujpest , Average: 3.09 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 91.67% , Home Under 2.5 goals: 41.67% , Away Under 2.5 goals: 25.0% , NB 1 , Hungary 
+Su 31 Mar , Mezokovesd x Ferencvaros , Average: 3.62 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 25.0% , NB 1 , Hungary 
+Fr 5 Apr , Ujpest x Zalaegerszegi , Average: 3.31 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 38.46% , NB 1 , Hungary 
+Sa 6 Apr , MOL Fehervar x Mezokovesd , Average: 3.03 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 61.54% , NB 1 , Hungary 
+Sa 6 Apr , Diosgyor VTK x Kisvarda , Average: 2.96 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 38.46% , NB 1 , Hungary 
+Sa 6 Apr , Debrecen x MTK , Average: 3.29 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 25.0% , NB 1 , Hungary 
+Su 7 Apr , Ferencvaros x Paks , Average: 2.75 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 61.54% , NB 1 , Hungary 
+Su 7 Apr , Kecskemeti TE x Puskas Akad. , Average: 2.77 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 46.15% , NB 1 , Hungary 
+We 10 Apr , Ferencvaros x Diosgyor VTK , Average: 3.05 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 90.91% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 18.18% , NB 1 , Hungary 
+Sa 13 Apr , Kisvarda x Ujpest , Average: 2.75 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 91.67% , Home Under 2.5 goals: 41.67% , Away Under 2.5 goals: 25.0% , NB 1 , Hungary 
+Sa 13 Apr , Debrecen x Kecskemeti TE , Average: 3.08 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 41.67% , NB 1 , Hungary 
+Fr 29 Mar , Derry City x Galway Utd , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Premier Division , Ireland 
+Fr 29 Mar , Drogheda Utd x St. Patricks , Average: 3.33 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 33.33% , Premier Division , Ireland 
+Fr 29 Mar , Shamrock Rovers x Bohemians , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Premier Division , Ireland 
+Fr 29 Mar , Shelbourne x Dundalk , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Premier Division , Ireland 
+Fr 29 Mar , Waterford x Sligo Rovers , Average: 3.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Premier Division , Ireland 
+Mo 1 Apr , Dundalk x Drogheda Utd , Average: 2.33 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 33.33% , Premier Division , Ireland 
+Mo 1 Apr , Shelbourne x Derry City , Average: 2.17 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , Premier Division , Ireland 
+Mo 1 Apr , St. Patricks x Sligo Rovers , Average: 3.08 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 0.0% , Premier Division , Ireland 
+Mo 1 Apr , Waterford x Shamrock Rovers , Average: 2.17 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 66.67% , Premier Division , Ireland 
+Mo 1 Apr , Galway Utd x Bohemians , Average: 1.62 , Home Over 1.5 goals: 25.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 50.0% , Premier Division , Ireland 
+Fr 5 Apr , Bohemians x Waterford , Average: 2.88 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 25.0% , Premier Division , Ireland 
+Fr 5 Apr , Derry City x Dundalk , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , Premier Division , Ireland 
+Fr 5 Apr , Drogheda Utd x Shelbourne , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 75.0% , Premier Division , Ireland 
+Fr 5 Apr , St. Patricks x Shamrock Rovers , Average: 1.5 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Premier Division , Ireland 
+Sa 6 Apr , Sligo Rovers x Galway Utd , Average: 1.38 , Home Over 1.5 goals: 25.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 100.0% , Premier Division , Ireland 
+Su 24 Mar , Juarez x Puebla , Average: 2.6 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 20.0% , Liga MX , Mexico 
+Sa 30 Mar , Puebla x Tigres , Average: 2.96 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 42.86% , Liga MX , Mexico 
+Sa 30 Mar , Mazatlan x Tijuana , Average: 3.06 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 50.0% , Liga MX , Mexico 
+Sa 30 Mar , CF America x A. San Luis , Average: 2.6 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 33.33% , Liga MX , Mexico 
+Su 31 Mar , Monterrey x Guadalajara , Average: 2.44 , Home Over 1.5 goals: 85.71% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 66.67% , Liga MX , Mexico 
+Su 31 Mar , Pachuca x Toluca , Average: 3.92 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Liga MX , Mexico 
+Su 31 Mar , Pumas UNAM x Cruz Azul , Average: 3.05 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 16.67% , Away Under 2.5 goals: 40.0% , Liga MX , Mexico 
+Su 31 Mar , Atlas x Queretaro , Average: 2.25 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 42.86% , Away Under 2.5 goals: 80.0% , Liga MX , Mexico 
+Mo 1 Apr , Necaxa x Club Leon , Average: 3.0 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , Liga MX , Mexico 
+Mo 1 Apr , Juarez x Santos Laguna , Average: 2.46 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 42.86% , Liga MX , Mexico 
+Sa 6 Apr , Mazatlan x Pumas UNAM , Average: 2.9 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 16.67% , Liga MX , Mexico 
+Sa 6 Apr , Tijuana x Necaxa , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 83.33% , Away Under 2.5 goals: 16.67% , Liga MX , Mexico 
+Sa 6 Apr , Club Leon x Queretaro , Average: 2.6 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 80.0% , Liga MX , Mexico 
+Su 7 Apr , Tigres x Pachuca , Average: 3.07 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 33.33% , Liga MX , Mexico 
+Su 7 Apr , Guadalajara x Puebla , Average: 2.92 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 20.0% , Liga MX , Mexico 
+Sa 30 Mar , NEC Nijmegen x PSV Eindhoven , Average: 3.65 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 23.08% , Eredivisie , Netherlands 
+Sa 30 Mar , Sparta x Fortuna Sittard , Average: 2.85 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 38.46% , Eredivisie , Netherlands 
+Sa 30 Mar , Go Ahead Eagles x Excelsior , Average: 3.77 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 7.69% , Eredivisie , Netherlands 
+Sa 30 Mar , RKC Waalwijk x Heerenveen , Average: 3.27 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 30.77% , Eredivisie , Netherlands 
+Sa 30 Mar , AZ Alkmaar x Vitesse Arnhem , Average: 3.42 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 23.08% , Eredivisie , Netherlands 
+Su 31 Mar , PEC Zwolle x Ajax Amsterdam , Average: 3.54 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 15.38% , Eredivisie , Netherlands 
+Su 31 Mar , FC Twente x Heracles Almelo , Average: 3.24 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 30.77% , Eredivisie , Netherlands 
+Su 31 Mar , Feyenoord x FC Utrecht , Average: 2.42 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 76.92% , Eredivisie , Netherlands 
+Su 31 Mar , Almere City x FC Volendam , Average: 3.08 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 30.77% , Eredivisie , Netherlands 
+Tu 2 Apr , Vitesse Arnhem x Sparta , Average: 2.3 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 69.23% , Away Under 2.5 goals: 53.85% , Eredivisie , Netherlands 
+Tu 2 Apr , Excelsior x PSV Eindhoven , Average: 3.5 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 38.46% , Away Under 2.5 goals: 23.08% , Eredivisie , Netherlands 
+Tu 2 Apr , Fortuna Sittard x NEC Nijmegen , Average: 3.38 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 30.77% , Away Under 2.5 goals: 30.77% , Eredivisie , Netherlands 
+We 3 Apr , Heracles Almelo x AZ Alkmaar , Average: 3.12 , Home Over 1.5 goals: 92.31% , Away Over 1.5 goals: 84.62% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 46.15% , Eredivisie , Netherlands 
+We 3 Apr , FC Utrecht x PEC Zwolle , Average: 3.31 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 30.77% , Eredivisie , Netherlands 
+We 3 Apr , Heerenveen x FC Twente , Average: 2.92 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 23.08% , Away Under 2.5 goals: 46.15% , Eredivisie , Netherlands 
+Sa 23 Mar , Cambuur x Telstar , Average: 3.47 , Home Over 1.5 goals: 93.33% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 13.33% , Away Under 2.5 goals: 53.33% , Eerste Divisie , Netherlands 
+Sa 23 Mar , MVV Maastricht x FC Den Bosch , Average: 2.99 , Home Over 1.5 goals: 93.33% , Away Over 1.5 goals: 64.29% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 42.86% , Eerste Divisie , Netherlands 
+Sa 23 Mar , Roda JC x NAC Breda , Average: 3.17 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 40.0% , Eerste Divisie , Netherlands 
+Sa 23 Mar , Willem II x VVV , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 40.0% , Eerste Divisie , Netherlands 
+Fr 29 Mar , ADO Den Haag x FC Groningen , Average: 3.29 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 13.33% , Away Under 2.5 goals: 42.86% , Eerste Divisie , Netherlands 
+Fr 29 Mar , De Graafschap x Jong AZ , Average: 2.7 , Home Over 1.5 goals: 73.33% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 53.33% , Away Under 2.5 goals: 26.67% , Eerste Divisie , Netherlands 
+Fr 29 Mar , FC Den Bosch x FC Dordrecht , Average: 3.1 , Home Over 1.5 goals: 68.75% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 37.5% , Away Under 2.5 goals: 46.67% , Eerste Divisie , Netherlands 
+Fr 29 Mar , FC Eindhoven x Cambuur , Average: 3.17 , Home Over 1.5 goals: 86.67% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 26.67% , Eerste Divisie , Netherlands 
+Fr 29 Mar , FC Emmen x Jong Ajax , Average: 3.19 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 93.75% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 25.0% , Eerste Divisie , Netherlands 
+Fr 29 Mar , Helmond Sport x Willem II , Average: 2.77 , Home Over 1.5 goals: 81.25% , Away Over 1.5 goals: 73.33% , Home Under 2.5 goals: 37.5% , Away Under 2.5 goals: 66.67% , Eerste Divisie , Netherlands 
+Fr 29 Mar , NAC Breda x MVV Maastricht , Average: 3.1 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 86.67% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 20.0% , Eerste Divisie , Netherlands 
+Fr 29 Mar , Telstar x Jong Utrecht , Average: 3.12 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 87.5% , Home Under 2.5 goals: 46.67% , Away Under 2.5 goals: 31.25% , Eerste Divisie , Netherlands 
+Fr 29 Mar , VVV x TOP Oss , Average: 2.79 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 68.75% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 56.25% , Eerste Divisie , Netherlands 
+Mo 1 Apr , FC Emmen x FC Groningen , Average: 2.71 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 64.29% , Away Under 2.5 goals: 42.86% , Eerste Divisie , Netherlands 
+Mo 1 Apr , Jong PSV x Roda JC , Average: 2.82 , Home Over 1.5 goals: 81.25% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 66.67% , Eerste Divisie , Netherlands 
+Mo 18 Mar , S. Ameliano 2 - 1 Sol de c(2-0)+3+Fr 29 Mar2 de Mayo x Guarani , Average: 1.25 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 29 Mar , Cerro Porteno x Nacional , Average: 1.7 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 80.0% , Primera Paraguay , Paraguay 
+Fr 29 Mar , Libertad x Olimpia , Average: 2.88 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 29 Mar , S. Trinidense x S. Luqueno , Average: 2.5 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 29 Mar , Sol de America x G. Caballero , Average: 2.88 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 75.0% , Primera Paraguay , Paraguay 
+Fr 29 Mar , Tacuary x S. Ameliano , Average: 1.88 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 75.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , 2 de Mayo x S. Luqueno , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , Libertad x Guarani , Average: 2.88 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , Nacional x S. Ameliano , Average: 2.62 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 75.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , S. Trinidense x Cerro Porteno , Average: 2.65 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 60.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , Sol de America x Olimpia , Average: 2.88 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 50.0% , Primera Paraguay , Paraguay 
+Fr 5 Apr , Tacuary x G. Caballero , Average: 2.12 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 75.0% , Primera Paraguay , Paraguay 
+Fr 12 Apr , Cerro Porteno x S. Ameliano , Average: 1.7 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 75.0% , Primera Paraguay , Paraguay 
+Fr 12 Apr , G. Caballero x Nacional , Average: 2.33 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 80.0% , Primera Paraguay , Paraguay 
+Fr 12 Apr , Guarani x Sol de America , Average: 2.17 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 66.67% , Primera Paraguay , Paraguay 
+Th 28 Mar , D. Garcilaso x Comerciantes U. , Average: 3.33 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 25.0% , Liga 1 , Peru 
+Fr 29 Mar , Alianza Lima x Santa Rosa , Average: 3.79 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 0.0% , Liga 1 , Peru 
+Sa 30 Mar , Cusco x Union Comercio , Average: 2.21 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 25.0% , Liga 1 , Peru 
+Sa 30 Mar , Atletico Grau x Carlos Manucci , Average: 3.12 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 0.0% , Liga 1 , Peru 
+Sa 30 Mar , FBC Melgar x Cienciano , Average: 2.79 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 66.67% , Liga 1 , Peru 
+Su 31 Mar , Cesar Vallejo x Universitario , Average: 2.96 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 50.0% , Liga 1 , Peru 
+Su 31 Mar , Sport Huancayo x ADT , Average: 3.62 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 25.0% , Liga 1 , Peru 
+Su 31 Mar , Sport Boys x Alianza A. , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 75.0% , Liga 1 , Peru 
+Su 31 Mar , Cajamarca x S. Cristal , Average: 3.12 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Liga 1 , Peru 
+Th 4 Apr , ADT x D. Garcilaso , Average: 2.48 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 60.0% , Liga 1 , Peru 
+Th 4 Apr , Atletico Grau x Sport Boys , Average: 2.25 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 75.0% , Liga 1 , Peru 
+Th 4 Apr , Carlos Manucci x Alianza Lima , Average: 2.98 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 50.0% , Liga 1 , Peru 
+Th 4 Apr , Cienciano x Cajamarca , Average: 2.83 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 75.0% , Liga 1 , Peru 
+Th 4 Apr , Comerciantes U. x Cusco , Average: 3.25 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 40.0% , Liga 1 , Peru 
+Th 4 Apr , S. Cristal x Sport Huancayo , Average: 3.5 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 75.0% , Liga 1 , Peru 
+Sa 30 Mar , Rakow C. x Ruch Chorzow , Average: 2.88 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 41.67% , Ekstraklasa , Polland 
+Sa 30 Mar , Jagiellonia x LKS Lodz , Average: 3.04 , Home Over 1.5 goals: 91.67% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 41.67% , Ekstraklasa , Polland 
+Sa 30 Mar , Piast Gliwice x Slask Wroclaw , Average: 2.25 , Home Over 1.5 goals: 58.33% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 58.33% , Ekstraklasa , Polland 
+Sa 30 Mar , Pogon Szczecin x Cracovia Krakow , Average: 2.79 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 91.67% , Ekstraklasa , Polland 
+Mo 1 Apr , Puszcza Niepolo x Radomiak Radom , Average: 2.88 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Ekstraklasa , Polland 
+Mo 1 Apr , Stal Mielec x Lech Poznan , Average: 2.62 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 41.67% , Away Under 2.5 goals: 50.0% , Ekstraklasa , Polland 
+Mo 1 Apr , Widzew Lodz x Korona Kielce , Average: 2.21 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 66.67% , Ekstraklasa , Polland 
+Mo 1 Apr , Gornik Zabrze x Legia Warsaw , Average: 2.29 , Home Over 1.5 goals: 58.33% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 66.67% , Ekstraklasa , Polland 
+Tu 2 Apr , Warta Poznan x Zaglebie Lubin , Average: 2.46 , Home Over 1.5 goals: 58.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 41.67% , Ekstraklasa , Polland 
+Fr 5 Apr , Cracovia Krakow x LKS Lodz , Average: 3.02 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 46.15% , Away Under 2.5 goals: 41.67% , Ekstraklasa , Polland 
+Fr 5 Apr , Radomiak Radom x Rakow C. , Average: 2.8 , Home Over 1.5 goals: 76.92% , Away Over 1.5 goals: 92.31% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 46.15% , Ekstraklasa , Polland 
+Sa 6 Apr , Korona Kielce x Stal Mielec , Average: 2.77 , Home Over 1.5 goals: 84.62% , Away Over 1.5 goals: 69.23% , Home Under 2.5 goals: 61.54% , Away Under 2.5 goals: 46.15% , Ekstraklasa , Polland 
+Sa 6 Apr , Ruch Chorzow x Puszcza Niepolo , Average: 2.84 , Home Over 1.5 goals: 69.23% , Away Over 1.5 goals: 76.92% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 53.85% , Ekstraklasa , Polland 
+Sa 6 Apr , Slask Wroclaw x Warta Poznan , Average: 2.27 , Home Over 1.5 goals: 61.54% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 53.85% , Away Under 2.5 goals: 61.54% , Ekstraklasa , Polland 
+Su 7 Apr , Widzew Lodz x Piast Gliwice , Average: 2.29 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 61.54% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 69.23% , Ekstraklasa , Polland 
+Fr 29 Mar , Kuressaare x Tallinna Kalev , Average: 5.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Sa 30 Mar , Vaprus x Nomme Kalju , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Meistriliiga , Estonia 
+Sa 30 Mar , Narva Trans x Nomme Utd , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Meistriliiga , Estonia 
+Su 31 Mar , Tammeka x Flora , Average: 2.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Su 31 Mar , Levadia x Paide , Average: 4.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Fr 5 Apr , Nomme Utd x Tammeka , Average: 1.75 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Meistriliiga , Estonia 
+Sa 6 Apr , Nomme Kalju x Levadia , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Meistriliiga , Estonia 
+Sa 6 Apr , Paide x Kuressaare , Average: 4.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Sa 6 Apr , Flora x Narva Trans , Average: 3.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Su 7 Apr , Tallinna Kalev x Vaprus , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Meistriliiga , Estonia 
+Sa 13 Apr , Tammeka x Kuressaare , Average: 3.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Sa 13 Apr , Levadia x Nomme Utd , Average: 4.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Meistriliiga , Estonia 
+Sa 13 Apr , Narva Trans x Tallinna Kalev , Average: 4.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Su 14 Apr , Vaprus x Flora , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Su 14 Apr , Nomme Kalju x Paide , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Meistriliiga , Estonia 
+Sa 30 Mar , Incheon Utd x Daejeon Citizen , Average: 2.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , K-League-1 , South Korea 
+Sa 30 Mar , Jeonbuk Motors x Ulsan , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , K-League-1 , South Korea 
+Sa 30 Mar , Jeju Utd x Pohang Steelers , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Sa 30 Mar , Suwon City x Gimcheon Sangmu , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Su 31 Mar , Gangwon x Seoul , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Su 31 Mar , Gwangju x Daegu , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , K-League-1 , South Korea 
+Tu 2 Apr , Daejeon Citizen x Ulsan , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , K-League-1 , South Korea 
+Tu 2 Apr , Pohang Steelers x Suwon City , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+We 3 Apr , Gangwon x Daegu , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , K-League-1 , South Korea 
+We 3 Apr , Gwangju x Incheon Utd , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , K-League-1 , South Korea 
+We 3 Apr , Jeju Utd x Jeonbuk Motors , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+We 3 Apr , Seoul x Gimcheon Sangmu , Average: 1.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Sa 6 Apr , Ulsan x Suwon City , Average: 2.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Sa 6 Apr , Gimcheon Sangmu x Gwangju , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Sa 6 Apr , Incheon Utd x Jeju Utd , Average: 1.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , K-League-1 , South Korea 
+Fr 29 Mar , Tokyo Verdy x Kyoto Sanga , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+Sa 30 Mar , S. Hiroshima x Gamba Osaka , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+Sa 30 Mar , Albirex Niigata x Kashiwa Reysol , Average: 1.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+Sa 30 Mar , Vissel Kobe x C. Sapporo , Average: 1.25 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , J1 League , Japan 
+Sa 30 Mar , K. Frontale x FC Tokyo , Average: 4.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , J1 League , Japan 
+Sa 30 Mar , Kashima Antlers x Jubilo Iwata , Average: 4.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , J1 League , Japan 
+Sa 30 Mar , Machida Zelvia x Sagan Tosu , Average: 2.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , J1 League , Japan 
+Sa 30 Mar , Urawa RD x Avispa Fukuoka , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+Sa 30 Mar , Cerezo Osaka x Shonan Bellmare , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , J1 League , Japan 
+Sa 30 Mar , Nagoya G. x Yokohama M. , Average: 3.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , J1 League , Japan 
+We 3 Apr , Avispa Fukuoka x Kashima Antlers , Average: 2.0 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , J1 League , Japan 
+We 3 Apr , Gamba Osaka x Kyoto Sanga , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+We 3 Apr , Jubilo Iwata x Albirex Niigata , Average: 2.08 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 33.33% , J1 League , Japan 
+We 3 Apr , Kashiwa Reysol x Cerezo Osaka , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+We 3 Apr , Machida Zelvia x S. Hiroshima , Average: 1.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J1 League , Japan 
+Su 24 Mar , Fujieda MYFC x R. Kumamoto , Average: 1.58 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , J2 League , Japan 
+Su 24 Mar , Iwaki x M. Yamagata , Average: 3.33 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , J2 League , Japan 
+Su 24 Mar , Kagoshima Utd x Yokohama FC , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
+Su 24 Mar , Mito Hollyhock x JEF Utd Chiba , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , J2 League , Japan 
+Su 24 Mar , R. Yamaguchi x Ehime FC , Average: 1.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
+Su 24 Mar , Shimizu S-Pulse x Blaublitz Akita , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 66.67% , J2 League , Japan 
+Su 24 Mar , Tochigi SC x Oita Trinita , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
+Su 24 Mar , Vegalta Sendai x Tokushima V. , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 150.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , J2 League , Japan 
+Su 24 Mar , V-V. Nagasaki x Ventforet Kofu , Average: 3.67 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 33.33% , J2 League , Japan 
+Su 24 Mar , Kusatsu x Fagiano Okayama , Average: 1.92 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
+Sa 30 Mar , Ventforet Kofu x R. Yamaguchi , Average: 2.0 , Home Over 1.5 goals: 150.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
+Sa 30 Mar , Blaublitz Akita x Iwaki , Average: 1.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 66.67% , J2 League , Japan 
+Sa 30 Mar , M. Yamagata x Shimizu S-Pulse , Average: 2.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , J2 League , Japan 
+Sa 30 Mar , Mito Hollyhock x Kagoshima Utd , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 33.33% , J2 League , Japan 
+Sa 30 Mar , Oita Trinita x Fagiano Okayama , Average: 1.58 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 100.0% , J2 League , Japan 
++S 23 Mar , Osaka x Matsumoto Y. , Average: 2.08 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 33.33% , J3 League , Japan 
+Sa 23 Mar , Omiya Ardija x T. Miyazaki , Average: 2.33 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 24 Mar , FC Imabari x G. Kitakyushu , Average: 1.17 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 24 Mar , V. Hachinohe x Nagano Parceiro , Average: 2.17 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 66.67% , J3 League , Japan 
+Su 24 Mar , AC Numazu x FC Ryukyu , Average: 2.08 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 50.0% , J3 League , Japan 
+Su 24 Mar , Fukushima Utd x Kataller Toyama , Average: 1.17 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 24 Mar , Kamatamare S. x Nara Club , Average: 1.67 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 24 Mar , YSCC x Gainare Tottori , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 33.33% , J3 League , Japan 
+Su 24 Mar , Z. Kanazawa x SC Sagamihara , Average: 3.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 24 Mar , FC Gifu x Morioka , Average: 3.83 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Sa 30 Mar , Osaka x FC Imabari , Average: 2.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , J3 League , Japan 
+Sa 30 Mar , SC Sagamihara x Kamatamare S. , Average: 2.75 , Home Over 1.5 goals: 33.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , J3 League , Japan 
+Sa 30 Mar , Nagano Parceiro x AC Numazu , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Sa 30 Mar , FC Ryukyu x Kataller Toyama , Average: 2.42 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , J3 League , Japan 
+Su 31 Mar , Gainare Tottori x V. Hachinohe , Average: 2.17 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 66.67% , J3 League , Japan 
+Fr 29 Mar , Banga x Dziugas Telsiai , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+Sa 30 Mar , Hegelmann L. x Panevezys , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+Sa 30 Mar , FA Siauliai x TransINVEST , Average: 2.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , A Lyga , Lithuania 
+Su 31 Mar , Suduva x Dainava , Average: 0.75 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+Su 31 Mar , Kauno Zalgiris x Zalgiris , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , A Lyga , Lithuania 
+Sa 6 Apr , Dziugas Telsiai x Hegelmann L. , Average: 2.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , A Lyga , Lithuania 
+Sa 6 Apr , Dainava x Banga , Average: 0.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+Su 7 Apr , TransINVEST x Suduva , Average: 2.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , A Lyga , Lithuania 
+Su 7 Apr , Zalgiris x FA Siauliai , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , A Lyga , Lithuania 
+Su 7 Apr , Kauno Zalgiris x Panevezys , Average: 1.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+Tu 9 Apr , Hegelmann L. x Dainava , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+We 10 Apr , Banga x Suduva , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , A Lyga , Lithuania 
+We 10 Apr , FA Siauliai x Panevezys , Average: 1.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+We 10 Apr , Kauno Zalgiris x Dziugas Telsiai , Average: 1.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , A Lyga , Lithuania 
+We 10 Apr , Zalgiris x TransINVEST , Average: 4.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , A Lyga , Lithuania 
+Sa 30 Mar , Chungnam Asan x Cheongju , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Sa 30 Mar , Seongnam x Gimpo , Average: 3.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , K-League-2 , South Korea 
+Sa 30 Mar , Seoul E-Land x Anyang , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , K-League-2 , South Korea 
+Su 31 Mar , Bucheon FC x Gyeongnam , Average: 2.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Su 31 Mar , Jeonnam Dragons x Cheonan City , Average: 4.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Su 31 Mar , Suwon Bluewings x Busan IPark , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Sa 6 Apr , Anyang x Ansan Greeners , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Sa 6 Apr , Chungnam Asan x Seongnam , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , K-League-2 , South Korea 
+Sa 6 Apr , Seoul E-Land x Gimpo , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , K-League-2 , South Korea 
+Su 7 Apr , Busan IPark x Jeonnam Dragons , Average: 1.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , K-League-2 , South Korea 
+Su 7 Apr , Cheonan City x Gyeongnam , Average: 2.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , K-League-2 , South Korea 
+Su 7 Apr , Cheongju x Suwon Bluewings , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , K-League-2 , South Korea 
+We 10 Apr , Cheongju x Gimpo , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , K-League-2 , South Korea 
+We 10 Apr , Seongnam x Seoul E-Land , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , K-League-2 , South Korea 
+We 10 Apr , Suwon Bluewings x Jeonnam Dragons , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , K-League-2 , South Korea 
+Sa 23 Mar , New England x Chicago Fire , Average: 2.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Major League Soccer , USA 
+Sa 23 Mar , New York RB x Inter Miami , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Major League Soccer , USA 
+Sa 23 Mar , Charlotte x Columbus Crew , Average: 1.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Sa 23 Mar , Cincinnati x New York City , Average: 0.75 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Sa 23 Mar , Orlando City x Austin , Average: 1.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Sa 23 Mar , Toronto x Atlanta Utd , Average: 1.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Sa 23 Mar , Vancouver x Real Salt Lake , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Su 24 Mar , Sporting KC x LA Galaxy , Average: 3.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Major League Soccer , USA 
+Su 24 Mar , St. Louis City x DC United , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Major League Soccer , USA 
+Su 24 Mar , Colorado Rapids x Houston Dynamo , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , Major League Soccer , USA 
+Su 24 Mar , Los Angeles FC x Nashville SC , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Major League Soccer , USA 
+Su 24 Mar , Portland x Philadelphia , Average: 3.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Major League Soccer , USA 
+Su 24 Mar , SJ Earthquakes x Seattle , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Major League Soccer , USA 
+Sa 30 Mar , Philadelphia x Minnesota Utd , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Major League Soccer , USA 
+Sa 30 Mar , Colorado Rapids x Los Angeles FC , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 50.0% , Major League Soccer , USA 
+Sa 23 Mar , Hartford A. x Birmingham L. , Average: 1.17 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 23 Mar , Detroit City x Loudoun Utd , Average: 4.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , USL Championship , USA 
+Sa 23 Mar , Louisville City x Pittsburgh , Average: 1.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 23 Mar , Indy Eleven x Sacramento R. , Average: 1.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 23 Mar , North Carolina x Tampa Bay , Average: 0.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , USL Championship , USA 
+Sa 23 Mar , Charleston x New Mexico , Average: 1.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Su 24 Mar , Las Vegas L. x El Paso , Average: 4.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0% , USL Championship , USA 
+Su 24 Mar , San Antonio x Colorado S. , Average: 3.0 , Home Over 1.5 goals: 200.0% , Away Over 1.5 goals: 200.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Su 24 Mar , Orange County x Miami FC , Average: 2.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , USL Championship , USA 
+Su 24 Mar , Phoenix Rising x Oakland Roots , Average: 1.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , USL Championship , USA 
+Su 24 Mar , Monterey Bay x Rhode Island , Average: 1.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , USL Championship , USA 
+Fr 29 Mar , North Carolina x Hartford A. , Average: 0.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 30 Mar , Louisville City x Birmingham L. , Average: 1.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 30 Mar , Indy Eleven x Detroit City , Average: 2.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , USL Championship , USA 
+Sa 30 Mar , Miami FC x Charleston , Average: 1.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , USL Championship , USA 
+Sa 23 Mar , Richmond K. x Tormenta , Average: 1.25 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Sa 23 Mar , One Knoxville x Lexington , Average: 3.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Sa 23 Mar , Greenville x Forward Madison , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , USL League 2 , USA 
+Su 24 Mar , Spokane Velocit x N. Colorado , Average: 1.5 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , USL League 2 , USA 
+Th 28 Mar , Charlotte x Spokane Velocit , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 200.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , USL League 2 , USA 
+Fr 29 Mar , Lexington x Greenville , Average: 2.25 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Sa 30 Mar , Central Valley x Forward Madison , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , USL League 2 , USA 
+Sa 30 Mar , One Knoxville x Tormenta , Average: 1.5 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Sa 30 Mar , Chattanooga RW x Union Omaha , Average: 2.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , USL League 2 , USA 
+Sa 6 Apr , Richmond K. x Central Valley  , Average: 2.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , USL League 2 , USA 
+Sa 6 Apr , Greenville x N. Colorado , Average: 2.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 100.0% , USL League 2 , USA 
+Sa 6 Apr , Chattanooga RW x Charlotte , Average: 2.75 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Sa 6 Apr , Tormenta x Lexington , Average: 3.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Fr 12 Apr , One Knoxville x Union Omaha , Average: 3.0 , Home Over 1.5 goals: 0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0% , Away Under 2.5 goals: 0.0% , USL League 2 , USA 
+Fr 12 Apr , Charlotte x Greenville , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0% , USL League 2 , USA 
+Fr 22 Mar , UCV x Portuguesa , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera Division , Venezuela 
+Sa 23 Mar , Metropolitanos x Rayo Zuliano , Average: 2.88 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 25.0% , Primera Division , Venezuela 
+Sa 23 Mar , Carabobo x E. Merida , Average: 3.12 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 25.0% , Primera Division , Venezuela 
+Su 24 Mar , D. La Guaira x Zamora , Average: 2.38 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 25.0% , Primera Division , Venezuela 
+Su 24 Mar , Monagas x Caracas , Average: 2.88 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 75.0% , Primera Division , Venezuela 
+Su 24 Mar , H. Colmenares x D. Tachira , Average: 1.62 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Primera Division , Venezuela 
+Mo 25 Mar , Angostura x Puerto Cabello , Average: 0.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Primera Division , Venezuela 
+Fr 5 Apr , Caracas x H. Colmenares , Average: 1.38 , Home Over 1.5 goals: 25.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 75.0% , Primera Division , Venezuela 
+Fr 5 Apr , D. Tachira x Metropolitanos , Average: 3.38 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 0.0% , Primera Division , Venezuela 
+Fr 5 Apr , E. Merida x D. La Guaira , Average: 1.88 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 75.0% , Primera Division , Venezuela 
+Fr 5 Apr , Portuguesa x Carabobo , Average: 2.0 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 75.0% , Primera Division , Venezuela 
+Fr 5 Apr , Puerto Cabello x Monagas , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 50.0% , Primera Division , Venezuela 
+Fr 5 Apr , Rayo Zuliano x UCV , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Primera Division , Venezuela 
+Fr 5 Apr , Zamora x Angostura , Average: 2.0 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 50.0% , Primera Division , Venezuela 
+Fr 12 Apr , Carabobo x Rayo Zuliano , Average: 2.62 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 25.0% , Primera Division , Venezuela 
+Sa 23 Mar , La Serena x Barnechea , Average: 2.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 23 Mar , CD Santa Cruz x U. San Felipe , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 23 Mar , Recoleta x Curico Unido , Average: 4.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Primera B , Chile 
+Sa 23 Mar , Rangers x San Luis , Average: 4.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 0.0% , Primera B , Chile 
+Su 24 Mar , Antofagasta x San Marcos , Average: 2.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 0.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Su 24 Mar , Magallanes x S. Morning , Average: 2.25 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 100.0% , Primera B , Chile 
+Su 24 Mar , S. Wanderers x Deportes Temuco , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Su 24 Mar , D. Limache x U. Concepcion , Average: 2.0 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , Primera B , Chile 
+Sa 30 Mar , Curico Unido x La Serena , Average: 2.75 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 66.67% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 30 Mar , Deportes Temuco x Rangers , Average: 2.33 , Home Over 1.5 goals: 0.0% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 66.67% , Primera B , Chile 
+Sa 30 Mar , S. Morning x Barnechea , Average: 3.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 30 Mar , S. Wanderers x Magallanes , Average: 2.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 30 Mar , San Luis x Antofagasta , Average: 3.5 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
+Sa 30 Mar , San Marcos x CD Santa Cruz , Average: 2.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 0.0% , Primera B , Chile 
+Sa 30 Mar , U. Concepcion x Recoleta , Average: 2.75 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 50.0% , Primera B , Chile 
