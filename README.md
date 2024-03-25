@@ -1,8 +1,8 @@
-Fiz essa aplicação para pegar a media de gols de times de diversas ligas de futebol, faço a leitura do site soccerstats.com e o algoritmo organiza os dados como no arquivo 
-england1.txt. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo next_games.txt
+> Fiz essa aplicação para pegar a média de gols de times de diversas ligas de futebol, faço a leitura do site **soccerstats.com** e o algoritmo organiza os dados como no arquivo 
+**england1.txt**. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo **next_games.txt**
 mostra as partidas que vão ter com as medias dos times que vão se enfrentar. 
 
-O código acabou ficando complexo por causa que os dados extraidos do site vinham da seguinte forma:
+> O código acabou ficando complexo por causa que os dados extraidos do site vinham da seguinte forma:
 
 ['2.5+TGBTSFr', '29', 'JulUnion', 'Tornesch', '2', '-', '2', 'Altona+4+Su', '31', 'JulPaloma', '2', '-', '1', 'Rugenbergen+3+Su', '31', 'JulT.', 'Wilhelmsburg', 
 '3', '-', '1', 'HEBC+4+Su', '31', 'JulNiendorfer', 'TSV', '1', '-', '0', 'Victoria', 'H.', 'B-1-Su', '31', 'JulBuchholz', '2', '-', '5', 'Eimsbutteler', 'TV+7+Su', 
