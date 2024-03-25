@@ -21,6 +21,8 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a><br/> 
 Link da Série A italiana.
 
+A aplicação se inicia pelo arquivo **controller.py**
+
 
 
 
