@@ -1,7 +1,7 @@
-# Calculo de media de gols e portcentagem de partidas acima de 1.5 gols e 2.5 gols de diversas ligas de futebol usando a biblioteca BeaultifulSoup do python
+# Cálculo de média de gols e portcentagem de partidas acima de 1.5 gols e 2.5 gols de diversas ligas de futebol.
 
 <p style="text-ident: 20">Fiz essa aplicação para pegar a média de gols de times de diversas ligas de futebol, faço a leitura do site <b>soccerstats.com</b> e o algoritmo organiza os dados como no arquivo 
-**england1.txt**. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo **next_games.txt**
+**england1.txt**. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo <b>next_games.txt</b>
 mostra as partidas que vão ter com as medias dos times que vão se enfrentar. </p>
 
 O código acabou ficando complexo por causa que os dados extraidos do site vinham da seguinte forma:
