@@ -1,4 +1,4 @@
-Fiz essa aplicação para pegar a media de gols de times de diversas ligas de futebol, faço a leitura do site soccerstats.com e o algoritmo organiza os dados como no arquivo 
+      Fiz essa aplicação para pegar a media de gols de times de diversas ligas de futebol, faço a leitura do site soccerstats.com e o algoritmo organiza os dados como no arquivo 
 england1.txt. Outro algoritmo calcula a média de gols dos times, a porcentagem de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo next_games.txt
 mostra as partidas que vão ter com as medias dos times que vão se enfrentar. 
 
