@@ -24,14 +24,7 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 'AugHamm', 'Utd', '2', '-', '0', 'T.', 'Wilhelmsburgstats-2-Fr', '26', 'AugHarksheide', '2', '-', '2', 'Hamburger', 'SV', 'Cstats+4+Fr', '26', 'AugOsdorf', '1', '-', 
 '3', 'Saselstats+4+Fr', '26', 'AugVictoria', 'H.', 'B', '1', '-', '4', 'Eimsbutteler', 'TVstats+5+Fr', '26', 'AugW.', 'Concordia', '5', '-', '1', 'Union', 
 'Torneschstats+6+Sa', '27', 'AugCurslack-N.', '2', '-', '2', 'Niendorfer', 'TSVstats+4+Sa', '27', 'AugAltona', '0', '-', '0', 'Palomastats-0-Su', '28', 'AugHEBC', 
-'1', '-', '2', 'Buchholzstats+3+Fr', '2', 'SepW.', 'Concordia', '1', '-', '1', 'Victoria', 'H.', 'Bstats-2+Fr', '2', 'SepHamburger', 'SV', 'C', '4', '-', '0', 
-'Curslack-N.stats+4-Fr', '2', 'SepEimsbutteler', 'TV', '5', '-', '0', 'Rugenbergenstats+5-Sa', '3', 'SepDassendorf', '2', '-', '0', 'HEBCstats-2-Sa', '3', 
-'SepBuchholz', '2', '-', '1', 'Harksheidestats+3+Su', '4', 'SepPaloma', '5', '-', '0', 'Osdorfstats+5-Su', '4', 'SepNiendorfer', 'TSV', '0', '-', '2', 
-'Altonastats-2-Su', '4', 'SepSasel', '2', '-', '3', 'Hamm', 'Utdstats+5+Su', '4', 'SepUnion', 'Tornesch', '0', '-', '3', 'T.', 'Wilhelmsburgstats+3-Fr', '9', 
-'SepSüderelbe', '1', '-', '2', 'Eimsbutteler', 'TVstats+3+Fr', '9', 'SepHamm', 'Utd', '0', '-', '1', 'Palomastats-1-Fr', '9', 'SepHarksheide', '0', '-', '0', 
-'Dassendorfstats-0-Fr', '9', 'SepOsdorf', '1', '-', '2', 'Niendorfer', 'TSVstats+3+Fr', '9', 'SepVictoria', 'H.', 'B', '1', '-', '0', 'Union', 'Torneschstats-1-Sa', 
-'10', 'SepCurslack-N.', '1', '-', '0', 'Buchholzstats-1-Sa', '10', 'SepAltona', '2', '-', '0', 'Hamburger', 'SV', 'Cstats-2-Su', '11', 'SepT.', 'Wilhelmsburg', '1', 
-'-', '1', 'Saselstats-2+Su', '11', 'SepRugenbergen', '0', '-', '3', 'W.', 'Concordiastats+3-Tu', '13', 'SepBuchholz', '1', '-', '2', 'Altonastats+3+Tu', '13', tVictoria', 'H.', 'B', '6', '-', '2', 'Osdorfstats+8+Fr']
+'1', '-', '2', 'Buchholzstats+3+Fr', '2', 'SepW.', 'Concordia', '1', '-', '1', 'Victoria', 'H.', 'Bstats-2+Fr']
 
 
 Tive que organizar a lista acima num arquivo de texto como no england1.txt.
