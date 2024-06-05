@@ -16,10 +16,9 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 'Utd', '2', '-', '1', 'Altonastats+3+Fr', '12', 'AugHamburger', 'SV', 'C', '3', '-', '0', 'Rugenbergenstats+3-Su', '14', 'AugPaloma', '1', '-', '1', 'HEBCstats-2+Su', 
 '14', 'AugT.', 'Wilhelmsburg', '4', '-', '1', 'Curslack-N.stats+5+Su', '14', 'AugNiendorfer', 'TSV', '6', '-', '2', 'Süderelbestats+8+Su', '14', 'AugBuchholz', '1', 
 '-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] <br/>
-<p>A demonstração acima é apenas um trecho, pois a lista extrída é muito grande.</p>
+<p>A demonstração acima é apenas um trecho para demonstração.</p>
 
 Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a><br/> 
-Link da Série A italiana.
 
 A aplicação se inicia pelo arquivo **controller.py**
 
