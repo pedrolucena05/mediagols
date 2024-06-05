@@ -17,7 +17,7 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 '14', 'AugT.', 'Wilhelmsburg', '4', '-', '1', 'Curslack-N.stats+5+Su', '14', 'AugNiendorfer', 'TSV', '6', '-', '2', 'Süderelbestats+8+Su', '14', 'AugBuchholz', '1', 
 '-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] <br/>
 
-Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a> (Serie A Italiana)<br/> 
+Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a> (Serie A Italiana).<br/> 
 
 A aplicação se inicia pelo arquivo **controller.py**
 
