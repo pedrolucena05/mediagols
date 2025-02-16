@@ -5,6 +5,7 @@ import statistics_1 as stats
 import writeOnFile
 import keys
 
+
 '''
 scrapeUni = ApiUnibet()
 UniBetLinks = scrapeUni.competitions()
@@ -72,7 +73,7 @@ leagues_dict.append('2 Bundesliga , Germany')
 leagues_dict.append('3 Liga , Germany')
 leagues_dict.append('Regionalliga Nord , Germany')
 leagues_dict.append('La Liga , Spain')
-leagues_dict.append('La liga 2 , Spain')
+#leagues_dict.append('La liga 2 , Spain')
 leagues_dict.append('Premier League , England')
 leagues_dict.append('The Championship , England')
 leagues_dict.append('League One , England')
@@ -96,7 +97,7 @@ leagues_dict.append('Ligue 1 , France')
 leagues_dict.append('Ligue 2 , France')
 leagues_dict.append('NB 1 , Hungary')
 leagues_dict.append('Premier Division , Ireland')
-leagues_dict.append('Liga MX , Mexico')
+'''leagues_dict.append('Liga MX , Mexico')'''
 leagues_dict.append('Liga MX , Mexico')
 leagues_dict.append('Eredivisie , Netherlands')
 leagues_dict.append('Eerste Divisie , Netherlands')
@@ -116,14 +117,14 @@ leagues_dict.append('J1 League , Japan')
 leagues_dict.append('J2 League , Japan')
 leagues_dict.append('J3 League , Japan')
 leagues_dict.append('Urvalsdeild , Iceland')
-leagues_dict.append('1. Deild , Iceland')
-leagues_dict.append('2. Deild , Iceland')
-leagues_dict.append('3. Deild , Iceland')
+#leagues_dict.append('1. Deild , Iceland')
+#leagues_dict.append('2. Deild , Iceland')
+#leagues_dict.append('3. Deild , Iceland')
 leagues_dict.append('A Lyga , Lithuania')
 leagues_dict.append('K-League-2 , South Korea')
 leagues_dict.append('K3 League , South Korea')
 leagues_dict.append('Malasya Super League , Malasya')
-leagues_dict.append('Myanmar National League , Myanmar')
+'''leagues_dict.append('Myanmar National League , Myanmar')'''
 leagues_dict.append('Major League Soccer , USA')
 leagues_dict.append('USL Championship , USA')
 leagues_dict.append('USL League 2 , USA')
@@ -164,7 +165,14 @@ def find_index (textFile):
 
 for ind in range(len(leagues)):
     cont += 1
+    
+    
+
+    
     aux_list_2 = sss.scrapeSoup(leagues[ind], files_total[ind], ind, leagues_dict[ind])
+    
+
+    
     if len(aux_list_2) > 0:
         aux_list_2 = aux_list_2[0]
     nextGames_list.append(aux_list_2)
@@ -177,13 +185,13 @@ conta = 0
 
 
 championships_average_goals = stats.statistics_averages(files_total)
-print('\n\n')
-print(len(championships_average_goals))
+#print('\n\n')
+#print(len(championships_average_goals))
 
 def find_average(homeTeam, awayTeam, ind, conta):
-    conta += 1
-
-    try:
+        conta += 1
+        underTwohalf_away = -1
+    #try:
         global underTwohalf_home
         average = 0
         cont = 0
@@ -193,63 +201,64 @@ def find_average(homeTeam, awayTeam, ind, conta):
         conceded_away = 0
         overOnehalf_home = 0
         overOneHalf_away = 0
-        for team in championships_average_goals[ind]:
-            
-            if team[0] == homeTeam:
-                average += team[-4] + team[-2]
-                goals_home = team[-4]
-                conceded_home = team[-2]
-                overOnehalf_home = team[7]
-                games_total = team[5] + team[6]
-                overOnehalf_home = float(overOnehalf_home)
-                underTwohalf_home = team[9]
-                underTwohalf_home = float(underTwohalf_home)
-                if team[5]!= 0:
-                    overOnehalf_home = round((overOnehalf_home/team[5])*100 , 2)
-                    underTwohalf_home = round((underTwohalf_home/team[5])*100 , 2)
-                else:
-                    overOnehalf_home = 0
-                    underTwohalf_home = 0
-                #print(f'{team[0]} - {team[7]} - {overOnehalf_home}')
-                cont += 1
+        if len(championships_average_goals) > 0: 
+            for team in championships_average_goals[ind]:
+                
+                if team[0] == homeTeam:
+                    average += team[-4] + team[-2]
+                    goals_home = team[-4]
+                    conceded_home = team[-2]
+                    overOnehalf_home = team[7]
+                    games_total = team[5] + team[6]
+                    overOnehalf_home = float(overOnehalf_home)
+                    underTwohalf_home = team[9]
+                    underTwohalf_home = float(underTwohalf_home)
+                    if team[5]!= 0:
+                        overOnehalf_home = round((overOnehalf_home/team[5])*100 , 2)
+                        underTwohalf_home = round((underTwohalf_home/team[5])*100 , 2)
+                    else:
+                        overOnehalf_home = 0
+                        underTwohalf_home = 0
+                    #print(f'{team[0]} - {team[7]} - {overOnehalf_home}')
+                    cont += 1
 
-            elif team[0] == awayTeam:
-                goals_away = team[-3]
-                conceded_away = team[-1]
-                average += team[-3] + team[-1]
-                overOneHalf_away = team[8]
-                games_total = team[5] + team[6]
-                overOneHalf_away = float(overOneHalf_away)
-                if team[6] != 0:
-                    overOneHalf_away = round((overOneHalf_away/team[6])*100 , 2)
-                else:
-                    overOneHalf_away = 0
-                underTwohalf_away = team[10]
-                underTwohalf_away = float(underTwohalf_away)
-                if team[6] != 0:
-                    underTwohalf_away = round((underTwohalf_away/team[6])*100 , 2)
-                else:
-                    underTwohalf_away = 0
-                #print(f'{team[0]} - {team[7]} - {overOneHalf_away}')
-                cont +=1
-            
-            elif cont == 2:
-                average = float(average)
-                average = round(average / 2, 2)
-                break
+                elif team[0] == awayTeam:
+                    goals_away = team[-3]
+                    conceded_away = team[-1]
+                    average += team[-3] + team[-1]
+                    overOneHalf_away = team[8]
+                    games_total = team[5] + team[6]
+                    overOneHalf_away = float(overOneHalf_away)
+                    if team[6] != 0:
+                        overOneHalf_away = round((overOneHalf_away/team[6])*100 , 2)
+                    else:
+                        overOneHalf_away = 0
+                    underTwohalf_away = team[10]
+                    underTwohalf_away = float(underTwohalf_away)
+                    if team[6] != 0:
+                        underTwohalf_away = round((underTwohalf_away/team[6])*100 , 2)
+                    else:
+                        underTwohalf_away = 0
+                    #print(f'{team[0]} - {team[7]} - {overOneHalf_away}')
+                    cont +=1
+                
+                elif cont == 2:
+                    average = float(average)
+                    average = round(average / 2, 2)
+                    break
         total = goals_away + goals_home + conceded_home + conceded_away
         if average == total:
             average = round(average / 2, 2)
         elif average > total - 0.3 and average < total + 0.3:
             average = round(average / 2, 2)
         
-
+        
         return average, overOnehalf_home, overOneHalf_away, underTwohalf_home, underTwohalf_away , conta
-    except:
-        print ("Entrei no except")
-        print(conta)
-        input()
-        return average, overOnehalf_home, overOneHalf_away, underTwohalf_home, 0, conta
+    #except:
+    #    print ("Entrei no except")
+    #    print(conta)
+        
+    #    return average, overOnehalf_home, overOneHalf_away, underTwohalf_home, 0, conta
 
 def sort_list (averages_list):
     aux_list_3 = []
@@ -260,7 +269,7 @@ def sort_list (averages_list):
     for loop in range(len(averages_list)):
         for league in averages_list:
             for game2 in league:
-                print(game2)
+                #print(game2)
                 '''
                 if float(game2[3]) > larger:
                     larger = game2
@@ -277,7 +286,7 @@ def sort_list (averages_list):
             flag = 0
         '''
     return aux_list_3
-     
+   
 
 with open("statistics.txt", "w") as arq2:    
     for league in championships_average_goals:
@@ -286,15 +295,18 @@ with open("statistics.txt", "w") as arq2:
                 if (type(attributes) is int) or (type(attributes) is float):
                     aux = str(attributes)
                     arq2.write(f'{aux} ')
+                    
                 else:
                     arq2.write(f'{attributes} ')
+                    
             arq2.write('\n')
         arq2.write('---------------------------------------------------------\n')
+        
 
 lines = []
 game = []
-print (len(nextGames_list))
-print (type(nextGames_list[0]))
+#print (len(nextGames_list))
+#print (type(nextGames_list[0]))
 cont7 = 0
 cont8 = 0 
 
@@ -307,9 +319,9 @@ for league in nextGames_list:
             
             game.append(item)
             cont7 += 1
-            if cont7 == 3:
+            if cont7 == 3 and len(game) >= 3:
                 average = find_average(game[1], game[2], ind , conta)
-                print(average)
+                #print(average)
                 lines.append(game[0])
                 lines.append(game[1])
                 lines.append(game[2])

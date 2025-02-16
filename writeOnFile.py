@@ -8,8 +8,10 @@ def write (links, api, file):
                 odds = api.odds(str(k_item))
                 for j_item in odds:
                     cont += 1
-                    print(cont)
+                    
                     championship = k_item.split('/')
+
+                    print(championship[-2])
                     arq.write(f"\n{championship[-2]} , ") 
                     arq.write(f"{test(j_item['time'])} , ")
                     arq.write(f"{test(j_item['home_team'])} , ")

@@ -144,7 +144,7 @@ def statistics_averages(files):
                             cont2 += 1
 
                             if teams.index(item) == 1:
-                                 print (item)
+                                 pass
                 
                             if item[5] > 0:
                                 goals_home_average = round(float(item[1]) / float(item[5]) , 2)

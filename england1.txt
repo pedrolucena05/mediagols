@@ -1,283 +1,248 @@
-Fr 11 Aug , Burnley , 0 - 3 , Manchester City
-Sa 12 Aug , Arsenal , 2 - 1 , Nottm Forest
-Sa 12 Aug , Bournemouth , 1 - 1 , West Ham Utd
-Sa 12 Aug , Brighton , 4 - 1 , Luton Town
-Sa 12 Aug , Everton , 0 - 1 , Fulham
-Sa 12 Aug , Sheffield Utd , 0 - 1 , Crystal Palace
-Sa 12 Aug , Newcastle Utd , 5 - 1 , Aston Villa
-Su 13 Aug , Brentford , 2 - 2 , Tottenham
-Su 13 Aug , Chelsea , 1 - 1 , Liverpool
-Mo 14 Aug , Manchester Utd , 1 - 0 , Wolverhampton
-Fr 18 Aug , Nottm Forest , 2 - 1 , Sheffield Utd
-Sa 19 Aug , Fulham , 0 - 3 , Brentford
-Sa 19 Aug , Liverpool , 3 - 1 , Bournemouth
-Sa 19 Aug , Wolverhampton , 1 - 4 , Brighton
-Sa 19 Aug , Tottenham , 2 - 0 , Manchester Utd
-Sa 19 Aug , Manchester City , 1 - 0 , Newcastle Utd
-Su 20 Aug , Aston Villa , 4 - 0 , Everton
-Su 20 Aug , West Ham Utd , 3 - 1 , Chelsea
-Mo 21 Aug , Crystal Palace , 0 - 1 , Arsenal
-Fr 25 Aug , Chelsea , 3 - 0 , Luton Town
-Sa 26 Aug , Bournemouth , 0 - 2 , Tottenham
-Sa 26 Aug , Arsenal , 2 - 2 , Fulham
-Sa 26 Aug , Brentford , 1 - 1 , Crystal Palace
-Sa 26 Aug , Everton , 0 - 1 , Wolverhampton
-Sa 26 Aug , Manchester Utd , 3 - 2 , Nottm Forest
-Sa 26 Aug , Brighton , 1 - 3 , West Ham Utd
-Su 27 Aug , Burnley , 1 - 3 , Aston Villa
-Su 27 Aug , Sheffield Utd , 1 - 2 , Manchester City
-Su 27 Aug , Newcastle Utd , 1 - 2 , Liverpool
-Fr 1 Sep , Luton Town , 1 - 2 , West Ham Utd
-Sa 2 Sep , Sheffield Utd , 2 - 2 , Everton
-Sa 2 Sep , Brentford , 2 - 2 , Bournemouth
-Sa 2 Sep , Burnley , 2 - 5 , Tottenham
-Sa 2 Sep , Chelsea , 0 - 1 , Nottm Forest
-Sa 2 Sep , Manchester City , 5 - 1 , Fulham
-Sa 2 Sep , Brighton , 3 - 1 , Newcastle Utd
-Su 3 Sep , Crystal Palace , 3 - 2 , Wolverhampton
-Su 3 Sep , Liverpool , 3 - 0 , Aston Villa
-Su 3 Sep , Arsenal , 3 - 1 , Manchester Utd
-Sa 16 Sep , Wolverhampton , 1 - 3 , Liverpool
-Sa 16 Sep , Aston Villa , 3 - 1 , Crystal Palace
-Sa 16 Sep , Fulham , 1 - 0 , Luton Town
-Sa 16 Sep , Manchester Utd , 1 - 3 , Brighton
-Sa 16 Sep , Tottenham , 2 - 1 , Sheffield Utd
-Sa 16 Sep , West Ham Utd , 1 - 3 , Manchester City
-Sa 16 Sep , Newcastle Utd , 1 - 0 , Brentford
-Su 17 Sep , Bournemouth , 0 - 0 , Chelsea
-Su 17 Sep , Everton , 0 - 1 , Arsenal
-Mo 18 Sep , Nottm Forest , 1 - 1 , Burnley
-Sa 23 Sep , Crystal Palace , 0 - 0 , Fulham
-Sa 23 Sep , Luton Town , 1 - 1 , Wolverhampton
-Sa 23 Sep , Manchester City , 2 - 0 , Nottm Forest
-Sa 23 Sep , Brentford , 1 - 3 , Everton
-Sa 23 Sep , Burnley , 0 - 1 , Manchester Utd
-Su 24 Sep , Arsenal , 2 - 2 , Tottenham
-Su 24 Sep , Brighton , 3 - 1 , Bournemouth
-Su 24 Sep , Chelsea , 0 - 1 , Aston Villa
-Su 24 Sep , Liverpool , 3 - 1 , West Ham Utd
-Su 24 Sep , Sheffield Utd , 0 - 8 , Newcastle Utd
-Sa 30 Sep , Aston Villa , 6 - 1 , Brighton
-Sa 30 Sep , Bournemouth , 0 - 4 , Arsenal
-Sa 30 Sep , Everton , 1 - 2 , Luton Town
-Sa 30 Sep , Manchester Utd , 0 - 1 , Crystal Palace
-Sa 30 Sep , Newcastle Utd , 2 - 0 , Burnley
-Sa 30 Sep , West Ham Utd , 2 - 0 , Sheffield Utd
-Sa 30 Sep , Wolverhampton , 2 - 1 , Manchester City
-Sa 30 Sep , Tottenham , 2 - 1 , Liverpool
-Su 1 Oct , Nottm Forest , 1 - 1 , Brentford
-Mo 2 Oct , Fulham , 0 - 2 , Chelsea
-Tu 3 Oct , Luton Town , 1 - 2 , Burnley
-Sa 7 Oct , Luton Town , 0 - 1 , Tottenham
-Sa 7 Oct , Burnley , 1 - 4 , Chelsea
-S 7 Oct , Everton , 3 - 0 , Bournemouth
-Sa 7 Oct , Fulham , 3 - 1 , Sheffield Utd
-Sa 7 Oct , Manchester Utd , 2 - 1 , Brentford
-Sa 7 Oct , Crystal Palace , 0 - 0 , Nottm Forest
-Su 8 Oct , Brighton , 2 - 2 , Liverpool
-Su 8 Oct , West Ham Utd , 2 - 2 , Newcastle Utd
-Su 8 Oct , Wolverhampton , 1 - 1 , Aston Villa
-Su 8 Oct , Arsenal , 1 - 0 , Manchester City
-Sa 21 Oct , Liverpool , 2 - 0 , Everton
-Sa 21 Oct , Bournemouth , 1 - 2 , Wolverhampton
-Sa 21 Oct , Brentford , 3 - 0 , Burnley
-Sa 21 Oct , Manchester City , 2 - 1 , Brighton
-Sa 21 Oct , Newcastle Utd , 4 - 0 , Crystal Palace
-Sa 21 Oct , Nottm Forest , 2 - 2 , Luton Town
-Sa 21 Oct , Chelsea , 2 - 2 , Arsenal
-Sa 21 Oct , Sheffield Utd , 1 - 2 , Manchester Utd
-Su 22 Oct , Aston Villa , 4 - 1 , West Ham Utd
-Mo 23 Oct , Tottenham , 2 - 0 , Fulham
-Fr 27 Oct , Crystal Palace , 1 - 2 , Tottenham
-Sa 28 Oct , Chelsea , 0 - 2 , Brentford
-Sa 28 Oct , Arsenal , 5 - 0 , Sheffield Utd
-Sa 28 Oct , Bournemouth , 2 - 1 , Burnley
-Sa 28 Oct , Wolverhampton , 2 - 2 , Newcastle Utd
-Su 29 Oct , West Ham Utd , 0 - 1 , Everton
-Su 29 Oct , Aston Villa , 3 - 1 , Luton Town
-Su 29 Oct , Brighton , 1 - 1 , Fulham
-Su 29 Oct , Liverpool , 3 - 0 , Nottm Forest
-Su 29 Oct , Manchester Utd , 0 - 3 , Manchester City
-Sa 4 Nov , Fulham , 0 - 1 , Manchester Utd
-Sa 4 Nov , Brentford , 3 - 2 , West Ham Utd
-Sa 4 Nov , Burnley , 0 - 2 , Crystal Palace
-Sa 4 Nov , Everton , 1 - 1 , Brighton
-Sa 4 Nov , Manchester City , 6 - 1 , Bournemouth
-Sa 4 Nov , Sheffield Utd , 2 - 1 , Wolverhampton
-Sa 4 Nov , Newcastle Utd , 1 - 0 , Arsenal
-Su 5 Nov , Nottm Forest , 2 - 0 , Aston Villa
-Su 5 Nov , Luton Town , 1 - 1 , Liverpool
-Mo 6 Nov , Tottenham , 1 - 4 , Chelsea
-S 11 Nov , Wolverhampton , 2 - 1 , Tottenham
-Sa 11 Nov , Arsenal , 3 - 1 , Burnley
-Sa 11 Nov , Crystal Palace , 2 - 3 , Everton
-Sa 11 Nov , Manchester Utd , 1 - 0 , Luton Town
-Sa 11 Nov , Bournemouth , 2 - 0 , Newcastle Utd
-Su 12 Nov , Aston Villa , 3 - 1 , Fulham
-Su 12 Nov , Brighton , 1 - 1 , Sheffield Utd
-Su 12 Nov , Liverpool , 3 - 0 , Brentford
-Su 12 Nov , West Ham Utd , 3 - 2 , Nottm Forest
-Su 12 Nov , Chelsea , 4 - 4 , Manchester City
-Sa 25 Nov , Manchester City , 1 - 1 , Liverpool
-Sa 25 Nov , Burnley , 1 - 2 , West Ham Utd
-Sa 25 Nov , Luton Town , 2 - 1 , Crystal Palace
-Sa 25 Nov , Newcastle Utd , 4 - 1 , Chelsea
-S 25 Nov , Nottm Forest , 2 - 3 , Brighton
-Sa 25 Nov , Sheffield Utd , 1 - 3 , Bournemouth
-Sa 25 Nov , Brentford , 0 - 1 , Arsenal
-Su 26 Nov , Tottenham , 1 - 2 , Aston Villa
-Su 26 Nov , Everton , 0 - 3 , Manchester Utd
-Mo 27 Nov , Fulham , 3 - 2 , Wolverhampton
-Sa 2 Dec , Arsenal , 2 - 1 , Wolverhampton
-Sa 2 Dec , Brentford , 3 - 1 , Luton Town
-Sa 2 Dec , Burnley , 5 - 0 , Sheffield Utd
-Sa 2 Dec , Nottm Forest , 0 - 1 , Everton
-Sa 2 Dec , Newcastle Utd , 1 - 0 , Manchester Utd
-Su 3 Dec , Bournemouth , 2 - 2 , Aston Villa
-Su 3 Dec , Chelsea , 3 - 2 , Brighton
-Su 3 Dec , Liverpool , 4 - 3 , Fulham
-Su 3 Dec , West Ham Utd , 1 - 1 , Crystal Palace
-Su 3 Dec , Manchester City , 3 - 3 , Tottenham
-Tu 5 Dec , Wolverhampton , 1 - 0 , Burnley
-Tu 5 Dec , Luton Town , 3 - 4 , Arsenal
-We 6 Dec , Brighton , 2 - 1 , Brentford
-We 6 Dec , Crystal Palace , 0 - 2 , Bournemouth
-We 6 Dec , Fulham , 5 - 0 , Nottm Forest
-We 6 Dec , Sheffield Utd , 0 - 2 , Liverpool
-We 6 Dec , Aston Villa , 1 - 0 , Manchester City
-We 6 Dec , Manchester Utd , 2 - 1 , Chelsea
-Th 7 Dec , Everton , 3 - 0 , Newcastle Utd
-Th 7 Dec , Tottenham , 1 - 2 , West Ham Utd
-Sa 9 Dec , Crystal Palace , 1 - 2 , Liverpool
-Sa 9 Dec , Brighton , 1 - 1 , Burnley
-Sa 9 Dec , Manchester Utd , 0 - 3 , Bournemouth
-Sa 9 Dec , Sheffield Utd , 1 - 0 , Brentford
-Sa 9 Dec , Wolverhampton , 1 - 1 , Nottm Forest
-Sa 9 Dec , Aston Villa , 1 - 0 , Arsenal
-Su 10 Dec , Everton , 2 - 0 , Chelsea
-Su 10 Dec , Fulham , 5 - 0 , West Ham Utd
-Su 10 Dec , Luton Town , 1 - 2 , Manchester City
-Su 10 Dec , Tottenham , 4 - 1 , Newcastle Utd
-Fr 15 Dec , Nottm Forest , 0 - 2 , Tottenham
-Sa 16 Dec , Chelsea , 2 - 0 , Sheffield Utd
-Sa 16 Dec , Manchester City , 2 - 2 , Crystal Palace
-Sa 16 Dec , Newcastle Utd , 3 - 0 , Fulham
-Sa 16 Dec , Burnley , 0 - 2 , Everton
-Su 17 Dec , Arsenal , 2 - 0 , Brighton
-Su 17 Dec , Brentford , 1 - 2 , Aston Villa
-Su 17 Dec , West Ham Utd , 3 - 0 , Wolverhampton
-Su 17 Dec , Liverpool , 0 - 0 , Manchester Utd
-Th 21 Dec , Crystal Palace , 1 - 1 , Brighton
-Fr 22 Dec , Aston Villa , 1 - 1 , Sheffield Utd
-Sa 23 Dec , West Ham Utd , 2 - 0 , Manchester Utd
-Sa 23 Dec , Fulham , 0 - 2 , Burnley
-Sa 23 Dec , Luton Town , 1 - 0 , Newcastle Utd
-Sa 23 Dec , Nottm Forest , 2 - 3 , Bournemouth
-Sa 23 Dec , Tottenham , 2 - 1 , Everton
-Sa 23 Dec , Liverpool , 1 - 1 , Arsenal
-Su 24 Dec , Wolverhampton , 2 - 1 , Chelsea
-Tu 26 Dec , Newcastle Utd , 1 - 3 , Nottm Forest
-Tu 26 Dec , Bournemouth , 3 - 0 , Fulham
-Tu 26 Dec , Sheffield Utd , 2 - 3 , Luton Town
-Tu 26 Dec , Burnley , 0 - 2 , Liverpool
-Tu 26 Dec , Manchester Utd , 3 - 2 , Aston Villa
-We 27 Dec , Brentford , 1 - 4 , Wolverhampton
-We 27 Dec , Chelsea , 2 - 1 , Crystal Palace
-W 27 Dec , Everton , 1 - 3 , Manchester City
-Th 28 Dec , Brighton , 4 - 2 , Tottenham
-Th 28 Dec , Arsenal , 0 - 2 , West Ham Utd
-Sa 30 Dec , Luton Town , 2 - 3 , Chelsea
-S 30 Dec , Aston Villa , 3 - 2 , Burnley
-Sa 30 Dec , Crystal Palace , 3 - 1 , Brentford
-Sa 30 Dec , Manchester City , 2 - 0 , Sheffield Utd
-Sa 30 Dec , Wolverhampton , 3 - 0 , Everton
-Sa 30 Dec , Nottm Forest , 2 - 1 , Manchester Utd
-Su 31 Dec , Fulham , 2 - 1 , Arsenal
-Su 31 Dec , Tottenham , 3 - 1 , Bournemouth
-Mo 1 Jan , Liverpool , 4 - 2 , Newcastle Utd
-Tu 2 Jan , West Ham Utd , 0 - 0 , Brighton
-Fr 12 Jan , Burnley , 1 - 1 , Luton Town
-Sa 13 Jan , Chelsea , 1 - 0 , Fulham
-Sa 13 Jan , Newcastle Utd , 2 - 3 , Manchester City
-Su 14 Jan , Everton , 0 - 0 , Aston Villa
-Su 14 Jan , Manchester Utd , 2 - 2 , Tottenham
-Sa 20 Jan , Arsenal , 5 - 0 , Crystal Palace
-Sa 20 Jan , Brentford , 3 - 2 , Nottm Forest
-Su 21 Jan , Sheffield Utd , 2 - 2 , West Ham Utd
-Su 21 Jan , Bournemouth , 0 - 4 , Liverpool
-Mo 22 Jan , Brighton , 0 - 0 , Wolverhampton
-Tu 30 Jan , Nottm Forest , 1 - 2 , Arsenal
-Tu 30 Jan , Fulham , 0 - 0 , Everton
-Tu 30 Jan , Luton Town , 4 - 0 , Brighton
-Tu 30 Jan , Crystal Palace , 3 - 2 , Sheffield Utd
-Tu 30 Jan , Aston Villa , 1 - 3 , Newcastle Utd
-We 31 Jan , Manchester City , 3 - 1 , Burnley
-We 31 Jan , Tottenham , 3 - 2 , Brentford
-We 31 Jan , Liverpool , 4 - 1 , Chelsea
-Th 1 Feb , West Ham Utd , 1 - 1 , Bournemouth
-T 1 Feb , Wolverhampton , 3 - 4 , Manchester Utd
-Sa 3 Feb , Everton , 2 - 2 , Tottenham
-Sa 3 Feb , Brighton , 4 - 1 , Crystal Palace
-Sa 3 Feb , Burnley , 2 - 2 , Fulham
-Sa 3 Feb , Newcastle Utd , 4 - 4 , Luton Town
-Sa 3 Feb , Sheffield Utd , 0 - 5 , Aston Villa
-Su 4 Feb , Bournemouth , 1 - 1 , Nottm Forest
-Su 4 Feb , Chelsea , 2 - 4 , Wolverhampton
-Su 4 Feb , Manchester Utd , 3 - 0 , West Ham Utd
-Su 4 Feb , Arsenal , 3 - 1 , Liverpool
-Mo 5 Feb , Brentford , 1 - 3 , Manchester City
-Sa 10 Feb , Manchester City , 2 - 0 , Everton
-Sa 10 Feb , Fulham , 3 - 1 , Bournemouth
-Sa 10 Feb , Liverpool , 3 - 1 , Burnley
-Sa 10 Feb , Luton Town , 1 - 3 , Sheffield Utd
-Sa 10 Feb , Tottenham , 2 - 1 , Brighton
-Sa 10 Feb , Wolverhampton , 0 - 2 , Brentford
-Sa 10 Feb , Nottm Forest , 2 - 3 , Newcastle Utd
-Su 11 Feb , West Ham Utd , 0 - 6 , Arsenal
-Su 11 Feb , Aston Villa , 1 - 2 , Manchester Utd
-Mo 12 Feb , Crystal Palace , 1 - 3 , Chelsea
-S 17 Feb , Brentford , 1 - 4 , Liverpool
-Sa 17 Feb , Burnley , 0 - 5 , Arsenal
-Sa 17 Feb , Fulham , 1 - 2 , Aston Villa
-S 17 Feb , Newcastle Utd , 2 - 2 , Bournemouth
-Sa 17 Feb , Nottm Forest , 2 - 0 , West Ham Utd
-Sa 17 Feb , Tottenham , 1 - 2 , Wolverhampton
-Sa 17 Feb , Manchester City , 1 - 1 , Chelsea
-Su 18 Feb , Sheffield Utd , 0 - 5 , Brighton
-Su 18 Feb , Luton Town , 1 - 2 , Manchester Utd
-Mo 19 Feb , Everton , 1 - 1 , Crystal Palace
-Tu 20 Feb , Manchester City , 1 - 0 , Brentford
-We 21 Feb , Liverpool , 4 - 1 , Luton Town
-Sa 24 Feb , Aston Villa , 4 - 2 , Nottm Forest
-Sa 24 Feb , Brighton , 1 - 1 , Everton
-Sa 24 Feb , Crystal Palace , 3 - 0 , Burnley
-Sa 24 Feb , Manchester Utd , 1 - 2 , Fulham
-Sa 24 Feb , Bournemouth , 0 - 1 , Manchester City
-Sa 24 Feb , Arsenal , 4 - 1 , Newcastle Utd
-Su 25 Feb , Wolverhampton , 1 - 0 , Sheffield Utd
-Mo 26 Feb , West Ham Utd , 4 - 2 , Brentford
-Sa 2 Mar , Brentford , 2 - 2 , Chelsea
-S 2 Mar , Everton , 1 - 3 , West Ham Utd
-Sa 2 Mar , Fulham , 3 - 0 , Brighton
-Sa 2 Mar , Newcastle Utd , 3 - 0 , Wolverhampton
-Sa 2 Mar , Nottm Forest , 0 - 1 , Liverpool
-Sa 2 Mar , Tottenham , 3 - 1 , Crystal Palace
-Sa 2 Mar , Luton Town , 2 - 3 , Aston Villa
-Su 3 Mar , Burnley , 0 - 2 , Bournemouth
-Su 3 Mar , Manchester City , 3 - 1 , Manchester Utd
-Mo 4 Mar , Sheffield Utd , 0 - 6 , Arsenal
-Sa 9 Mar , Manchester Utd , 2 - 0 , Everton
-Sa 9 Mar , Bournemouth , 2 - 2 , Sheffield Utd
-Sa 9 Mar , Crystal Palace , 1 - 1 , Luton Town
-Sa 9 Mar , Wolverhampton , 2 - 1 , Fulham
-Sa 9 Mar , Arsenal , 2 - 1 , Brentford
-Su 10 Mar , Aston Villa , 0 - 4 , Tottenham
-Su 10 Mar , Brighton , 1 - 0 , Nottm Forest
-Su 10 Mar , West Ham Utd , 2 - 2 , Burnley
-Su 10 Mar , Liverpool , 1 - 1 , Manchester City
-Mo 11 Mar , Chelsea , 3 - 2 , Newcastle Utd
-We 13 Mar , Bournemouth , 4 - 3 , Luton Town
-Sa 16 Mar , Burnley , 2 - 1 , Brentford
-Sa 16 Mar , Luton Town , 1 - 1 , Nottm Forest
-Sa 16 Mar , Fulham , 3 - 0 , Tottenham
-Su 17 Mar , West Ham Utd , 1 - 1 , Aston Villa
+Fr 16 Aug , Manchester Utd , 1 - 0 , Fulham
+Sa 17 Aug , Ipswich Town , 0 - 2 , Liverpool
+Sa 17 Aug , Arsenal , 2 - 0 , Wolverhampton
+Sa 17 Aug , Everton , 0 - 3 , Brighton
+Sa 17 Aug , Newcastle Utd , 1 - 0 , Southampton
+Sa 17 Aug , Nottm Forest , 1 - 1 , Bournemouth
+Sa 17 Aug , West Ham Utd , 1 - 2 , Aston Villa
+Su 18 Aug , Brentford , 2 - 1 , Crystal Palace
+Su 18 Aug , Chelsea , 0 - 2 , Manchester City
+Mo 19 Aug , Leicester City , 1 - 1 , Tottenham
+Sa 24 Aug , Brighton , 2 - 1 , Manchester Utd
+Sa 24 Aug , Crystal Palace , 0 - 2 , West Ham Utd
+Sa 24 Aug , Fulham , 2 - 1 , Leicester City
+Sa 24 Aug , Manchester City , 4 - 1 , Ipswich Town
+Sa 24 Aug , Southampton , 0 - 1 , Nottm Forest
+Sa 24 Aug , Tottenham , 4 - 0 , Everton
+Sa 24 Aug , Aston Villa , 0 - 2 , Arsenal
+Su 25 Aug , Bournemouth , 1 - 1 , Newcastle Utd
+Su 25 Aug , Wolverhampton , 2 - 6 , Chelsea
+Su 25 Aug , Liverpool , 2 - 0 , Brentford
+Sa 31 Aug , Arsenal , 1 - 1 , Brighton
+Sa 31 Aug , Brentford , 3 - 1 , Southampton
+Sa 31 Aug , Everton , 2 - 3 , Bournemouth
+Sa 31 Aug , Ipswich Town , 1 - 1 , Fulham
+Sa 31 Aug , Leicester City , 1 - 2 , Aston Villa
+Sa 31 Aug , Nottm Forest , 1 - 1 , Wolverhampton
+Sa 31 Aug , West Ham Utd , 1 - 3 , Manchester City
+Su 1 Sep , Chelsea , 1 - 1 , Crystal Palace
+Su 1 Sep , Newcastle Utd , 2 - 1 , Tottenham
+Su 1 Sep , Manchester Utd , 0 - 3 , Liverpool
+Sa 14 Sep , Southampton , 0 - 3 , Manchester Utd
+Sa 14 Sep , Brighton , 0 - 0 , Ipswich Town
+Sa 14 Sep , Crystal Palace , 2 - 2 , Leicester City
+Sa 14 Sep , Fulham , 1 - 1 , West Ham Utd
+Sa 14 Sep , Liverpool , 0 - 1 , Nottm Forest
+Sa 14 Sep , Manchester City , 2 - 1 , Brentford
+Sa 14 Sep , Aston Villa , 3 - 2 , Everton
+Sa 14 Sep , Bournemouth , 0 - 1 , Chelsea
+Su 15 Sep , Tottenham , 0 - 1 , Arsenal
+Su 15 Sep , Wolverhampton , 1 - 2 , Newcastle Utd
+Sa 21 Sep , West Ham Utd , 0 - 3 , Chelsea
+Sa 21 Sep , Aston Villa , 3 - 1 , Wolverhampton
+Sa 21 Sep , Fulham , 3 - 1 , Newcastle Utd
+Sa 21 Sep , Leicester City , 1 - 1 , Everton
+Sa 21 Sep , Liverpool , 3 - 0 , Bournemouth
+Sa 21 Sep , Southampton , 1 - 1 , Ipswich Town
+Sa 21 Sep , Tottenham , 3 - 1 , Brentford
+Sa 21 Sep , Crystal Palace , 0 - 0 , Manchester Utd
+Su 22 Sep , Brighton , 2 - 2 , Nottm Forest
+Su 22 Sep , Manchester City , 2 - 2 , Arsenal
+Sa 28 Sep , Newcastle Utd , 1 - 1 , Manchester City
+Sa 28 Sep , Arsenal , 4 - 2 , Leicester City
+Sa 28 Sep , Brentford , 1 - 1 , West Ham Utd
+Sa 28 Sep , Chelsea , 4 - 2 , Brighton
+Sa 28 Sep , Everton , 2 - 1 , Crystal Palace
+Sa 28 Sep , Nottm Forest , 0 - 1 , Fulham
+Sa 28 Sep , Wolverhampton , 1 - 2 , Liverpool
+Su 29 Sep , Ipswich Town , 2 - 2 , Aston Villa
+Su 29 Sep , Manchester Utd , 0 - 3 , Tottenham
+Mo 30 Sep , Bournemouth , 3 - 1 , Southampton
+Sa 5 Oct , Crystal Palace , 0 - 1 , Liverpool
+Sa 5 Oct , Arsenal , 3 - 1 , Southampton
+Sa 5 Oct , Brentford , 5 - 3 , Wolverhampton
+Sa 5 Oct , Leicester City , 1 - 0 , Bournemouth
+Sa 5 Oct , Manchester City , 3 - 2 , Fulham
+Sa 5 Oct , West Ham Utd , 4 - 1 , Ipswich Town
+Sa 5 Oct , Everton , 0 - 0 , Newcastle Utd
+Su 6 Oct , Aston Villa , 0 - 0 , Manchester Utd
+Su 6 Oct , Chelsea , 1 - 1 , Nottm Forest
+Su 6 Oct , Brighton , 3 - 2 , Tottenham
+Sa 19 Oct , Tottenham , 4 - 1 , West Ham Utd
+Sa 19 Oct , Fulham , 1 - 3 , Aston Villa
+Sa 19 Oct , Manchester Utd , 2 - 1 , Brentford
+Sa 19 Oct , Newcastle Utd , 0 - 1 , Brighton
+Sa 19 Oct , Southampton , 2 - 3 , Leicester City
+Sa 19 Oct , Ipswich Town , 0 - 2 , Everton
+Sa 19 Oct , Bournemouth , 2 - 0 , Arsenal
+Su 20 Oct , Wolverhampton , 1 - 2 , Manchester City
+Su 20 Oct , Liverpool , 2 - 1 , Chelsea
+Mo 21 Oct , Nottm Forest , 1 - 0 , Crystal Palace
+Fr 25 Oct , Leicester City , 1 - 3 , Nottm Forest
+Sa 26 Oct , Aston Villa , 1 - 1 , Bournemouth
+Sa 26 Oct , Brentford , 4 - 3 , Ipswich Town
+Sa 26 Oct , Brighton , 2 - 2 , Wolverhampton
+Sa 26 Oct , Manchester City , 1 - 0 , Southampton
+Sa 26 Oct , Everton , 1 - 1 , Fulham
+Su 27 Oct , Chelsea , 2 - 1 , Newcastle Utd
+Su 27 Oct , Crystal Palace , 1 - 0 , Tottenham
+Su 27 Oct , West Ham Utd , 2 - 1 , Manchester Utd
+Su 27 Oct , Arsenal , 2 - 2 , Liverpool
+Sa 2 Nov , Newcastle Utd , 1 - 0 , Arsenal
+Sa 2 Nov , Bournemouth , 2 - 1 , Manchester City
+Sa 2 Nov , Ipswich Town , 1 - 1 , Leicester City
+Sa 2 Nov , Liverpool , 2 - 1 , Brighton
+Sa 2 Nov , Nottm Forest , 3 - 0 , West Ham Utd
+Sa 2 Nov , Southampton , 1 - 0 , Everton
+Sa 2 Nov , Wolverhampton , 2 - 2 , Crystal Palace
+Su 3 Nov , Tottenham , 4 - 1 , Aston Villa
+Su 3 Nov , Manchester Utd , 1 - 1 , Chelsea
+Mo 4 Nov , Fulham , 2 - 1 , Brentford
+Sa 9 Nov , Brentford , 3 - 2 , Bournemouth
+Sa 9 Nov , Crystal Palace , 0 - 2 , Fulham
+Sa 9 Nov , West Ham Utd , 0 - 0 , Everton
+Sa 9 Nov , Wolverhampton , 2 - 0 , Southampton
+Sa 9 Nov , Brighton , 2 - 1 , Manchester City
+Sa 9 Nov , Liverpool , 2 - 0 , Aston Villa
+Su 10 Nov , Manchester Utd , 3 - 0 , Leicester City
+Su 10 Nov , Nottm Forest , 1 - 3 , Newcastle Utd
+Su 10 Nov , Tottenham , 1 - 2 , Ipswich Town
+Su 10 Nov , Chelsea , 1 - 1 , Arsenal
+Sa 23 Nov , Leicester City , 1 - 2 , Chelsea
+Sa 23 Nov , Arsenal , 3 - 0 , Nottm Forest
+Sa 23 Nov , Aston Villa , 2 - 2 , Crystal Palace
+Sa 23 Nov , Bournemouth , 1 - 2 , Brighton
+Sa 23 Nov , Everton , 0 - 0 , Brentford
+Sa 23 Nov , Fulham , 1 - 4 , Wolverhampton
+Sa 23 Nov , Manchester City , 0 - 4 , Tottenham
+Su 24 Nov , Southampton , 2 - 3 , Liverpool
+Su 24 Nov , Ipswich Town , 1 - 1 , Manchester Utd
+Mo 25 Nov , Newcastle Utd , 0 - 2 , West Ham Utd
+Fr 29 Nov , Brighton , 1 - 1 , Southampton
+Sa 30 Nov , Brentford , 4 - 1 , Leicester City
+Sa 30 Nov , Crystal Palace , 1 - 1 , Newcastle Utd
+Sa 30 Nov , Nottm Forest , 1 - 0 , Ipswich Town
+Sa 30 Nov , Wolverhampton , 2 - 4 , Bournemouth
+Sa 30 Nov , West Ham Utd , 2 - 5 , Arsenal
+Su 1 Dec , Chelsea , 3 - 0 , Aston Villa
+Su 1 Dec , Manchester Utd , 4 - 0 , Everton
+Su 1 Dec , Tottenham , 1 - 1 , Fulham
+Su 1 Dec , Liverpool , 2 - 0 , Manchester City
+Tu 3 Dec , Ipswich Town , 0 - 1 , Crystal Palace
+Tu 3 Dec , Leicester City , 3 - 1 , West Ham Utd
+We 4 Dec , Everton , 4 - 0 , Wolverhampton
+We 4 Dec , Manchester City , 3 - 0 , Nottm Forest
+We 4 Dec , Newcastle Utd , 3 - 3 , Liverpool
+We 4 Dec , Southampton , 1 - 5 , Chelsea
+We 4 Dec , Arsenal , 2 - 0 , Manchester Utd
+We 4 Dec , Aston Villa , 3 - 1 , Brentford
+Th 5 Dec , Fulham , 3 - 1 , Brighton
+Th 5 Dec , Bournemouth , 1 - 0 , Tottenham
+Sa 7 Dec , Aston Villa , 1 - 0 , Southampton
+Sa 7 Dec , Brentford , 4 - 2 , Newcastle Utd
+Sa 7 Dec , Crystal Palace , 2 - 2 , Manchester City
+Sa 7 Dec , Manchester Utd , 2 - 3 , Nottm Forest
+Su 8 Dec , Fulham , 1 - 1 , Arsenal
+Su 8 Dec , Ipswich Town , 1 - 2 , Bournemouth
+Su 8 Dec , Leicester City , 2 - 2 , Brighton
+Su 8 Dec , Tottenham , 3 - 4 , Chelsea
+Mo 9 Dec , West Ham Utd , 2 - 1 , Wolverhampton
+Sa 14 Dec , Arsenal , 0 - 0 , Everton
+Sa 14 Dec , Liverpool , 2 - 2 , Fulham
+Sa 14 Dec , Newcastle Utd , 4 - 0 , Leicester City
+Sa 14 Dec , Wolverhampton , 1 - 2 , Ipswich Town
+Sa 14 Dec , Nottm Forest , 2 - 1 , Aston Villa
+Su 15 Dec , Brighton , 1 - 3 , Crystal Palace
+Su 15 Dec , Manchester City , 1 - 2 , Manchester Utd
+Su 15 Dec , Chelsea , 2 - 1 , Brentford
+Su 15 Dec , Southampton , 0 - 5 , Tottenham
+Mo 16 Dec , Bournemouth , 1 - 1 , West Ham Utd
+Sa 21 Dec , Aston Villa , 2 - 1 , Manchester City
+Sa 21 Dec , Brentford , 0 - 2 , Nottm Forest
+Sa 21 Dec , Ipswich Town , 0 - 4 , Newcastle Utd
+Sa 21 Dec , West Ham Utd , 1 - 1 , Brighton
+Sa 21 Dec , Crystal Palace , 1 - 5 , Arsenal
+Su 22 Dec , Everton , 0 - 0 , Chelsea
+Su 22 Dec , Fulham , 0 - 0 , Southampton
+Su 22 Dec , Leicester City , 0 - 3 , Wolverhampton
+Su 22 Dec , Manchester Utd , 0 - 3 , Bournemouth
+Su 22 Dec , Tottenham , 3 - 6 , Liverpool
+Th 26 Dec , Manchester City , 1 - 1 , Everton
+Th 26 Dec , Bournemouth , 0 - 0 , Crystal Palace
+Th 26 Dec , Chelsea , 1 - 2 , Fulham
+Th 26 Dec , Newcastle Utd , 3 - 0 , Aston Villa
+Th 26 Dec , Nottm Forest , 1 - 0 , Tottenham
+Th 26 Dec , Southampton , 0 - 1 , West Ham Utd
+Th 26 Dec , Wolverhampton , 2 - 0 , Manchester Utd
+Th 26 Dec , Liverpool , 3 - 1 , Leicester City
+Fr 27 Dec , Brighton , 0 - 0 , Brentford
+Fr 27 Dec , Arsenal , 1 - 0 , Ipswich Town
+Su 29 Dec , Leicester City , 0 - 2 , Manchester City
+Su 29 Dec , Crystal Palace , 2 - 1 , Southampton
+Su 29 Dec , Everton , 0 - 2 , Nottm Forest
+Su 29 Dec , Fulham , 2 - 2 , Bournemouth
+Su 29 Dec , Tottenham , 2 - 2 , Wolverhampton
+Su 29 Dec , West Ham Utd , 0 - 5 , Liverpool
+Mo 30 Dec , Aston Villa , 2 - 2 , Brighton
+Mo 30 Dec , Ipswich Town , 2 - 0 , Chelsea
+Mo 30 Dec , Manchester Utd , 0 - 2 , Newcastle Utd
+We 1 Jan , Brentford , 1 - 3 , Arsenal
+Sa 4 Jan , Tottenham , 1 - 2 , Newcastle Utd
+Sa 4 Jan , Aston Villa , 2 - 1 , Leicester City
+Sa 4 Jan , Bournemouth , 1 - 0 , Everton
+Sa 4 Jan , Crystal Palace , 1 - 1 , Chelsea
+Sa 4 Jan , Manchester City , 4 - 1 , West Ham Utd
+Sa 4 Jan , Southampton , 0 - 5 , Brentford
+Sa 4 Jan , Brighton , 1 - 1 , Arsenal
+Su 5 Jan , Fulham , 2 - 2 , Ipswich Town
+Su 5 Jan , Liverpool , 2 - 2 , Manchester Utd
+Mo 6 Jan , Wolverhampton , 0 - 3 , Nottm Forest
+Tu 14 Jan , Brentford , 2 - 2 , Manchester City
+Tu 14 Jan , Chelsea , 2 - 2 , Bournemouth
+Tu 14 Jan , West Ham Utd , 3 - 2 , Fulham
+Tu 14 Jan , Nottm Forest , 1 - 1 , Liverpool
+We 15 Jan , Everton , 0 - 1 , Aston Villa
+We 15 Jan , Leicester City , 0 - 2 , Crystal Palace
+We 15 Jan , Newcastle Utd , 3 - 0 , Wolverhampton
+We 15 Jan , Arsenal , 2 - 1 , Tottenham
+Th 16 Jan , Ipswich Town , 0 - 2 , Brighton
+Th 16 Jan , Manchester Utd , 3 - 1 , Southampton
+Sa 18 Jan , Newcastle Utd , 1 - 4 , Bournemouth
+Sa 18 Jan , Brentford , 0 - 2 , Liverpool
+Sa 18 Jan , Leicester City , 0 - 2 , Fulham
+Sa 18 Jan , West Ham Utd , 0 - 2 , Crystal Palace
+Sa 18 Jan , Arsenal , 2 - 2 , Aston Villa
+Su 19 Jan , Everton , 3 - 2 , Tottenham
+Su 19 Jan , Manchester Utd , 1 - 3 , Brighton
+Su 19 Jan , Nottm Forest , 3 - 2 , Southampton
+Su 19 Jan , Ipswich Town , 0 - 6 , Manchester City
+Mo 20 Jan , Chelsea , 3 - 1 , Wolverhampton
+Sa 25 Jan , Bournemouth , 5 - 0 , Nottm Forest
+Sa 25 Jan , Brighton , 0 - 1 , Everton
+Sa 25 Jan , Liverpool , 4 - 1 , Ipswich Town
+Sa 25 Jan , Southampton , 1 - 3 , Newcastle Utd
+Sa 25 Jan , Wolverhampton , 0 - 1 , Arsenal
+Sa 25 Jan , Manchester City , 3 - 1 , Chelsea
+Su 26 Jan , Crystal Palace , 1 - 2 , Brentford
+Su 26 Jan , Tottenham , 1 - 2 , Leicester City
+Su 26 Jan , Aston Villa , 1 - 1 , West Ham Utd
+Su 26 Jan , Fulham , 0 - 1 , Manchester Utd
+Sa 1 Feb , Nottm Forest , 7 - 0 , Brighton
+Sa 1 Feb , Bournemouth , 0 - 2 , Liverpool
+Sa 1 Feb , Everton , 4 - 0 , Leicester City
+Sa 1 Feb , Ipswich Town , 1 - 2 , Southampton
+Sa 1 Feb , Newcastle Utd , 1 - 2 , Fulham
+Sa 1 Feb , Wolverhampton , 2 - 0 , Aston Villa
+Su 2 Feb , Brentford , 0 - 2 , Tottenham
+Su 2 Feb , Manchester Utd , 0 - 2 , Crystal Palace
+Su 2 Feb , Arsenal , 5 - 1 , Manchester City
+Mo 3 Feb , Chelsea , 2 - 1 , West Ham Utd
+We 12 Feb , Everton , 2 - 2 , Liverpool
+Fr 14 Feb , Brighton , 3 - 0 , Chelsea
+Sa 15 Feb , Leicester City , 0 - 2 , Arsenal
+Sa 15 Feb , Aston Villa , 1 - 1 , Ipswich Town
+Sa 15 Feb , Fulham , 2 - 1 , Nottm Forest
+Sa 15 Feb , Manchester City , 4 - 0 , Newcastle Utd
+Sa 15 Feb , Southampton , 1 - 3 , Bournemouth
+Sa 15 Feb , West Ham Utd , 0 - 1 , Brentford
+Sa 15 Feb , Crystal Palace , 1 - 2 , Everton
