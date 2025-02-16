@@ -143,7 +143,7 @@ matches = ['2.5+TGBTSFr', '29', 'JulUnion', 'Tornesch', '2', '-', '2', 'Altona+4
 'TVh2hTu', '2', 'MayHamm', 'Utd', '17:00', 'Union', 'Torneschh2hTu', '2', 'MayT.', 'Wilhelmsburg', '17:00', 'Palomah2hFr', '5', 'MayHamm', 'Utd', '17:30', 
 'HEBCh2hFr', '5', 'MayOsdorf', '17:30', 'Harksheideh2hFr', '5', 'MayHamburger', 'SV', 'C', '18:00', 'Eimsbutteler', 'TVh2hSa', '6', 'MayAltona', '12:00', 
 'Curslack-N.h2hSu', '7', 'MayPaloma', '08:45', 'Victoria', 'H.', 'Bh2hSu', '7', 'MayT.', 'Wilhelmsburg', '11:00', 'Süderelbeh2hSu', '7', 'MayNiendorfer', 'TSV', 
-'12:00', 'W.', 'Concordiah2hSu', '7', 'MaySasel', '13:00', 'Rugenbergenh2hSu', '7', 'MayUnion', 'Tornesch', '13:00', 'Dassendorfh2h']
+'12:00', 'W.', 'Concordiah2hSu', '7', 'MaySasel', '13:00', 'RugenbergenSu', '7', 'MayUnion', 'Tornesch', '13:00', 'Dassendorfh2h']
 '''
 
 str2 = 'parei em nenhum flag'
@@ -152,6 +152,8 @@ str3 = 'str3 vazia'
 
 def scrapeSoup (matches, textFile, i, league_name):
     #try:
+        conttt = 0
+        months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
         next_matches_home = []
         next_matches_away = []
         next_matches_date = []
@@ -279,117 +281,85 @@ def scrapeSoup (matches, textFile, i, league_name):
                             flag = 5
                         else:
                             if len(matches[index]) == 5 and matches[index][0].isdigit() == True and matches[index][1].isdigit() == True and matches[index][-1].isdigit() == True and matches[index][-2].isdigit() == True:
-                                print('Ola')
+                                #print('Ola')
+                                next_matches_home.append(home_team[-1])
+                                next_matches_date.append(day_match[-1])
                                 home_team.pop()
-                                next_matches_home.append(matches[index])
+                                day_match.pop()
+                                
                                 str3 = 'to na condicao de parada correta'
                                 flag = 6
                             else:
                                 home_team.pop()
                                 day_match.pop()
-                                jump = jumpTo(index)
-                                index += jump
+                                newIndex = jumpTo(index)
+                                index = newIndex
+                                #print ("Postponed")
+                                #print( matches[index] )
                                 day += matches[index][-2:]
-                                flag = 1
+                                flag = 2
+                                away = ""
+                                home = ""
                 elif flag == 6:
                     str2 = "parei no flag 6"
                     indexador = index
-                    if index == (len(matches)) or cont3 == 14:
+                    if index == (len(matches)) or cont3 == 34:
                         break
                     else:
+                        
                         if flag3 == 1:
-                            if ((index+1) < len(matches)) and matches[index+1].find(':') != -1:
-                                flag3 = 2
-                                if (len(matches[index]) > 3) and (matches[index][3].isupper() == True or matches[index][3].isdigit() == True) and matches[index][2].islower() == True:
-                                    home2 += matches[index][3:]
-                                    day2 += matches[index-2][-2:] + ' '
-                                    day2 += matches[index-1] + ' '
-                                    day2 += matches[index][:3]
-                                    next_matches_date.append(day2)
-                                    day2 = ''
-                                    if home2[2] == ' ':
-                                        home2 = home2[3:]
-                                        if home2[-1] == ' ':
-                                            home2 = home2[:-1]
-                                        next_matches_home.append(home2)
-                                        home2 = ''
-                                    elif home2[1] == ' ':
-                                        home2 = home2[2:]
-                                        if home2[-1] == ' ':
-                                            home2= home2[:-1] 
-                                        next_matches_home.append(home2)
-                                        home2 = ''
-                                else:
-                                    home2 += matches[index]
-                                    cont2 = index - 1
-                                    cont5 = 0
-                                    cont6 = index-1
-                                    while True:
-                                    
-                                        if (len(matches[cont2]) > 3) and (matches[cont2][3].isupper() == True or matches[cont2][3].isdigit() == True) and matches[cont2][2].islower() == True:
-                                            ix = cont6 - cont5 + 1
-                                            month = matches[cont2][:3]
-                                            day3 = matches[cont2-1]
-                                            week_day = matches[cont2-2][-2:]
-                                            day2 += week_day + ' ' + day3 + ' ' + month
-                                            next_matches_date.append(day2)
-                                            day2 = ''   
-                                            if matches[cont2 + 1].find(':') == -1:
-                                                home2 += ' '
-                                            while ix != index:
-                                                ix += 1
-                                            break
-                                        cont2 -= 1
-                                        cont5 += 1
+                            if len(matches[index]) <= 2 and len(matches[index + 1]) > 3 and matches[index + 1][:3] in months and (matches[index + 1][3].isupper() == True or matches[index + 1][3].isdigit() == True):
+                                day2 += matches[index] + ' '
+                            
+                            elif len(matches[index]) > 3 and matches[index][:3] in months and (matches[index][3].isupper() == True or matches[index][3].isdigit() == True):
+                                day2 += matches[index][:3]
+                                next_matches_date.append(day2)
+                                day2 = ''
+                                home3 += matches[index][3:]
+                                cont3 += 1
 
-                                    if ( len(matches[index]) > 2 ) and matches[index][2] == ' ':
-                                        home2 = home2[3:]
-                                        if home2[0] == ' ':
-                                            #print (home2)
-                                            #os.system("pause")
-                                            home2 = home2[1:]
-                                        if home2[-1] == ' ':
-                                            home2 = home2[:-1]
-                                        next_matches_home.append(home2)
-                                        home2 = '' 
-                                    else:
-                                        home2 = home2[2:]
-                                        if home2[0] == ' ':
-                                            home2 = home2[1:]
-                                            #print (home2)
-                                            #os.system("pause")
-                                        if home2[-1] == ' ':
-                                            home2 = home2[:-1]
-                                        next_matches_home.append(home2)
-                                        home2 = ''
-                            else:
-                                if (len(matches[index]) > 3) and (matches[index][3].isupper() == True or matches[index][3].isdigit() == True) and matches[index][2].islower() == True:
-                                    home2 += matches[index][3:] + ' '
-                                else:
-                                    home2 += matches[index] + ' '
+                            elif len(matches[index]) <= 5 and matches[index].find(':') != -1:
+                                flag3 = 2 
+                                next_matches_home.append(home3)
+                                home3 = ''
+                                cont3 += 1
+
+                            elif 'pp.' in matches[index]:
+                                home3 = ''
+                                day2 = ''
+                                next_matches_date.pop()
+                                newIndex = jumpTo(index)
+                                index = newIndex
+                                day2 += matches[index][-2:] + ' '
+                                flag3 = 1
+                                cont3 -= 1
+                            
+                            else: 
+                                home3 += ' ' + matches[index]
                         
                         elif flag3 == 2:
-                            if matches[index].find('h2h') != -1:
+                            if len(matches[index]) > 2 and matches[index][-2].isupper() == True and matches[index][-1].islower() == True:
                                 if index != len(matches) - 1:
-                                    away2 += matches[index][:-5]
-                                    if flag4 != 0:
-                                        away2 = away2[6:]
-                                        next_matches_away.append(away2)
-                                        away2 = ''
-                                        flag3 = 1
-                                    else:
-                                        next_matches_away.append(away2)
-                                        away2 = ''
-                                        flag3 = 1
-                                        flag4 = 1
+                                    away2 += matches[index][:-2]
+                                    
+                                    next_matches_away.append(away2)
+                                    day2 += matches[index][-2:] + ' '
+                                    
+                                    away2 = ''
+                                    flag3 = 1
+                                    cont3 += 1
+                                    
+                                    
                                 else:
-                                    away2 += matches[index][:-3]
+                                    away2 += matches[index]
                                     next_matches_away.append(away2)
                                     away2 = ''
                                     str8 = 'parei no ultimo elemento'
+                                    cont3 += 1
                             else:
                                 away2 += matches[index] + ' '
                 else:
+                    '''
                     if flag2 == 1:
                         if len(matches[index]) > 1:  
                             if matches[index][-2].isupper() and matches[index][-1].islower() and matches[index + 1].isdigit():
@@ -397,69 +367,62 @@ def scrapeSoup (matches, textFile, i, league_name):
                                 day += matches[index][-1] + ' '
                                 flag = 1    
                                 flag2 = 0
+                    '''
+                    
+                    
+                    #print(matches[index])
+                    #print(day_match)
+                    #print(home_team)
+                    #print(result)
+                    #print("\n\n\n")
+                    
+                    if matches[index].find('+') != -1 or matches[index].find('-') != -1:
+                        contt = 0
+                        
+                        for caracter in range( 0 , len(matches[index])):
+                            #print (caracter)
+                            if matches[index][caracter] == '+' or matches[index][caracter] == '-':
+                                contt += 1
+                                #print(contt)
+                        
+                        if contt >= 2:
+                            if matches[index].find('(') != -1:
+                                
+                                tamanhoo = len(matches[index]) - 10
 
+                                away += matches[index][:tamanhoo]
+                                
+                                away_team.append(away)
+                                away = ''
                     
-                    
-                    elif matches[index].find('stats') == -1 and matches[index].find('(') == -1:
-                        if matches[index].find('+') != -1 or matches[index].find('-') != -1:
-                            indexes = [i for i, c in enumerate(matches[index]) if c == '+' or c == '-']
-                            if len(indexes) >= 2:
-                                away += matches[index][:indexes[-2]]
-                            away_team.append(away)
-                            away = ''
-                            if len(indexes)>=1:
-                                day += matches[index][indexes[-1] + 1:] + ' '
+                                day += matches[index][-2:] + ' '
+                            else:
+                                tamanhoo = len(matches[index]) - 5
+                                away += matches[index][:tamanhoo]
+                                away_team.append(away)
+                                away = ''
+
+                                day += matches[index][-2:] + ' '
+
                             flag = 1
-                        else:
-                            away += matches[index] + ' '
-            
-                    elif matches[index].find('stats') != -1 and matches[index].find('(') != -1:
-                        matches[index] = matches[index].replace('stats', '')
-                        ind = matches[index].find('(')
-                        away += matches[index][:ind]
-                        away_team.append(away)
-                        away.split()
-                        matches[index] = matches[index].replace(away[-1], '')
-                        away = ''
-                        str = ''
-                        for i in range(5):
-                            str += matches[index][i]
-                        matches[index] = matches[index].replace(str, '') 
-                        indexes = [i for i, c in enumerate(matches[index]) if c == '+' or c == '-']
-                        day += matches[index][indexes[-1] + 1:] + ' ' 
-                        flag = 1
-
-                    elif matches[index].find('(') != -1 and matches[index].find('stats') == -1:
-                        ind = matches[index].find('(')
-                        away += matches[index][:ind]
-                        away = ''
-                        indexes = [i for i, c in enumerate(matches[index]) if c == '+' or c == '-']
-                        day += matches[index][indexes[-1]:]
-                        flag = 1
-            
-                    elif matches[index].find('(') == -1 and matches[index].find('stats') != -1:
-                        matches[index] = matches[index].replace('stats', '')
-                        indexes = [i for i, c in enumerate(matches[index]) if c == '+' or c == '-']
-                        away += matches[index][:indexes[-2]]
-                        away_team.append(away)
-                        away = ''
-                        day += matches[index][indexes[-1] + 1:] + ' ' 
-                        flag = 1
+                        
                     else:
-                        day += matches[index][-2]
-                        day += matches[index][-1]
-                        day += ' '
-                        flag = 1
+                        away += matches[index] + ' '
+                        flag = 5
+                        
+
+                        
+                    
                     
 
         
                 def jumpTo(index):
                     cont = index
-                    while len(matches[cont]) > 2 and matches[cont] < '0' and matches[cont] > '9':
+                    while len(matches[cont]) > 3 and matches[cont][:3] in months and (matches[cont][3].isupper() == True or matches[cont][3].isdigit() == True):
                         cont += 1
                 
                     return cont - 1
-                cont += 1
+                
     #except:
     #    print(matches)
     #    print("\n\n")
@@ -471,6 +434,10 @@ def scrapeSoup (matches, textFile, i, league_name):
         #print (len(home_team))
         #print (len(result))
         #print (len(away_team))
+        #print (day_match)
+        #print (home_team)
+        #print (result)
+        #print (away_team)
         #print (str8)
         #print (next_matches_home)
         #print (next_matches_away)
@@ -478,13 +445,17 @@ def scrapeSoup (matches, textFile, i, league_name):
         #print (len(next_matches_home))
         #print (len(next_matches_away))
         #print (len(next_matches_date))
+        
         with open(textFile, "w") as arq:
             for index in range(len(away_team)):
                 if len(home_team) > index:
                     arq.write(f"{day_match[index]} , {home_team[index]} , {result[index]} , {away_team[index]}\n")
+                    print('To aqyu')
                 else:
                     if len(result) > index:
                         arq.write(f"{day_match[index]} , NULL , {result[index]} , {away_team[index]}\n")
+                        print('To aqyu 2')
+            
         lines3 = []
 
         for index in range(15):
@@ -495,7 +466,8 @@ def scrapeSoup (matches, textFile, i, league_name):
             lines3.append(next_matches_away[index])
             return_list.append(lines3)   
         if len(return_list) > 0: 
-            print (return_list[0][1])
+            #print (return_list[0][1])
+            pass
         
         return return_list
 

@@ -6,6 +6,11 @@ leagues = []
 files_total = []
 matches_next = []
 
+
+headers = {
+    "Accept-Encoding": "identity"
+}
+
 '''
 urls.append('https://www.soccerstats.com/results.asp?league=england2&pmtype=bydate')
 files_total.append('england2.txt')
@@ -156,11 +161,11 @@ matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
 urls.append('https://www.soccerstats.com/results.asp?league=spain&pmtype=bydate')
 files_total.append('spain1.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=spain2&pmtype=bydate')
 files_total.append('spain2.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=england&pmtype=bydate')
 files_total.append('england1.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
@@ -251,11 +256,11 @@ matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
 urls.append('https://www.soccerstats.com/results.asp?league=ireland&pmtype=bydate')
 files_total.append('ireland1.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=mexico&pmtype=bydate')
 files_total.append('mexico1.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=mexico2&pmtype=bydate')
 files_total.append('mexico2.txt')
 matches_next.append('https://www.soccerstats.com/results.asp?league=italy')
@@ -328,14 +333,17 @@ files_total.append('japan3.txt')
 urls.append('https://www.soccerstats.com/results.asp?league=iceland&pmtype=bydate')
 files_total.append('iceland1.txt')
 
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=iceland2&pmtype=bydate')
 files_total.append('iceland2.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=iceland3&pmtype=bydate')
 files_total.append('iceland3.txt')
 
 urls.append('https://www.soccerstats.com/results.asp?league=iceland4&pmtype=bydate')
 files_total.append('iceland4.txt')
+'''
 
 urls.append('https://www.soccerstats.com/results.asp?league=lithuania&pmtype=bydate')
 files_total.append('lithuania1.txt')
@@ -348,10 +356,10 @@ files_total.append('south_korea3.txt')
 
 urls.append('https://www.soccerstats.com/results.asp?league=malaysia&pmtype=bydate')
 files_total.append('malasya1.txt')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=myanmar&pmtype=bydate')
 files_total.append('myanmar1.txt')
-
+'''
 urls.append('https://www.soccerstats.com/results.asp?league=usa&pmtype=bydate')
 files_total.append('USA_1.txt')
 
@@ -367,15 +375,22 @@ files_total.append('venezuela1.txt')
 urls.append('https://www.soccerstats.com/results.asp?league=chile2&pmtype=bydate')
 files_total.append('chile2.txt')
 
+
+
+
+
 cont = 1
 
 for item in urls:
     print(cont)
+    ind = urls.index(item)
+    print(files_total[ind])
     cont += 1
-    req = requests.get(item)
+    req = requests.get(item, timeout=10, headers=headers)
     soup = BeautifulSoup(req.content, 'html.parser')
     league = soup.find ('table' , id= 'btable').text
     league = league.split()
     leagues.append(league)
+    
 
 
