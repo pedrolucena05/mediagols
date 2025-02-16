@@ -19,7 +19,7 @@ O código acabou ficando complexo por causa que os dados extraidos do site vinha
 
 Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a> (Serie A Italiana).<br/> 
 
-Como utilizar a aplicação:
+**Como utilizar a aplicação:**<br/> 
 A aplicação se inicia pelo arquivo **controller.py**<br/> 
 Atualize o arquivo python para a última versão estável<br/> 
 Rode o arquivo controller.py e veja a mágica acontecer!<br/> 
