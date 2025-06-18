@@ -21,7 +21,7 @@ Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results
 
 **Como utilizar a aplicação:**<br/> 
 <br/>A aplicação se inicia pelo arquivo **controller.py**.<br/> 
-Atualize o arquivo python para a última versão estável.<br/> 
+Caso não esteja funcionando a escrita nos arquivos de texto, tente atualizar o python para a última versão estável.<br/> 
 Rode o arquivo controller.py e veja a mágica acontecer!<br/> 
 
 
