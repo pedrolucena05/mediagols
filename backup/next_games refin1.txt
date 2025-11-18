@@ -1,0 +1,66 @@
+Sa 1 Jul , Boca Juniors x Sarmiento , Average: 1.69 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 45.45% , Home Under 2.5 goals: 63.64% , Away Under 2.5 goals: 90.91% , Liga Profesional Argentina , Argentina Green
+Sa 1 Jul , Instituto x Belgrano , Average: 1.73 , Home Over 1.5 goals: 54.55% , Away Over 1.5 goals: 63.64% , Home Under 2.5 goals: 81.82% , Away Under 2.5 goals: 72.73% , Liga Profesional Argentina , Argentina Green
+Sa 1 Jul , Newells x Gimnasia , Average: 1.83 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 63.64% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 54.55% , Liga Profesional Argentina , Argentina Green
+Sa 1 Jul , San Lorenzo x Rosario Central , Average: 1.7 , Home Over 1.5 goals: 18.18% , Away Over 1.5 goals: 70.0% , Home Under 2.5 goals: 90.91% , Away Under 2.5 goals: 50.0% , Liga Profesional Argentina , Argentina Green
+  
+-S 1 Jul , Sao Paulo x Fluminense , Average: 3.08 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 83.33% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 50.0% , Brasileirao Serie A , Brazil 
+Su 2 Jul , Internacional x Cruzeiro , Average: 2.7 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 20.0% , Brasileirao Serie A , Brazil 
+Su 2 Jul , Corinthians x Bragantino , Average: 2.6 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 60.0% , Brasileirao Serie A , Brazil 
+Su 2 Jul , Atletico MG x America MG , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 20.0% , Brasileirao Serie A , Brazil 
+Su 2 Jul , Cuiaba x Santos , Average: 1.9 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie A , Brazil 
+Mo 3 Jul , Goias x Coritiba , Average: 3.7 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 20.0% , Away Under 2.5 goals: 16.67% , Brasileirao Serie A , Brazil 
+Th 29 Jun , Vitoria x Sampaio Correa , Average: 1.92 , Home Over 1.5 goals: 66.67% , Away Over 1.5 goals: 33.33% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 83.33% , Brasileirao Serie B , Brazil 
+
+Sa 1 Jul , Sampaio Correa x Criciuma , Average: 2.04 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 57.14% , Away Under 2.5 goals: 83.33% , Brasileirao Serie B , Brazil 
+
+ 
+ 
+Su 2 Jul , Ponte Preta x Novorizontino , Average: 1.85 , Home Over 1.5 goals: 57.14% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 85.71% , Away Under 2.5 goals: 57.14% , Brasileirao Serie B , Brazil 
+We 28 Jun , CSA x América RN , Average: 1.32 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 75.0% , Brasileirao Serie C , Brazil Green
+ Sa 1 Jul , Confianca x Ypiranga , Average: 3.25 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 25.0% , Brasileirao Serie C , Brazil 
+Sa 1 Jul , Aparecidense x Manaus , Average: 2.3 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie C , Brazil 
+Sa 1 Jul , Paysandu x Brusque , Average: 1.85 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 50.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 75.0% , Brasileirao Serie C , Brazil 
+Su 2 Jul , Amazonas x Pouso Alegre , Average: 1.7 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie C , Brazil Red 
+Su 2 Jul , Figueirense x Operario PR , Average: 2.55 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 50.0% , Brasileirao Serie C , Brazil 
+ 
+Su 2 Jul , Volta Redonda x CSA , Average: 1.98 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 100.0% , Brasileirao Serie C , Brazil 
+ 
+We 28 Jun , S. Shenhua x Nantong Zhiyun , Average: 1.75 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 66.67% , Super League , China Green
+We 28 Jun , Zhejiang x Meizhou Hakka , Average: 3.17 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 50.0% , Super League , China 
+Th 29 Jun , S. Taishan x Changchun Yatai , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Super League , China 
+Su 2 Jul , S. Shenhua x Tianjin T. , Average: 1.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Super League , China Red
+ 
+Mo 3 Jul , S. Taishan x Shanghai Port , Average: 2.17 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 66.67% , Super League , China 
+ 
+Fr 30 Jun , Dundalk x Shamrock Rovers , Average: 2.96 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 18.18% , Away Under 2.5 goals: 63.64% , Premier Division , Ireland 
+Sa 1 Jul , Valerenga x Viking , Average: 3.3 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 40.0% , Eliteserien , Norway 
+ 
+Su 2 Jul , Brann x HamKam , Average: 4.17 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 16.67% , Away Under 2.5 goals: 0.0% , Eliteserien , Norway 
+Su 2 Jul , Lillestrom x Tromso , Average: 3.2 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 40.0% , Eliteserien , Norway 
+ 
+Su 2 Jul , Bodo / Glimt x Molde , Average: 3.67 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 16.67% , Away Under 2.5 goals: 33.33% , Eliteserien , Norway 
+
+Sa 1 Jul , Skeid x Sogndal , Average: 2.73 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 71.43% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 57.14% , Obos Ligaen , Norway 
+Su 2 Jul , Kongsvinger x Start , Average: 3.13 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 14.29% , Obos Ligaen , Norway 
+
+Sa 1 Jul , Ilves x SJK , Average: 1.95 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 80.0% , Veikkausliiga , Finland 
+Sa 1 Jul , Oulu x Haka , Average: 2.8 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 42.86% , Veikkausliiga , Finland 
+
+We 28 Jun , Gnistan x HIFK , Average: 1.9 , Home Over 1.5 goals: 60.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 80.0% , Ykkonen , Finland Green
+ 
+Mo 3 Jul , HIFK x SalPa , Average: 2.21 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 40.0% , Ykkonen , Finland 
+ 
+We 28 Jun , Tallinna Kalev x Harju Jalgpalli , Average: 2.17 , Home Over 1.5 goals: 71.43% , Away Over 1.5 goals: 62.5% , Home Under 2.5 goals: 85.71% , Away Under 2.5 goals: 75.0% , Meistriliiga , Estonia Green 
+ 
+  
+ 
+Sa 1 Jul , Seoul x Daejeon Citizen , Average: 3.23 , Home Over 1.5 goals: 88.89% , Away Over 1.5 goals: 80.0% , Home Under 2.5 goals: 44.44% , Away Under 2.5 goals: 30.0% , K-League-1 , South Korea 
+Su 2 Jul , Incheon Utd x Gangwon , Average: 1.75 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 90.0% , K-League-1 , South Korea Green
+ 
+We 28 Jun , Iguatu x Globo , Average: 3.0 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 0.0% , Brasileirao Serie D , Brazil 
+We 28 Jun , Retro x Jacuipense , Average: 2.62 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Home Under 2.5 goals: 50.0% , Away Under 2.5 goals: 50.0% , Brasileirao Serie D , Brazil 
+Sa 1 Jul , A. Alagoinas x Retro , Average: 1.65 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie D , Brazil Red 
+
+Sa 1 Jul , Atletico CE x Tocantinopolis , Average: 2.12 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 20.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie D , Brazil Green
+ 
+ 

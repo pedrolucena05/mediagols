@@ -1,0 +1,46 @@
+Sa 27 May , Bochum x Leverkusen , Average: 3.19 , Bundesliga , Germany Green
+Sa 27 May , Dortmund x FSV Mainz , Average: 3.66 , Bundesliga , Germany 
+Sa 27 May , E. Frankfurt x Freiburg , Average: 3.16 , Bundesliga , Germany Green 
+Sa 27 May , FC Koln x Bayern Munich , Average: 3.19 , Bundesliga , Germany Red
+Sa 27 May , Monchengladbach x FC Augsburg , Average: 3.5 , Bundesliga , Germany 
+Sa 27 May , RB Leipzig x Schalke 04 , Average: 2.84 , Bundesliga , Germany 
+Sa 27 May , Stuttgart x Hoffenheim , Average: 2.79 , Bundesliga , Germany Green
+Sa 27 May , Wolfsberger AC x Tirol , Average: 3.17 , Bundesliga , Austria Green
+Su 28 May , Salzburg x A. Klagenfurt , Average: 3.17 , Bundesliga , Austria 
+Su 28 May , Magdeburg x Bielefeld , Average: 2.88 , 2 Bundesliga , Germany / First Half Over 0.5 / ODD: 1.25  Green
+Su 28 May , Sandhausen x Hamburger SV , Average: 3.31 , 2 Bundesliga , Austria / First Half Over 0.5 / ODD: 1.2 Red
+Sa 27 May , Hamburger SV B x Weiche F. , Average: 3.12 , Regionalliga Nord , Germany  
+Sa 27 May , Norderstedt x VfB Lubeck , Average: 3.0 , Regionalliga Nord , Germany Red   
+Su 28 May , Benfica x Santa Clara , Average: 2.84 , Primeira Liga , Portugal 
+Su 28 May , FC Porto x Guimaraes , Average: 2.88 , Primeira Liga , Portugal 
+Su 28 May , Trofense x Mafra , Average: 2.9 , Liga Pro , Portugal Green
+Sa 27 May , Independiente x Lanus , Average: 2.82 , Liga Profesional Argentina , Argentina Green 
+Sa 27 May , Athletico PR x Gremio , Average: 3.17 , Brasileirao Serie A , Brazil Green
+Sa 27 May , Cuiaba x Coritiba , Average: 3.5 , Brasileirao Serie A , Brazil 
+Sa 27 May , Flamengo x Cruzeiro , Average: 3.33 , Brasileirao Serie A , Brazil  
+Sa 27 May , Tecnico U. x Mushuc Runa , Average: 2.8 , Liga Pro , Ecuador Red
+Sa 27 May , Delfin x Gualaceo , Average: 2.92 , Liga Pro , Ecuador Red
+Su 28 May , El Nacional x Barcelona SC , Average: 3.3 , Liga Pro , Ecuador 
+Sa 27 May , Lens x AC Ajaccio , Average: 2.92 , Ligue 1 , France 
+Sa 27 May , Lille x Nantes , Average: 2.93 , Ligue 1 , France 
+Sa 27 May , Marseille x Brest , Average: 2.8 , Ligue 1 , France / First Half Over 0.5 / ODD 1.28 Gren   
+Fr 2 Jun , Bohemians x Sligo Rovers , Average: 2.83 , Premier Division , Ireland Green 
+Fr 2 Jun , Drogheda Utd x Cork City , Average: 2.8 , Premier Division , Ireland Red 
+Fr 2 Jun , UC Dublin x St. Patricks , Average: 3.01 , Premier Division , Ireland  
+Mo 5 Jun , Dundalk x UC Dublin , Average: 3.4 , Premier Division , Ireland  
+Su 28 May , AZ Alkmaar x PSV Eindhoven , Average: 3.46 , Eredivisie , Netherlands Green 
+Su 28 May , FC Twente x Ajax Amsterdam , Average: 3.5 , Eredivisie , Netherlands Green
+Mo 29 May , Bodo / Glimt x Viking , Average: 2.88 , Eliteserien , Norway / First Half Over 0.5 / ODD 1.22 
+Mo 29 May , HamKam x Lillestrom , Average: 3.04 , Eliteserien , Norway Red
+Su 4 Jun , Lillestrom x Stabaek , Average: 4.33 , Eliteserien , Norway 
+Su 4 Jun , Rosenborg x HamKam , Average: 4.0 , Eliteserien , Norway 
+Su 4 Jun , Valerenga x Bodo / Glimt , Average: 3.62 , Eliteserien , Norway 
+Mo 29 May , Jerv x Hodd , Average: 3.38 , Obos Ligaen , Norway Green
+Mo 29 May , Kongsvinger x Sogndal , Average: 3.25 , Obos Ligaen , Norway Red
+Mo 29 May , Kristiansund x Skeid , Average: 3.4 , Obos Ligaen , Norway Green
+Sa 27 May , G. Caballero x Libertad , Average: 2.83 , Primera Paraguay , Paraguay Green
+Sa 3 Jun , Cerro Porteno x Libertad , Average: 3.0 , Primera Paraguay , Paraguay Green
+Sa 27 May , Alianza A. x Atletico Grau , Average: 3.0 , Liga 1 , Peru  
+Sa 27 May , GIF Sundsvall x Skovde AIK , Average: 2.88 , Superettan , Sweden Green 
+Sa 27 May , Orgryte x Gefle , Average: 2.83 , Superettan , Sweden / Over 1.5 / 1.25 Green
+Su 28 May , Ostersunds x Utsikten , Average: 3.17 , Superettan , Sweden Green 
