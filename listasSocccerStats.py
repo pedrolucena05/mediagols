@@ -4,7 +4,8 @@ import requests
 urls = []
 leagues = []
 files_total = []
-matches_next = []
+corruptedLeagues = []
+cont = 1
 
 
 headers = {
@@ -110,51 +111,66 @@ files_total.append('ireland1.txt')
 urls.append('https://www.soccerstats.com/results.asp?league=mexico&pmtype=bydate')
 files_total.append('mexico1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=mexico2&pmtype=bydate')
 files_total.append('mexico2.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=netherlands&pmtype=bydate')
 files_total.append('eredivise.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=netherlands2&pmtype=bydate')
 files_total.append('eerste.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=norway&pmtype=bydate')
 files_total.append('norway1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=norway2&pmtype=bydate')
 files_total.append('norway2.txt')
 
-'''
+
 urls.append('https://www.soccerstats.com/results.asp?league=paraguay&pmtype=bydate')
 files_total.append('paraguay1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=peru&pmtype=bydate')
 files_total.append('peru1.txt')
-'''
+
+
 urls.append('https://www.soccerstats.com/results.asp?league=poland&pmtype=bydate')
 files_total.append('poland1.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=romania&pmtype=bydate')
 files_total.append('romania1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=sweden2&pmtype=bydate')
 files_total.append('sweden2.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=finland&pmtype=bydate')
 files_total.append('finland1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=finland2&pmtype=bydate')
 files_total.append('finland2.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=estonia&pmtype=bydate')
 files_total.append('estonia1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=southkorea&pmtype=bydate')
 files_total.append('south_korea1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=brazil4&pmtype=bydate')
 files_total.append('brazil4.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=japan&pmtype=bydate')
 files_total.append('japan1.txt')
@@ -168,32 +184,33 @@ files_total.append('japan3.txt')
 urls.append('https://www.soccerstats.com/results.asp?league=iceland&pmtype=bydate')
 files_total.append('iceland1.txt')
 
+
 urls.append('https://www.soccerstats.com/results.asp?league=iceland2&pmtype=bydate')
 files_total.append('iceland2.txt')
+
 
 urls.append('https://www.soccerstats.com/results.asp?league=iceland3&pmtype=bydate')
 files_total.append('iceland3.txt')
 
-'''
 urls.append('https://www.soccerstats.com/results.asp?league=iceland4&pmtype=bydate')
 files_total.append('iceland4.txt')
-'''
+
+
 urls.append('https://www.soccerstats.com/results.asp?league=lithuania&pmtype=bydate')
 files_total.append('lithuania1.txt')
 
 urls.append('https://www.soccerstats.com/results.asp?league=southkorea2&pmtype=bydate')
 files_total.append('south_korea2.txt')
-'''
+
 urls.append('https://www.soccerstats.com/results.asp?league=southkorea3&pmtype=bydate')
 files_total.append('south_korea3.txt')
-'''
+
 urls.append('https://www.soccerstats.com/results.asp?league=malaysia&pmtype=bydate')
 files_total.append('malasya1.txt')
 
-'''
 urls.append('https://www.soccerstats.com/results.asp?league=myanmar&pmtype=bydate')
 files_total.append('myanmar1.txt')
-'''
+
 urls.append('https://www.soccerstats.com/results.asp?league=usa&pmtype=bydate')
 files_total.append('USA_1.txt')
 
@@ -202,30 +219,28 @@ files_total.append('USA_2.txt')
 
 urls.append('https://www.soccerstats.com/results.asp?league=usa3&pmtype=bydate')
 files_total.append('USA_3.txt')
-'''
+
 urls.append('https://www.soccerstats.com/results.asp?league=venezuela&pmtype=bydate')
 files_total.append('venezuela1.txt')
 
 urls.append('https://www.soccerstats.com/results.asp?league=chile2&pmtype=bydate')
 files_total.append('chile2.txt')
-'''
 
-
-
-
-cont = 1
 
 for item in urls:
-    print(cont)
-    ind = urls.index(item)
-    print(files_total[ind])
-    cont += 1
-    req = requests.get(item, timeout=10, headers=headers)
-    soup = BeautifulSoup(req.content, 'html.parser')
-
-    league = soup.find ('table' , id= 'btable').text
-    league = league.split()
-    leagues.append(league)
+    try:
+        print(cont)
+        ind = urls.index(item)
+        print(files_total[ind])
+        cont += 1
+        req = requests.get(item, timeout=10, headers=headers)
+        soup = BeautifulSoup(req.content, 'html.parser')
+        league = soup.find ('table' , id= 'btable').text
+        league = league.split()
+        leagues.append(league)
+    except:
+        print("Liga encerrada")
+        corruptedLeagues.append(cont-1)
     
 
 
