@@ -1,0 +1,99 @@
+Sat 9 Aug , Pacos Ferreira , 1 - 2 , Vizela
+Sat 9 Aug , Torreense , 0 - 1 , Sporting CP B
+Sat 9 Aug , Portimonense , 2 - 1 , Penafiel
+Sun 10 Aug , Chaves , 1 - 1 , Benfica B
+Sun 10 Aug , Maritimo , 0 - 1 , Lusitania FC
+Sun 10 Aug , Leixoes , 3 - 0 , Felgueiras
+Sun 10 Aug , FC Porto B , 0 - 0 , Feirense
+Sun 10 Aug , Uniao de Leiria , 3 - 2 , Academico Viseu
+Mon 11 Aug , Oliveirense , 1 - 1 , Farense
+Fri 15 Aug , Feirense , 4 - 1 , Portimonense
+Sat 16 Aug , Felgueiras , 0 - 1 , Maritimo
+Sat 16 Aug , Vizela , 4 - 0 , FC Porto B
+Sat 16 Aug , Academico Viseu , 0 - 0 , Pacos Ferreira
+Sat 16 Aug , Lusitania FC , 2 - 2 , Chaves
+Sun 17 Aug , Farense , 0 - 3 , Torreense
+Sun 17 Aug , Sporting CP B , 1 - 0 , Uniao de Leiria
+Sun 17 Aug , Penafiel , 0 - 0 , Oliveirense
+Sun 17 Aug , Benfica B , 1 - 1 , Leixoes
+Fri 22 Aug , Chaves , 1 - 1 , Felgueiras
+Sat 23 Aug , Portimonense , 1 - 1 , Vizela
+Sat 23 Aug , Pacos Ferreira , 0 - 0 , Uniao de Leiria
+Sat 23 Aug , Torreense , 2 - 1 , Academico Viseu
+Sun 24 Aug , FC Porto B , 0 - 2 , Farense
+Sun 24 Aug , Oliveirense , 1 - 0 , Sporting CP B
+Sun 24 Aug , Leixoes , 3 - 2 , Penafiel
+Sun 24 Aug , Maritimo , 1 - 0 , Feirense
+Mon 25 Aug , Lusitania FC , 1 - 1 , Benfica B
+Fri 29 Aug , Uniao de Leiria , 1 - 0 , Torreense
+Sat 30 Aug , Penafiel , 0 - 2 , Chaves
+Sat 30 Aug , Felgueiras , 3 - 1 , Lusitania FC
+Sat 30 Aug , Feirense , 2 - 0 , Leixoes
+Sat 30 Aug , Benfica B , 1 - 2 , Portimonense
+Sun 31 Aug , Farense , 0 - 2 , Maritimo
+Sun 31 Aug , Sporting CP B , 3 - 0 , Pacos Ferreira
+Sun 31 Aug , Academico Viseu , 2 - 0 , FC Porto B
+Sun 31 Aug , Vizela , 1 - 0 , Oliveirense
+Sat 13 Sep , Felgueiras , 2 - 1 , Benfica B
+Sat 13 Sep , Lusitania FC , 0 - 0 , Penafiel
+Sat 13 Sep , Leixoes , 0 - 2 , Farense
+Sun 14 Sep , Portimonense , 1 - 2 , Sporting CP B
+Sun 14 Sep , Maritimo , 1 - 1 , Vizela
+Sun 14 Sep , Torreense , 0 - 0 , Pacos Ferreira
+Sun 14 Sep , FC Porto B , 1 - 2 , Uniao de Leiria
+Sun 14 Sep , Chaves , 1 - 1 , Feirense
+Mon 15 Sep , Oliveirense , 2 - 2 , Academico Viseu
+Fri 26 Sep , Vizela , 2 - 0 , Leixoes
+Sat 27 Sep , Benfica B , 3 - 3 , Torreense
+Sat 27 Sep , Penafiel , 2 - 0 , Felgueiras
+Sat 27 Sep , Sporting CP B , 0 - 1 , Maritimo
+Sat 27 Sep , Academico Viseu , 2 - 3 , Portimonense
+Sun 28 Sep , Feirense , 1 - 2 , Lusitania FC
+Sun 28 Sep , Farense , 0 - 2 , Chaves
+Mon 29 Sep , Pacos Ferreira , 2 - 2 , FC Porto B
+Fri 3 Oct , Maritimo , 2 - 2 , Academico Viseu
+Sat 4 Oct , Lusitania FC , 1 - 2 , Farense
+Sat 4 Oct , Chaves , 1 - 0 , Vizela
+Sat 4 Oct , Portimonense , 1 - 1 , Uniao de Leiria
+Sun 5 Oct , FC Porto B , 2 - 3 , Torreense
+Sun 5 Oct , Oliveirense , 2 - 2 , Pacos Ferreira
+Sun 5 Oct , Felgueiras , 2 - 0 , Feirense
+Sun 5 Oct , Leixoes , 0 - 4 , Sporting CP B
+Sun 5 Oct , Benfica B , 0 - 2 , Penafiel
+Sat 11 Oct , Uniao de Leiria , 0 - 0 , Oliveirense
+Sun 19 Oct , FC Porto B , 1 - 0 , Maritimo
+Sun 19 Oct , Penafiel , 1 - 2 , Feirense
+Fri 24 Oct , Torreense , 3 - 2 , Oliveirense
+Fri 24 Oct , Vizela , 2 - 2 , Felgueiras
+Sat 25 Oct , Sporting CP B , 4 - 0 , Lusitania FC
+Sat 25 Oct , Uniao de Leiria , 1 - 3 , Leixoes
+Sat 25 Oct , Pacos Ferreira , 4 - 1 , Portimonense
+Sat 25 Oct , Academico Viseu , 1 - 0 , Chaves
+Sat 25 Oct , Feirense , 0 - 2 , Benfica B
+Sun 26 Oct , Farense , 0 - 0 , Penafiel
+Wed 29 Oct , Lusitania FC , 1 - 1 , Vizela
+Wed 29 Oct , Oliveirense , 1 - 0 , FC Porto B
+Thu 30 Oct , Benfica B , 2 - 1 , Pacos Ferreira
+Thu 30 Oct , Portimonense , 0 - 1 , Torreense
+Thu 30 Oct , Leixoes , 1 - 5 , Academico Viseu
+Thu 30 Oct , Maritimo , 1 - 3 , Uniao de Leiria
+Sat 1 Nov , Sporting CP B , 3 - 2 , Feirense
+Sun 2 Nov , Vizela , 1 - 3 , Penafiel
+Sun 2 Nov , Farense , 4 - 3 , Benfica B
+Mon 3 Nov , Oliveirense , 0 - 2 , Maritimo
+Mon 3 Nov , Pacos Ferreira , 3 - 1 , Leixoes
+Mon 3 Nov , Uniao de Leiria , 2 - 1 , Chaves
+Tue 4 Nov , Torreense , 2 - 0 , Felgueiras
+Tue 4 Nov , Academico Viseu , 3 - 2 , Lusitania FC
+Fri 7 Nov , Feirense , 0 - 0 , Farense
+Sat 8 Nov , Penafiel , 1 - 1 , Sporting CP B
+Sat 8 Nov , Portimonense , 1 - 1 , Oliveirense
+Sat 8 Nov , Benfica B , 1 - 2 , Vizela
+Sat 8 Nov , Chaves , 0 - 1 , FC Porto B
+Sun 9 Nov , Leixoes , 1 - 0 , Torreense
+Sun 9 Nov , Felgueiras , 1 - 3 , Academico Viseu
+Sun 9 Nov , Maritimo , 2 - 0 , Pacos Ferreira
+Sun 9 Nov , Lusitania FC , 1 - 1 , Uniao de Leiria
+Sun 16 Nov , Felgueiras , 1 - 1 , Farense
+Sun 16 Nov , Felgueiras , 1 - 1 , Farense
+Sun 16 Nov , Leixoes , 0 - 1 , Chaves

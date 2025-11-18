@@ -1,0 +1,96 @@
+Fri 18 Jul , HB Koge , 2 - 0 , Hobro
+Fri 18 Jul , Hvidovre , 1 - 1 , B 93
+Sat 19 Jul , Hillerod , 2 - 1 , Middelfart
+Sat 19 Jul , Kolding IF , 1 - 0 , Aalborg BK
+Sat 19 Jul , AC Horsens , 0 - 0 , Aarhus Fremad
+Sun 20 Jul , Esbjerg , 0 - 2 , Lyngby
+Fri 25 Jul , HB Koge , 2 - 1 , Aarhus Fremad
+Fri 25 Jul , AC Horsens , 2 - 1 , Kolding IF
+Fri 25 Jul , Lyngby , 1 - 1 , B 93
+Sat 26 Jul , Esbjerg , 2 - 1 , Hvidovre
+Sat 26 Jul , Hillerod , 2 - 2 , Aalborg BK
+Sun 27 Jul , Hobro , 0 - 0 , Middelfart
+Fri 1 Aug , Aalborg BK , 1 - 1 , Hobro
+Fri 1 Aug , B 93 , 1 - 2 , Hillerod
+Fri 1 Aug , Kolding IF , 3 - 1 , HB Koge
+Sat 2 Aug , Aarhus Fremad , 0 - 2 , Lyngby
+Sat 2 Aug , Middelfart , 0 - 1 , Esbjerg
+Mon 4 Aug , Hvidovre , 0 - 0 , AC Horsens
+Fri 8 Aug , Hobro , 1 - 4 , B 93
+Sat 9 Aug , Aarhus Fremad , 3 - 1 , Hillerod
+Sat 9 Aug , Esbjerg , 0 - 2 , Kolding IF
+Sat 9 Aug , AC Horsens , 2 - 0 , Middelfart
+Sun 10 Aug , Lyngby , 1 - 2 , Hvidovre
+Sun 10 Aug , HB Koge , 0 - 2 , Aalborg BK
+Fri 15 Aug , Aalborg BK , 0 - 2 , AC Horsens
+Fri 15 Aug , B 93 , 1 - 5 , Esbjerg
+Fri 15 Aug , Hvidovre , 2 - 0 , Aarhus Fremad
+Sat 16 Aug , Kolding IF , 2 - 3 , Lyngby
+Sat 16 Aug , Hillerod , 0 - 2 , Hobro
+Sat 16 Aug , Middelfart , 2 - 2 , HB Koge
+Tue 19 Aug , Esbjerg , 1 - 0 , Aalborg BK
+Tue 19 Aug , HB Koge , 0 - 1 , B 93
+Tue 19 Aug , Hvidovre , 2 - 2 , Middelfart
+Tue 19 Aug , Lyngby , 1 - 2 , Hillerod
+Wed 20 Aug , Aarhus Fremad , 2 - 2 , Kolding IF
+Wed 20 Aug , Hobro , 0 - 1 , AC Horsens
+Fri 22 Aug , Aalborg BK , 4 - 0 , Hvidovre
+Sat 23 Aug , Lyngby , 0 - 0 , AC Horsens
+Sat 23 Aug , B 93 , 0 - 1 , Kolding IF
+Sat 23 Aug , Hillerod , 3 - 1 , HB Koge
+Sat 23 Aug , Middelfart , 2 - 2 , Aarhus Fremad
+Sun 24 Aug , Hobro , 2 - 0 , Esbjerg
+Fri 29 Aug , Aarhus Fremad , 5 - 1 , Aalborg BK
+Fri 29 Aug , Hvidovre , 1 - 1 , Hobro
+Fri 29 Aug , Kolding IF , 0 - 0 , Hillerod
+Sat 30 Aug , Middelfart , 2 - 2 , Lyngby
+Sun 31 Aug , AC Horsens , 1 - 2 , B 93
+Mon 1 Sep , Esbjerg , 3 - 2 , HB Koge
+Thu 11 Sep , Hobro , 1 - 4 , Lyngby
+Fri 12 Sep , B 93 , 1 - 3 , Aarhus Fremad
+Sat 13 Sep , HB Koge , 1 - 0 , AC Horsens
+Sat 13 Sep , Kolding IF , 0 - 1 , Hvidovre
+Sun 14 Sep , Hillerod , 3 - 0 , Esbjerg
+Sun 14 Sep , Aalborg BK , 4 - 0 , Middelfart
+Sat 20 Sep , Aarhus Fremad , 3 - 0 , Hobro
+Sat 20 Sep , Hvidovre , 3 - 1 , Hillerod
+Sat 20 Sep , Middelfart , 1 - 0 , Kolding IF
+Sat 20 Sep , AC Horsens , 1 - 0 , Esbjerg
+Sun 21 Sep , Aalborg BK , 3 - 0 , B 93
+Sun 21 Sep , Lyngby , 4 - 0 , HB Koge
+Sat 27 Sep , HB Koge , 0 - 2 , Hvidovre
+Sat 27 Sep , B 93 , 1 - 0 , Middelfart
+Sat 27 Sep , Hillerod , 2 - 1 , AC Horsens
+Sat 27 Sep , Lyngby , 2 - 1 , Aalborg BK
+Sun 28 Sep , Hobro , 2 - 2 , Kolding IF
+Sun 28 Sep , Esbjerg , 1 - 1 , Aarhus Fremad
+Thu 2 Oct , Aalborg BK , 2 - 1 , HB Koge
+Fri 3 Oct , AC Horsens , 3 - 3 , Hobro
+Sat 4 Oct , Kolding IF , 2 - 1 , Esbjerg
+Sat 4 Oct , Aarhus Fremad , 1 - 2 , B 93
+Sat 4 Oct , Middelfart , 1 - 2 , Hillerod
+Mon 6 Oct , Hvidovre , 2 - 2 , Lyngby
+Thu 16 Oct , Esbjerg , 1 - 1 , Hobro
+Fri 17 Oct , HB Koge , 2 - 1 , Kolding IF
+Fri 17 Oct , B 93 , 2 - 2 , Aalborg BK
+Sat 18 Oct , Hillerod , 1 - 1 , Hvidovre
+Sat 18 Oct , Middelfart , 0 - 3 , AC Horsens
+Sun 19 Oct , Lyngby , 3 - 3 , Aarhus Fremad
+Thu 23 Oct , Hvidovre , 3 - 1 , HB Koge
+Fri 24 Oct , B 93 , 1 - 0 , AC Horsens
+Fri 24 Oct , Kolding IF , 1 - 0 , Middelfart
+Sat 25 Oct , Aalborg BK , 3 - 2 , Lyngby
+Sat 25 Oct , Aarhus Fremad , 0 - 1 , Esbjerg
+Sat 25 Oct , Hobro , 1 - 2 , Hillerod
+Fri 31 Oct , AC Horsens , 2 - 3 , HB Koge
+Sat 1 Nov , Aarhus Fremad , 0 - 0 , Hvidovre
+Sat 1 Nov , Hillerod , 1 - 1 , Kolding IF
+Sat 1 Nov , Middelfart , 1 - 2 , Aalborg BK
+Sun 2 Nov , Lyngby , 3 - 0 , Hobro
+Sun 2 Nov , Esbjerg , 3 - 2 , B 93
+Fri 7 Nov , Hobro , 2 - 0 , Aarhus Fremad
+Fri 7 Nov , HB Koge , 1 - 1 , Hillerod
+Fri 7 Nov , Kolding IF , 1 - 3 , AC Horsens
+Sat 8 Nov , B 93 , 0 - 3 , Lyngby
+Sun 9 Nov , Hvidovre , 2 - 2 , Aalborg BK
+Mon 10 Nov , Esbjerg , 4 - 2 , Middelfart

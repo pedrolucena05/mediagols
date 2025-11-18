@@ -1,0 +1,125 @@
+Sat 9 Aug , Guingamp , 3 - 3 , Le Mans
+Sat 9 Aug , Laval , 3 - 3 , Saint-Etienne
+Sat 9 Aug , Montpellier , 1 - 1 , Red Star
+Sat 9 Aug , Pau FC , 2 - 0 , Annecy
+Sat 9 Aug , Rodez Aveyron , 0 - 0 , Nancy
+Sat 9 Aug , Troyes , 2 - 1 , Grenoble
+Sat 9 Aug , USL Dunkerque , 2 - 2 , Clermont
+Mon 11 Aug , Amiens , 2 - 2 , Reims
+Fri 15 Aug , Clermont , 0 - 0 , Troyes
+Fri 15 Aug , Grenoble , 1 - 1 , Laval
+Fri 15 Aug , Nancy , 1 - 0 , Boulogne
+Fri 15 Aug , Red Star , 1 - 3 , Amiens
+Fri 15 Aug , SC Bastia , 1 - 1 , Pau FC
+Sat 16 Aug , Annecy , 2 - 2 , USL Dunkerque
+Sat 16 Aug , Reims , 1 - 0 , Guingamp
+Sat 16 Aug , Saint-Etienne , 4 - 0 , Rodez Aveyron
+Mon 18 Aug , Le Mans , 1 - 2 , Montpellier
+Fri 22 Aug , Amiens , 0 - 1 , Annecy
+Fri 22 Aug , Clermont , 2 - 1 , Grenoble
+Fri 22 Aug , Le Mans , 1 - 0 , SC Bastia
+Fri 22 Aug , Rodez Aveyron , 1 - 1 , Laval
+Fri 22 Aug , USL Dunkerque , 1 - 3 , Nancy
+Sat 23 Aug , Guingamp , 0 - 4 , Red Star
+Sat 23 Aug , Troyes , 1 - 0 , Montpellier
+Sat 23 Aug , Boulogne , 0 - 1 , Saint-Etienne
+Mon 25 Aug , Pau FC , 2 - 0 , Reims
+Fri 29 Aug , Laval , 0 - 0 , Clermont
+Fri 29 Aug , Montpellier , 1 - 1 , Amiens
+Fri 29 Aug , Nancy , 2 - 2 , Pau FC
+Fri 29 Aug , Red Star , 1 - 0 , Annecy
+Fri 29 Aug , Rodez Aveyron , 1 - 0 , Boulogne
+Fri 29 Aug , USL Dunkerque , 2 - 0 , Troyes
+Sat 30 Aug , Reims , 1 - 0 , Le Mans
+Sat 30 Aug , SC Bastia , 1 - 3 , Guingamp
+Sat 30 Aug , Saint-Etienne , 1 - 1 , Grenoble
+Fri 12 Sep , Amiens , 0 - 0 , SC Bastia
+Fri 12 Sep , Boulogne , 1 - 2 , Laval
+Fri 12 Sep , Le Mans , 0 - 1 , Rodez Aveyron
+Fri 12 Sep , Pau FC , 0 - 3 , Red Star
+Fri 12 Sep , Troyes , 3 - 0 , Nancy
+Sat 13 Sep , Annecy , 1 - 1 , Reims
+Sat 13 Sep , Grenoble , 1 - 0 , USL Dunkerque
+Sat 13 Sep , Clermont , 1 - 2 , Saint-Etienne
+Mon 15 Sep , Guingamp , 1 - 0 , Montpellier
+Tue 16 Sep , Boulogne , 1 - 0 , SC Bastia
+Fri 19 Sep , Boulogne , 0 - 3 , Pau FC
+Fri 19 Sep , Grenoble , 1 - 3 , Annecy
+Fri 19 Sep , Laval , 0 - 3 , Amiens
+Fri 19 Sep , Nancy , 0 - 1 , Red Star
+Fri 19 Sep , Rodez Aveyron , 0 - 1 , Clermont
+Fri 19 Sep , USL Dunkerque , 2 - 2 , Le Mans
+Sat 20 Sep , Montpellier , 2 - 0 , SC Bastia
+Sat 20 Sep , Troyes , 5 - 2 , Guingamp
+Sat 20 Sep , Saint-Etienne , 3 - 2 , Reims
+Tue 23 Sep , Amiens , 0 - 1 , Saint-Etienne
+Tue 23 Sep , Annecy , 1 - 2 , Nancy
+Tue 23 Sep , Guingamp , 2 - 1 , USL Dunkerque
+Tue 23 Sep , Le Mans , 1 - 0 , Grenoble
+Tue 23 Sep , Montpellier , 1 - 3 , Boulogne
+Tue 23 Sep , Pau FC , 1 - 0 , Laval
+Tue 23 Sep , Red Star , 1 - 3 , Troyes
+Tue 23 Sep , Reims , 4 - 1 , Clermont
+Tue 23 Sep , SC Bastia , 2 - 3 , Rodez Aveyron
+Fri 26 Sep , Clermont , 1 - 1 , Le Mans
+Fri 26 Sep , Grenoble , 0 - 0 , SC Bastia
+Fri 26 Sep , Nancy , 0 - 1 , Reims
+Fri 26 Sep , Rodez Aveyron , 1 - 2 , Pau FC
+Fri 26 Sep , Troyes , 3 - 1 , Annecy
+Sat 27 Sep , Laval , 0 - 1 , Montpellier
+Sat 27 Sep , USL Dunkerque , 6 - 2 , Amiens
+Sat 27 Sep , Saint-Etienne , 2 - 3 , Guingamp
+Mon 29 Sep , Boulogne , 1 - 2 , Red Star
+Fri 3 Oct , Amiens , 0 - 1 , Boulogne
+Fri 3 Oct , Annecy , 0 - 0 , Laval
+Fri 3 Oct , Guingamp , 2 - 2 , Nancy
+Fri 3 Oct , Le Mans , 2 - 2 , Troyes
+Fri 3 Oct , Pau FC , 3 - 1 , Clermont
+Fri 3 Oct , SC Bastia , 0 - 0 , USL Dunkerque
+Sat 4 Oct , Red Star , 1 - 1 , Rodez Aveyron
+Sat 4 Oct , Reims , 2 - 4 , Grenoble
+Sat 4 Oct , Montpellier , 0 - 2 , Saint-Etienne
+Fri 17 Oct , Boulogne , 2 - 2 , Guingamp
+Fri 17 Oct , Clermont , 0 - 1 , Annecy
+Fri 17 Oct , Grenoble , 1 - 1 , Pau FC
+Fri 17 Oct , Rodez Aveyron , 2 - 2 , Reims
+Fri 17 Oct , Troyes , 1 - 0 , SC Bastia
+Sat 18 Oct , Laval , 0 - 1 , Red Star
+Sat 18 Oct , USL Dunkerque , 0 - 1 , Montpellier
+Sat 18 Oct , Saint-Etienne , 2 - 3 , Le Mans
+Mon 20 Oct , Nancy , 0 - 1 , Amiens
+Fri 24 Oct , Guingamp , 0 - 1 , Clermont
+Fri 24 Oct , Le Mans , 1 - 0 , Boulogne
+Fri 24 Oct , Pau FC , 0 - 3 , USL Dunkerque
+Fri 24 Oct , Red Star , 1 - 0 , Grenoble
+Fri 24 Oct , Reims , 0 - 0 , Troyes
+Sat 25 Oct , Amiens , 2 - 1 , Rodez Aveyron
+Sat 25 Oct , Montpellier , 4 - 1 , Nancy
+Sat 25 Oct , Annecy , 4 - 0 , Saint-Etienne
+Tue 28 Oct , Boulogne , 2 - 6 , Reims
+Tue 28 Oct , Clermont , 1 - 1 , Montpellier
+Tue 28 Oct , Grenoble , 0 - 0 , Guingamp
+Tue 28 Oct , Laval , 1 - 1 , Le Mans
+Tue 28 Oct , Nancy , 2 - 0 , SC Bastia
+Tue 28 Oct , Rodez Aveyron , 2 - 1 , Annecy
+Tue 28 Oct , Saint-Etienne , 6 - 0 , Pau FC
+Tue 28 Oct , Troyes , 3 - 1 , Amiens
+Tue 28 Oct , USL Dunkerque , 3 - 0 , Red Star
+Fri 31 Oct , Annecy , 1 - 1 , Boulogne
+Fri 31 Oct , Guingamp , 2 - 0 , Laval
+Fri 31 Oct , Le Mans , 1 - 0 , Nancy
+Fri 31 Oct , Montpellier , 2 - 0 , Rodez Aveyron
+Fri 31 Oct , SC Bastia , 1 - 0 , Clermont
+Sat 1 Nov , Amiens , 2 - 3 , Grenoble
+Sat 1 Nov , Reims , 1 - 2 , USL Dunkerque
+Sat 1 Nov , Red Star , 2 - 1 , Saint-Etienne
+Mon 3 Nov , Pau FC , 1 - 1 , Troyes
+Fri 7 Nov , Clermont , 2 - 1 , Amiens
+Fri 7 Nov , Grenoble , 2 - 1 , Rodez Aveyron
+Fri 7 Nov , Montpellier , 1 - 0 , Annecy
+Fri 7 Nov , Nancy , 0 - 2 , Laval
+Fri 7 Nov , SC Bastia , 1 - 3 , Reims
+Fri 7 Nov , USL Dunkerque , 1 - 1 , Boulogne
+Sat 8 Nov , Guingamp , 2 - 2 , Pau FC
+Sat 8 Nov , Le Mans , 0 - 0 , Red Star
+Sat 8 Nov , Troyes , 2 - 3 , Saint-Etienne

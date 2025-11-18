@@ -1,0 +1,224 @@
+Sat 29 Mar , Stromsgodset , 1 - 2 , Rosenborg
+Sat 29 Mar , Fredrikstad , 3 - 0 , Brann
+Sun 30 Mar , Valerenga , 3 - 1 , Viking
+Sun 30 Mar , HamKam , 2 - 1 , Kristiansund
+Sun 30 Mar , KFUM Oslo , 3 - 1 , Sandefjord
+Sun 30 Mar , Molde , 0 - 2 , Sarpsborg 08
+Sun 30 Mar , Tromso , 1 - 0 , Haugesund
+Sun 30 Mar , Bryne , 0 - 1 , Bodo/Glimt
+Sat 5 Apr , Bodo/Glimt , 3 - 0 , HamKam
+Sat 5 Apr , Rosenborg , 1 - 0 , Fredrikstad
+Sun 6 Apr , Brann , 3 - 1 , Tromso
+Sun 6 Apr , Haugesund , 0 - 5 , Stromsgodset
+Sun 6 Apr , Kristiansund , 2 - 1 , Bryne
+Sun 6 Apr , Sandefjord , 3 - 0 , Molde
+Sun 6 Apr , Sarpsborg 08 , 1 - 1 , Valerenga
+Sun 6 Apr , Viking , 3 - 1 , KFUM Oslo
+Wed 9 Apr , Fredrikstad , 2 - 0 , Valerenga
+Thu 10 Apr , Brann , 2 - 1 , Stromsgodset
+Thu 10 Apr , Viking , 3 - 1 , Kristiansund
+Sun 20 Apr , Tromso , 2 - 3 , Kristiansund
+Mon 21 Apr , Valerenga , 0 - 2 , Rosenborg
+Mon 21 Apr , Bryne , 3 - 1 , Haugesund
+Mon 21 Apr , Fredrikstad , 3 - 1 , Sandefjord
+Mon 21 Apr , HamKam , 2 - 5 , Viking
+Mon 21 Apr , KFUM Oslo , 1 - 3 , Sarpsborg 08
+Mon 21 Apr , Stromsgodset , 1 - 2 , Brann
+Mon 21 Apr , Molde , 2 - 2 , Bodo/Glimt
+Sun 27 Apr , Rosenborg , 0 - 0 , Molde
+Sun 27 Apr , Bodo/Glimt , 3 - 0 , KFUM Oslo
+Sun 27 Apr , Brann , 3 - 2 , Bryne
+Sun 27 Apr , Haugesund , 0 - 0 , Fredrikstad
+Sun 27 Apr , Kristiansund , 0 - 2 , Valerenga
+Sun 27 Apr , Sandefjord , 2 - 0 , HamKam
+Sun 27 Apr , Sarpsborg 08 , 2 - 3 , Stromsgodset
+Sun 27 Apr , Viking , 4 - 4 , Tromso
+Wed 30 Apr , Viking , 5 - 1 , Haugesund
+Thu 1 May , Rosenborg , 1 - 1 , Kristiansund
+Fri 2 May , HamKam , 0 - 0 , KFUM Oslo
+Sat 3 May , Valerenga , 2 - 4 , Brann
+Sun 4 May , Molde , 2 - 1 , Haugesund
+Sun 4 May , Stromsgodset , 1 - 2 , Kristiansund
+Sun 4 May , Tromso , 0 - 1 , Sandefjord
+Sun 4 May , Viking , 0 - 0 , Sarpsborg 08
+Sun 4 May , Rosenborg , 3 - 0 , Bryne
+Sun 11 May , Brann , 0 - 0 , Rosenborg
+Sun 11 May , Bryne , 0 - 3 , Molde
+Sun 11 May , KFUM Oslo , 1 - 3 , Tromso
+Sun 11 May , Kristiansund , 0 - 1 , Fredrikstad
+Sun 11 May , Sandefjord , 2 - 1 , Valerenga
+Sun 11 May , Sarpsborg 08 , 4 - 0 , HamKam
+Sun 11 May , Haugesund , 1 - 4 , Viking
+Fri 16 May , Brann , 2 - 2 , Sarpsborg 08
+Fri 16 May , Fredrikstad , 1 - 0 , KFUM Oslo
+Fri 16 May , Molde , 0 - 1 , Kristiansund
+Fri 16 May , Rosenborg , 1 - 0 , Haugesund
+Fri 16 May , Stromsgodset , 0 - 2 , Bryne
+Fri 16 May , Tromso , 2 - 1 , Bodo/Glimt
+Fri 16 May , Viking , 3 - 1 , Sandefjord
+Fri 16 May , Valerenga , 1 - 1 , HamKam
+Sat 24 May , Bryne , 4 - 3 , Fredrikstad
+Sat 24 May , Bodo/Glimt , 4 - 0 , Rosenborg
+Sun 25 May , HamKam , 2 - 1 , Molde
+Sun 25 May , Kristiansund , 0 - 1 , Viking
+Sun 25 May , Sandefjord , 3 - 2 , Stromsgodset
+Sun 25 May , Sarpsborg 08 , 0 - 1 , Tromso
+Sun 25 May , Haugesund , 0 - 2 , Brann
+Mon 26 May , KFUM Oslo , 0 - 1 , Valerenga
+Wed 28 May , Fredrikstad , 0 - 2 , Rosenborg
+Wed 28 May , Bodo/Glimt , 2 - 4 , Viking
+Thu 29 May , Brann , 0 - 3 , Molde
+Sat 31 May , Stromsgodset , 0 - 3 , HamKam
+Sat 31 May , Tromso , 2 - 1 , Valerenga
+Sun 1 Jun , Fredrikstad , 1 - 1 , Sarpsborg 08
+Sun 1 Jun , Brann , 4 - 2 , Kristiansund
+Sun 1 Jun , Bryne , 3 - 2 , Sandefjord
+Sun 1 Jun , Haugesund , 0 - 4 , Bodo/Glimt
+Sun 1 Jun , Rosenborg , 1 - 1 , KFUM Oslo
+Sun 1 Jun , Molde , 0 - 1 , Viking
+Sat 21 Jun , Bodo/Glimt , 3 - 0 , Brann
+Sun 22 Jun , Valerenga , 2 - 3 , Molde
+Sun 22 Jun , HamKam , 1 - 3 , Tromso
+Sun 22 Jun , KFUM Oslo , 5 - 0 , Stromsgodset
+Sun 22 Jun , Kristiansund , 4 - 1 , Rosenborg
+Sun 22 Jun , Sandefjord , 4 - 0 , Haugesund
+Sun 22 Jun , Sarpsborg 08 , 1 - 1 , Bryne
+Sun 22 Jun , Viking , 3 - 0 , Fredrikstad
+Sat 28 Jun , Rosenborg , 1 - 1 , Viking
+Sun 29 Jun , Haugesund , 0 - 0 , Kristiansund
+Sun 29 Jun , Bodo/Glimt , 1 - 2 , Sarpsborg 08
+Sun 29 Jun , Bryne , 1 - 1 , HamKam
+Sun 29 Jun , Fredrikstad , 0 - 1 , Tromso
+Sun 29 Jun , Molde , 2 - 3 , KFUM Oslo
+Sun 29 Jun , Stromsgodset , 0 - 2 , Valerenga
+Mon 30 Jun , Brann , 1 - 0 , Sandefjord
+Sat 5 Jul , HamKam , 1 - 1 , Brann
+Sat 5 Jul , Viking , 1 - 0 , Stromsgodset
+Sat 5 Jul , Valerenga , 1 - 1 , Fredrikstad
+Sat 5 Jul , Kristiansund , 1 - 1 , Bodo/Glimt
+Sat 5 Jul , Tromso , 1 - 0 , Molde
+Sun 6 Jul , KFUM Oslo , 1 - 1 , Bryne
+Sun 6 Jul , Sandefjord , 2 - 0 , Rosenborg
+Sun 6 Jul , Sarpsborg 08 , 3 - 1 , Haugesund
+Sat 12 Jul , Bodo/Glimt , 2 - 0 , Sandefjord
+Sat 12 Jul , Fredrikstad , 4 - 2 , Molde
+Sun 13 Jul , Bryne , 1 - 0 , Valerenga
+Sun 13 Jul , Haugesund , 0 - 2 , KFUM Oslo
+Sun 13 Jul , Kristiansund , 0 - 0 , Sarpsborg 08
+Sun 13 Jul , Rosenborg , 2 - 0 , HamKam
+Sun 13 Jul , Stromsgodset , 2 - 3 , Tromso
+Sun 13 Jul , Brann , 3 - 1 , Viking
+Wed 16 Jul , Fredrikstad , 0 - 1 , Bodo/Glimt
+Fri 18 Jul , Sarpsborg 08 , 2 - 2 , Rosenborg
+Sat 19 Jul , KFUM Oslo , 2 - 0 , Brann
+Sat 19 Jul , Molde , 4 - 1 , Stromsgodset
+Sat 19 Jul , Viking , 2 - 4 , Bodo/Glimt
+Sun 20 Jul , Valerenga , 3 - 0 , Haugesund
+Sun 20 Jul , Sandefjord , 6 - 0 , Kristiansund
+Sun 20 Jul , Tromso , 3 - 1 , Bryne
+Sun 20 Jul , HamKam , 1 - 1 , Fredrikstad
+Fri 25 Jul , Fredrikstad , 3 - 2 , Stromsgodset
+Sat 26 Jul , Haugesund , 0 - 3 , HamKam
+Sat 26 Jul , Kristiansund , 0 - 5 , KFUM Oslo
+Sat 26 Jul , Sandefjord , 3 - 2 , Sarpsborg 08
+Sat 26 Jul , Bodo/Glimt , 7 - 2 , Valerenga
+Sun 27 Jul , Bryne , 1 - 3 , Viking
+Sun 27 Jul , Rosenborg , 4 - 1 , Tromso
+Wed 30 Jul , Bodo/Glimt , 1 - 0 , Stromsgodset
+Sat 2 Aug , Tromso , 0 - 0 , Fredrikstad
+Sat 2 Aug , Sarpsborg 08 , 1 - 4 , Brann
+Sun 3 Aug , HamKam , 1 - 3 , Bodo/Glimt
+Sun 3 Aug , KFUM Oslo , 4 - 1 , Rosenborg
+Sun 3 Aug , Molde , 2 - 0 , Bryne
+Sun 3 Aug , Stromsgodset , 2 - 0 , Haugesund
+Sun 3 Aug , Valerenga , 2 - 1 , Sandefjord
+Sat 9 Aug , Molde , 1 - 0 , HamKam
+Sat 9 Aug , Bodo/Glimt , 1 - 1 , Tromso
+Sun 10 Aug , Bryne , 0 - 0 , KFUM Oslo
+Sun 10 Aug , Haugesund , 3 - 2 , Sarpsborg 08
+Sun 10 Aug , Sandefjord , 1 - 2 , Viking
+Fri 15 Aug , Stromsgodset , 0 - 5 , Bodo/Glimt
+Sun 17 Aug , Tromso , 1 - 2 , Brann
+Sun 17 Aug , HamKam , 1 - 0 , Bryne
+Sun 17 Aug , KFUM Oslo , 0 - 0 , Molde
+Sun 17 Aug , Kristiansund , 2 - 2 , Sandefjord
+Sun 17 Aug , Valerenga , 4 - 0 , Sarpsborg 08
+Fri 22 Aug , KFUM Oslo , 2 - 2 , HamKam
+Sun 24 Aug , Haugesund , 2 - 3 , Valerenga
+Sun 24 Aug , Bryne , 2 - 2 , Stromsgodset
+Sun 24 Aug , Molde , 2 - 0 , Tromso
+Mon 25 Aug , Sarpsborg 08 , 0 - 1 , Kristiansund
+Sat 30 Aug , Valerenga , 3 - 2 , Bryne
+Sun 31 Aug , Kristiansund , 2 - 2 , Brann
+Sun 31 Aug , Fredrikstad , 2 - 2 , Haugesund
+Sun 31 Aug , HamKam , 1 - 3 , Sarpsborg 08
+Sun 31 Aug , Sandefjord , 1 - 2 , Bodo/Glimt
+Sun 31 Aug , Tromso , 2 - 0 , KFUM Oslo
+Sun 31 Aug , Viking , 2 - 1 , Rosenborg
+Sun 31 Aug , Stromsgodset , 3 - 1 , Molde
+Fri 12 Sep , Bodo/Glimt , 7 - 1 , Kristiansund
+Sat 13 Sep , Molde , 1 - 2 , Fredrikstad
+Sat 13 Sep , Brann , 3 - 2 , Valerenga
+Sun 14 Sep , Bryne , 0 - 2 , Tromso
+Sun 14 Sep , HamKam , 1 - 2 , Stromsgodset
+Sun 14 Sep , KFUM Oslo , 2 - 2 , Viking
+Sun 14 Sep , Sarpsborg 08 , 2 - 1 , Sandefjord
+Sun 14 Sep , Haugesund , 0 - 3 , Rosenborg
+Sat 20 Sep , Fredrikstad , 1 - 1 , Bryne
+Sat 20 Sep , Sandefjord , 0 - 3 , Brann
+Sat 20 Sep , Valerenga , 1 - 1 , KFUM Oslo
+Sun 21 Sep , Rosenborg , 1 - 1 , Bodo/Glimt
+Sun 21 Sep , Kristiansund , 2 - 0 , Haugesund
+Sun 21 Sep , Stromsgodset , 2 - 1 , Sarpsborg 08
+Sun 21 Sep , Tromso , 1 - 0 , HamKam
+Sun 21 Sep , Viking , 1 - 0 , Molde
+Sat 27 Sep , Sarpsborg 08 , 3 - 3 , Viking
+Sun 28 Sep , Brann , 1 - 0 , Fredrikstad
+Sun 28 Sep , Bryne , 2 - 0 , Kristiansund
+Sun 28 Sep , HamKam , 4 - 0 , Rosenborg
+Sun 28 Sep , Tromso , 3 - 1 , Stromsgodset
+Sun 28 Sep , Molde , 4 - 1 , Valerenga
+Mon 29 Sep , Haugesund , 2 - 3 , Sandefjord
+Wed 1 Oct , KFUM Oslo , 2 - 1 , Fredrikstad
+Sat 4 Oct , Valerenga , 1 - 0 , Tromso
+Sat 4 Oct , Sandefjord , 1 - 0 , Bryne
+Sat 4 Oct , Kristiansund , 2 - 1 , Molde
+Sun 5 Oct , Viking , 3 - 0 , Brann
+Sun 5 Oct , Bodo/Glimt , 2 - 0 , Haugesund
+Sun 5 Oct , Fredrikstad , 1 - 1 , HamKam
+Sun 5 Oct , Stromsgodset , 1 - 1 , KFUM Oslo
+Sun 5 Oct , Rosenborg , 2 - 3 , Sarpsborg 08
+Sat 18 Oct , Sarpsborg 08 , 2 - 5 , Bodo/Glimt
+Sat 18 Oct , Bryne , 2 - 2 , Rosenborg
+Sat 18 Oct , Brann , 4 - 1 , Haugesund
+Sun 19 Oct , Tromso , 1 - 3 , Viking
+Sun 19 Oct , HamKam , 2 - 1 , Valerenga
+Sun 19 Oct , KFUM Oslo , 1 - 1 , Kristiansund
+Sun 19 Oct , Molde , 1 - 3 , Sandefjord
+Sun 19 Oct , Stromsgodset , 0 - 3 , Fredrikstad
+Sat 25 Oct , Viking , 5 - 1 , Bryne
+Sat 25 Oct , Sarpsborg 08 , 2 - 1 , KFUM Oslo
+Sun 26 Oct , Rosenborg , 2 - 3 , Brann
+Sun 26 Oct , Bodo/Glimt , 4 - 1 , Molde
+Sun 26 Oct , Haugesund , 2 - 3 , Tromso
+Sun 26 Oct , Kristiansund , 1 - 3 , HamKam
+Sun 26 Oct , Sandefjord , 0 - 0 , Fredrikstad
+Sun 26 Oct , Valerenga , 2 - 1 , Stromsgodset
+Wed 29 Oct , Brann , 1 - 2 , Bodo/Glimt
+Wed 29 Oct , Rosenborg , 1 - 1 , Sandefjord
+Sat 1 Nov , Valerenga , 3 - 1 , Bodo/Glimt
+Sat 1 Nov , Molde , 4 - 2 , Rosenborg
+Sun 2 Nov , Stromsgodset , 1 - 2 , Viking
+Sun 2 Nov , Bryne , 2 - 1 , Brann
+Sun 2 Nov , Fredrikstad , 3 - 1 , Kristiansund
+Sun 2 Nov , HamKam , 3 - 1 , Sandefjord
+Sun 2 Nov , KFUM Oslo , 1 - 4 , Haugesund
+Sun 2 Nov , Tromso , 4 - 0 , Sarpsborg 08
+Sat 8 Nov , Sarpsborg 08 , 0 - 2 , Fredrikstad
+Sat 8 Nov , Viking , 3 - 0 , HamKam
+Sun 9 Nov , Rosenborg , 1 - 0 , Valerenga
+Sun 9 Nov , Bodo/Glimt , 5 - 0 , Bryne
+Sun 9 Nov , Brann , 1 - 1 , KFUM Oslo
+Sun 9 Nov , Kristiansund , 2 - 1 , Stromsgodset
+Sun 9 Nov , Sandefjord , 1 - 0 , Tromso
+Sun 9 Nov , Haugesund , 0 - 2 , Molde

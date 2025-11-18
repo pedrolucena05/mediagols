@@ -1,0 +1,135 @@
+Mon 21 Apr , JIPPO , 2 - 0 , SalPa
+Tue 22 Apr , SJK Akatemia , 3 - 4 , TPS
+Wed 23 Apr , Ekenas IF , 4 - 2 , KaPa
+Wed 23 Apr , Klubi-04 , 4 - 6 , JaPS
+Wed 23 Apr , PK-35 , 0 - 0 , Lahti
+Sat 26 Apr , TPS , 2 - 1 , JIPPO
+Sun 27 Apr , Ekenas IF , 4 - 2 , JaPS
+Sun 27 Apr , KaPa , 0 - 3 , SJK Akatemia
+Sun 27 Apr , SalPa , 1 - 2 , PK-35
+Mon 28 Apr , Klubi-04 , 0 - 2 , Lahti
+Fri 2 May , JaPS , 0 - 6 , TPS
+Fri 2 May , PK-35 , 1 - 2 , Ekenas IF
+Sat 3 May , Lahti , 1 - 0 , SalPa
+Sat 3 May , SJK Akatemia , 1 - 2 , Klubi-04
+Sun 4 May , KaPa , 1 - 1 , JIPPO
+Sat 10 May , Ekenas IF , 3 - 4 , Klubi-04
+Sat 10 May , SalPa , 1 - 1 , JaPS
+Tue 13 May , JIPPO , 3 - 1 , Lahti
+Tue 13 May , SJK Akatemia , 1 - 1 , PK-35
+Wed 14 May , TPS , 4 - 2 , KaPa
+Sat 17 May , JaPS , 1 - 1 , JIPPO
+Sat 17 May , Lahti , 1 - 0 , SJK Akatemia
+Sat 17 May , SalPa , 0 - 1 , Ekenas IF
+Sun 18 May , Klubi-04 , 3 - 1 , TPS
+Sun 18 May , PK-35 , 4 - 0 , KaPa
+Wed 21 May , JIPPO , 0 - 3 , Klubi-04
+Wed 21 May , KaPa , 3 - 1 , SalPa
+Wed 21 May , PK-35 , 1 - 0 , JaPS
+Wed 21 May , SJK Akatemia , 0 - 1 , Ekenas IF
+Wed 21 May , TPS , 2 - 2 , Lahti
+Sun 25 May , Klubi-04 , 1 - 1 , PK-35
+Sun 25 May , Lahti , 5 - 3 , KaPa
+Sun 25 May , Ekenas IF , 1 - 1 , JIPPO
+Sun 25 May , JaPS , 2 - 2 , SJK Akatemia
+Sun 25 May , SalPa , 1 - 2 , TPS
+Sun 1 Jun , JIPPO , 1 - 1 , PK-35
+Sun 1 Jun , KaPa , 0 - 5 , Klubi-04
+Sun 1 Jun , SalPa , 0 - 0 , SJK Akatemia
+Mon 2 Jun , Lahti , 2 - 0 , JaPS
+Mon 2 Jun , TPS , 2 - 0 , Ekenas IF
+Fri 6 Jun , Ekenas IF , 0 - 1 , Lahti
+Fri 6 Jun , JaPS , 2 - 2 , KaPa
+Fri 6 Jun , PK-35 , 2 - 3 , TPS
+Fri 6 Jun , SJK Akatemia , 3 - 1 , JIPPO
+Fri 13 Jun , JaPS , 2 - 0 , Klubi-04
+Fri 13 Jun , TPS , 3 - 2 , SJK Akatemia
+Sat 14 Jun , KaPa , 1 - 3 , Ekenas IF
+Sat 14 Jun , Lahti , 2 - 1 , PK-35
+Sat 14 Jun , SalPa , 0 - 0 , JIPPO
+Wed 18 Jun , SJK Akatemia , 5 - 3 , KaPa
+Wed 18 Jun , PK-35 , 3 - 1 , SalPa
+Thu 19 Jun , JaPS , 1 - 1 , Ekenas IF
+Thu 19 Jun , JIPPO , 1 - 2 , TPS
+Thu 19 Jun , Lahti , 2 - 1 , Klubi-04
+Mon 23 Jun , PK-35 , 2 - 1 , SJK Akatemia
+Fri 27 Jun , Ekenas IF , 2 - 0 , PK-35
+Fri 27 Jun , TPS , 4 - 2 , JaPS
+Sat 28 Jun , SalPa , 1 - 2 , Lahti
+Sat 28 Jun , Klubi-04 , 3 - 2 , SJK Akatemia
+Sun 29 Jun , JIPPO , 3 - 1 , KaPa
+Thu 3 Jul , KaPa , 4 - 2 , TPS
+Thu 3 Jul , Lahti , 3 - 2 , JIPPO
+Fri 4 Jul , JaPS , 4 - 3 , SalPa
+Sat 5 Jul , Klubi-04 , 2 - 2 , Ekenas IF
+Tue 8 Jul , JIPPO , 1 - 1 , JaPS
+Tue 8 Jul , SJK Akatemia , 0 - 3 , Lahti
+Wed 9 Jul , Ekenas IF , 4 - 0 , SalPa
+Wed 9 Jul , KaPa , 1 - 1 , PK-35
+Wed 9 Jul , TPS , 4 - 1 , Klubi-04
+Sun 13 Jul , Klubi-04 , 1 - 1 , JIPPO
+Sun 13 Jul , Ekenas IF , 3 - 1 , SJK Akatemia
+Sun 13 Jul , JaPS , 1 - 4 , PK-35
+Sun 13 Jul , SalPa , 1 - 0 , KaPa
+Mon 14 Jul , Lahti , 2 - 2 , TPS
+Wed 16 Jul , JIPPO , 3 - 2 , Ekenas IF
+Fri 18 Jul , TPS , 3 - 2 , SalPa
+Sat 19 Jul , KaPa , 2 - 2 , Lahti
+Sat 19 Jul , SJK Akatemia , 4 - 1 , JaPS
+Sat 19 Jul , PK-35 , 1 - 1 , Klubi-04
+Wed 23 Jul , Klubi-04 , 3 - 1 , SalPa
+Fri 25 Jul , Ekenas IF , 0 - 2 , TPS
+Fri 25 Jul , JaPS , 2 - 1 , Lahti
+Fri 25 Jul , PK-35 , 1 - 1 , JIPPO
+Mon 28 Jul , Klubi-04 , 1 - 1 , KaPa
+Mon 28 Jul , SJK Akatemia , 3 - 0 , SalPa
+Sat 2 Aug , JIPPO , 3 - 1 , SJK Akatemia
+Sat 2 Aug , KaPa , 0 - 3 , JaPS
+Sat 2 Aug , Lahti , 3 - 1 , Ekenas IF
+Sat 2 Aug , SalPa , 0 - 3 , Klubi-04
+Sat 2 Aug , TPS , 1 - 2 , PK-35
+Fri 15 Aug , JaPS , 2 - 0 , SalPa
+Fri 15 Aug , TPS , 1 - 3 , PK-35
+Sat 16 Aug , JIPPO , 0 - 1 , Klubi-04
+Sat 16 Aug , Lahti , 2 - 2 , KaPa
+Mon 18 Aug , Ekenas IF , 2 - 3 , SJK Akatemia
+Fri 22 Aug , Ekenas IF , 0 - 2 , Lahti
+Fri 22 Aug , PK-35 , 0 - 0 , JaPS
+Fri 22 Aug , TPS , 2 - 1 , SJK Akatemia
+Sat 23 Aug , SalPa , 0 - 1 , JIPPO
+Sat 23 Aug , Klubi-04 , 0 - 1 , KaPa
+Thu 28 Aug , Lahti , 2 - 2 , Klubi-04
+Fri 29 Aug , JaPS , 0 - 0 , Ekenas IF
+Fri 29 Aug , PK-35 , 0 - 2 , JIPPO
+Sat 30 Aug , KaPa , 3 - 3 , TPS
+Sat 30 Aug , SJK Akatemia , 2 - 1 , SalPa
+Fri 5 Sep , KaPa , 2 - 3 , JaPS
+Fri 5 Sep , TPS , 4 - 0 , Ekenas IF
+Sat 6 Sep , SalPa , 1 - 2 , PK-35
+Sat 6 Sep , JIPPO , 1 - 0 , Lahti
+Fri 12 Sep , Ekenas IF , 2 - 3 , SalPa
+Fri 12 Sep , PK-35 , 1 - 1 , KaPa
+Sat 13 Sep , SJK Akatemia , 1 - 1 , JIPPO
+Sun 14 Sep , Lahti , 2 - 1 , JaPS
+Sun 14 Sep , Klubi-04 , 2 - 3 , TPS
+Fri 19 Sep , JIPPO , 2 - 2 , Ekenas IF
+Fri 19 Sep , SalPa , 1 - 4 , Lahti
+Fri 19 Sep , JaPS , 1 - 1 , TPS
+Fri 19 Sep , KaPa , 3 - 1 , SJK Akatemia
+Sat 20 Sep , PK-35 , 2 - 1 , Klubi-04
+Wed 24 Sep , Klubi-04 , 1 - 4 , SJK Akatemia
+Fri 26 Sep , Ekenas IF , 4 - 1 , KaPa
+Sat 27 Sep , TPS , 0 - 1 , JIPPO
+Sat 27 Sep , Lahti , 1 - 0 , PK-35
+Sat 27 Sep , Klubi-04 , 1 - 0 , SalPa
+Sun 28 Sep , SJK Akatemia , 1 - 1 , JaPS
+Fri 3 Oct , Lahti , 3 - 0 , SJK Akatemia
+Fri 3 Oct , PK-35 , 1 - 2 , Ekenas IF
+Sat 4 Oct , SalPa , 1 - 0 , TPS
+Sat 4 Oct , JIPPO , 2 - 1 , KaPa
+Sat 4 Oct , Klubi-04 , 2 - 1 , JaPS
+Sat 18 Oct , Ekenas IF , 2 - 1 , Klubi-04
+Sat 18 Oct , JaPS , 1 - 1 , JIPPO
+Sat 18 Oct , KaPa , 1 - 2 , SalPa
+Sat 18 Oct , SJK Akatemia , 1 - 2 , PK-35
+Sat 18 Oct , TPS , 3 - 3 , Lah

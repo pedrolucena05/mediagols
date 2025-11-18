@@ -1,0 +1,177 @@
+Sat 5 Apr , Ilves , 3 - 2 , HJK Helsinki
+Sat 5 Apr , Inter Turku , 1 - 1 , KuPS
+Sat 5 Apr , KTP , 0 - 1 , SJK
+Sat 5 Apr , Mariehamn , 0 - 2 , Jaro
+Sat 5 Apr , VPS , 4 - 3 , Oulu
+Sat 5 Apr , Haka , 3 - 2 , Gnistan
+Fri 11 Apr , KTP , 2 - 2 , VPS
+Fri 11 Apr , SJK , 1 - 0 , HJK Helsinki
+Sat 12 Apr , Ilves , 2 - 1 , Jaro
+Sat 12 Apr , Haka , 0 - 1 , Mariehamn
+Sat 12 Apr , Inter Turku , 3 - 0 , Gnistan
+Sat 12 Apr , KuPS , 1 - 0 , Oulu
+Sat 19 Apr , VPS , 0 - 2 , Inter Turku
+Sat 19 Apr , Haka , 2 - 1 , Oulu
+Sat 19 Apr , KTP , 0 - 5 , Ilves
+Sat 19 Apr , Mariehamn , 1 - 2 , SJK
+Sat 19 Apr , KuPS , 1 - 0 , Jaro
+Tue 22 Apr , HJK Helsinki , 0 - 1 , Gnistan
+Wed 23 Apr , KuPS , 4 - 1 , Mariehamn
+Wed 23 Apr , SJK , 3 - 1 , Oulu
+Sat 26 Apr , Oulu , 1 - 4 , Inter Turku
+Sat 26 Apr , Jaro , 2 - 3 , KTP
+Sat 26 Apr , HJK Helsinki , 3 - 1 , VPS
+Sun 27 Apr , Gnistan , 1 - 2 , KuPS
+Sun 27 Apr , Mariehamn , 3 - 2 , Ilves
+Mon 28 Apr , SJK , 2 - 2 , Haka
+Fri 2 May , Haka , 0 - 1 , Jaro
+Fri 2 May , KTP , 1 - 3 , Oulu
+Fri 2 May , VPS , 1 - 0 , Ilves
+Fri 2 May , KuPS , 1 - 0 , SJK
+Sat 3 May , Gnistan , 2 - 0 , Mariehamn
+Sat 3 May , Inter Turku , 1 - 1 , HJK Helsinki
+Fri 9 May , Ilves , 3 - 2 , Haka
+Sat 10 May , KuPS , 3 - 0 , KTP
+Sat 10 May , Mariehamn , 2 - 2 , Inter Turku
+Sat 10 May , Oulu , 2 - 3 , Gnistan
+Sun 11 May , Jaro , 0 - 3 , HJK Helsinki
+Mon 12 May , SJK , 2 - 3 , VPS
+Fri 16 May , Gnistan , 2 - 2 , SJK
+Fri 16 May , Haka , 1 - 3 , KuPS
+Sat 17 May , HJK Helsinki , 4 - 1 , KTP
+Sat 17 May , Inter Turku , 3 - 1 , Ilves
+Sat 17 May , Oulu , 0 - 1 , Mariehamn
+Sat 17 May , VPS , 0 - 0 , Jaro
+Tue 20 May , HJK Helsinki , 4 - 2 , SJK
+Wed 21 May , Ilves , 3 - 0 , KuPS
+Fri 23 May , KTP , 0 - 0 , Haka
+Sat 24 May , Jaro , 1 - 1 , Gnistan
+Sat 24 May , Ilves , 0 - 0 , Oulu
+Sat 24 May , Mariehamn , 0 - 4 , HJK Helsinki
+Sun 25 May , KuPS , 0 - 2 , VPS
+Sun 25 May , SJK , 0 - 1 , Inter Turku
+Sat 31 May , KTP , 2 - 2 , Mariehamn
+Sat 31 May , Haka , 2 - 1 , VPS
+Sat 31 May , Oulu , 2 - 2 , SJK
+Sat 31 May , HJK Helsinki , 0 - 0 , KuPS
+Sun 1 Jun , Gnistan , 0 - 2 , Ilves
+Sun 1 Jun , Jaro , 0 - 1 , Inter Turku
+Sat 14 Jun , Inter Turku , 1 - 1 , Haka
+Sat 14 Jun , Oulu , 0 - 4 , HJK Helsinki
+Sat 14 Jun , Gnistan , 2 - 1 , KTP
+Sat 14 Jun , KuPS , 0 - 3 , Ilves
+Sat 14 Jun , Mariehamn , 1 - 5 , VPS
+Sat 14 Jun , SJK , 3 - 1 , Jaro
+Wed 18 Jun , Ilves , 2 - 3 , SJK
+Wed 18 Jun , Mariehamn , 1 - 0 , KuPS
+Wed 18 Jun , HJK Helsinki , 3 - 1 , Haka
+Wed 18 Jun , Jaro , 2 - 1 , Oulu
+Wed 18 Jun , VPS , 0 - 0 , Gnistan
+Thu 19 Jun , Inter Turku , 5 - 0 , KTP
+Fri 27 Jun , Gnistan , 2 - 2 , Inter Turku
+Fri 27 Jun , KuPS , 3 - 0 , HJK Helsinki
+Sat 28 Jun , SJK , 4 - 1 , Mariehamn
+Sat 28 Jun , Haka , 0 - 4 , Ilves
+Sat 28 Jun , KTP , 3 - 2 , Jaro
+Sat 28 Jun , Oulu , 2 - 1 , VPS
+Tue 1 Jul , KuPS , 6 - 2 , Gnistan
+Wed 2 Jul , HJK Helsinki , 2 - 3 , Jaro
+Wed 2 Jul , Ilves , 2 - 1 , KTP
+Wed 2 Jul , Inter Turku , 0 - 0 , Mariehamn
+Wed 2 Jul , VPS , 1 - 2 , Haka
+Fri 4 Jul , Oulu , 2 - 2 , KuPS
+Sat 5 Jul , SJK , 1 - 1 , Ilves
+Sat 5 Jul , VPS , 0 - 2 , HJK Helsinki
+Sun 6 Jul , Jaro , 1 - 1 , Mariehamn
+Sun 6 Jul , Haka , 0 - 1 , Inter Turku
+Mon 7 Jul , KTP , 0 - 0 , Gnistan
+Sat 12 Jul , Inter Turku , 3 - 1 , Jaro
+Sun 13 Jul , Gnistan , 2 - 0 , Haka
+Sun 13 Jul , Oulu , 3 - 2 , KTP
+Mon 14 Jul , Ilves , 3 - 2 , VPS
+Fri 18 Jul , KTP , 2 - 2 , Inter Turku
+Sat 19 Jul , VPS , 1 - 1 , KuPS
+Sun 20 Jul , SJK , 3 - 1 , Gnistan
+Sun 20 Jul , HJK Helsinki , 3 - 1 , Oulu
+Sun 20 Jul , Jaro , 0 - 1 , Ilves
+Mon 21 Jul , Mariehamn , 1 - 1 , Haka
+Fri 25 Jul , Jaro , 2 - 2 , VPS
+Sat 26 Jul , Haka , 2 - 3 , KTP
+Sat 26 Jul , Mariehamn , 0 - 1 , Oulu
+Sun 27 Jul , Inter Turku , 4 - 1 , SJK
+Mon 28 Jul , Gnistan , 2 - 4 , HJK Helsinki
+Fri 1 Aug , VPS , 1 - 1 , Mariehamn
+Sat 2 Aug , KuPS , 3 - 2 , Haka
+Sat 2 Aug , Oulu , 0 - 1 , Jaro
+Sun 3 Aug , SJK , 3 - 0 , KTP
+Mon 4 Aug , Ilves , 2 - 2 , Gnistan
+Mon 4 Aug , HJK Helsinki , 1 - 4 , Inter Turku
+Fri 8 Aug , Inter Turku , 3 - 2 , Oulu
+Sat 9 Aug , Jaro , 2 - 1 , Haka
+Sat 9 Aug , KTP , 0 - 2 , KuPS
+Sat 9 Aug , Mariehamn , 2 - 5 , Gnistan
+Sun 10 Aug , VPS , 1 - 2 , SJK
+Mon 11 Aug , HJK Helsinki , 5 - 1 , Ilves
+Fri 15 Aug , Gnistan , 0 - 0 , VPS
+Sat 16 Aug , Oulu , 0 - 4 , Ilves
+Sat 16 Aug , Mariehamn , 3 - 0 , KTP
+Sun 17 Aug , Haka , 1 - 2 , HJK Helsinki
+Sun 17 Aug , KuPS , 2 - 1 , Inter Turku
+Mon 18 Aug , Jaro , 0 - 4 , SJK
+Fri 22 Aug , VPS , 3 - 2 , KTP
+Sat 23 Aug , Ilves , 1 - 0 , Inter Turku
+Sun 24 Aug , HJK Helsinki , 8 - 2 , Mariehamn
+Sun 24 Aug , Jaro , 1 - 3 , KuPS
+Mon 25 Aug , Haka , 2 - 3 , SJK
+Mon 25 Aug , Gnistan , 3 - 2 , Oulu
+Sun 31 Aug , Gnistan , 1 - 2 , Jaro
+Sun 31 Aug , Ilves , 2 - 1 , Mariehamn
+Sun 31 Aug , Inter Turku , 2 - 1 , VPS
+Sun 31 Aug , KTP , 1 - 4 , HJK Helsinki
+Sun 31 Aug , Oulu , 3 - 2 , Haka
+Sun 31 Aug , SJK , 1 - 1 , KuPS
+Sat 13 Sep , Mariehamn , 1 - 1 , Haka
+Sat 13 Sep , Gnistan , 0 - 2 , Inter Turku
+Sat 13 Sep , VPS , 2 - 1 , KTP
+Sat 13 Sep , SJK , 3 - 3 , HJK Helsinki
+Sun 14 Sep , Jaro , 1 - 2 , Oulu
+Sun 14 Sep , KuPS , 2 - 4 , Ilves
+Fri 19 Sep , Haka , 0 - 1 , Oulu
+Fri 19 Sep , KTP , 1 - 2 , Jaro
+Sun 21 Sep , Mariehamn , 2 - 1 , VPS
+Tue 23 Sep , Ilves , 3 - 2 , Gnistan
+Tue 23 Sep , KuPS , 3 - 2 , SJK
+Tue 23 Sep , Inter Turku , 0 - 0 , HJK Helsinki
+Fri 26 Sep , VPS , 1 - 0 , Haka
+Sat 27 Sep , Gnistan , 0 - 4 , KuPS
+Sat 27 Sep , Oulu , 0 - 2 , KTP
+Sat 27 Sep , SJK , 2 - 1 , Inter Turku
+Sun 28 Sep , Jaro , 2 - 3 , Mariehamn
+Mon 29 Sep , HJK Helsinki , 2 - 2 , Ilves
+Fri 3 Oct , Jaro , 2 - 1 , Haka
+Fri 3 Oct , HJK Helsinki , 2 - 3 , Gnistan
+Sat 4 Oct , Oulu , 2 - 0 , VPS
+Sat 4 Oct , KTP , 1 - 1 , Mariehamn
+Sat 4 Oct , SJK , 2 - 1 , Ilves
+Sun 5 Oct , Inter Turku , 0 - 3 , KuPS
+Thu 16 Oct , Ilves , 1 - 1 , KuPS
+Sat 18 Oct , Haka , 1 - 2 , KTP
+Sat 18 Oct , Mariehamn , 2 - 0 , Oulu
+Sat 18 Oct , VPS , 1 - 3 , Jaro
+Sun 19 Oct , Gnistan , 3 - 4 , SJK
+Sun 19 Oct , Ilves , 1 - 2 , Inter Turku
+Sun 19 Oct , KuPS , 3 - 1 , HJK Helsinki
+Wed 22 Oct , Inter Turku , 2 - 1 , Gnistan
+Wed 22 Oct , HJK Helsinki , 3 - 4 , SJK
+Sat 25 Oct , Gnistan , 1 - 3 , Ilves
+Sun 26 Oct , HJK Helsinki , 1 - 1 , Inter Turku
+Mon 27 Oct , SJK , 0 - 1 , KuPS
+Thu 30 Oct , Inter Turku , 2 - 2 , SJK
+Thu 30 Oct , KuPS , 1 - 1 , Gnistan
+Thu 30 Oct , Ilves , 3 - 1 , HJK Helsinki
+Sun 2 Nov , KuPS , 3 - 2 , Inter Turku
+Mon 3 Nov , Ilves , 3 - 3 , SJK
+Mon 3 Nov , Gnistan , 2 - 2 , HJK Helsinki
+Sun 9 Nov , HJK Helsinki , 0 - 2 , KuPS
+Sun 9 Nov , Inter Turku , 2 - 0 , Ilves
+Sun 9 Nov , SJK , 3 - 0 , Gnist

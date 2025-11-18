@@ -1,0 +1,132 @@
+Fri 2 May , KFG , 0 - 0 , Aeggir
+Sat 3 May , KFA , 8 - 1 , Kormakur/Hvot
+Sat 3 May , Kari , 1 - 2 , Throttur Vogar
+Sat 3 May , Vidir , 1 - 1 , V. Olafsvik
+Sat 3 May , Grotta , 1 - 1 , Hottur/Huginn
+Sat 3 May , Dalvik/Reynir , 1 - 1 , Haukar
+Fri 9 May , Haukar , 2 - 1 , Vidir
+Sat 10 May , Aeggir , 1 - 2 , KFA
+Sat 10 May , Hottur/Huginn , 1 - 2 , Kari
+Sat 10 May , V. Olafsvik , 4 - 1 , KFG
+Sat 10 May , Kormakur/Hvot , 2 - 0 , Grotta
+Sat 10 May , Throttur Vogar , 1 - 0 , Dalvik/Reynir
+Fri 16 May , Dalvik/Reynir , 4 - 0 , Hottur/Huginn
+Fri 16 May , Vidir , 0 - 2 , Throttur Vogar
+Fri 16 May , KFG , 1 - 4 , Haukar
+Sat 17 May , Aeggir , 3 - 1 , Kormakur/Hvot
+Sat 17 May , KFA , 1 - 1 , V. Olafsvik
+Sun 18 May , Kari , 1 - 2 , Grotta
+Fri 23 May , Grotta , 2 - 0 , Dalvik/Reynir
+Fri 23 May , Throttur Vogar , 2 - 1 , KFG
+Sat 24 May , Hottur/Huginn , 1 - 3 , Vidir
+Sat 24 May , Kormakur/Hvot , 1 - 0 , Kari
+Sat 24 May , V. Olafsvik , 3 - 4 , Aeggir
+Sat 24 May , Haukar , 2 - 1 , KFA
+Thu 29 May , Dalvik/Reynir , 2 - 0 , Kari
+Sat 31 May , Aeggir , 2 - 0 , Haukar
+Sat 31 May , KFG , 5 - 0 , Hottur/Huginn
+Sat 31 May , Vidir , 1 - 1 , Grotta
+Sat 31 May , KFA , 0 - 3 , Throttur Vogar
+Sat 31 May , V. Olafsvik , 0 - 1 , Kormakur/Hvot
+Wed 4 Jun , Grotta , 3 - 0 , KFG
+Wed 4 Jun , Haukar , 1 - 1 , V. Olafsvik
+Wed 4 Jun , Kari , 2 - 1 , Vidir
+Wed 4 Jun , Kormakur/Hvot , 0 - 1 , Dalvik/Reynir
+Wed 4 Jun , Throttur Vogar , 1 - 2 , Aeggir
+Thu 5 Jun , Hottur/Huginn , 1 - 1 , KFA
+Mon 9 Jun , Aeggir , 4 - 1 , Hottur/Huginn
+Mon 9 Jun , KFA , 2 - 3 , Grotta
+Mon 9 Jun , KFG , 3 - 1 , Kari
+Mon 9 Jun , V. Olafsvik , 2 - 0 , Throttur Vogar
+Mon 9 Jun , Vidir , 1 - 0 , Dalvik/Reynir
+Mon 9 Jun , Haukar , 2 - 1 , Kormakur/Hvot
+Sat 14 Jun , Grotta , 3 - 3 , Aeggir
+Sat 14 Jun , Hottur/Huginn , 2 - 1 , V. Olafsvik
+Sat 14 Jun , Kari , 3 - 2 , KFA
+Sat 14 Jun , Throttur Vogar , 2 - 0 , Haukar
+Sat 14 Jun , Dalvik/Reynir , 2 - 1 , KFG
+Sat 14 Jun , Kormakur/Hvot , 2 - 0 , Vidir
+Fri 20 Jun , KFA , 3 - 4 , Dalvik/Reynir
+Fri 20 Jun , KFG , 2 - 1 , Vidir
+Sat 21 Jun , Aeggir , 6 - 1 , Kari
+Sat 21 Jun , Haukar , 3 - 2 , Hottur/Huginn
+Sat 21 Jun , Throttur Vogar , 2 - 1 , Kormakur/Hvot
+Sat 21 Jun , V. Olafsvik , 2 - 2 , Grotta
+Sun 29 Jun , Dalvik/Reynir , 0 - 2 , Aeggir
+Sun 29 Jun , Hottur/Huginn , 2 - 2 , Throttur Vogar
+Sun 29 Jun , Kari , 1 - 4 , V. Olafsvik
+Sun 29 Jun , KFG , 2 - 1 , Kormakur/Hvot
+Sun 29 Jun , Vidir , 1 - 2 , KFA
+Mon 30 Jun , Grotta , 2 - 0 , Haukar
+Fri 4 Jul , Aeggir , 2 - 0 , Vidir
+Fri 4 Jul , Haukar , 4 - 1 , Kari
+Fri 4 Jul , Throttur Vogar , 0 - 0 , Grotta
+Sat 5 Jul , KFA , 5 - 2 , KFG
+Sat 5 Jul , Kormakur/Hvot , 0 - 3 , Hottur/Huginn
+Sat 5 Jul , V. Olafsvik , 0 - 3 , Dalvik/Reynir
+Fri 11 Jul , Vidir , 2 - 4 , Haukar
+Sat 12 Jul , KFA , 4 - 3 , Aeggir
+Sat 12 Jul , Grotta , 1 - 2 , Kormakur/Hvot
+Sat 12 Jul , Kari , 1 - 4 , Hottur/Huginn
+Sat 12 Jul , KFG , 0 - 2 , V. Olafsvik
+Sat 12 Jul , Dalvik/Reynir , 3 - 0 , Throttur Vogar
+Sat 19 Jul , Kormakur/Hvot , 5 - 1 , KFA
+Sun 20 Jul , Aeggir , 6 - 3 , KFG
+Sun 20 Jul , Hottur/Huginn , 0 - 2 , Grotta
+Sun 20 Jul , Throttur Vogar , 0 - 1 , Kari
+Sun 20 Jul , V. Olafsvik , 4 - 2 , Vidir
+Sun 20 Jul , Haukar , 2 - 2 , Dalvik/Reynir
+Thu 24 Jul , Throttur Vogar , 2 - 1 , Vidir
+Fri 25 Jul , Grotta , 1 - 2 , Kari
+Fri 25 Jul , Haukar , 1 - 2 , KFG
+Fri 25 Jul , Hottur/Huginn , 0 - 4 , Dalvik/Reynir
+Sat 26 Jul , V. Olafsvik , 3 - 2 , KFA
+Sat 26 Jul , Kormakur/Hvot , 3 - 2 , Aeggir
+Wed 30 Jul , Dalvik/Reynir , 0 - 1 , Grotta
+Wed 30 Jul , KFA , 3 - 2 , Haukar
+Wed 30 Jul , Aeggir , 4 - 2 , V. Olafsvik
+Wed 30 Jul , Kari , 2 - 3 , Kormakur/Hvot
+Wed 30 Jul , KFG , 4 - 3 , Throttur Vogar
+Wed 30 Jul , Vidir , 2 - 2 , Hottur/Huginn
+Sat 9 Aug , Grotta , 0 - 2 , Vidir
+Sat 9 Aug , Haukar , 0 - 4 , Aeggir
+Sat 9 Aug , Hottur/Huginn , 0 - 0 , KFG
+Sat 9 Aug , Throttur Vogar , 1 - 1 , KFA
+Sat 9 Aug , Kari , 1 - 3 , Dalvik/Reynir
+Sat 9 Aug , Kormakur/Hvot , 0 - 2 , V. Olafsvik
+Wed 13 Aug , Aeggir , 1 - 2 , Throttur Vogar
+Wed 13 Aug , Dalvik/Reynir , 0 - 1 , Kormakur/Hvot
+Wed 13 Aug , KFA , 6 - 1 , Hottur/Huginn
+Wed 13 Aug , V. Olafsvik , 1 - 3 , Haukar
+Wed 13 Aug , Vidir , 4 - 1 , Kari
+Wed 13 Aug , KFG , 2 - 5 , Grotta
+Sat 16 Aug , Throttur Vogar , 2 - 1 , V. Olafsvik
+Sun 17 Aug , Hottur/Huginn , 3 - 1 , Aeggir
+Sun 17 Aug , Grotta , 4 - 2 , KFA
+Sun 17 Aug , Kari , 4 - 3 , KFG
+Sun 17 Aug , Kormakur/Hvot , 2 - 2 , Haukar
+Sun 17 Aug , Dalvik/Reynir , 3 - 5 , Vidir
+Sat 23 Aug , Aeggir , 1 - 3 , Grotta
+Sat 23 Aug , KFA , 2 - 1 , Kari
+Sat 23 Aug , Haukar , 0 - 1 , Throttur Vogar
+Sat 23 Aug , V. Olafsvik , 3 - 0 , Hottur/Huginn
+Sat 23 Aug , KFG , 1 - 1 , Dalvik/Reynir
+Sat 23 Aug , Vidir , 1 - 1 , Kormakur/Hvot
+Sat 30 Aug , Grotta , 3 - 2 , V. Olafsvik
+Sat 30 Aug , Kari , 0 - 4 , Aeggir
+Sat 30 Aug , Dalvik/Reynir , 1 - 1 , KFA
+Sat 30 Aug , Kormakur/Hvot , 0 - 2 , Throttur Vogar
+Sat 30 Aug , Vidir , 2 - 2 , KFG
+Sun 31 Aug , Hottur/Huginn , 0 - 2 , Haukar
+Sat 6 Sep , KFA , 2 - 0 , Vidir
+Sat 6 Sep , Haukar , 0 - 6 , Grotta
+Sat 6 Sep , Kormakur/Hvot , 3 - 1 , KFG
+Sat 6 Sep , Throttur Vogar , 2 - 1 , Hottur/Huginn
+Sat 6 Sep , V. Olafsvik , 2 - 4 , Kari
+Sat 6 Sep , Aeggir , 2 - 1 , Dalvik/Reynir
+Sat 13 Sep , Dalvik/Reynir , 3 - 1 , V. Olafsvik
+Sat 13 Sep , Grotta , 2 - 0 , Throttur Vogar
+Sat 13 Sep , Kari , 2 - 1 , Haukar
+Sat 13 Sep , KFG , 2 - 2 , KFA
+Sat 13 Sep , Vidir , 2 - 3 , Aeggir
+Sat 13 Sep , Hottur/Huginn , 2 - 4 , Kormakur/Hv

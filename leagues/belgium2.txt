@@ -1,0 +1,103 @@
+Fri 8 Aug , OC Charleroi , 1 - 4 , Jong Gent
+Fri 8 Aug , Seraing , 1 - 2 , Beerschot
+Sat 9 Aug , Anderlecht B , 1 - 3 , Kortrijk
+Sat 9 Aug , Eupen , 2 - 0 , RFC Liege
+Sat 9 Aug , Lierse K. , 0 - 2 , Beveren
+Sat 9 Aug , Patro Eisden , 2 - 1 , Lokeren-Temse
+Sat 9 Aug , RWDM , 3 - 3 , Lommel SK
+Sun 10 Aug , Club Brugge B , 1 - 1 , Francs Borains
+Fri 15 Aug , Beveren , 1 - 0 , KRC Genk B
+Fri 15 Aug , Francs Borains , 2 - 0 , Patro Eisden
+Sat 16 Aug , Kortrijk , 1 - 0 , Lierse K.
+Sat 16 Aug , Beerschot , 1 - 1 , Eupen
+Sat 16 Aug , Jong Gent , 0 - 1 , Anderlecht B
+Sat 16 Aug , Lokeren-Temse , 1 - 3 , RWDM
+Sat 16 Aug , Lommel SK , 3 - 0 , OC Charleroi
+Sun 17 Aug , RFC Liege , 2 - 0 , Seraing
+Fri 22 Aug , Jong Gent , 1 - 1 , Beerschot
+Fri 22 Aug , Patro Eisden , 2 - 1 , Club Brugge B
+Sat 23 Aug , RWDM , 0 - 2 , Beveren
+Sat 23 Aug , Francs Borains , 0 - 0 , Lommel SK
+Sat 23 Aug , KRC Genk B , 0 - 0 , Seraing
+Sat 23 Aug , Lierse K. , 3 - 2 , Eupen
+Sat 23 Aug , Lokeren-Temse , 0 - 1 , RFC Liege
+Sat 23 Aug , OC Charleroi , 0 - 3 , Kortrijk
+Fri 29 Aug , Beveren , 3 - 0 , Jong Gent
+Fri 29 Aug , Kortrijk , 2 - 0 , Francs Borains
+Sat 30 Aug , Beerschot , 1 - 0 , Lierse K.
+Sat 30 Aug , Eupen , 1 - 0 , Anderlecht B
+Sat 30 Aug , Lommel SK , 3 - 1 , Lokeren-Temse
+Sat 30 Aug , RFC Liege , 0 - 2 , Patro Eisden
+Sat 30 Aug , Seraing , 3 - 1 , OC Charleroi
+Sun 31 Aug , Club Brugge B , 1 - 2 , KRC Genk B
+Fri 12 Sep , Anderlecht B , 0 - 2 , Beerschot
+Fri 12 Sep , Lokeren-Temse , 2 - 0 , Lierse K.
+Sat 13 Sep , Patro Eisden , 0 - 2 , Lommel SK
+Sat 13 Sep , Club Brugge B , 0 - 2 , RFC Liege
+Sat 13 Sep , Francs Borains , 0 - 3 , Eupen
+Sat 13 Sep , KRC Genk B , 1 - 3 , Kortrijk
+Sun 14 Sep , RWDM , 5 - 0 , Seraing
+Sun 14 Sep , OC Charleroi , 0 - 5 , Beveren
+Fri 19 Sep , Lierse K. , 2 - 0 , RWDM
+Fri 19 Sep , Lommel SK , 1 - 2 , KRC Genk B
+Sat 20 Sep , RFC Liege , 1 - 1 , Anderlecht B
+Sat 20 Sep , Beerschot , 4 - 1 , Francs Borains
+Sat 20 Sep , Eupen , 0 - 0 , Patro Eisden
+Sat 20 Sep , Seraing , 0 - 2 , Jong Gent
+Sun 21 Sep , Beveren , 1 - 0 , Lokeren-Temse
+Sun 21 Sep , Kortrijk , 1 - 1 , Club Brugge B
+Tue 23 Sep , Francs Borains , 0 - 0 , Seraing
+Tue 23 Sep , KRC Genk B , 0 - 2 , Beerschot
+Tue 23 Sep , OC Charleroi , 0 - 2 , Anderlecht B
+Wed 24 Sep , Club Brugge B , 0 - 2 , Lommel SK
+Wed 24 Sep , Lokeren-Temse , 3 - 3 , Eupen
+Wed 24 Sep , RFC Liege , 1 - 2 , Beveren
+Wed 24 Sep , RWDM , 1 - 2 , Kortrijk
+Thu 25 Sep , Jong Gent , 0 - 0 , Lierse K.
+Fri 26 Sep , KRC Genk B , 1 - 4 , Patro Eisden
+Sat 27 Sep , Anderlecht B , 2 - 2 , Club Brugge B
+Sat 27 Sep , Beerschot , 1 - 0 , Lokeren-Temse
+Sat 27 Sep , Beveren , 2 - 1 , Seraing
+Sat 27 Sep , Kortrijk , 1 - 0 , Eupen
+Sun 28 Sep , Jong Gent , 0 - 2 , RWDM
+Sun 28 Sep , Lommel SK , 0 - 1 , RFC Liege
+Sun 28 Sep , Lierse K. , 0 - 0 , OC Charleroi
+Fri 3 Oct , Francs Borains , 3 - 3 , Anderlecht B
+Fri 3 Oct , Seraing , 2 - 3 , Lommel SK
+Sat 4 Oct , Club Brugge B , 0 - 4 , Jong Gent
+Sat 4 Oct , Eupen , 2 - 2 , RWDM
+Sat 4 Oct , OC Charleroi , 0 - 1 , Lokeren-Temse
+Sat 4 Oct , Patro Eisden , 2 - 1 , Lierse K.
+Sun 5 Oct , Kortrijk , 1 - 3 , Beveren
+Sun 5 Oct , RFC Liege , 5 - 0 , KRC Genk B
+Fri 17 Oct , Beerschot , 1 - 1 , Beveren
+Fri 17 Oct , OC Charleroi , 0 - 1 , Eupen
+Sat 18 Oct , KRC Genk B , 3 - 1 , Francs Borains
+Sat 18 Oct , Anderlecht B , 2 - 2 , Lommel SK
+Sat 18 Oct , Jong Gent , 2 - 3 , Kortrijk
+Sat 18 Oct , RWDM , 3 - 1 , Club Brugge B
+Sun 19 Oct , Lierse K. , 1 - 2 , RFC Liege
+Sun 19 Oct , Patro Eisden , 2 - 2 , Seraing
+Fri 24 Oct , Francs Borains , 2 - 0 , Jong Gent
+Fri 24 Oct , Seraing , 1 - 1 , Lierse K.
+Sat 25 Oct , Club Brugge B , 1 - 1 , OC Charleroi
+Sat 25 Oct , Beveren , 2 - 1 , Patro Eisden
+Sat 25 Oct , Eupen , 2 - 1 , KRC Genk B
+Sat 25 Oct , RFC Liege , 4 - 3 , RWDM
+Sun 26 Oct , Anderlecht B , 1 - 2 , Lokeren-Temse
+Sun 26 Oct , Lommel SK , 1 - 2 , Beerschot
+Fri 31 Oct , Lierse K. , 4 - 4 , Lommel SK
+Fri 31 Oct , Lokeren-Temse , 2 - 2 , Francs Borains
+Sat 1 Nov , Jong Gent , 2 - 1 , Eupen
+Sat 1 Nov , Beveren , 2 - 1 , Club Brugge B
+Sat 1 Nov , OC Charleroi , 1 - 1 , RFC Liege
+Sat 1 Nov , RWDM , 1 - 1 , KRC Genk B
+Sun 2 Nov , Beerschot , 1 - 2 , Kortrijk
+Sun 2 Nov , Patro Eisden , 0 - 0 , Anderlecht B
+Fri 7 Nov , Lommel SK , 2 - 2 , Beveren
+Fri 7 Nov , RFC Liege , 0 - 2 , Jong Gent
+Sat 8 Nov , Club Brugge B , 0 - 1 , Lierse K.
+Sat 8 Nov , Kortrijk , 2 - 0 , Patro Eisden
+Sat 8 Nov , Seraing , 1 - 1 , Lokeren-Temse
+Sun 9 Nov , Francs Borains , 0 - 1 , OC Charleroi
+Sun 9 Nov , RWDM , 0 - 1 , Beerschot

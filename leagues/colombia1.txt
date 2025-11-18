@@ -1,0 +1,200 @@
+Sat 25 Jan , Boyaca Chico , 1 - 0 , A. Bucaramanga
+Sat 25 Jan , America de Cali , 4 - 3 , Llaneros
+Sun 26 Jan , A. Nacional , 4 - 0 , Once Caldas
+Sun 26 Jan , Santa Fe , 2 - 1 , D. Pereira
+Sun 26 Jan , Junior , 0 - 0 , Deportivo Cali
+Mon 27 Jan , A. Petrolera , 1 - 1 , I. Medelin
+Mon 27 Jan , R. Aguilas , 1 - 1 , La Equidad
+Tue 28 Jan , Deportes Tolima , 2 - 0 , Deportivo Pasto
+Wed 29 Jan , Fortaleza CEIF , 0 - 0 , Envigado
+Sat 1 Feb , Santa Fe , 0 - 0 , Deportes Tolima
+Sat 1 Feb , Once Caldas , 2 - 1 , Fortaleza CEIF
+Sat 1 Feb , Deportivo Pasto , 0 - 1 , Millonarios
+Sun 2 Feb , Junior , 2 - 2 , R. Aguilas
+Sun 2 Feb , La Equidad , 0 - 1 , A. Nacional
+Sun 2 Feb , Deportivo Cali , 1 - 0 , Envigado
+Sun 2 Feb , I. Medelin , 3 - 0 , Boyaca Chico
+Mon 3 Feb , A. Bucaramanga , 0 - 4 , America de Cali
+Mon 3 Feb , D. Pereira , 0 - 0 , A. Petrolera
+Tue 4 Feb , Llaneros , 2 - 0 , Union Magdalena
+Fri 7 Feb , R. Aguilas , 0 - 0 , Santa Fe
+Sat 8 Feb , Deportes Tolima , 3 - 1 , A. Petrolera
+Sat 8 Feb , Boyaca Chico , 2 - 2 , Llaneros
+Sat 8 Feb , America de Cali , 1 - 1 , Deportivo Pasto
+Sat 8 Feb , Union Magdalena , 0 - 0 , Junior
+Sun 9 Feb , Millonarios , 2 - 1 , La Equidad
+Sun 9 Feb , Envigado , 0 - 1 , I. Medelin
+Sun 9 Feb , Once Caldas , 2 - 1 , A. Bucaramanga
+Sun 9 Feb , Fortaleza CEIF , 1 - 0 , Deportivo Cali
+Mon 10 Feb , A. Nacional , 3 - 0 , D. Pereira
+Wed 12 Feb , Llaneros , 2 - 2 , Millonarios
+Wed 12 Feb , Deportivo Pasto , 3 - 0 , Boyaca Chico
+Wed 12 Feb , I. Medelin , 1 - 1 , Union Magdalena
+Thu 13 Feb , Santa Fe , 2 - 2 , A. Nacional
+Thu 13 Feb , La Equidad , 2 - 3 , Envigado
+Thu 13 Feb , Junior , 2 - 0 , Once Caldas
+Fri 14 Feb , D. Pereira , 0 - 0 , Deportes Tolima
+Sat 15 Feb , Deportivo Cali , 0 - 0 , A. Bucaramanga
+Sat 15 Feb , America de Cali , 2 - 0 , Santa Fe
+Sun 16 Feb , Millonarios , 0 - 1 , I. Medelin
+Sun 16 Feb , Union Magdalena , 0 - 0 , La Equidad
+Mon 17 Feb , Envigado , 0 - 1 , Deportivo Pasto
+Tue 18 Feb , Fortaleza CEIF , 2 - 1 , R. Aguilas
+Tue 18 Feb , A. Bucaramanga , 0 - 0 , A. Petrolera
+Tue 18 Feb , Llaneros , 0 - 1 , Deportivo Cali
+Wed 19 Feb , Boyaca Chico , 0 - 2 , Junior
+Thu 20 Feb , Once Caldas , 3 - 1 , D. Pereira
+Thu 20 Feb , Union Magdalena , 1 - 3 , Millonarios
+Sat 22 Feb , La Equidad , 0 - 1 , Boyaca Chico
+Sat 22 Feb , R. Aguilas , 0 - 1 , Once Caldas
+Sun 23 Feb , D. Pereira , 2 - 0 , Fortaleza CEIF
+Sun 23 Feb , A. Petrolera , 3 - 2 , A. Nacional
+Sun 23 Feb , Deportivo Cali , 3 - 1 , Millonarios
+Mon 24 Feb , Deportes Tolima , 0 - 0 , America de Cali
+Tue 25 Feb , Junior , 1 - 2 , Envigado
+Wed 26 Feb , Deportivo Pasto , 2 - 1 , Union Magdalena
+Fri 28 Feb , I. Medelin , 3 - 0 , Llaneros
+Fri 28 Feb , Envigado , 1 - 7 , Santa Fe
+Sat 1 Mar , Boyaca Chico , 1 - 1 , R. Aguilas
+Sat 1 Mar , A. Bucaramanga , 1 - 1 , Junior
+Sun 2 Mar , America de Cali , 2 - 0 , D. Pereira
+Sun 2 Mar , Once Caldas , 1 - 2 , A. Petrolera
+Sun 2 Mar , Millonarios , 2 - 0 , Deportes Tolima
+Mon 3 Mar , Union Magdalena , 2 - 2 , Deportivo Cali
+Tue 4 Mar , I. Medelin , 1 - 0 , Deportivo Pasto
+Tue 4 Mar , Llaneros , 1 - 0 , La Equidad
+Wed 5 Mar , Fortaleza CEIF , 1 - 5 , A. Nacional
+Sat 8 Mar , R. Aguilas , 0 - 1 , A. Bucaramanga
+Sat 8 Mar , D. Pereira , 2 - 0 , Envigado
+Sat 8 Mar , A. Petrolera , 1 - 0 , Union Magdalena
+Sat 8 Mar , Deportivo Pasto , 1 - 0 , Llaneros
+Sun 9 Mar , La Equidad , 0 - 0 , I. Medelin
+Sun 9 Mar , Santa Fe , 2 - 0 , Fortaleza CEIF
+Sun 9 Mar , Junior , 2 - 1 , Millonarios
+Mon 10 Mar , A. Nacional , 1 - 0 , America de Cali
+Mon 10 Mar , Deportivo Cali , 0 - 0 , Boyaca Chico
+Tue 11 Mar , Deportes Tolima , 2 - 0 , Once Caldas
+Fri 14 Mar , A. Bucaramanga , 0 - 1 , D. Pereira
+Sat 15 Mar , Deportivo Pasto , 2 - 1 , La Equidad
+Sat 15 Mar , Envigado , 0 - 0 , A. Nacional
+Sat 15 Mar , Fortaleza CEIF , 1 - 1 , Deportes Tolima
+Sat 15 Mar , America de Cali , 3 - 0 , A. Petrolera
+Sun 16 Mar , Once Caldas , 0 - 1 , Santa Fe
+Sun 16 Mar , Millonarios , 1 - 0 , R. Aguilas
+Sun 16 Mar , Union Magdalena , 1 - 1 , Boyaca Chico
+Sun 16 Mar , I. Medelin , 0 - 0 , Deportivo Cali
+Mon 17 Mar , Llaneros , 0 - 1 , Junior
+Wed 19 Mar , Santa Fe , 1 - 1 , A. Bucaramanga
+Thu 20 Mar , A. Nacional , 4 - 3 , Deportes Tolima
+Sat 22 Mar , Boyaca Chico , 0 - 0 , Deportivo Pasto
+Sat 22 Mar , La Equidad , 1 - 1 , Fortaleza CEIF
+Sat 22 Mar , D. Pereira , 1 - 1 , Once Caldas
+Sun 23 Mar , Santa Fe , 3 - 2 , Millonarios
+Sun 23 Mar , A. Petrolera , 1 - 2 , A. Bucaramanga
+Sun 23 Mar , A. Nacional , 1 - 1 , I. Medelin
+Mon 24 Mar , R. Aguilas , 1 - 0 , Envigado
+Mon 24 Mar , Deportes Tolima , 1 - 0 , Llaneros
+Mon 24 Mar , Deportivo Cali , 1 - 1 , America de Cali
+Wed 26 Mar , A. Petrolera , 0 - 0 , Fortaleza CEIF
+Wed 26 Mar , Junior , 2 - 1 , Union Magdalena
+Thu 27 Mar , Millonarios , 2 - 0 , Santa Fe
+Thu 27 Mar , Once Caldas , 1 - 0 , Llaneros
+Fri 28 Mar , America de Cali , 3 - 0 , Boyaca Chico
+Sat 29 Mar , A. Bucaramanga , 2 - 0 , A. Nacional
+Sat 29 Mar , Deportivo Pasto , 1 - 1 , Deportivo Cali
+Sun 30 Mar , I. Medelin , 0 - 0 , R. Aguilas
+Sun 30 Mar , Millonarios , 2 - 0 , A. Petrolera
+Sun 30 Mar , Union Magdalena , 0 - 1 , Santa Fe
+Mon 31 Mar , America de Cali , 1 - 0 , Fortaleza CEIF
+Tue 1 Apr , La Equidad , 0 - 1 , Junior
+Tue 1 Apr , Llaneros , 2 - 1 , D. Pereira
+Wed 2 Apr , Boyaca Chico , 1 - 4 , Deportes Tolima
+Fri 4 Apr , A. Petrolera , 1 - 2 , Envigado
+Sat 5 Apr , Santa Fe , 1 - 1 , Deportivo Pasto
+Sat 5 Apr , A. Nacional , 1 - 0 , Union Magdalena
+Sat 5 Apr , Deportivo Cali , 3 - 1 , La Equidad
+Sat 5 Apr , Once Caldas , 3 - 0 , America de Cali
+Sun 6 Apr , Deportes Tolima , 2 - 1 , A. Bucaramanga
+Sun 6 Apr , D. Pereira , 1 - 1 , Boyaca Chico
+Sun 6 Apr , Fortaleza CEIF , 0 - 2 , Millonarios
+Sun 6 Apr , Junior , 1 - 0 , I. Medelin
+Mon 7 Apr , R. Aguilas , 1 - 2 , Llaneros
+Fri 11 Apr , La Equidad , 2 - 1 , Santa Fe
+Fri 11 Apr , Llaneros , 0 - 1 , A. Petrolera
+Sat 12 Apr , Deportivo Cali , 0 - 0 , R. Aguilas
+Sat 12 Apr , Envigado , 1 - 1 , America de Cali
+Sat 12 Apr , Union Magdalena , 2 - 2 , D. Pereira
+Sat 12 Apr , Deportivo Pasto , 3 - 3 , Junior
+Sun 13 Apr , Boyaca Chico , 0 - 0 , Once Caldas
+Sun 13 Apr , Millonarios , 0 - 0 , A. Nacional
+Mon 14 Apr , A. Bucaramanga , 4 - 0 , Fortaleza CEIF
+Tue 15 Apr , Santa Fe , 1 - 2 , I. Medelin
+Tue 15 Apr , A. Petrolera , 1 - 0 , Deportivo Pasto
+Tue 15 Apr , D. Pereira , 2 - 0 , Deportivo Cali
+Wed 16 Apr , Deportes Tolima , 0 - 0 , Junior
+Wed 16 Apr , R. Aguilas , 1 - 1 , Union Magdalena
+Wed 16 Apr , Once Caldas , 3 - 0 , La Equidad
+Wed 16 Apr , A. Nacional , 4 - 1 , Boyaca Chico
+Thu 17 Apr , America de Cali , 0 - 0 , Millonarios
+Thu 17 Apr , A. Bucaramanga , 1 - 0 , Envigado
+Fri 18 Apr , Fortaleza CEIF , 1 - 0 , Llaneros
+Sat 19 Apr , La Equidad , 2 - 0 , America de Cali
+Sat 19 Apr , Junior , 2 - 0 , A. Petrolera
+Sun 20 Apr , I. Medelin , 2 - 0 , Once Caldas
+Sun 20 Apr , Envigado , 3 - 1 , Deportes Tolima
+Sun 20 Apr , Union Magdalena , 1 - 1 , A. Bucaramanga
+Sun 20 Apr , Deportivo Cali , 1 - 0 , A. Nacional
+Mon 21 Apr , Boyaca Chico , 0 - 2 , Fortaleza CEIF
+Tue 22 Apr , Deportivo Pasto , 1 - 0 , R. Aguilas
+Sat 26 Apr , Envigado , 2 - 1 , Union Magdalena
+Sat 26 Apr , A. Petrolera , 0 - 0 , R. Aguilas
+Sat 26 Apr , Deportes Tolima , 2 - 1 , La Equidad
+Sun 27 Apr , D. Pereira , 1 - 0 , Junior
+Sun 27 Apr , Santa Fe , 0 - 0 , Boyaca Chico
+Sun 27 Apr , Fortaleza CEIF , 0 - 0 , I. Medelin
+Sun 27 Apr , America de Cali , 2 - 0 , Deportivo Cali
+Mon 28 Apr , A. Bucaramanga , 0 - 2 , Millonarios
+Wed 30 Apr , A. Nacional , 3 - 0 , Deportivo Pasto
+Wed 30 Apr , R. Aguilas , 0 - 1 , America de Cali
+Thu 1 May , Llaneros , 0 - 1 , Santa Fe
+Thu 1 May , Envigado , 1 - 2 , Once Caldas
+Sat 3 May , La Equidad , 0 - 2 , A. Petrolera
+Sat 3 May , Llaneros , 2 - 1 , A. Bucaramanga
+Sat 3 May , Deportivo Cali , 1 - 1 , Deportes Tolima
+Sun 4 May , Junior , 0 - 0 , America de Cali
+Sun 4 May , Deportivo Pasto , 1 - 0 , Fortaleza CEIF
+Sun 4 May , I. Medelin , 1 - 1 , A. Nacional
+Sun 4 May , Union Magdalena , 0 - 3 , Once Caldas
+Mon 5 May , R. Aguilas , 3 - 3 , D. Pereira
+Tue 6 May , Boyaca Chico , 1 - 0 , Envigado
+Fri 9 May , Millonarios , 0 - 0 , D. Pereira
+Fri 9 May , Deportes Tolima , 3 - 1 , Union Magdalena
+Sat 10 May , A. Bucaramanga , 2 - 0 , I. Medelin
+Sat 10 May , Envigado , 0 - 2 , R. Aguilas
+Sat 10 May , Fortaleza CEIF , 4 - 0 , La Equidad
+Sun 11 May , Santa Fe , 2 - 1 , Junior
+Sun 11 May , A. Petrolera , 2 - 0 , Deportivo Cali
+Sun 11 May , A. Nacional , 2 - 1 , Llaneros
+Mon 12 May , Once Caldas , 2 - 2 , Millonarios
+Wed 14 May , D. Pereira , 1 - 0 , Deportivo Pasto
+Fri 16 May , I. Medelin , 0 - 1 , Deportes Tolima
+Fri 16 May , Junior , 2 - 1 , Fortaleza CEIF
+Sat 17 May , Millonarios , 1 - 0 , Envigado
+Sat 17 May , La Equidad , 1 - 4 , A. Bucaramanga
+Sat 17 May , Deportivo Cali , 0 - 2 , Santa Fe
+Sun 18 May , Boyaca Chico , 2 - 1 , A. Petrolera
+Sun 18 May , R. Aguilas , 2 - 1 , A. Nacional
+Sun 18 May , Deportivo Pasto , 2 - 1 , Once Caldas
+Mon 19 May , Union Magdalena , 0 - 2 , America de Cali
+Mon 19 May , Llaneros , 1 - 3 , Deportes Tolima
+Tue 20 May , I. Medelin , 2 - 0 , D. Pereira
+Fri 23 May , D. Pereira , 3 - 0 , La Equidad
+Sat 24 May , Envigado , 1 - 2 , Llaneros
+Sat 24 May , Fortaleza CEIF , 0 - 1 , Union Magdalena
+Sun 25 May , A. Bucaramanga , 2 - 1 , Deportivo Pasto
+Sun 25 May , A. Nacional , 2 - 3 , Junior
+Sun 25 May , A. Petrolera , 6 - 1 , Santa Fe
+Sun 25 May , America de Cali , 2 - 0 , I. Medelin
+Sun 25 May , Deportes Tolima , 1 - 2 , R. Aguilas
+Sun 25 May , Millonarios , 4 - 2 , Boyaca Chico
+Sun 25 May , Once Caldas , 1 - 0 , Deportivo Ca

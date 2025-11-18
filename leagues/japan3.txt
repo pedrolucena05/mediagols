@@ -1,0 +1,132 @@
+Fri 2 May , Selfoss , 2 - 1 , Grindavik
+Fri 2 May , Thor Akureyri , 1 - 1 , HK Kopavogur
+Fri 2 May , Fjolnir , 1 - 3 , Keflavik
+Fri 2 May , Njardvik , 1 - 1 , Fylkir
+Fri 2 May , Throttur R. , 1 - 1 , Leiknir R.
+Sat 3 May , IR Reykjavik , 1 - 0 , Volsungur
+Fri 9 May , Leiknir R. , 1 - 4 , Thor Akureyri
+Fri 9 May , HK Kopavogur , 1 - 1 , IR Reykjavik
+Fri 9 May , Keflavik , 0 - 1 , Throttur R.
+Fri 9 May , Fylkir , 2 - 0 , Selfoss
+Sat 10 May , Grindavik , 3 - 3 , Fjolnir
+Sat 10 May , Njardvik , 5 - 1 , Volsungur
+Fri 16 May , Fjolnir , 1 - 1 , Fylkir
+Fri 16 May , Leiknir R. , 0 - 1 , HK Kopavogur
+Fri 16 May , Njardvik , 1 - 1 , IR Reykjavik
+Sat 17 May , Selfoss , 1 - 2 , Volsungur
+Sun 18 May , Thor Akureyri , 2 - 4 , Keflavik
+Sun 18 May , Throttur R. , 2 - 4 , Grindavik
+Fri 23 May , Fylkir , 1 - 2 , Throttur R.
+Fri 23 May , HK Kopavogur , 1 - 3 , Njardvik
+Fri 23 May , IR Reykjavik , 2 - 0 , Selfoss
+Fri 23 May , Keflavik , 6 - 0 , Leiknir R.
+Sat 24 May , Grindavik , 3 - 4 , Thor Akureyri
+Sat 24 May , Volsungur , 2 - 1 , Fjolnir
+Thu 29 May , Throttur R. , 4 - 1 , Volsungur
+Fri 30 May , Thor Akureyri , 4 - 1 , Fylkir
+Fri 30 May , Fjolnir , 0 - 3 , IR Reykjavik
+Fri 30 May , Keflavik , 0 - 3 , HK Kopavogur
+Fri 30 May , Leiknir R. , 2 - 6 , Grindavik
+Fri 30 May , Selfoss , 0 - 4 , Njardvik
+Wed 4 Jun , Thor Akureyri , 1 - 3 , Volsungur
+Wed 4 Jun , Fylkir , 1 - 2 , Leiknir R.
+Wed 4 Jun , HK Kopavogur , 4 - 1 , Selfoss
+Wed 4 Jun , IR Reykjavik , 2 - 1 , Throttur R.
+Wed 4 Jun , Njardvik , 1 - 1 , Fjolnir
+Mon 9 Jun , Grindavik , 2 - 1 , HK Kopavogur
+Mon 9 Jun , Leiknir R. , 3 - 1 , Volsungur
+Mon 9 Jun , Thor Akureyri , 1 - 1 , IR Reykjavik
+Mon 9 Jun , Fjolnir , 0 - 2 , Selfoss
+Mon 9 Jun , Keflavik , 1 - 1 , Fylkir
+Mon 9 Jun , Throttur R. , 2 - 2 , Njardvik
+Fri 13 Jun , Fylkir , 1 - 1 , Grindavik
+Fri 13 Jun , HK Kopavogur , 3 - 0 , Fjolnir
+Fri 13 Jun , IR Reykjavik , 1 - 0 , Leiknir R.
+Sat 14 Jun , Selfoss , 0 - 2 , Throttur R.
+Sat 14 Jun , Volsungur , 1 - 1 , Keflavik
+Sat 14 Jun , Njardvik , 3 - 1 , Thor Akureyri
+Thu 19 Jun , Throttur R. , 1 - 4 , Fjolnir
+Fri 20 Jun , Fylkir , 1 - 2 , HK Kopavogur
+Fri 20 Jun , Leiknir R. , 1 - 1 , Njardvik
+Sat 21 Jun , Grindavik , 2 - 4 , Volsungur
+Sun 22 Jun , Thor Akureyri , 2 - 0 , Selfoss
+Sun 22 Jun , Keflavik , 0 - 0 , IR Reykjavik
+Thu 26 Jun , Njardvik , 3 - 1 , Keflavik
+Fri 27 Jun , Fjolnir , 0 - 5 , Thor Akureyri
+Fri 27 Jun , IR Reykjavik , 6 - 1 , Grindavik
+Fri 27 Jun , Selfoss , 2 - 2 , Leiknir R.
+Fri 27 Jun , Throttur R. , 2 - 2 , HK Kopavogur
+Sat 28 Jun , Volsungur , 1 - 4 , Fylkir
+Thu 3 Jul , Thor Akureyri , 1 - 2 , Throttur R.
+Thu 3 Jul , Grindavik , 1 - 5 , Njardvik
+Thu 3 Jul , Keflavik , 3 - 2 , Selfoss
+Fri 4 Jul , Fylkir , 1 - 2 , IR Reykjavik
+Fri 4 Jul , Leiknir R. , 0 - 1 , Fjolnir
+Sat 5 Jul , HK Kopavogur , 3 - 1 , Volsungur
+Fri 11 Jul , Fjolnir , 2 - 3 , Grindavik
+Fri 11 Jul , IR Reykjavik , 1 - 2 , HK Kopavogur
+Fri 11 Jul , Selfoss , 3 - 1 , Fylkir
+Fri 11 Jul , Throttur R. , 3 - 2 , Keflavik
+Sat 12 Jul , Volsungur , 1 - 1 , Njardvik
+Sat 12 Jul , Thor Akureyri , 2 - 0 , Leiknir R.
+Fri 18 Jul , HK Kopavogur , 1 - 2 , Thor Akureyri
+Fri 18 Jul , Fylkir , 0 - 1 , Njardvik
+Fri 18 Jul , Grindavik , 0 - 2 , Selfoss
+Fri 18 Jul , Keflavik , 5 - 4 , Fjolnir
+Fri 18 Jul , Leiknir R. , 1 - 1 , Throttur R.
+Sat 19 Jul , Volsungur , 2 - 3 , IR Reykjavik
+Fri 25 Jul , Keflavik , 2 - 2 , Thor Akureyri
+Fri 25 Jul , Fylkir , 3 - 3 , Fjolnir
+Fri 25 Jul , Grindavik , 1 - 2 , Throttur R.
+Fri 25 Jul , HK Kopavogur , 1 - 0 , Leiknir R.
+Fri 25 Jul , IR Reykjavik , 2 - 2 , Njardvik
+Sat 26 Jul , Volsungur , 4 - 0 , Selfoss
+Tue 29 Jul , Thor Akureyri , 2 - 0 , Grindavik
+Tue 29 Jul , Leiknir R. , 0 - 2 , Keflavik
+Tue 29 Jul , Njardvik , 3 - 0 , HK Kopavogur
+Tue 29 Jul , Throttur R. , 2 - 1 , Fylkir
+Wed 30 Jul , Fjolnir , 1 - 1 , Volsungur
+Wed 30 Jul , Selfoss , 0 - 1 , IR Reykjavik
+Fri 8 Aug , Fylkir , 1 - 2 , Thor Akureyri
+Fri 8 Aug , Grindavik , 3 - 2 , Leiknir R.
+Fri 8 Aug , HK Kopavogur , 3 - 0 , Keflavik
+Fri 8 Aug , IR Reykjavik , 3 - 3 , Fjolnir
+Fri 8 Aug , Njardvik , 2 - 1 , Selfoss
+Sat 9 Aug , Volsungur , 2 - 2 , Throttur R.
+Wed 13 Aug , Grindavik , 1 - 4 , Keflavik
+Wed 13 Aug , Keflavik , 4 - 0 , Grindavik
+Wed 13 Aug , Leiknir R. , 1 - 0 , Fylkir
+Wed 13 Aug , Selfoss , 3 - 0 , HK Kopavogur
+Wed 13 Aug , Volsungur , 2 - 5 , Thor Akureyri
+Wed 13 Aug , Fjolnir , 1 - 2 , Njardvik
+Wed 13 Aug , Throttur R. , 3 - 1 , IR Reykjavik
+Sun 17 Aug , Fylkir , 4 - 0 , Keflavik
+Sun 17 Aug , HK Kopavogur , 3 - 3 , Grindavik
+Sun 17 Aug , Njardvik , 2 - 3 , Throttur R.
+Sun 17 Aug , Selfoss , 1 - 2 , Fjolnir
+Sun 17 Aug , IR Reykjavik , 0 - 1 , Thor Akureyri
+Sun 17 Aug , Volsungur , 1 - 2 , Leiknir R.
+Sat 23 Aug , Fjolnir , 1 - 5 , HK Kopavogur
+Sat 23 Aug , Grindavik , 0 - 4 , Fylkir
+Sat 23 Aug , Leiknir R. , 1 - 1 , IR Reykjavik
+Sat 23 Aug , Throttur R. , 2 - 1 , Selfoss
+Sat 23 Aug , Thor Akureyri , 3 - 1 , Njardvik
+Sat 23 Aug , Keflavik , 7 - 2 , Volsungur
+Fri 29 Aug , Fjolnir , 1 - 2 , Throttur R.
+Fri 29 Aug , IR Reykjavik , 4 - 2 , Keflavik
+Fri 29 Aug , Njardvik , 3 - 1 , Leiknir R.
+Fri 29 Aug , HK Kopavogur , 0 - 2 , Fylkir
+Sat 30 Aug , Volsungur , 2 - 0 , Grindavik
+Sat 30 Aug , Selfoss , 3 - 2 , Thor Akureyri
+Sat 6 Sep , Fylkir , 1 - 2 , Volsungur
+Sat 6 Sep , Grindavik , 3 - 1 , IR Reykjavik
+Sat 6 Sep , HK Kopavogur , 5 - 2 , Throttur R.
+Sat 6 Sep , Keflavik , 2 - 1 , Njardvik
+Sat 6 Sep , Leiknir R. , 2 - 0 , Selfoss
+Sat 6 Sep , Thor Akureyri , 2 - 1 , Fjolnir
+Sat 13 Sep , Fjolnir , 1 - 2 , Leiknir R.
+Sat 13 Sep , IR Reykjavik , 1 - 2 , Fylkir
+Sat 13 Sep , Njardvik , 3 - 0 , Grindavik
+Sat 13 Sep , Selfoss , 1 - 4 , Keflavik
+Sat 13 Sep , Throttur R. , 1 - 2 , Thor Akureyri
+Sat 13 Sep , Volsungur , 0 - 4 , HK Kopavog

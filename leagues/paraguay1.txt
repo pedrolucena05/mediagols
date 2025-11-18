@@ -1,0 +1,125 @@
+Fri 18 Jul , Jagiellonia , 0 - 4 , Termalica
+Fri 18 Jul , Lech Poznan , 1 - 4 , Cracovia Krakow
+Sat 19 Jul , Widzew Lodz , 1 - 0 , Zaglebie Lubin
+Sat 19 Jul , Wisla Plock , 2 - 0 , Korona Kielce
+Sat 19 Jul , Katowice , 0 - 1 , Rakow C.
+Sun 20 Jul , Gornik Zabrze , 2 - 1 , Lechia Gdansk
+Sun 20 Jul , Motor Lublin , 1 - 0 , Arka Gdynia
+Sun 20 Jul , Radomiak Radom , 5 - 1 , Pogon Szczecin
+Fri 25 Jul , Cracovia Krakow , 2 - 0 , Termalica
+Sat 26 Jul , Piast Gliwice , 0 - 1 , Zaglebie LubinFri 25 JulArka Gdynia 1 1 Radomiak Radom
+Sat 26 Jul , Pogon Szczecin , 4 - 1 , Gornik Zabrze
+Sat 26 Jul , Lechia Gdansk , 3 - 4 , Motor Lublin
+Sun 27 Jul , Rakow C. , 1 - 2 , Lech Poznan
+Sun 27 Jul , Jagiellonia , 3 - 2 , Wisla Plock
+Sun 27 Jul , Korona Kielce , 0 - 2 , Widzew Lodz
+Mon 28 Jul , Katowice , 2 - 2 , Legia Warsaw
+Fri 1 Aug , Zaglebie Lubin , 1 - 1 , Zaglebie Lubin
+Fri 1 Aug , Wisla Plock , 2 - 0 , Korona Kielce
+Sat 2 Aug , Termalica , 1 - 1 , Piast Gliwice
+Sat 2 Aug , Widzew Lodz , 3 - 0 , Pogon Szczecin
+Sat 2 Aug , Lech Poznan , 2 - 1 , Katowice
+Sun 3 Aug , Cracovia Krakow , 2 - 2 , Gornik Zabrze
+Sun 3 Aug , Radomiak Radom , 3 - 1 , Lechia Gdansk
+Sun 3 Aug , Legia Warsaw , 0 - 0 , Rakow C.
+Fri 8 Aug , Korona Kielce , 3 - 0 , Arka Gdynia
+Fri 8 Aug , Gornik Zabrze , 0 - 1 , Radomiak Radom
+Sat 9 Aug , Arka Gdynia , 2 - 1 , Termalica
+Sun 10 Aug , Jagiellonia , 5 - 2 , Pogon Szczecin
+Sun 10 Aug , Legia Warsaw , 3 - 1 , Lech PoznanSat 9 AugWidzew Lodz 1 1 Wisla Plock
+Mon 11 Aug , Lechia Gdansk , 3 - 3 , Cracovia Krakow
+Fri 15 Aug , Zaglebie Lubin , 6 - 2 , Katowice
+Fri 15 Aug , Cracovia Krakow , 1 - 0 , Motor Lublin
+Sat 16 Aug , Motor Lublin , 0 - 0 , Lechia Gdansk
+Sat 16 Aug , Katowice , 4 - 1 , Widzew Lodz
+Sat 16 Aug , Lech Poznan , 1 - 1 , Piast Gliwice
+Sun 17 Aug , Pogon Szczecin , 0 - 3 , Arka Gdynia
+Sun 17 Aug , Radomiak Radom , 1 - 2 , Korona Kielce
+Sun 17 Aug , Termalica , 2 - 3 , Gornik Zabrze
+Sun 17 Aug , Wisla Plock , 1 - 0 , Jagiellonia
+Fri 22 Aug , Radomiak Radom , 1 - 1 , Rakow C.
+Fri 22 Aug , Widzew Lodz , 1 - 2 , Legia Warsaw
+Sat 23 Aug , Korona Kielce , 2 - 0 , Termalica
+Sun 24 Aug , Piast Gliwice , 0 - 0 , Pogon Szczecin
+Sun 24 Aug , Lechia Gdansk , 1 - 0 , Motor Lublin
+Fri 29 Aug , Arka Gdynia , 1 - 0 , Lech PoznanSat 23 AugGornik Zabrze 3 0 Katowice
+Fri 29 Aug , Katowice , 3 - 2 , Cracovia Krakow
+Sat 30 Aug , Termalica , 1 - 3 , Arka Gdynia
+Sat 30 Aug , Zaglebie Lubin , 2 - 2 , JagielloniaMon 25 AugWisla Plock 2 1 Zaglebie Lubin
+Sat 30 Aug , Gornik Zabrze , 0 - 1 , Wisla Plock
+Sun 31 Aug , Jagiellonia , 2 - 0 , Radomiak Radom
+Sun 31 Aug , Lech Poznan , 2 - 1 , Korona Kielce
+Sun 31 Aug , Cracovia Krakow , 2 - 1 , Piast Gliwice
+Sun 31 Aug , Pogon Szczecin , 2 - 0 , Motor Lublin
+Fri 12 Sep , Lechia Gdansk , 2 - 0 , Lechia Gdansk
+Fri 12 Sep , Lech Poznan , 1 - 2 , Widzew Lodz
+Sat 13 Sep , Korona Kielce , 1 - 0 , Legia Warsaw
+Sun 14 Sep , Motor Lublin , 1 - 1 , Rakow C.
+Sun 14 Sep , Legia Warsaw , 4 - 1 , Katowice
+Sun 14 Sep , Widzew Lodz , 2 - 0 , Zaglebie Lubin
+Mon 15 Sep , Rakow C. , 0 - 1 , Pogon Szczecin
+Fri 19 Sep , Katowice , 0 - 3 , Cracovia KrakowSat 13 SepPiast Gliwice 1 1 Jagiellonia
+Fri 19 Sep , Wisla Plock , 0 - 1 , Termalica
+Sat 20 Sep , Radomiak Radom , 1 - 0 , Radomiak Radom
+Sat 20 Sep , Arka Gdynia , 0 - 0 , Arka Gdynia
+Sat 20 Sep , Termalica , 0 - 2 , Gornik Zabrze
+Sat 20 Sep , Rakow C. , 1 - 1 , Cracovia Krakow
+Sun 21 Sep , Zaglebie Lubin , 2 - 2 , Jagiellonia
+Sun 21 Sep , Pogon Szczecin , 3 - 4 , Piast Gliwice
+Sun 21 Sep , Gornik Zabrze , 3 - 2 , Korona Kielce
+Wed 24 Sep , Rakow C. , 2 - 2 , Lech Poznan
+Wed 24 Sep , Legia Warsaw , 0 - 0 , Legia Warsaw
+Fri 26 Sep , Wisla Plock , 1 - 1 , Motor Lublin
+Sat 27 Sep , Korona Kielce , 3 - 0 , Lechia Gdansk
+Sat 27 Sep , Piast Gliwice , 4 - 2 , Widzew Lodz
+Sat 27 Sep , Cracovia Krakow , 1 - 1 , Lech Poznan
+Sun 28 Sep , Widzew Lodz , 0 - 1 , Jagiellonia
+Sun 28 Sep , Lech Poznan , 2 - 2 , Katowice
+Sun 28 Sep , Legia Warsaw , 1 - 0 , Lechia Gdansk
+Mon 29 Sep , Zaglebie Lubin , 4 - 0 , Termalica
+Mon 29 Sep , Motor Lublin , 2 - 2 , Gornik Zabrze
+Fri 3 Oct , Lechia Gdansk , 1 - 1 , Rakow C.
+Fri 3 Oct , Pogon Szczecin , 2 - 1 , Jagiellonia
+Sat 4 Oct , Termalica , 2 - 4 , Pogon Szczecin
+Sat 4 Oct , Radomiak Radom , 3 - 1 , Arka Gdynia
+Sat 4 Oct , Arka Gdynia , 2 - 1 , Radomiak Radom
+Sun 5 Oct , Jagiellonia , 3 - 1 , Wisla Plock
+Sun 5 Oct , Rakow C. , 2 - 0 , Piast Gliwice
+Sun 5 Oct , Katowice , 0 - 1 , Widzew Lodz
+Sun 5 Oct , Gornik Zabrze , 3 - 1 , Zaglebie Lubin
+Fri 17 Oct , Motor Lublin , 2 - 5 , Cracovia Krakow
+Fri 17 Oct , Widzew Lodz , 3 - 2 , Korona Kielce
+Sat 18 Oct , Korona Kielce , 1 - 1 , Motor Lublin
+Sat 18 Oct , Jagiellonia , 4 - 0 , Lech Poznan
+Sat 18 Oct , Cracovia Krakow , 2 - 0 , Legia Warsaw
+Sun 19 Oct , Piast Gliwice , 1 - 2 , Katowice
+Sun 19 Oct , Lech Poznan , 2 - 2 , Radomiak Radom
+Sun 19 Oct , Zaglebie Lubin , 3 - 1 , Gornik Zabrze
+Mon 20 Oct , Wisla Plock , 3 - 1 , Arka Gdynia
+Fri 24 Oct , Termalica , 1 - 1 , Rakow C.
+Fri 24 Oct , Motor Lublin , 3 - 0 , Lechia Gdansk
+Sat 25 Oct , Arka Gdynia , 2 - 1 , Pogon Szczecin
+Sat 25 Oct , Pogon Szczecin , 2 - 1 , Legia Warsaw
+Sat 25 Oct , Katowice , 1 - 0 , Termalica
+Sun 26 Oct , Rakow C. , 2 - 1 , Zaglebie Lubin
+Sun 26 Oct , Gornik Zabrze , 2 - 1 , Widzew Lodz
+Sun 26 Oct , Legia Warsaw , 0 - 0 , Piast Gliwice
+Mon 27 Oct , Radomiak Radom , 1 - 1 , Cracovia Krakow
+Fri 31 Oct , Termalica , 0 - 3 , Korona Kielce
+Fri 31 Oct , Piast Gliwice , 0 - 0 , Lechia Gdansk
+Sun 2 Nov , Gornik Zabrze , 5 - 1 , Jagiellonia
+Sun 2 Nov , Lech Poznan , 2 - 2 , Lech Poznan
+Sun 2 Nov , Jagiellonia , 1 - 2 , Wisla Plock
+Sun 2 Nov , Widzew Lodz , 1 - 1 , Katowice
+Mon 3 Nov , Lechia Gdansk , 1 - 2 , Korona Kielce
+Mon 3 Nov , Wisla Plock , 2 - 0 , Arka Gdynia
+Mon 3 Nov , Cracovia Krakow , 0 - 0 , Motor Lublin
+Fri 7 Nov , Radomiak Radom , 3 - 0 , Rakow C.
+Fri 7 Nov , Zaglebie Lubin , 2 - 0 , Legia Warsaw
+Sat 8 Nov , Lechia Gdansk , 2 - 1 , Radomiak Radom
+Sat 8 Nov , Motor Lublin , 1 - 1 , Pogon Szczecin
+Sat 8 Nov , Katowice , 1 - 3 , Zaglebie Lubin
+Sun 9 Nov , Korona Kielce , 1 - 4 , Cracovia Krakow
+Sun 9 Nov , Legia Warsaw , 1 - 2 , Gornik Zabrze
+Sun 9 Nov , Pogon Szczecin , 1 - 2 , Widzew Lodz
+Sun 9 Nov , Arka Gdynia , 3 - 1 , Wisla Plock

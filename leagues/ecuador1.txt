@@ -1,0 +1,276 @@
+Sat 15 Feb , Manta , 2 - 3 , Barcelona SC
+Sat 15 Feb , Aucas , 4 - 1 , Tecnico U.
+Sat 15 Feb , Libertad , 2 - 0 , I. del Valle
+Sun 16 Feb , Macara , 1 - 0 , Orense
+Sun 16 Feb , LDU Quito , 0 - 0 , Cuniburo
+Sun 16 Feb , El Nacional , 0 - 1 , D. Cuenca
+Sun 16 Feb , Emelec , 0 - 4 , U. Catolica
+Tue 18 Feb , Mushuc Runa , 2 - 0 , Delfin
+Sat 22 Feb , D. Cuenca , 2 - 0 , Aucas
+Sat 22 Feb , Cuniburo , 1 - 2 , Macara
+Sat 22 Feb , Delfin , 2 - 0 , Emelec
+Sun 23 Feb , I. del Valle , 1 - 1 , LDU Quito
+Sun 23 Feb , U. Catolica , 1 - 1 , El Nacional
+Sun 23 Feb , Orense , 2 - 1 , Manta
+Sun 23 Feb , Barcelona SC , 1 - 0 , Mushuc Runa
+Tue 25 Feb , Tecnico U. , 2 - 2 , Libertad
+Sat 1 Mar , Emelec , 0 - 0 , Macara
+Sat 1 Mar , Mushuc Runa , 3 - 1 , D. Cuenca
+Sat 1 Mar , LDU Quito , 4 - 0 , Orense
+Sun 2 Mar , Libertad , 1 - 4 , Barcelona SC
+Sun 2 Mar , I. del Valle , 1 - 1 , U. Catolica
+Sun 2 Mar , Aucas , 2 - 2 , Cuniburo
+Sun 2 Mar , El Nacional , 0 - 0 , Tecnico U.
+Tue 4 Mar , Manta , 2 - 2 , Delfin
+Sat 8 Mar , D. Cuenca , 0 - 1 , Libertad
+Sat 8 Mar , LDU Quito , 3 - 0 , Delfin
+Sat 8 Mar , Manta , 4 - 3 , El Nacional
+Sun 9 Mar , Barcelona SC , 0 - 4 , I. del Valle
+Sun 9 Mar , U. Catolica , 1 - 1 , Mushuc Runa
+Sun 9 Mar , Macara , 1 - 1 , Aucas
+Sun 9 Mar , Cuniburo , 2 - 1 , Emelec
+Tue 11 Mar , Orense , 2 - 1 , Tecnico U.
+Sat 15 Mar , Mushuc Runa , 1 - 2 , Cuniburo
+Sat 15 Mar , Libertad , 4 - 1 , Orense
+Sat 15 Mar , U. Catolica , 3 - 0 , Manta
+Sun 16 Mar , Delfin , 0 - 0 , D. Cuenca
+Sun 16 Mar , I. del Valle , 1 - 1 , Macara
+Sun 16 Mar , El Nacional , 0 - 1 , Aucas
+Sun 16 Mar , Emelec , 1 - 0 , LDU Quito
+Tue 18 Mar , Tecnico U. , 0 - 1 , Barcelona SC
+Fri 28 Mar , Aucas , 1 - 2 , I. del Valle
+Sat 29 Mar , Barcelona SC , 2 - 0 , Delfin
+Sat 29 Mar , Cuniburo , 3 - 2 , U. Catolica
+Sat 29 Mar , D. Cuenca , 1 - 2 , LDU Quito
+Sun 30 Mar , Mushuc Runa , 1 - 1 , Emelec
+Sun 30 Mar , Macara , 0 - 1 , Tecnico U.
+Sun 30 Mar , Manta , 1 - 1 , Libertad
+Sun 30 Mar , El Nacional , 0 - 1 , Orense
+Sat 5 Apr , Libertad , 1 - 3 , El Nacional
+Sat 5 Apr , Delfin , 1 - 1 , Aucas
+Sat 5 Apr , Orense , 0 - 0 , Cuniburo
+Sun 6 Apr , I. del Valle , 4 - 0 , D. Cuenca
+Sun 6 Apr , Tecnico U. , 1 - 1 , Mushuc Runa
+Sun 6 Apr , U. Catolica , 1 - 0 , Macara
+Sun 6 Apr , Emelec , 1 - 1 , Manta
+Thu 10 Apr , Cuniburo , 5 - 0 , Delfin
+Thu 10 Apr , Macara , 0 - 1 , D. Cuenca
+Fri 11 Apr , Manta , 2 - 1 , Tecnico U.
+Sat 12 Apr , Emelec , 1 - 1 , Libertad
+Mon 14 Apr , Mushuc Runa , 1 - 0 , LDU Quito
+Mon 14 Apr , El Nacional , 1 - 3 , I. del Valle
+Tue 15 Apr , Orense , 3 - 1 , Barcelona SC
+Wed 16 Apr , Aucas , 2 - 1 , U. Catolica
+Fri 18 Apr , LDU Quito , 3 - 1 , Aucas
+Sat 19 Apr , Barcelona SC , 1 - 0 , El Nacional
+Sat 19 Apr , Libertad , 2 - 1 , Mushuc Runa
+Sat 19 Apr , D. Cuenca , 0 - 1 , Emelec
+Sun 20 Apr , I. del Valle , 2 - 0 , Manta
+Sun 20 Apr , Tecnico U. , 1 - 3 , Cuniburo
+Sun 20 Apr , U. Catolica , 2 - 0 , Orense
+Sun 20 Apr , Delfin , 0 - 0 , Macara
+Sat 26 Apr , El Nacional , 3 - 2 , Delfin
+Sat 26 Apr , Cuniburo , 0 - 1 , D. Cuenca
+Sat 26 Apr , Manta , 1 - 1 , LDU Quito
+Sun 27 Apr , Macara , 0 - 1 , Barcelona SC
+Sun 27 Apr , Aucas , 2 - 0 , Mushuc Runa
+Sun 27 Apr , Orense , 1 - 2 , I. del Valle
+Sun 27 Apr , Emelec , 0 - 1 , Tecnico U.
+Tue 29 Apr , Libertad , 3 - 1 , U. Catolica
+Sat 3 May , D. Cuenca , 2 - 0 , Manta
+Sat 3 May , LDU Quito , 2 - 2 , El Nacional
+Sat 3 May , Tecnico U. , 1 - 1 , U. Catolica
+Sun 4 May , Mushuc Runa , 4 - 3 , Macara
+Sun 4 May , Delfin , 0 - 0 , Orense
+Sun 4 May , Barcelona SC , 2 - 1 , Cuniburo
+Sun 4 May , I. del Valle , 1 - 2 , Emelec
+Tue 6 May , Aucas , 2 - 0 , Libertad
+Sat 10 May , Orense , 1 - 0 , D. Cuenca
+Sat 10 May , Manta , 2 - 1 , Mushuc Runa
+Sat 10 May , Macara , 0 - 1 , LDU Quito
+Sun 11 May , Libertad , 0 - 1 , Delfin
+Sun 11 May , Tecnico U. , 1 - 2 , I. del Valle
+Sun 11 May , U. Catolica , 2 - 2 , Barcelona SC
+Sun 11 May , Emelec , 0 - 1 , Aucas
+Tue 13 May , El Nacional , 2 - 1 , Cuniburo
+Sat 17 May , D. Cuenca , 2 - 0 , Tecnico U.
+Sat 17 May , Aucas , 1 - 1 , Manta
+Sat 17 May , Mushuc Runa , 2 - 5 , Orense
+Sun 18 May , Macara , 1 - 1 , El Nacional
+Sun 18 May , Cuniburo , 1 - 3 , I. del Valle
+Sun 18 May , Delfin , 1 - 0 , U. Catolica
+Sun 18 May , Barcelona SC , 2 - 0 , Emelec
+Tue 20 May , LDU Quito , 1 - 1 , Libertad
+Fri 23 May , I. del Valle , 2 - 1 , Mushuc Runa
+Sat 24 May , Barcelona SC , 0 - 0 , D. Cuenca
+Sat 24 May , Manta , 2 - 2 , Cuniburo
+Sat 24 May , U. Catolica , 3 - 1 , LDU Quito
+Sun 25 May , Orense , 2 - 1 , Aucas
+Sun 25 May , Libertad , 0 - 1 , Macara
+Sun 25 May , Tecnico U. , 1 - 2 , Delfin
+Sun 25 May , El Nacional , 2 - 0 , Emelec
+Sat 31 May , Macara , 2 - 2 , Manta
+Sat 31 May , LDU Quito , 3 - 2 , Tecnico U.
+Sat 31 May , Delfin , 1 - 1 , I. del Valle
+Sun 1 Jun , Emelec , 1 - 0 , Orense
+Sun 1 Jun , Mushuc Runa , 2 - 3 , El Nacional
+Sun 1 Jun , D. Cuenca , 3 - 1 , U. Catolica
+Sun 1 Jun , Aucas , 2 - 0 , Barcelona SC
+Tue 3 Jun , Cuniburo , 1 - 0 , Libertad
+Sat 14 Jun , I. del Valle , 1 - 1 , Libertad
+Sat 14 Jun , Barcelona SC , 1 - 2 , Manta
+Sun 15 Jun , Cuniburo , 1 - 2 , LDU Quito
+Sun 15 Jun , Tecnico U. , 1 - 1 , Aucas
+Sun 15 Jun , D. Cuenca , 4 - 1 , El Nacional
+Sun 15 Jun , Delfin , 3 - 1 , Mushuc Runa
+Tue 17 Jun , Orense , 1 - 0 , Macara
+Thu 19 Jun , LDU Quito , 3 - 1 , Barcelona SC
+Sat 21 Jun , Libertad , 4 - 1 , Tecnico U.
+Sat 21 Jun , El Nacional , 0 - 3 , U. Catolica
+Sat 21 Jun , Emelec , 2 - 2 , Delfin
+Sun 22 Jun , Macara , 1 - 0 , Cuniburo
+Sun 22 Jun , LDU Quito , 1 - 1 , I. del Valle
+Sun 22 Jun , Aucas , 1 - 3 , D. Cuenca
+Sun 22 Jun , Mushuc Runa , 0 - 5 , Barcelona SC
+Tue 24 Jun , Manta , 0 - 0 , Orense
+Thu 26 Jun , U. Catolica , 1 - 1 , Emelec
+Sat 28 Jun , D. Cuenca , 1 - 0 , Mushuc Runa
+Sat 28 Jun , Delfin , 2 - 0 , Manta
+Sat 28 Jun , Barcelona SC , 3 - 3 , Libertad
+Sun 29 Jun , Orense , 2 - 1 , LDU Quito
+Sun 29 Jun , Tecnico U. , 0 - 0 , El Nacional
+Sun 29 Jun , U. Catolica , 0 - 3 , I. del Valle
+Sun 29 Jun , Macara , 1 - 1 , Emelec
+Tue 1 Jul , Cuniburo , 0 - 1 , Aucas
+Sat 5 Jul , Libertad , 2 - 1 , D. Cuenca
+Sat 5 Jul , Mushuc Runa , 1 - 1 , U. Catolica
+Sat 5 Jul , Emelec , 2 - 0 , Cuniburo
+Sun 6 Jul , I. del Valle , 1 - 1 , Barcelona SC
+Sun 6 Jul , Aucas , 1 - 4 , Macara
+Sun 6 Jul , El Nacional , 1 - 0 , Manta
+Sun 6 Jul , Delfin , 0 - 4 , LDU Quito
+Tue 8 Jul , Tecnico U. , 1 - 2 , Orense
+Sat 12 Jul , Macara , 1 - 2 , I. del Valle
+Sat 12 Jul , Manta , 4 - 2 , U. Catolica
+Sat 12 Jul , LDU Quito , 2 - 0 , Emelec
+Sun 13 Jul , Barcelona SC , 1 - 1 , Tecnico U.
+Sun 13 Jul , Cuniburo , 1 - 1 , Mushuc Runa
+Sun 13 Jul , Orense , 0 - 1 , Libertad
+Sun 13 Jul , D. Cuenca , 1 - 1 , Delfin
+Tue 15 Jul , Aucas , 1 - 0 , El Nacional
+Sat 19 Jul , I. del Valle , 2 - 1 , Aucas
+Sat 19 Jul , U. Catolica , 3 - 0 , Cuniburo
+Sat 19 Jul , Orense , 1 - 1 , El Nacional
+Sun 20 Jul , Delfin , 0 - 1 , Barcelona SC
+Sun 20 Jul , Tecnico U. , 1 - 0 , Macara
+Sun 20 Jul , Emelec , 1 - 0 , Mushuc Runa
+Sun 20 Jul , LDU Quito , 2 - 2 , D. Cuenca
+Tue 22 Jul , Libertad , 1 - 0 , Manta
+Fri 25 Jul , Barcelona SC , 0 - 1 , LDU Quito
+Sat 26 Jul , El Nacional , 2 - 2 , Libertad
+Sat 26 Jul , Aucas , 2 - 1 , Delfin
+Sat 26 Jul , Manta , 2 - 4 , Emelec
+Sun 27 Jul , Cuniburo , 0 - 1 , Orense
+Sun 27 Jul , Mushuc Runa , 0 - 1 , Tecnico U.
+Sun 27 Jul , Macara , 1 - 4 , U. Catolica
+Sun 27 Jul , D. Cuenca , 0 - 3 , I. del Valle
+Sat 2 Aug , D. Cuenca , 1 - 1 , Macara
+Sat 2 Aug , Barcelona SC , 2 - 0 , Orense
+Sun 3 Aug , I. del Valle , 1 - 0 , El Nacional
+Sun 3 Aug , LDU Quito , 2 - 1 , Mushuc Runa
+Sun 3 Aug , U. Catolica , 6 - 2 , Aucas
+Sun 3 Aug , Tecnico U. , 3 - 1 , Manta
+Sun 3 Aug , Libertad , 1 - 2 , Emelec
+Tue 5 Aug , Delfin , 3 - 3 , Cuniburo
+Sat 9 Aug , Orense , 1 - 1 , U. Catolica
+Sat 9 Aug , Mushuc Runa , 1 - 2 , Libertad
+Sat 9 Aug , Aucas , 1 - 0 , LDU Quito
+Sun 10 Aug , Manta , 0 - 0 , I. del Valle
+Sun 10 Aug , Cuniburo , 0 - 1 , Tecnico U.
+Sun 10 Aug , Macara , 0 - 0 , Delfin
+Sun 10 Aug , El Nacional , 1 - 2 , Barcelona SC
+Mon 11 Aug , Emelec , 1 - 1 , D. Cuenca
+Sat 16 Aug , Delfin , 0 - 3 , El Nacional
+Sat 16 Aug , Mushuc Runa , 1 - 0 , Aucas
+Sat 16 Aug , U. Catolica , 1 - 1 , Libertad
+Sun 17 Aug , I. del Valle , 2 - 1 , Orense
+Sun 17 Aug , LDU Quito , 1 - 1 , Manta
+Sun 17 Aug , Tecnico U. , 0 - 1 , Emelec
+Sun 17 Aug , Barcelona SC , 0 - 2 , Macara
+Tue 19 Aug , D. Cuenca , 2 - 0 , Cuniburo
+Sat 23 Aug , Libertad , 3 - 2 , Aucas
+Sat 23 Aug , Macara , 2 - 1 , Mushuc Runa
+Sat 23 Aug , Manta , 0 - 1 , D. Cuenca
+Sun 24 Aug , Cuniburo , 0 - 1 , Barcelona SC
+Sun 24 Aug , El Nacional , 1 - 0 , LDU Quito
+Sun 24 Aug , Emelec , 0 - 1 , I. del Valle
+Sun 24 Aug , U. Catolica , 2 - 0 , Tecnico U.
+Tue 26 Aug , Orense , 3 - 1 , Delfin
+Sat 30 Aug , Cuniburo , 0 - 1 , El Nacional
+Sat 30 Aug , I. del Valle , 4 - 0 , Tecnico U.
+Sat 30 Aug , LDU Quito , 1 - 1 , Macara
+Sat 30 Aug , Mushuc Runa , 2 - 0 , Manta
+Sun 31 Aug , Aucas , 1 - 2 , Emelec
+Sun 31 Aug , D. Cuenca , 1 - 1 , Orense
+Sun 31 Aug , Barcelona SC , 2 - 3 , U. Catolica
+Tue 2 Sep , Delfin , 0 - 0 , Libertad
+Sat 13 Sep , Libertad , 0 - 1 , LDU Quito
+Sat 13 Sep , I. del Valle , 3 - 1 , Cuniburo
+Sat 13 Sep , U. Catolica , 1 - 1 , Delfin
+Sun 14 Sep , Orense , 3 - 1 , Mushuc Runa
+Sun 14 Sep , El Nacional , 0 - 2 , Macara
+Sun 14 Sep , Tecnico U. , 0 - 2 , D. Cuenca
+Sun 14 Sep , Emelec , 0 - 4 , Barcelona SC
+Tue 16 Sep , Manta , 1 - 1 , Aucas
+Sat 20 Sep , Mushuc Runa , 2 - 2 , I. del Valle
+Sat 20 Sep , Cuniburo , 4 - 1 , Manta
+Sat 20 Sep , Delfin , 0 - 1 , Tecnico U.
+Sun 21 Sep , Aucas , 0 - 0 , Orense
+Sun 21 Sep , D. Cuenca , 0 - 1 , Barcelona SC
+Sun 21 Sep , Emelec , 4 - 0 , El Nacional
+Sun 21 Sep , LDU Quito , 2 - 4 , U. Catolica
+Sun 21 Sep , Macara , 1 - 1 , Libertad
+Sat 27 Sep , Manta , 1 - 3 , Macara
+Sat 27 Sep , El Nacional , 0 - 5 , Mushuc Runa
+Sun 28 Sep , Barcelona SC , 1 - 1 , Aucas
+Sun 28 Sep , I. del Valle , 0 - 0 , Delfin
+Sun 28 Sep , Libertad , 1 - 0 , Cuniburo
+Sun 28 Sep , Orense , 0 - 0 , Emelec
+Sun 28 Sep , Tecnico U. , 1 - 3 , LDU Quito
+Sun 28 Sep , U. Catolica , 2 - 1 , D. Cuenca
+Sat 4 Oct , Delfin , 2 - 2 , El Nacional
+Sat 4 Oct , Emelec , 3 - 1 , D. Cuenca
+Sun 5 Oct , U. Catolica , 2 - 2 , LDU Quito
+Sun 5 Oct , Macara , 3 - 2 , Aucas
+Sun 5 Oct , Libertad , 2 - 0 , Orense
+Sun 5 Oct , Barcelona SC , 0 - 3 , I. del Valle
+Fri 17 Oct , Orense , 1 - 2 , I. del Valle
+Sat 18 Oct , LDU Quito , 3 - 0 , Barcelona SC
+Sat 18 Oct , Mushuc Runa , 2 - 1 , Cuniburo
+Sat 18 Oct , Delfin , 0 - 4 , Macara
+Sun 19 Oct , Manta , 2 - 0 , Tecnico U.
+Sun 19 Oct , Aucas , 0 - 0 , Emelec
+Sun 19 Oct , Libertad , 1 - 1 , U. Catolica
+Tue 21 Oct , El Nacional , 0 - 2 , D. Cuenca
+Sat 25 Oct , Orense , 2 - 1 , U. Catolica
+Sat 25 Oct , Mushuc Runa , 1 - 1 , Manta
+Sat 25 Oct , Barcelona SC , 1 - 0 , Libertad
+Sun 26 Oct , D. Cuenca , 1 - 2 , Aucas
+Sun 26 Oct , Cuniburo , 1 - 2 , Tecnico U.
+Sun 26 Oct , El Nacional , 2 - 0 , Macara
+Sun 26 Oct , Emelec , 1 - 0 , Delfin
+Sat 1 Nov , Delfin , 2 - 0 , D. Cuenca
+Sat 1 Nov , Tecnico U. , 0 - 0 , Mushuc Runa
+Sat 1 Nov , Aucas , 3 - 3 , El Nacional
+Sun 2 Nov , Cuniburo , 2 - 0 , Manta
+Sun 2 Nov , Macara , 3 - 0 , Emelec
+Sun 2 Nov , U. Catolica , 1 - 1 , Barcelona SC
+Tue 4 Nov , Libertad , 1 - 3 , I. del Valle
+Wed 5 Nov , LDU Quito , 4 - 0 , Orense
+Sat 8 Nov , D. Cuenca , 0 - 2 , Macara
+Sat 8 Nov , Manta , 3 - 0 , Mushuc Runa
+Sat 8 Nov , I. del Valle , 0 - 2 , U. Catolica
+Sun 9 Nov , LDU Quito , 3 - 1 , Libertad
+Sun 9 Nov , El Nacional , 2 - 1 , Emelec
+Sun 9 Nov , Orense , 1 - 2 , Barcelona SC
+Tue 11 Nov , Aucas , 8 - 0 , Delf

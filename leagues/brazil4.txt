@@ -1,0 +1,360 @@
+Sat 15 Feb , Fujieda MYFC , 0 - 2 , Tokushima V.
+Sat 15 Feb , Iwaki , 0 - 2 , JEF Utd Chiba
+Sat 15 Feb , Jubilo Iwata , 3 - 2 , Mito Hollyhock
+Sat 15 Feb , Omiya Ardija , 2 - 1 , M. Yamagata
+Sat 15 Feb , Sagan Tosu , 0 - 1 , Vegalta Sendai
+Sat 15 Feb , Ventforet Kofu , 1 - 0 , R. Yamaguchi
+Sat 15 Feb , V-V. Nagasaki , 3 - 2 , R. Kumamoto
+Sun 16 Feb , Ehime FC , 0 - 1 , Kataller Toyama
+Sun 16 Feb , FC Imabari , 0 - 1 , Blaublitz Akita
+Sun 16 Feb , Oita Trinita , 2 - 0 , C. Sapporo
+Sat 22 Feb , JEF Utd Chiba , 2 - 0 , Kataller Toyama
+Sat 22 Feb , Jubilo Iwata , 1 - 0 , Sagan Tosu
+Sat 22 Feb , Omiya Ardija , 1 - 0 , Ventforet Kofu
+Sun 23 Feb , R. Kumamoto , 3 - 0 , C. Sapporo
+Sun 23 Feb , R. Yamaguchi , 2 - 2 , Nagasaki
+Sun 23 Feb , Tokushima V. , 1 - 0 , Vegalta Sendai
+Sun 23 Feb , FC Imabari , 0 - 0 , Fujieda MYFC
+Sun 23 Feb , Mito Hollyhock , 1 - 0 , M. Yamagata
+Sun 23 Feb , Oita Trinita , 0 - 0 , Iwaki
+Sun 23 Feb , Ehime FC , 1 - 2 , Blaublitz Akita
+Sat 1 Mar , Vegalta Sendai , 2 - 0 , Oita Trinita
+Sat 1 Mar , Fujieda MYFC , 2 - 1 , Blaublitz Akita
+Sat 1 Mar , JEF Utd Chiba , 3 - 2 , M. Yamagata
+Sat 1 Mar , Sagan Tosu , 1 - 4 , FC Imabari
+Sat 1 Mar , V-V. Nagasaki , 1 - 0 , Jubilo Iwata
+Sun 2 Mar , R. Kumamoto , 0 - 4 , Omiya Ardija
+Sun 2 Mar , Iwaki , 1 - 1 , Tokushima V.
+Sun 2 Mar , Kataller Toyama , 2 - 0 , Ventforet Kofu
+Sun 2 Mar , Mito Hollyhock , 1 - 1 , Ehime FC
+Sun 2 Mar , R. Yamaguchi , 2 - 0 , C. Sapporo
+Sat 8 Mar , Vegalta Sendai , 1 - 1 , Nagasaki
+Sat 8 Mar , Omiya Ardija , 2 - 1 , R. Yamaguchi
+Sat 8 Mar , Ehime FC , 2 - 3 , FC Imabari
+Sun 9 Mar , C. Sapporo , 1 - 3 , JEF Utd Chiba
+Sun 9 Mar , Iwaki , 1 - 1 , Sagan Tosu
+Sun 9 Mar , Kataller Toyama , 3 - 1 , Jubilo Iwata
+Sun 9 Mar , M. Yamagata , 4 - 2 , Blaublitz Akita
+Sun 9 Mar , Oita Trinita , 0 - 0 , Mito Hollyhock
+Sun 9 Mar , Tokushima V. , 0 - 0 , R. Kumamoto
+Sun 9 Mar , Ventforet Kofu , 3 - 3 , Fujieda MYFC
+Sat 15 Mar , Blaublitz Akita , 1 - 3 , C. Sapporo
+Sat 15 Mar , Fujieda MYFC , 2 - 0 , Iwaki
+Sat 15 Mar , Jubilo Iwata , 2 - 1 , Ventforet Kofu
+Sat 15 Mar , Sagan Tosu , 1 - 0 , Omiya Ardija
+Sat 15 Mar , V-V. Nagasaki , 1 - 0 , Tokushima V.
+Sun 16 Mar , R. Kumamoto , 1 - 3 , M. Yamagata
+Sun 16 Mar , FC Imabari , 0 - 0 , Kataller Toyama
+Sun 16 Mar , JEF Utd Chiba , 5 - 1 , Ehime FC
+Sun 16 Mar , Mito Hollyhock , 2 - 2 , Vegalta Sendai
+Sun 16 Mar , R. Yamaguchi , 1 - 1 , Oita Trinita
+Sun 23 Mar , Vegalta Sendai , 2 - 3 , Jubilo Iwata
+Sun 23 Mar , R. Yamaguchi , 0 - 1 , R. Kumamoto
+Sun 23 Mar , Ehime FC , 1 - 2 , C. Sapporo
+Sun 23 Mar , Iwaki , 0 - 1 , FC Imabari
+Sun 23 Mar , M. Yamagata , 0 - 0 , Tokushima V.
+Sun 23 Mar , Oita Trinita , 1 - 1 , Fujieda MYFC
+Sun 23 Mar , Omiya Ardija , 2 - 0 , Mito Hollyhock
+Sun 23 Mar , Sagan Tosu , 1 - 0 , Kataller Toyama
+Sun 23 Mar , Ventforet Kofu , 1 - 2 , JEF Utd Chiba
+Sun 23 Mar , V-V. Nagasaki , 5 - 1 , Blaublitz Akita
+Sat 29 Mar , C. Sapporo , 0 - 1 , Ventforet Kofu
+Sun 30 Mar , R. Kumamoto , 3 - 1 , Sagan Tosu
+Sun 30 Mar , Blaublitz Akita , 1 - 0 , R. Yamaguchi
+Sun 30 Mar , FC Imabari , 2 - 2 , M. Yamagata
+Sun 30 Mar , Fujieda MYFC , 3 - 2 , Nagasaki
+Sun 30 Mar , Kataller Toyama , 0 - 1 , Vegalta Sendai
+Sun 30 Mar , Mito Hollyhock , 4 - 1 , Iwaki
+Sun 30 Mar , Ehime FC , 0 - 1 , Oita Trinita
+Sun 30 Mar , Jubilo Iwata , 1 - 0 , JEF Utd Chiba
+Sun 30 Mar , Tokushima V. , 1 - 0 , Omiya Ardija
+Sat 5 Apr , Vegalta Sendai , 1 - 0 , Blaublitz Akita
+Sat 5 Apr , Ventforet Kofu , 1 - 0 , Iwaki
+Sat 5 Apr , C. Sapporo , 1 - 0 , Tokushima V.
+Sat 5 Apr , JEF Utd Chiba , 2 - 1 , Mito Hollyhock
+Sat 5 Apr , M. Yamagata , 0 - 0 , Jubilo Iwata
+Sat 5 Apr , Omiya Ardija , 2 - 2 , Oita Trinita
+Sat 5 Apr , R. Yamaguchi , 1 - 1 , Ehime FC
+Sat 5 Apr , Sagan Tosu , 1 - 0 , Fujieda MYFC
+Sun 6 Apr , R. Kumamoto , 0 - 0 , Kataller Toyama
+Sun 6 Apr , FC Imabari , 4 - 1 , Nagasaki
+Sat 12 Apr , Vegalta Sendai , 0 - 0 , FC Imabari
+Sat 12 Apr , Iwaki , 0 - 1 , M. Yamagata
+Sat 12 Apr , Mito Hollyhock , 3 - 1 , C. Sapporo
+Sun 13 Apr , Blaublitz Akita , 1 - 2 , Omiya Ardija
+Sun 13 Apr , Fujieda MYFC , 2 - 3 , JEF Utd Chiba
+Sun 13 Apr , Kataller Toyama , 2 - 2 , R. Yamaguchi
+Sun 13 Apr , Oita Trinita , 1 - 1 , Tokushima V.
+Sun 13 Apr , V-V. Nagasaki , 0 - 2 , Sagan Tosu
+Sun 13 Apr , Jubilo Iwata , 1 - 1 , R. Kumamoto
+Sun 13 Apr , Ehime FC , 0 - 0 , Ventforet Kofu
+Sat 19 Apr , M. Yamagata , 2 - 3 , Ehime FC
+Sat 19 Apr , Sagan Tosu , 2 - 2 , R. Yamaguchi
+Sat 19 Apr , Ventforet Kofu , 1 - 1 , Nagasaki
+Sun 20 Apr , R. Kumamoto , 0 - 1 , Vegalta Sendai
+Sun 20 Apr , Blaublitz Akita , 2 - 1 , Jubilo Iwata
+Sun 20 Apr , C. Sapporo , 2 - 1 , Fujieda MYFC
+Sun 20 Apr , FC Imabari , 0 - 0 , Omiya Ardija
+Sun 20 Apr , JEF Utd Chiba , 1 - 0 , Oita Trinita
+Sun 20 Apr , Kataller Toyama , 1 - 2 , Iwaki
+Sun 20 Apr , Tokushima V. , 0 - 1 , Mito Hollyhock
+Fri 25 Apr , Fujieda MYFC , 0 - 2 , R. Kumamoto
+Fri 25 Apr , JEF Utd Chiba , 3 - 1 , Blaublitz Akita
+Fri 25 Apr , Jubilo Iwata , 0 - 3 , Oita Trinita
+Fri 25 Apr , Mito Hollyhock , 0 - 0 , Ventforet Kofu
+Fri 25 Apr , Omiya Ardija , 1 - 0 , C. Sapporo
+Fri 25 Apr , Sagan Tosu , 2 - 1 , M. Yamagata
+Fri 25 Apr , Vegalta Sendai , 1 - 1 , Ehime FC
+Fri 25 Apr , V-V. Nagasaki , 3 - 4 , Iwaki
+Sat 26 Apr , R. Yamaguchi , 1 - 2 , FC Imabari
+Sat 26 Apr , Tokushima V. , 1 - 0 , Kataller Toyama
+Tue 29 Apr , Blaublitz Akita , 0 - 2 , Tokushima V.
+Tue 29 Apr , C. Sapporo , 2 - 2 , Nagasaki
+Tue 29 Apr , Iwaki , 2 - 1 , Omiya Ardija
+Tue 29 Apr , Kataller Toyama , 0 - 0 , M. Yamagata
+Tue 29 Apr , Mito Hollyhock , 0 - 0 , FC Imabari
+Tue 29 Apr , Oita Trinita , 1 - 0 , Sagan Tosu
+Tue 29 Apr , R. Kumamoto , 0 - 0 , JEF Utd Chiba
+Tue 29 Apr , Ventforet Kofu , 1 - 2 , Vegalta Sendai
+Tue 29 Apr , Ehime FC , 2 - 4 , Fujieda MYFC
+Tue 29 Apr , Jubilo Iwata , 0 - 1 , R. Yamaguchi
+Sat 3 May , Iwaki , 1 - 1 , Blaublitz Akita
+Sat 3 May , Vegalta Sendai , 3 - 1 , R. Yamaguchi
+Sat 3 May , Ventforet Kofu , 0 - 2 , Tokushima V.
+Sat 3 May , FC Imabari , 3 - 3 , Jubilo Iwata
+Sat 3 May , Fujieda MYFC , 0 - 2 , Mito Hollyhock
+Sat 3 May , M. Yamagata , 0 - 1 , C. Sapporo
+Sat 3 May , Oita Trinita , 1 - 0 , R. Kumamoto
+Sat 3 May , Omiya Ardija , 2 - 2 , Kataller Toyama
+Sat 3 May , Sagan Tosu , 1 - 1 , JEF Utd Chiba
+Sat 3 May , V-V. Nagasaki , 1 - 1 , Ehime FC
+Tue 6 May , Vegalta Sendai , 2 - 1 , Fujieda MYFC
+Tue 6 May , Kataller Toyama , 1 - 2 , Nagasaki
+Tue 6 May , C. Sapporo , 2 - 4 , Jubilo Iwata
+Tue 6 May , M. Yamagata , 3 - 0 , Oita Trinita
+Tue 6 May , R. Yamaguchi , 1 - 2 , Mito Hollyhock
+Tue 6 May , Blaublitz Akita , 0 - 1 , Ventforet Kofu
+Tue 6 May , Ehime FC , 1 - 1 , Iwaki
+Tue 6 May , R. Kumamoto , 0 - 1 , FC Imabari
+Tue 6 May , Tokushima V. , 0 - 1 , Sagan Tosu
+Tue 6 May , JEF Utd Chiba , 1 - 2 , Omiya Ardija
+Sat 10 May , Omiya Ardija , 3 - 0 , Vegalta Sendai
+Sun 11 May , Iwaki , 1 - 1 , C. Sapporo
+Sun 11 May , Jubilo Iwata , 1 - 0 , Fujieda MYFC
+Sun 11 May , FC Imabari , 0 - 1 , JEF Utd Chiba
+Sun 11 May , Mito Hollyhock , 2 - 1 , Blaublitz Akita
+Sun 11 May , Sagan Tosu , 0 - 0 , Ventforet Kofu
+Sun 11 May , Tokushima V. , 2 - 0 , R. Yamaguchi
+Sun 11 May , V-V. Nagasaki , 1 - 1 , M. Yamagata
+Sun 11 May , Kataller Toyama , 1 - 1 , Oita Trinita
+Sun 11 May , R. Kumamoto , 2 - 2 , Ehime FC
+Sat 17 May , Ventforet Kofu , 1 - 0 , FC Imabari
+Sat 17 May , Blaublitz Akita , 1 - 2 , Sagan Tosu
+Sat 17 May , C. Sapporo , 2 - 1 , Kataller Toyama
+Sat 17 May , Fujieda MYFC , 0 - 1 , Omiya Ardija
+Sat 17 May , JEF Utd Chiba , 0 - 0 , Vegalta Sendai
+Sat 17 May , Jubilo Iwata , 2 - 0 , Iwaki
+Sat 17 May , Mito Hollyhock , 2 - 1 , R. Kumamoto
+Sun 18 May , Oita Trinita , 1 - 2 , Nagasaki
+Sun 18 May , R. Yamaguchi , 1 - 0 , M. Yamagata
+Sun 18 May , Ehime FC , 0 - 2 , Tokushima V.
+Sun 25 May , Iwaki , 1 - 2 , Vegalta Sendai
+Sun 25 May , M. Yamagata , 0 - 4 , Ventforet Kofu
+Sun 25 May , R. Yamaguchi , 0 - 0 , Fujieda MYFC
+Sun 25 May , Sagan Tosu , 2 - 1 , C. Sapporo
+Sun 25 May , Tokushima V. , 1 - 1 , Jubilo Iwata
+Sun 25 May , V-V. Nagasaki , 1 - 0 , JEF Utd Chiba
+Sun 25 May , R. Kumamoto , 1 - 2 , Blaublitz Akita
+Sat 31 May , Blaublitz Akita , 2 - 2 , Kataller Toyama
+Sat 31 May , Fujieda MYFC , 2 - 1 , M. Yamagata
+Sat 31 May , JEF Utd Chiba , 0 - 0 , R. Yamaguchi
+Sat 31 May , Mito Hollyhock , 3 - 0 , Nagasaki
+Sat 31 May , Omiya Ardija , 2 - 2 , Jubilo Iwata
+Sat 31 May , Sagan Tosu , 2 - 2 , Ehime FC
+Sat 31 May , Vegalta Sendai , 1 - 1 , C. Sapporo
+Sat 31 May , FC Imabari , 0 - 1 , Tokushima V.
+Sat 31 May , Oita Trinita , 2 - 1 , Ventforet Kofu
+Sun 1 Jun , Iwaki , 5 - 1 , R. Kumamoto
+Sat 7 Jun , FC Imabari , 1 - 1 , Oita Trinita
+Sun 8 Jun , Kataller Toyama , 0 - 1 , Mito Hollyhock
+Sun 8 Jun , Omiya Ardija , 1 - 1 , Ehime FC
+Sat 14 Jun , Mito Hollyhock , 1 - 0 , Sagan Tosu
+Sun 15 Jun , C. Sapporo , 2 - 2 , FC Imabari
+Sun 15 Jun , Kataller Toyama , 0 - 1 , Fujieda MYFC
+Sun 15 Jun , R. Yamaguchi , 2 - 2 , Iwaki
+Sun 15 Jun , M. Yamagata , 3 - 4 , Vegalta Sendai
+Sun 15 Jun , Jubilo Iwata , 4 - 0 , Ehime FC
+Sun 15 Jun , V-V. Nagasaki , 3 - 3 , Omiya Ardija
+Sun 15 Jun , Oita Trinita , 1 - 2 , Blaublitz Akita
+Sun 15 Jun , Ventforet Kofu , 1 - 1 , R. Kumamoto
+Sun 15 Jun , Tokushima V. , 3 - 3 , JEF Utd Chiba
+Sat 21 Jun , Iwaki , 3 - 1 , Kataller Toyama
+Sat 21 Jun , Ehime FC , 2 - 0 , R. Yamaguchi
+Sat 21 Jun , FC Imabari , 1 - 2 , Mito Hollyhock
+Sat 21 Jun , Fujieda MYFC , 1 - 3 , C. Sapporo
+Sat 21 Jun , JEF Utd Chiba , 0 - 1 , Jubilo Iwata
+Sat 21 Jun , Omiya Ardija , 0 - 0 , Sagan Tosu
+Sat 21 Jun , Tokushima V. , 2 - 0 , Oita Trinita
+Sun 22 Jun , R. Kumamoto , 1 - 3 , Nagasaki
+Sun 22 Jun , Blaublitz Akita , 2 - 3 , M. Yamagata
+Sun 22 Jun , Vegalta Sendai , 0 - 0 , Ventforet Kofu
+Sat 28 Jun , C. Sapporo , 3 - 2 , R. Kumamoto
+Sat 28 Jun , Kataller Toyama , 1 - 0 , JEF Utd Chiba
+Sat 28 Jun , Mito Hollyhock , 1 - 1 , Tokushima V.
+Sat 28 Jun , Ventforet Kofu , 0 - 0 , Ehime FC
+Sat 28 Jun , Fujieda MYFC , 0 - 0 , FC Imabari
+Sat 28 Jun , M. Yamagata , 1 - 2 , Nagasaki
+Sat 28 Jun , Oita Trinita , 0 - 0 , Omiya Ardija
+Sat 28 Jun , R. Yamaguchi , 1 - 1 , Blaublitz Akita
+Sat 28 Jun , Sagan Tosu , 1 - 0 , Iwaki
+Sat 28 Jun , Jubilo Iwata , 0 - 1 , Vegalta Sendai
+Sat 5 Jul , C. Sapporo , 1 - 0 , R. Yamaguchi
+Sat 5 Jul , Blaublitz Akita , 0 - 2 , Mito Hollyhock
+Sat 5 Jul , V-V. Nagasaki , 1 - 0 , Oita Trinita
+Sat 5 Jul , FC Imabari , 2 - 4 , Ventforet Kofu
+Sat 5 Jul , JEF Utd Chiba , 0 - 2 , Sagan Tosu
+Sat 5 Jul , Omiya Ardija , 1 - 2 , Iwaki
+Sat 5 Jul , Tokushima V. , 0 - 2 , Fujieda MYFC
+Sat 5 Jul , Vegalta Sendai , 0 - 1 , Kataller Toyama
+Sun 6 Jul , R. Kumamoto , 2 - 0 , Jubilo Iwata
+Sun 6 Jul , Ehime FC , 1 - 3 , M. Yamagata
+Sat 12 Jul , Blaublitz Akita , 3 - 2 , R. Kumamoto
+Sat 12 Jul , Iwaki , 1 - 1 , Nagasaki
+Sat 12 Jul , Mito Hollyhock , 3 - 0 , Kataller Toyama
+Sat 12 Jul , FC Imabari , 1 - 0 , Ehime FC
+Sat 12 Jul , Ventforet Kofu , 1 - 0 , Omiya Ardija
+Sat 12 Jul , Fujieda MYFC , 1 - 1 , Vegalta Sendai
+Sat 12 Jul , M. Yamagata , 0 - 1 , JEF Utd Chiba
+Sat 12 Jul , R. Yamaguchi , 0 - 0 , Tokushima V.
+Sat 12 Jul , Sagan Tosu , 2 - 1 , Oita Trinita
+Sat 12 Jul , Jubilo Iwata , 5 - 1 , C. Sapporo
+Sat 2 Aug , C. Sapporo , 1 - 0 , Sagan Tosu
+Sat 2 Aug , Kataller Toyama , 0 - 2 , Omiya Ardija
+Sat 2 Aug , V-V. Nagasaki , 0 - 0 , Vegalta Sendai
+Sat 2 Aug , Ventforet Kofu , 1 - 3 , M. Yamagata
+Sat 2 Aug , Fujieda MYFC , 2 - 2 , R. Yamaguchi
+Sat 2 Aug , JEF Utd Chiba , 2 - 2 , Iwaki
+Sat 2 Aug , Oita Trinita , 0 - 1 , FC Imabari
+Sat 2 Aug , Tokushima V. , 1 - 0 , Ehime FC
+Sat 2 Aug , Jubilo Iwata , 1 - 4 , Blaublitz Akita
+Sun 3 Aug , R. Kumamoto , 2 - 1 , Mito Hollyhock
+Sat 9 Aug , Blaublitz Akita , 0 - 0 , Fujieda MYFC
+Sat 9 Aug , V-V. Nagasaki , 2 - 1 , C. Sapporo
+Sat 9 Aug , FC Imabari , 3 - 2 , R. Kumamoto
+Sat 9 Aug , Oita Trinita , 2 - 2 , Kataller Toyama
+Sat 9 Aug , Omiya Ardija , 0 - 1 , JEF Utd Chiba
+Sun 10 Aug , Iwaki , 3 - 1 , Jubilo Iwata
+Sun 10 Aug , Ehime FC , 0 - 1 , Sagan Tosu
+Sun 10 Aug , M. Yamagata , 1 - 2 , Mito Hollyhock
+Sun 10 Aug , Vegalta Sendai , 0 - 2 , Tokushima V.
+Mon 11 Aug , R. Yamaguchi , 0 - 1 , Ventforet Kofu
+Sat 16 Aug , C. Sapporo , 0 - 2 , Blaublitz Akita
+Sat 16 Aug , Kataller Toyama , 1 - 2 , FC Imabari
+Sat 16 Aug , Mito Hollyhock , 1 - 3 , Jubilo Iwata
+Sat 16 Aug , JEF Utd Chiba , 1 - 0 , Tokushima V.
+Sat 16 Aug , M. Yamagata , 1 - 0 , Iwaki
+Sat 16 Aug , R. Kumamoto , 2 - 1 , Fujieda MYFC
+Sat 16 Aug , R. Yamaguchi , 2 - 2 , Vegalta Sendai
+Sun 17 Aug , Ventforet Kofu , 2 - 0 , Oita Trinita
+Sun 17 Aug , Ehime FC , 0 - 3 , Omiya Ardija
+Sun 17 Aug , Sagan Tosu , 1 - 2 , Nagasaki
+Sat 23 Aug , Blaublitz Akita , 1 - 2 , FC Imabari
+Sat 23 Aug , Iwaki , 4 - 0 , Oita Trinita
+Sat 23 Aug , Ventforet Kofu , 1 - 2 , C. Sapporo
+Sat 23 Aug , Fujieda MYFC , 4 - 1 , Ehime FC
+Sat 23 Aug , Omiya Ardija , 1 - 0 , R. Kumamoto
+Sat 23 Aug , Sagan Tosu , 2 - 2 , Mito Hollyhock
+Sat 23 Aug , Tokushima V. , 1 - 0 , M. Yamagata
+Sat 23 Aug , Jubilo Iwata , 2 - 0 , Kataller Toyama
+Sun 24 Aug , V-V. Nagasaki , 1 - 0 , R. Yamaguchi
+Sun 24 Aug , Vegalta Sendai , 1 - 0 , JEF Utd Chiba
+Sat 30 Aug , C. Sapporo , 1 - 0 , Omiya Ardija
+Sat 30 Aug , Mito Hollyhock , 2 - 2 , R. Yamaguchi
+Sat 30 Aug , Kataller Toyama , 0 - 1 , R. Kumamoto
+Sat 30 Aug , FC Imabari , 0 - 2 , Iwaki
+Sat 30 Aug , JEF Utd Chiba , 2 - 1 , Ventforet Kofu
+Sat 30 Aug , M. Yamagata , 3 - 2 , Sagan Tosu
+Sat 30 Aug , Tokushima V. , 1 - 1 , Blaublitz Akita
+Sun 31 Aug , V-V. Nagasaki , 2 - 1 , Fujieda MYFC
+Sun 31 Aug , Ehime FC , 1 - 1 , Vegalta Sendai
+Sun 31 Aug , Oita Trinita , 0 - 0 , Jubilo Iwata
+Sat 13 Sep , C. Sapporo , 1 - 5 , Iwaki
+Sat 13 Sep , Fujieda MYFC , 1 - 1 , Oita Trinita
+Sat 13 Sep , Vegalta Sendai , 1 - 1 , Mito Hollyhock
+Sat 13 Sep , Ventforet Kofu , 2 - 3 , Sagan Tosu
+Sat 13 Sep , Jubilo Iwata , 1 - 0 , FC Imabari
+Sat 13 Sep , Omiya Ardija , 1 - 2 , Nagasaki
+Sun 14 Sep , Blaublitz Akita , 3 - 2 , Ehime FC
+Sun 14 Sep , M. Yamagata , 3 - 0 , Kataller Toyama
+Sun 14 Sep , R. Yamaguchi , 2 - 1 , JEF Utd Chiba
+Mon 15 Sep , R. Kumamoto , 2 - 1 , Tokushima V.
+Sat 20 Sep , Fujieda MYFC , 2 - 1 , Jubilo Iwata
+Sat 20 Sep , Iwaki , 0 - 0 , Mito Hollyhock
+Sat 20 Sep , Vegalta Sendai , 3 - 1 , M. Yamagata
+Sat 20 Sep , V-V. Nagasaki , 1 - 1 , Kataller Toyama
+Sat 20 Sep , Ventforet Kofu , 1 - 1 , Blaublitz Akita
+Sat 20 Sep , Ehime FC , 0 - 1 , JEF Utd Chiba
+Sat 20 Sep , Oita Trinita , 1 - 0 , R. Yamaguchi
+Sat 20 Sep , Omiya Ardija , 2 - 3 , FC Imabari
+Sat 20 Sep , Sagan Tosu , 4 - 2 , R. Kumamoto
+Sat 20 Sep , Tokushima V. , 1 - 2 , C. Sapporo
+Sat 27 Sep , C. Sapporo , 0 - 3 , Vegalta Sendai
+Sat 27 Sep , Iwaki , 2 - 3 , Ventforet Kofu
+Sat 27 Sep , JEF Utd Chiba , 2 - 2 , R. Kumamoto
+Sat 27 Sep , M. Yamagata , 2 - 1 , R. Yamaguchi
+Sat 27 Sep , FC Imabari , 1 - 1 , Sagan Tosu
+Sat 27 Sep , Jubilo Iwata , 3 - 4 , Omiya Ardija
+Sat 27 Sep , Oita Trinita , 0 - 3 , Ehime FC
+Sun 28 Sep , Blaublitz Akita , 0 - 0 , Nagasaki
+Sun 28 Sep , Mito Hollyhock , 2 - 0 , Fujieda MYFC
+Sun 28 Sep , Kataller Toyama , 1 - 3 , Tokushima V.
+Sat 4 Oct , C. Sapporo , 1 - 2 , M. Yamagata
+Sat 4 Oct , Fujieda MYFC , 0 - 1 , Kataller Toyama
+Sat 4 Oct , JEF Utd Chiba , 0 - 2 , Nagasaki
+Sat 4 Oct , Vegalta Sendai , 1 - 2 , Omiya Ardija
+Sat 4 Oct , Ventforet Kofu , 0 - 1 , Jubilo Iwata
+Sun 5 Oct , Blaublitz Akita , 0 - 0 , Oita Trinita
+Sun 5 Oct , R. Yamaguchi , 1 - 2 , Sagan Tosu
+Sun 5 Oct , Tokushima V. , 1 - 0 , FC Imabari
+Sun 5 Oct , R. Kumamoto , 0 - 2 , Iwaki
+Sun 5 Oct , Ehime FC , 1 - 3 , Mito Hollyhock
+Sat 18 Oct , Iwaki , 2 - 1 , Ehime FC
+Sat 18 Oct , Omiya Ardija , 1 - 0 , Fujieda MYFC
+Sat 18 Oct , Sagan Tosu , 1 - 0 , Blaublitz Akita
+Sat 18 Oct , Jubilo Iwata , 0 - 4 , Tokushima V.
+Sat 18 Oct , V-V. Nagasaki , 4 - 0 , Ventforet Kofu
+Sun 19 Oct , Kataller Toyama , 0 - 2 , C. Sapporo
+Sun 19 Oct , FC Imabari , 1 - 1 , R. Yamaguchi
+Sun 19 Oct , M. Yamagata , 1 - 1 , R. Kumamoto
+Sun 19 Oct , Oita Trinita , 0 - 0 , Vegalta Sendai
+Sun 19 Oct , Mito Hollyhock , 0 - 1 , JEF Utd Chiba
+Sat 25 Oct , Fujieda MYFC , 1 - 1 , Ventforet Kofu
+Sat 25 Oct , V-V. Nagasaki , 1 - 1 , FC Imabari
+Sun 26 Oct , C. Sapporo , 0 - 1 , Mito Hollyhock
+Sun 26 Oct , M. Yamagata , 2 - 2 , Omiya Ardija
+Sun 26 Oct , Tokushima V. , 0 - 1 , Iwaki
+Sun 26 Oct , Blaublitz Akita , 0 - 0 , JEF Utd Chiba
+Sun 26 Oct , R. Kumamoto , 0 - 1 , Oita Trinita
+Sun 26 Oct , R. Yamaguchi , 1 - 0 , Kataller Toyama
+Sun 26 Oct , Vegalta Sendai , 3 - 2 , Sagan Tosu
+Sun 26 Oct , Ehime FC , 1 - 3 , Jubilo Iwata
+Sun 2 Nov , FC Imabari , 3 - 2 , Vegalta Sendai
+Sun 2 Nov , Iwaki , 3 - 1 , Fujieda MYFC
+Sun 2 Nov , JEF Utd Chiba , 5 - 2 , C. Sapporo
+Sun 2 Nov , Jubilo Iwata , 1 - 0 , Nagasaki
+Sun 2 Nov , Kataller Toyama , 1 - 1 , Ehime FC
+Sun 2 Nov , Omiya Ardija , 5 - 0 , Blaublitz Akita
+Sun 2 Nov , R. Kumamoto , 0 - 1 , R. Yamaguchi
+Sun 2 Nov , Sagan Tosu , 0 - 0 , Tokushima V.
+Sun 2 Nov , Ventforet Kofu , 0 - 1 , Mito Hollyhock
+Sun 2 Nov , Oita Trinita , 1 - 2 , M. Yamagata
+Sat 8 Nov , C. Sapporo , 3 - 1 , Oita Trinita
+Sat 8 Nov , Ehime FC , 0 - 4 , Nagasaki
+Sun 9 Nov , Kataller Toyama , 3 - 1 , Sagan Tosu
+Sun 9 Nov , Vegalta Sendai , 2 - 0 , R. Kumamoto
+Sun 9 Nov , Blaublitz Akita , 2 - 0 , Iwaki
+Sun 9 Nov , JEF Utd Chiba , 1 - 1 , Fujieda MYFC
+Sun 9 Nov , M. Yamagata , 2 - 1 , FC Imabari
+Sun 9 Nov , Mito Hollyhock , 0 - 2 , Omiya Ardija
+Sun 9 Nov , R. Yamaguchi , 1 - 2 , Jubilo Iwata
+Sun 9 Nov , Tokushima V. , 4 - 1 , Ventforet Kofu

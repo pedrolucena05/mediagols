@@ -1,0 +1,77 @@
+Fri 1 Aug , LASK Linz , 0 - 2 , Sturm Graz
+Sat 2 Aug , Tirol , 4 - 2 , Hartberg
+Sat 2 Aug , Wolfsberger AC , 0 - 2 , Altach
+Sat 2 Aug , Ried , 2 - 2 , Salzburg
+Sun 3 Aug , Grazer AK , 2 - 2 , Austria Wien
+Sun 3 Aug , Rapid Wien , 1 - 0 , BW Linz
+Sat 9 Aug , Altach , 1 - 0 , Ried
+Sat 9 Aug , BW Linz , 0 - 1 , Hartberg
+Sat 9 Aug , Salzburg , 5 - 0 , Grazer AK
+Sun 10 Aug , Austria Wien , 0 - 2 , Wolfsberger AC
+Sun 10 Aug , Sturm Graz , 1 - 2 , Rapid Wien
+Sun 10 Aug , Tirol , 3 - 1 , LASK Linz
+Sat 16 Aug , Grazer AK , 1 - 1 , Tirol
+Sat 16 Aug , Hartberg , 1 - 2 , Salzburg
+Sat 16 Aug , Ried , 1 - 3 , Sturm Graz
+Sun 17 Aug , LASK Linz , 2 - 1 , Austria Wien
+Sun 17 Aug , Rapid Wien , 0 - 0 , Altach
+Sun 17 Aug , Wolfsberger AC , 3 - 0 , BW Linz
+Sat 23 Aug , BW Linz , 0 - 2 , Ried
+Sat 23 Aug , Salzburg , 3 - 0 , LASK Linz
+Sun 24 Aug , Altach , 1 - 1 , Grazer AK
+Sun 24 Aug , Austria Wien , 1 - 3 , Hartberg
+Sun 24 Aug , Wolfsberger AC , 1 - 2 , Rapid Wien
+Sat 30 Aug , LASK Linz , 1 - 3 , Ried
+Sat 30 Aug , Salzburg , 2 - 2 , BW Linz
+Sat 30 Aug , Grazer AK , 0 - 3 , Sturm Graz
+Sun 31 Aug , Austria Wien , 1 - 0 , Altach
+Sun 31 Aug , Hartberg , 0 - 1 , Rapid Wien
+Sun 31 Aug , Tirol , 1 - 1 , Wolfsberger AC
+Sat 13 Sep , Altach , 1 - 0 , LASK Linz
+Sat 13 Sep , BW Linz , 3 - 0 , Grazer AK
+Sat 13 Sep , Wolfsberger AC , 3 - 1 , Salzburg
+Sun 14 Sep , Rapid Wien , 4 - 1 , Tirol
+Sun 14 Sep , Ried , 0 - 2 , Hartberg
+Sun 14 Sep , Sturm Graz , 0 - 1 , Austria Wien
+Sat 20 Sep , Austria Wien , 3 - 2 , Ried
+Sat 20 Sep , Hartberg , 2 - 2 , Wolfsberger AC
+Sat 20 Sep , Salzburg , 0 - 2 , Sturm Graz
+Sun 21 Sep , Altach , 1 - 1 , Tirol
+Sun 21 Sep , LASK Linz , 2 - 0 , BW Linz
+Sun 21 Sep , Grazer AK , 1 - 1 , Rapid Wien
+Sat 27 Sep , BW Linz , 1 - 0 , Altach
+Sat 27 Sep , Ried , 0 - 0 , Grazer AK
+Sat 27 Sep , Wolfsberger AC , 1 - 0 , LASK Linz
+Sun 28 Sep , Sturm Graz , 1 - 0 , Hartberg
+Sun 28 Sep , Tirol , 1 - 2 , Salzburg
+Sun 28 Sep , Rapid Wien , 1 - 3 , Austria Wien
+Sat 4 Oct , Austria Wien , 0 - 1 , BW Linz
+Sat 4 Oct , Grazer AK , 1 - 3 , Wolfsberger AC
+Sat 4 Oct , Ried , 2 - 0 , Tirol
+Sun 5 Oct , Altach , 0 - 2 , Sturm Graz
+Sun 5 Oct , LASK Linz , 3 - 3 , Hartberg
+Sun 5 Oct , Salzburg , 2 - 1 , Rapid Wien
+Sat 18 Oct , Grazer AK , 0 - 0 , Hartberg
+Sat 18 Oct , Tirol , 2 - 3 , Austria Wien
+Sat 18 Oct , Wolfsberger AC , 1 - 2 , Ried
+Sun 19 Oct , BW Linz , 3 - 4 , Sturm Graz
+Sun 19 Oct , Salzburg , 2 - 2 , Altach
+Sun 19 Oct , Rapid Wien , 0 - 2 , LASK Linz
+Sat 25 Oct , Altach , 2 - 2 , Hartberg
+Sat 25 Oct , LASK Linz , 1 - 0 , Grazer AK
+Sat 25 Oct , Tirol , 2 - 0 , BW Linz
+Sun 26 Oct , Ried , 0 - 2 , Rapid Wien
+Sun 26 Oct , Sturm Graz , 1 - 3 , Wolfsberger AC
+Sun 26 Oct , Austria Wien , 0 - 3 , Salzburg
+Sat 1 Nov , BW Linz , 0 - 1 , LASK Linz
+Sat 1 Nov , Grazer AK , 3 - 1 , Altach
+Sat 1 Nov , Hartberg , 2 - 1 , Austria Wien
+Sun 2 Nov , Salzburg , 4 - 1 , Ried
+Sun 2 Nov , Wolfsberger AC , 0 - 0 , Tirol
+Sun 2 Nov , Rapid Wien , 2 - 1 , Sturm Graz
+Sat 8 Nov , Austria Wien , 2 - 1 , Grazer AK
+Sat 8 Nov , Ried , 2 - 1 , BW Linz
+Sat 8 Nov , Wolfsberger AC , 1 - 2 , Hartberg
+Sun 9 Nov , LASK Linz , 1 - 0 , Altach
+Sun 9 Nov , Tirol , 1 - 1 , Rapid Wien
+Sun 9 Nov , Sturm Graz , 1 - 1 , Salzburg

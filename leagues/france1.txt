@@ -1,0 +1,108 @@
+Fri 15 Aug , Rennes , 1 - 0 , Marseille
+Sat 16 Aug , Lens , 0 - 1 , Lyon
+Sat 16 Aug , Monaco , 3 - 1 , Le Havre
+Sat 16 Aug , Nice , 0 - 1 , Toulouse
+Sun 17 Aug , Brest , 3 - 3 , Lille
+Sun 17 Aug , Angers , 1 - 0 , Paris FC
+Sun 17 Aug , Auxerre , 1 - 0 , Lorient
+Sun 17 Aug , Metz , 0 - 1 , Strasbourg
+Sun 17 Aug , Nantes , 0 - 1 , Paris SG
+Fri 22 Aug , Paris SG , 1 - 0 , Angers
+Sat 23 Aug , Marseille , 5 - 2 , Paris FC
+Sat 23 Aug , Nice , 3 - 1 , Auxerre
+Sat 23 Aug , Lyon , 3 - 0 , Metz
+Sun 24 Aug , Lorient , 4 - 0 , Rennes
+Sun 24 Aug , Le Havre , 1 - 2 , Lens
+Sun 24 Aug , Strasbourg , 1 - 0 , Nantes
+Sun 24 Aug , Toulouse , 2 - 0 , Brest
+Sun 24 Aug , Lille , 1 - 0 , Monaco
+Fri 29 Aug , Lens , 3 - 1 , Brest
+Sat 30 Aug , Lorient , 1 - 7 , Lille
+Sat 30 Aug , Nantes , 1 - 0 , Auxerre
+Sat 30 Aug , Toulouse , 3 - 6 , Paris SG
+Sun 31 Aug , Angers , 1 - 1 , Rennes
+Sun 31 Aug , Le Havre , 3 - 1 , Nice
+Sun 31 Aug , Monaco , 3 - 2 , Strasbourg
+Sun 31 Aug , Paris FC , 3 - 2 , Metz
+Sun 31 Aug , Lyon , 1 - 0 , Marseille
+Fri 12 Sep , Marseille , 4 - 0 , Lorient
+Sat 13 Sep , Nice , 1 - 0 , Nantes
+Sat 13 Sep , Auxerre , 1 - 2 , Monaco
+Sun 14 Sep , Lille , 2 - 1 , Toulouse
+Sun 14 Sep , Brest , 1 - 2 , Paris FC
+Sun 14 Sep , Metz , 1 - 1 , Angers
+Sun 14 Sep , Paris SG , 2 - 0 , Lens
+Sun 14 Sep , Strasbourg , 1 - 0 , Le Havre
+Sun 14 Sep , Rennes , 3 - 1 , Lyon
+Fri 19 Sep , Lyon , 1 - 0 , Angers
+Sat 20 Sep , Nantes , 2 - 2 , Rennes
+Sat 20 Sep , Brest , 4 - 1 , Nice
+Sat 20 Sep , Lens , 3 - 0 , Lille
+Sun 21 Sep , Paris FC , 2 - 3 , Strasbourg
+Sun 21 Sep , Auxerre , 1 - 0 , Toulouse
+Sun 21 Sep , Le Havre , 1 - 1 , Lorient
+Sun 21 Sep , Monaco , 5 - 2 , Metz
+Mon 22 Sep , Marseille , 1 - 0 , Paris SG
+Fri 26 Sep , Strasbourg , 1 - 2 , Marseille
+Sat 27 Sep , Lorient , 3 - 1 , Monaco
+Sat 27 Sep , Toulouse , 2 - 2 , Nantes
+Sat 27 Sep , Paris SG , 2 - 0 , Auxerre
+Sun 28 Sep , Nice , 1 - 1 , Paris FC
+Sun 28 Sep , Angers , 0 - 2 , Brest
+Sun 28 Sep , Lille , 0 - 1 , Lyon
+Sun 28 Sep , Metz , 0 - 0 , Le Havre
+Sun 28 Sep , Rennes , 0 - 0 , Lens
+Fri 3 Oct , Paris FC , 2 - 0 , Lorient
+Sat 4 Oct , Metz , 0 - 3 , Marseille
+Sat 4 Oct , Brest , 0 - 0 , Nantes
+Sat 4 Oct , Auxerre , 1 - 2 , Lens
+Sun 5 Oct , Lyon , 1 - 2 , Toulouse
+Sun 5 Oct , Le Havre , 2 - 2 , Rennes
+Sun 5 Oct , Monaco , 2 - 2 , Nice
+Sun 5 Oct , Strasbourg , 5 - 0 , Angers
+Sun 5 Oct , Lille , 1 - 1 , Paris SG
+Fri 17 Oct , Paris SG , 3 - 3 , Strasbourg
+Sat 18 Oct , Nice , 3 - 2 , Lyon
+Sat 18 Oct , Angers , 1 - 1 , Monaco
+Sat 18 Oct , Marseille , 6 - 2 , Le Havre
+Sun 19 Oct , Lens , 2 - 1 , Paris FC
+Sun 19 Oct , Lorient , 3 - 3 , Brest
+Sun 19 Oct , Rennes , 2 - 2 , Auxerre
+Sun 19 Oct , Toulouse , 4 - 0 , Metz
+Sun 19 Oct , Nantes , 0 - 2 , Lille
+Fri 24 Oct , Paris FC , 1 - 2 , Nantes
+Sat 25 Oct , Brest , 0 - 3 , Paris SG
+Sat 25 Oct , Monaco , 1 - 0 , Toulouse
+Sat 25 Oct , Lens , 2 - 1 , Marseille
+Sun 26 Oct , Lille , 6 - 1 , Metz
+Sun 26 Oct , Angers , 2 - 0 , Lorient
+Sun 26 Oct , Auxerre , 0 - 1 , Le Havre
+Sun 26 Oct , Rennes , 1 - 2 , Nice
+Sun 26 Oct , Lyon , 2 - 1 , Strasbourg
+Wed 29 Oct , Le Havre , 1 - 0 , Brest
+Wed 29 Oct , Lorient , 1 - 1 , Paris SG
+Wed 29 Oct , Metz , 2 - 0 , Lens
+Wed 29 Oct , Nice , 2 - 0 , Lille
+Wed 29 Oct , Marseille , 2 - 2 , Angers
+Wed 29 Oct , Nantes , 3 - 5 , Monaco
+Wed 29 Oct , Paris FC , 3 - 3 , Lyon
+Wed 29 Oct , Strasbourg , 3 - 0 , Auxerre
+Wed 29 Oct , Toulouse , 2 - 2 , Rennes
+Sat 1 Nov , Paris SG , 1 - 0 , Nice
+Sat 1 Nov , Monaco , 0 - 1 , Paris FC
+Sat 1 Nov , Auxerre , 0 - 1 , Marseille
+Sun 2 Nov , Rennes , 4 - 1 , Strasbourg
+Sun 2 Nov , Lens , 3 - 0 , Lorient
+Sun 2 Nov , Lille , 1 - 0 , Angers
+Sun 2 Nov , Nantes , 0 - 2 , Metz
+Sun 2 Nov , Toulouse , 0 - 0 , Le Havre
+Sun 2 Nov , Brest , 0 - 0 , Lyon
+Fri 7 Nov , Paris FC , 0 - 1 , Rennes
+Sat 8 Nov , Marseille , 3 - 0 , Brest
+Sat 8 Nov , Le Havre , 1 - 1 , Nantes
+Sat 8 Nov , Monaco , 1 - 4 , Lens
+Sun 9 Nov , Lorient , 1 - 1 , Toulouse
+Sun 9 Nov , Angers , 2 - 0 , Auxerre
+Sun 9 Nov , Metz , 2 - 1 , Nice
+Sun 9 Nov , Strasbourg , 2 - 0 , Lille
+Sun 9 Nov , Lyon , 2 - 3 , Paris SG

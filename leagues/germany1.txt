@@ -1,0 +1,90 @@
+Fri 22 Aug , Bayern Munich , 6 - 0 , RB Leipzig
+Sat 23 Aug , E. Frankfurt , 4 - 1 , Werder Bremen
+Sat 23 Aug , Freiburg , 1 - 3 , FC Augsburg
+Sat 23 Aug , Heidenheim , 1 - 3 , Wolfsburg
+Sat 23 Aug , Leverkusen , 1 - 2 , Hoffenheim
+Sat 23 Aug , Union Berlin , 2 - 1 , Stuttgart
+Sat 23 Aug , Sankt Pauli , 3 - 3 , Dortmund
+Sun 24 Aug , FSV Mainz , 0 - 1 , FC Koln
+Sun 24 Aug , Monchengladbach , 0 - 0 , Hamburger SV
+Fri 29 Aug , Hamburger SV , 0 - 2 , Sankt Pauli
+Sat 30 Aug , Hoffenheim , 1 - 3 , E. Frankfurt
+Sat 30 Aug , RB Leipzig , 2 - 0 , Heidenheim
+Sat 30 Aug , Stuttgart , 1 - 0 , Monchengladbach
+Sat 30 Aug , Werder Bremen , 3 - 3 , Leverkusen
+Sat 30 Aug , FC Augsburg , 2 - 3 , Bayern Munich
+Sun 31 Aug , Wolfsburg , 1 - 1 , FSV Mainz
+Sun 31 Aug , Dortmund , 3 - 0 , Union Berlin
+Sun 31 Aug , FC Koln , 4 - 1 , Freiburg
+Fri 12 Sep , Leverkusen , 3 - 1 , E. Frankfurt
+Sat 13 Sep , Freiburg , 3 - 1 , Stuttgart
+Sat 13 Sep , FSV Mainz , 0 - 1 , RB Leipzig
+Sat 13 Sep , Heidenheim , 0 - 2 , Dortmund
+Sat 13 Sep , Union Berlin , 2 - 4 , Hoffenheim
+Sat 13 Sep , Wolfsburg , 3 - 3 , FC Koln
+Sat 13 Sep , Bayern Munich , 5 - 0 , Hamburger SV
+Sun 14 Sep , Sankt Pauli , 2 - 1 , FC Augsburg
+Sun 14 Sep , Monchengladbach , 0 - 4 , Werder Bremen
+Fri 19 Sep , Stuttgart , 2 - 0 , Sankt Pauli
+Sat 20 Sep , FC Augsburg , 1 - 4 , FSV Mainz
+Sat 20 Sep , Hamburger SV , 2 - 1 , Heidenheim
+Sat 20 Sep , Hoffenheim , 1 - 4 , Bayern Munich
+Sat 20 Sep , Werder Bremen , 0 - 3 , Freiburg
+Sat 20 Sep , RB Leipzig , 3 - 1 , FC Koln
+Sun 21 Sep , E. Frankfurt , 3 - 4 , Union Berlin
+Sun 21 Sep , Leverkusen , 1 - 1 , Monchengladbach
+Sun 21 Sep , Dortmund , 1 - 0 , Wolfsburg
+Fri 26 Sep , Bayern Munich , 4 - 0 , Werder Bremen
+Sat 27 Sep , FSV Mainz , 0 - 2 , Dortmund
+Sat 27 Sep , Heidenheim , 2 - 1 , FC Augsburg
+Sat 27 Sep , Sankt Pauli , 1 - 2 , Leverkusen
+Sat 27 Sep , Wolfsburg , 0 - 1 , RB Leipzig
+Sat 27 Sep , Monchengladbach , 4 - 6 , E. Frankfurt
+Sun 28 Sep , Freiburg , 1 - 1 , Hoffenheim
+Sun 28 Sep , FC Koln , 1 - 2 , Stuttgart
+Sun 28 Sep , Union Berlin , 0 - 0 , Hamburger SV
+Fri 3 Oct , Hoffenheim , 0 - 1 , FC Koln
+Sat 4 Oct , Dortmund , 1 - 1 , RB Leipzig
+Sat 4 Oct , FC Augsburg , 3 - 1 , Wolfsburg
+Sat 4 Oct , Leverkusen , 2 - 0 , Union Berlin
+Sat 4 Oct , Werder Bremen , 1 - 0 , Sankt Pauli
+Sat 4 Oct , E. Frankfurt , 0 - 3 , Bayern Munich
+Sun 5 Oct , Stuttgart , 1 - 0 , Heidenheim
+Sun 5 Oct , Hamburger SV , 4 - 0 , FSV Mainz
+Sun 5 Oct , Monchengladbach , 0 - 0 , Freiburg
+Fri 17 Oct , Union Berlin , 3 - 1 , Monchengladbach
+Sat 18 Oct , FC Koln , 1 - 1 , FC Augsburg
+Sat 18 Oct , FSV Mainz , 3 - 4 , Leverkusen
+Sat 18 Oct , Heidenheim , 2 - 2 , Werder Bremen
+Sat 18 Oct , RB Leipzig , 2 - 1 , Hamburger SV
+Sat 18 Oct , Wolfsburg , 0 - 3 , Stuttgart
+Sat 18 Oct , Bayern Munich , 2 - 1 , Dortmund
+Sun 19 Oct , Freiburg , 2 - 2 , E. Frankfurt
+Sun 19 Oct , Sankt Pauli , 0 - 3 , Hoffenheim
+Fri 24 Oct , Werder Bremen , 1 - 0 , Union Berlin
+Sat 25 Oct , E. Frankfurt , 2 - 0 , Sankt Pauli
+Sat 25 Oct , FC Augsburg , 0 - 6 , RB Leipzig
+Sat 25 Oct , Hamburger SV , 0 - 1 , Wolfsburg
+Sat 25 Oct , Hoffenheim , 3 - 1 , Heidenheim
+Sat 25 Oct , Monchengladbach , 0 - 3 , Bayern Munich
+Sat 25 Oct , Dortmund , 1 - 0 , FC Koln
+Sun 26 Oct , Leverkusen , 2 - 0 , Freiburg
+Sun 26 Oct , Stuttgart , 2 - 1 , FSV Mainz
+Fri 31 Oct , FC Augsburg , 0 - 1 , Dortmund
+Sat 1 Nov , FSV Mainz , 1 - 1 , Werder Bremen
+Sat 1 Nov , Heidenheim , 1 - 1 , E. Frankfurt
+Sat 1 Nov , RB Leipzig , 3 - 1 , Stuttgart
+Sat 1 Nov , Sankt Pauli , 0 - 4 , Monchengladbach
+Sat 1 Nov , Union Berlin , 0 - 0 , Freiburg
+Sat 1 Nov , Bayern Munich , 3 - 0 , Leverkusen
+Sun 2 Nov , FC Koln , 4 - 1 , Hamburger SV
+Sun 2 Nov , Wolfsburg , 2 - 3 , Hoffenheim
+Fri 7 Nov , Werder Bremen , 2 - 1 , Wolfsburg
+Sat 8 Nov , Hamburger SV , 1 - 1 , Dortmund
+Sat 8 Nov , Hoffenheim , 3 - 1 , RB Leipzig
+Sat 8 Nov , Leverkusen , 6 - 0 , Heidenheim
+Sat 8 Nov , Union Berlin , 2 - 2 , Bayern Munich
+Sat 8 Nov , Monchengladbach , 3 - 1 , FC Koln
+Sun 9 Nov , Freiburg , 2 - 1 , Sankt Pauli
+Sun 9 Nov , Stuttgart , 3 - 2 , FC Augsburg
+Sun 9 Nov , E. Frankfurt , 1 - 0 , FSV Mainz

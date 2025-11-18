@@ -1,0 +1,99 @@
+Fri 8 Aug , Casa Pia , 0 - 2 , Sporting CP
+Sat 9 Aug , Nacional , 0 - 2 , Gil Vicente
+Sat 9 Aug , Arouca , 3 - 1 , AVS
+Sun 10 Aug , Famalicao , 3 - 0 , Santa Clara
+Sun 10 Aug , Moreirense , 2 - 1 , Alverca
+Sun 10 Aug , Sporting Braga , 3 - 0 , Tondela
+Mon 11 Aug , Estoril , 1 - 1 , Estrela Amadora
+Mon 11 Aug , FC Porto , 3 - 0 , Guimaraes
+Fri 15 Aug , AVS , 0 - 2 , Casa Pia
+Sat 16 Aug , Tondela , 0 - 1 , Famalicao
+Sat 16 Aug , Guimaraes , 3 - 2 , Estoril
+Sat 16 Aug , Estrela Amadora , 0 - 1 , Benfica
+Sun 17 Aug , Rio Ave , 1 - 1 , Nacional
+Sun 17 Aug , Alverca , 0 - 3 , Sporting Braga
+Sun 17 Aug , Santa Clara , 0 - 1 , Moreirense
+Sun 17 Aug , Sporting CP , 6 - 0 , Arouca
+Mon 18 Aug , Gil Vicente , 0 - 2 , FC Porto
+Sat 23 Aug , Moreirense , 2 - 0 , Guimaraes
+Sat 23 Aug , Nacional , 1 - 4 , Sporting CP
+Sat 23 Aug , Arouca , 3 - 3 , Rio Ave
+Sat 23 Aug , Benfica , 3 - 0 , Tondela
+Sun 24 Aug , Famalicao , 0 - 0 , Gil Vicente
+Sun 24 Aug , FC Porto , 4 - 0 , Casa Pia
+Sun 24 Aug , Sporting Braga , 2 - 2 , AVS
+Mon 25 Aug , Estrela Amadora , 2 - 2 , Alverca
+Fri 29 Aug , Gil Vicente , 2 - 0 , Moreirense
+Sat 30 Aug , Casa Pia , 0 - 2 , Nacional
+Sat 30 Aug , AVS , 0 - 1 , Famalicao
+Sat 30 Aug , Guimaraes , 1 - 1 , Arouca
+Sat 30 Aug , Sporting CP , 1 - 2 , FC Porto
+Sun 31 Aug , Tondela , 2 - 2 , Estoril
+Sun 31 Aug , Alverca , 1 - 2 , Benfica
+Sun 31 Aug , Rio Ave , 2 - 2 , Sporting Braga
+Sun 31 Aug , Santa Clara , 0 - 0 , Estrela Amadora
+Sat 6 Sep , Estoril , 0 - 1 , Santa Clara
+Fri 12 Sep , Alverca , 1 - 0 , Tondela
+Fri 12 Sep , Benfica , 1 - 1 , Santa Clara
+Sat 13 Sep , Estoril , 3 - 1 , AVS
+Sat 13 Sep , Moreirense , 3 - 1 , Rio Ave
+Sat 13 Sep , FC Porto , 1 - 0 , Nacional
+Sat 13 Sep , Famalicao , 1 - 2 , Sporting CP
+Sun 14 Sep , Estrela Amadora , 0 - 2 , Guimaraes
+Sun 14 Sep , Arouca , 0 - 2 , Casa Pia
+Sun 14 Sep , Sporting Braga , 0 - 1 , Gil Vicente
+Fri 19 Sep , Rio Ave , 0 - 3 , FC Porto
+Sat 20 Sep , Nacional , 1 - 2 , Arouca
+Sat 20 Sep , Santa Clara , 2 - 1 , Alverca
+Sat 20 Sep , AVS , 0 - 3 , Benfica
+Sat 20 Sep , Guimaraes , 1 - 1 , Sporting Braga
+Sun 21 Sep , Tondela , 0 - 0 , Estrela Amadora
+Sun 21 Sep , Gil Vicente , 2 - 0 , Estoril
+Sun 21 Sep , Casa Pia , 1 - 1 , Famalicao
+Mon 22 Sep , Sporting CP , 3 - 0 , Moreirense
+Tue 23 Sep , Benfica , 1 - 1 , Rio Ave
+Fri 26 Sep , Benfica , 2 - 1 , Gil Vicente
+Sat 27 Sep , Moreirense , 2 - 1 , Casa Pia
+Sat 27 Sep , Santa Clara , 1 - 2 , Tondela
+Sat 27 Sep , Estrela Amadora , 3 - 0 , AVS
+Sat 27 Sep , Estoril , 0 - 1 , Sporting CP
+Sun 28 Sep , Alverca , 2 - 0 , Guimaraes
+Sun 28 Sep , Sporting Braga , 0 - 1 , Nacional
+Sun 28 Sep , Famalicao , 0 - 0 , Rio Ave
+Mon 29 Sep , Arouca , 0 - 4 , FC Porto
+Fri 3 Oct , Casa Pia , 2 - 2 , Estoril
+Sat 4 Oct , Gil Vicente , 2 - 0 , Estrela Amadora
+Sat 4 Oct , Nacional , 3 - 2 , Moreirense
+Sat 4 Oct , AVS , 1 - 3 , Alverca
+Sat 4 Oct , Guimaraes , 2 - 1 , Santa Clara
+Sun 5 Oct , Arouca , 1 - 1 , Famalicao
+Sun 5 Oct , Rio Ave , 3 - 0 , Tondela
+Sun 5 Oct , Sporting CP , 1 - 1 , Sporting Braga
+Sun 5 Oct , FC Porto , 0 - 0 , Benfica
+Fri 24 Oct , Alverca , 0 - 4 , Gil Vicente
+Sat 25 Oct , Santa Clara , 2 - 0 , AVS
+Sat 25 Oct , Benfica , 5 - 0 , Arouca
+Sat 25 Oct , Estrela Amadora , 1 - 2 , Rio Ave
+Sun 26 Oct , Estoril , 1 - 1 , Nacional
+Sun 26 Oct , Famalicao , 2 - 0 , Guimaraes
+Sun 26 Oct , Tondela , 0 - 3 , Sporting CP
+Sun 26 Oct , Sporting Braga , 4 - 0 , Casa Pia
+Mon 27 Oct , Moreirense , 1 - 2 , FC Porto
+Fri 31 Oct , Sporting CP , 2 - 0 , Alverca
+Sat 1 Nov , Nacional , 0 - 1 , Famalicao
+Sat 1 Nov , Casa Pia , 3 - 5 , Estrela Amadora
+Sat 1 Nov , Rio Ave , 0 - 4 , Estoril
+Sat 1 Nov , Guimaraes , 0 - 3 , Benfica
+Sun 2 Nov , AVS , 2 - 2 , Tondela
+Sun 2 Nov , Arouca , 0 - 2 , Moreirense
+Sun 2 Nov , FC Porto , 2 - 1 , Sporting Braga
+Mon 3 Nov , Gil Vicente , 1 - 0 , Santa Clara
+Fri 7 Nov , Estoril , 4 - 3 , Arouca
+Sat 8 Nov , Alverca , 1 - 1 , Rio Ave
+Sat 8 Nov , Tondela , 0 - 1 , Guimaraes
+Sat 8 Nov , Santa Clara , 1 - 2 , Sporting CP
+Sun 9 Nov , AVS , 1 - 1 , Gil Vicente
+Sun 9 Nov , Estrela Amadora , 1 - 1 , Nacional
+Sun 9 Nov , Famalicao , 0 - 1 , FC Porto
+Sun 9 Nov , Benfica , 2 - 2 , Casa Pia
+Sun 9 Nov , Sporting Braga , 2 - 1 , Moreirense

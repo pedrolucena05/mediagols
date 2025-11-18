@@ -1,0 +1,210 @@
+Sat 8 Mar , Tormenta , 2 - 4 , Richmond K.
+Sat 8 Mar , Greenville , 1 - 1 , Westchester SC
+Sun 9 Mar , Naples , 1 - 1 , Chattanooga RW
+Wed 12 Mar , Greenville , 3 - 0 , Union Omaha
+Sat 15 Mar , Charlotte I. , 1 - 0 , Richmond K.
+Sat 15 Mar , Naples , 2 - 0 , Forward Madison
+Sat 15 Mar , Tormenta , 2 - 0 , Alta
+Sun 16 Mar , Spokane V. , 2 - 2 , One Knoxville
+Sat 22 Mar , Richmond K. , 3 - 1 , Alta
+Sat 22 Mar , Spokane V. , 0 - 1 , Naples
+Sun 23 Mar , Texoma , 0 - 2 , One Knoxville
+Fri 28 Mar , Charlotte I. , 0 - 0 , Chattanooga RW
+Sat 29 Mar , Richmond K. , 1 - 2 , Forward Madison
+Sat 29 Mar , Greenville , 0 - 4 , Spokane V.
+Sat 29 Mar , Naples , 0 - 0 , Portland Hearts
+Sat 29 Mar , Tormenta , 1 - 3 , Union Omaha
+Sun 30 Mar , Texoma , 1 - 3 , Westchester SC
+Sat 5 Apr , Chattanooga RW , 2 - 2 , Tormenta
+Sat 5 Apr , Greenville , 1 - 0 , Charlotte I.
+Sun 6 Apr , Texoma , 0 - 3 , Naples
+Sun 6 Apr , Spokane V. , 0 - 0 , Portland Hearts
+Sun 6 Apr , Alta , 2 - 0 , Westchester SC
+Wed 9 Apr , Greenville , 0 - 1 , One Knoxville
+Wed 9 Apr , Richmond K. , 1 - 0 , Union Omaha
+Fri 11 Apr , Charlotte I. , 1 - 1 , Forward Madison
+Sat 12 Apr , Naples , 2 - 1 , Richmond K.
+Sat 12 Apr , Tormenta , 2 - 1 , Portland Hearts
+Sun 13 Apr , Alta , 3 - 2 , Chattanooga RW
+Sun 13 Apr , Spokane V. , 4 - 1 , Texoma
+Sat 19 Apr , Richmond K. , 4 - 4 , Westchester SC
+Sat 19 Apr , Chattanooga RW , 1 - 0 , Greenville
+Sat 19 Apr , Forward Madison , 1 - 1 , Texoma
+Sat 19 Apr , Naples , 0 - 1 , One Knoxville
+Sun 20 Apr , Alta , 1 - 2 , Spokane V.
+Sun 20 Apr , Charlotte I. , 3 - 2 , Tormenta
+Fri 2 May , Richmond K. , 3 - 3 , Greenville
+Sat 3 May , Forward Madison , 0 - 0 , Union Omaha
+Sun 4 May , Texoma , 3 - 4 , Charlotte I.
+Sun 4 May , Portland Hearts , 1 - 1 , One Knoxville
+Sun 4 May , Spokane V. , 3 - 1 , Westchester SC
+Fri 9 May , One Knoxville , 1 - 1 , Forward Madison
+Sat 10 May , Westchester SC , 2 - 3 , Charlotte I.
+Sat 10 May , Chattanooga RW , 0 - 0 , Richmond K.
+Sat 10 May , Tormenta , 0 - 1 , Spokane V.
+Sun 11 May , Union Omaha , 2 - 2 , Portland Hearts
+Sun 11 May , Alta , 0 - 0 , Texoma
+Wed 14 May , Chattanooga RW , 3 - 1 , Naples
+Fri 16 May , Charlotte I. , 3 - 1 , One Knoxville
+Sat 17 May , Westchester SC , 1 - 1 , Forward Madison
+Sat 17 May , Portland Hearts , 2 - 1 , Naples
+Sat 17 May , Greenville , 2 - 2 , Alta
+Sun 18 May , Texoma , 2 - 1 , Union Omaha
+Sun 18 May , Spokane V. , 1 - 0 , Richmond K.
+Sat 24 May , Forward Madison , 1 - 1 , Portland Hearts
+Sat 24 May , Tormenta , 1 - 2 , Chattanooga RW
+Sun 25 May , Alta , 2 - 1 , Charlotte I.
+Sun 25 May , Westchester SC , 2 - 2 , Richmond K.
+Sun 25 May , Texoma , 1 - 0 , Greenville
+Sun 25 May , Naples , 3 - 1 , Union Omaha
+Sat 7 Jun , Chattanooga RW , 2 - 1 , Portland Hearts
+Sat 7 Jun , Greenville , 1 - 1 , Naples
+Sat 7 Jun , Richmond K. , 1 - 2 , Texoma
+Sat 7 Jun , Westchester SC , 1 - 1 , One Knoxville
+Sat 7 Jun , Tormenta , 0 - 2 , Charlotte I.
+Sun 8 Jun , Forward Madison , 0 - 1 , Union Omaha
+Sun 8 Jun , Alta , 0 - 0 , Spokane V.
+Thu 12 Jun , Spokane V. , 1 - 1 , Charlotte I.
+Fri 13 Jun , Union Omaha , 1 - 0 , Greenville
+Sat 14 Jun , Naples , 2 - 2 , Chattanooga RW
+Sun 15 Jun , Texoma , 2 - 2 , Tormenta
+Sun 15 Jun , Spokane V. , 2 - 1 , Forward Madison
+Sun 15 Jun , Portland Hearts , 3 - 1 , Union Omaha
+Sun 15 Jun , Charlotte I. , 1 - 0 , Greenville
+Sun 15 Jun , Westchester SC , 2 - 5 , Alta
+Thu 19 Jun , Forward Madison , 1 - 2 , Westchester SC
+Sat 21 Jun , Greenville , 3 - 1 , Chattanooga RW
+Sat 21 Jun , One Knoxville , 3 - 0 , Tormenta
+Sat 21 Jun , Richmond K. , 0 - 1 , Spokane V.
+Sun 22 Jun , Texoma , 3 - 2 , Charlotte I.
+Sun 22 Jun , Alta , 1 - 1 , Portland Hearts
+Wed 25 Jun , Tormenta , 2 - 1 , Naples
+Thu 26 Jun , Union Omaha , 3 - 4 , Richmond K.
+Sun 29 Jun , Alta , 4 - 1 , Naples
+Wed 2 Jul , Portland Hearts , 0 - 2 , Alta
+Wed 2 Jul , Westchester SC , 0 - 3 , Greenville
+Thu 3 Jul , Spokane V. , 1 - 1 , Texoma
+Sat 5 Jul , Chattanooga RW , 1 - 0 , One Knoxville
+Sun 6 Jul , Texoma , 2 - 0 , Forward Madison
+Sun 6 Jul , Alta , 2 - 1 , Union Omaha
+Sun 6 Jul , Portland Hearts , 1 - 1 , Tormenta
+Sat 12 Jul , Charlotte I. , 1 - 2 , Union Omaha
+Sat 12 Jul , Richmond K. , 0 - 2 , Chattanooga RW
+Sat 12 Jul , Naples , 2 - 1 , Westchester SC
+Sat 12 Jul , Tormenta , 1 - 2 , One Knoxville
+Sun 13 Jul , Forward Madison , 3 - 1 , Greenville
+Sun 13 Jul , Texoma , 0 - 1 , Portland Hearts
+Wed 16 Jul , Portland Hearts , 3 - 1 , Greenville
+Wed 16 Jul , Chattanooga RW , 1 - 1 , Texoma
+Wed 16 Jul , One Knoxville , 3 - 1 , Alta
+Wed 16 Jul , Westchester SC , 3 - 0 , Spokane V.
+Thu 17 Jul , Forward Madison , 1 - 1 , Charlotte I.
+Fri 18 Jul , Union Omaha , 1 - 2 , Tormenta
+Sat 19 Jul , Charlotte I. , 1 - 1 , Portland Hearts
+Sat 19 Jul , Chattanooga RW , 3 - 0 , Spokane V.
+Sat 19 Jul , One Knoxville , 1 - 1 , Westchester SC
+Sun 20 Jul , Alta , 1 - 1 , Naples
+Sun 20 Jul , Greenville , 2 - 0 , Richmond K.
+Thu 24 Jul , Forward Madison , 1 - 0 , Tormenta
+Wed 30 Jul , One Knoxville , 2 - 2 , Charlotte I.
+Fri 1 Aug , Westchester SC , 1 - 3 , Chattanooga RW
+Sat 2 Aug , Forward Madison , 0 - 0 , Alta
+Sat 2 Aug , Charlotte I. , 3 - 3 , Texoma
+Sat 2 Aug , One Knoxville , 1 - 0 , Portland Hearts
+Sat 2 Aug , Richmond K. , 1 - 2 , Naples
+Sat 2 Aug , Tormenta , 2 - 2 , Greenville
+Sun 3 Aug , Spokane V. , 2 - 1 , Union Omaha
+Wed 6 Aug , Chattanooga RW , 2 - 1 , Forward Madison
+Thu 7 Aug , Naples , 2 - 1 , Tormenta
+Thu 7 Aug , Union Omaha , 2 - 1 , Westchester SC
+Sat 9 Aug , Portland Hearts , 0 - 0 , Richmond K.
+Sat 9 Aug , Charlotte I. , 4 - 5 , Greenville
+Sat 9 Aug , Union Omaha , 2 - 2 , Chattanooga RW
+Sat 9 Aug , Naples , 2 - 1 , Texoma
+Sun 10 Aug , Forward Madison , 2 - 2 , One Knoxville
+Sun 10 Aug , Spokane V. , 2 - 0 , Alta
+Sun 10 Aug , Westchester SC , 3 - 3 , Tormenta
+Fri 15 Aug , Charlotte I. , 1 - 0 , Westchester SC
+Sat 16 Aug , One Knoxville , 1 - 0 , Union Omaha
+Sat 16 Aug , Richmond K. , 2 - 3 , Tormenta
+Sun 17 Aug , Forward Madison , 0 - 0 , Naples
+Sun 17 Aug , Texoma , 0 - 1 , Chattanooga RW
+Sun 17 Aug , Alta , 1 - 1 , Greenville
+Wed 20 Aug , One Knoxville , 2 - 0 , Richmond K.
+Thu 21 Aug , Texoma , 3 - 3 , Alta
+Thu 21 Aug , Union Omaha , 4 - 1 , Charlotte I.
+Fri 22 Aug , Forward Madison , 0 - 1 , Spokane V.
+Sat 23 Aug , Chattanooga RW , 2 - 0 , Tormenta
+Sat 23 Aug , Greenville , 0 - 1 , Texoma
+Sat 23 Aug , Richmond K. , 1 - 0 , One Knoxville
+Sun 24 Aug , Union Omaha , 2 - 0 , Alta
+Sun 24 Aug , Westchester SC , 2 - 3 , Portland Hearts
+Wed 27 Aug , One Knoxville , 0 - 0 , Naples
+Thu 28 Aug , Forward Madison , 3 - 0 , Texoma
+Sat 30 Aug , One Knoxville , 1 - 0 , Spokane V.
+Sat 30 Aug , Portland Hearts , 4 - 2 , Charlotte I.
+Sat 30 Aug , Chattanooga RW , 0 - 0 , Alta
+Sat 30 Aug , Naples , 2 - 2 , Westchester SC
+Sat 30 Aug , Tormenta , 4 - 0 , Forward Madison
+Wed 3 Sep , Greenville , 2 - 3 , Portland Hearts
+Wed 3 Sep , Westchester SC , 0 - 2 , Richmond K.
+Sat 6 Sep , Union Omaha , 5 - 0 , Texoma
+Sat 6 Sep , Chattanooga RW , 1 - 0 , Charlotte I.
+Sat 6 Sep , Naples , 2 - 1 , Greenville
+Sat 6 Sep , Tormenta , 2 - 1 , One Knoxville
+Sun 7 Sep , Alta , 3 - 3 , Forward Madison
+Sun 7 Sep , Spokane V. , 2 - 1 , Westchester SC
+Fri 12 Sep , Charlotte I. , 0 - 1 , Naples
+Sat 13 Sep , Portland Hearts , 1 - 1 , Chattanooga RW
+Sat 13 Sep , Forward Madison , 1 - 0 , Richmond K.
+Sat 13 Sep , Greenville , 1 - 2 , Tormenta
+Sat 13 Sep , Westchester SC , 1 - 2 , Union Omaha
+Sun 14 Sep , Texoma , 3 - 3 , Spokane V.
+Sun 14 Sep , Alta , 1 - 2 , One Knoxville
+Wed 17 Sep , Richmond K. , 2 - 5 , Portland Hearts
+Thu 18 Sep , Union Omaha , 2 - 2 , Spokane V.
+Sat 20 Sep , Greenville , 3 - 0 , Forward Madison
+Sat 20 Sep , Richmond K. , 2 - 3 , Charlotte I.
+Sun 21 Sep , Alta , 0 - 3 , Tormenta
+Sun 21 Sep , Portland Hearts , 1 - 0 , Naples
+Sun 21 Sep , Union Omaha , 2 - 2 , One Knoxville
+Sun 21 Sep , Spokane V. , 1 - 2 , Chattanooga RW
+Sun 21 Sep , Westchester SC , 2 - 1 , Texoma
+Fri 26 Sep , One Knoxville , 1 - 0 , Charlotte I.
+Sat 27 Sep , Portland Hearts , 1 - 0 , Texoma
+Sat 27 Sep , Chattanooga RW , 0 - 3 , Union Omaha
+Sat 27 Sep , Naples , 4 - 0 , Alta
+Sat 27 Sep , Tormenta , 4 - 2 , Richmond K.
+Sun 28 Sep , Spokane V. , 0 - 1 , Greenville
+Sun 28 Sep , Westchester SC , 0 - 1 , Forward Madison
+Wed 1 Oct , Union Omaha , 1 - 0 , Portland Hearts
+Wed 1 Oct , One Knoxville , 2 - 0 , Chattanooga RW
+Fri 3 Oct , Charlotte I. , 0 - 1 , Spokane V.
+Fri 3 Oct , Tormenta , 3 - 1 , Westchester SC
+Sat 4 Oct , Portland Hearts , 1 - 3 , Forward Madison
+Sat 4 Oct , Richmond K. , 2 - 1 , One Knoxville
+Sat 4 Oct , Chattanooga RW , 0 - 0 , Greenville
+Sun 5 Oct , Texoma , 1 - 1 , Alta
+Sun 5 Oct , Union Omaha , 2 - 1 , Naples
+Fri 10 Oct , One Knoxville , 3 - 1 , Portland Hearts
+Fri 10 Oct , Charlotte I. , 3 - 2 , Alta
+Sat 11 Oct , Greenville , 0 - 0 , Union Omaha
+Sat 11 Oct , Forward Madison , 2 - 1 , Chattanooga RW
+Sun 12 Oct , Texoma , 1 - 0 , Richmond K.
+Sun 12 Oct , Spokane V. , 1 - 1 , Tormenta
+Sun 12 Oct , Westchester SC , 2 - 0 , Naples
+Fri 17 Oct , Charlotte I. , 1 - 2 , Chattanooga RW
+Sat 18 Oct , Alta , 2 - 0 , Richmond K.
+Sat 18 Oct , Portland Hearts , 2 - 2 , Westchester SC
+Sat 18 Oct , Greenville , 1 - 4 , Tormenta
+Sat 18 Oct , Naples , 0 - 1 , Spokane V.
+Sat 18 Oct , Union Omaha , 4 - 0 , Forward Madison
+Sun 19 Oct , One Knoxville , 2 - 1 , Texoma
+Tue 21 Oct , Portland Hearts , 6 - 1 , Spokane V.
+Sat 25 Oct , Portland Hearts , 2 - 2 , Alta
+Sat 25 Oct , Richmond K. , 5 - 1 , Forward Madison
+Sat 25 Oct , Chattanooga RW , 2 - 1 , Westchester SC
+Sat 25 Oct , Naples , 2 - 0 , Charlotte I.
+Sat 25 Oct , One Knoxville , 1 - 0 , Greenville
+Sat 25 Oct , Tormenta , 3 - 0 , Texoma
+Sat 25 Oct , Union Omaha , 2 - 2 , Spokane 

@@ -1,0 +1,240 @@
+Thu 23 Jan , Godoy Cruz , 0 - 3 , Rosario Central
+Thu 23 Jan , Tigre , 3 - 0 , Velez Sarsfield
+Fri 24 Jan , Defensa y J. , 0 - 1 , Banfield
+Fri 24 Jan , Lanus , 0 - 2 , D. Riestra
+Fri 24 Jan , Newells , 0 - 1 , I. Rivadavia
+Fri 24 Jan , Barracas C. , 1 - 3 , Racing Club
+Fri 24 Jan , Independiente , 2 - 1 , Sarmiento
+Sat 25 Jan , Belgrano , 1 - 1 , Huracan
+Sat 25 Jan , SM San Juan , 0 - 1 , A. Tucuman
+Sat 25 Jan , San Lorenzo , 1 - 0 , T. de Cordoba
+Sat 25 Jan , Estudiantes , 3 - 1 , Union Santa Fe
+Sat 25 Jan , Instituto , 3 - 0 , Gimnasia
+Sun 26 Jan , Platense , 1 - 1 , River Plate
+Sun 26 Jan , Boca Juniors , 0 - 0 , Argentinos Jrs
+Mon 27 Jan , Central Cordoba , 1 - 0 , Aldosivi
+Mon 27 Jan , Banfield , 3 - 0 , Newells
+Tue 28 Jan , D. Riestra , 0 - 0 , SM San Juan
+Tue 28 Jan , Rosario Central , 2 - 1 , Lanus
+Tue 28 Jan , Sarmiento , 0 - 0 , Godoy Cruz
+Wed 29 Jan , I. Rivadavia , 0 - 0 , Barracas C.
+Wed 29 Jan , Velez Sarsfield , 0 - 1 , Platense
+Wed 29 Jan , Gimnasia , 0 - 2 , San Lorenzo
+Wed 29 Jan , T. de Cordoba , 2 - 3 , Independiente
+Wed 29 Jan , Huracan , 0 - 0 , Estudiantes
+Wed 29 Jan , Union Santa Fe , 1 - 1 , Boca Juniors
+Thu 30 Jan , River Plate , 1 - 0 , Instituto
+Thu 30 Jan , Aldosivi , 0 - 5 , Defensa y J.
+Thu 30 Jan , Racing Club , 4 - 0 , Belgrano
+Fri 31 Jan , Argentinos Jrs , 1 - 0 , Tigre
+Fri 31 Jan , Central Cordoba , 2 - 0 , A. Tucuman
+Sat 1 Feb , Barracas C. , 1 - 0 , Banfield
+Sat 1 Feb , SM San Juan , 0 - 0 , Rosario Central
+Sun 2 Feb , Lanus , 2 - 0 , Sarmiento
+Sun 2 Feb , San Lorenzo , 0 - 0 , River Plate
+Sun 2 Feb , Boca Juniors , 2 - 1 , Huracan
+Sun 2 Feb , Newells , 1 - 0 , Aldosivi
+Mon 3 Feb , Independiente , 2 - 0 , Gimnasia
+Mon 3 Feb , Instituto , 2 - 0 , Velez Sarsfield
+Mon 3 Feb , Defensa y J. , 2 - 1 , Central Cordoba
+Mon 3 Feb , Estudiantes , 2 - 0 , Racing Club
+Mon 3 Feb , Tigre , 1 - 0 , Union Santa Fe
+Tue 4 Feb , Argentinos Jrs , 1 - 0 , Platense
+Tue 4 Feb , Belgrano , 0 - 3 , I. Rivadavia
+Wed 5 Feb , A. Tucuman , 0 - 3 , D. Riestra
+Thu 6 Feb , Aldosivi , 1 - 3 , Barracas C.
+Thu 6 Feb , Sarmiento , 1 - 1 , SM San Juan
+Fri 7 Feb , Banfield , 1 - 1 , Belgrano
+Fri 7 Feb , Central Cordoba , 2 - 0 , Newells
+Fri 7 Feb , Huracan , 2 - 0 , Tigre
+Sat 8 Feb , I. Rivadavia , 2 - 2 , Estudiantes
+Sat 8 Feb , Union Santa Fe , 0 - 1 , Argentinos Jrs
+Sat 8 Feb , Velez Sarsfield , 0 - 0 , San Lorenzo
+Sat 8 Feb , Rosario Central , 3 - 1 , A. Tucuman
+Sat 8 Feb , River Plate , 2 - 0 , Independiente
+Sun 9 Feb , Racing Club , 2 - 0 , Boca Juniors
+Sun 9 Feb , D. Riestra , 1 - 1 , Defensa y J.
+Sun 9 Feb , Platense , 1 - 0 , Instituto
+Sun 9 Feb , Gimnasia , 3 - 0 , Godoy Cruz
+Mon 10 Feb , T. de Cordoba , 0 - 1 , Lanus
+Tue 11 Feb , Barracas C. , 3 - 3 , Central Cordoba
+Tue 11 Feb , Boca Juniors , 2 - 0 , I. Rivadavia
+Tue 11 Feb , Estudiantes , 1 - 0 , Banfield
+Wed 12 Feb , Belgrano , 2 - 0 , Aldosivi
+Wed 12 Feb , Tigre , 1 - 0 , Racing Club
+Wed 12 Feb , D. Riestra , 0 - 0 , Rosario Central
+Wed 12 Feb , Newells , 0 - 1 , Defensa y J.
+Wed 12 Feb , Argentinos Jrs , 1 - 1 , Huracan
+Wed 12 Feb , Independiente , 3 - 0 , Velez Sarsfield
+Thu 13 Feb , Godoy Cruz , 0 - 0 , River Plate
+Thu 13 Feb , Lanus , 0 - 0 , Gimnasia
+Thu 13 Feb , San Lorenzo , 2 - 1 , Platense
+Thu 13 Feb , SM San Juan , 0 - 1 , T. de Cordoba
+Fri 14 Feb , A. Tucuman , 5 - 0 , Sarmiento
+Fri 14 Feb , Union Santa Fe , 0 - 0 , Instituto
+Fri 14 Feb , Banfield , 0 - 1 , Boca Juniors
+Sat 15 Feb , Aldosivi , 2 - 2 , Estudiantes
+Sat 15 Feb , Defensa y J. , 1 - 1 , Barracas C.
+Sat 15 Feb , Central Cordoba , 4 - 0 , Belgrano
+Sat 15 Feb , I. Rivadavia , 1 - 4 , Tigre
+Sun 16 Feb , Racing Club , 2 - 3 , Argentinos Jrs
+Sun 16 Feb , Newells , 1 - 2 , Rosario Central
+Sun 16 Feb , River Plate , 1 - 0 , Lanus
+Mon 17 Feb , Huracan , 1 - 0 , Union Santa Fe
+Mon 17 Feb , T. de Cordoba , 1 - 1 , A. Tucuman
+Mon 17 Feb , Gimnasia , 1 - 0 , SM San Juan
+Mon 17 Feb , Sarmiento , 2 - 1 , D. Riestra
+Mon 17 Feb , Platense , 1 - 1 , Independiente
+Tue 18 Feb , Instituto , 0 - 1 , San Lorenzo
+Tue 18 Feb , Velez Sarsfield , 0 - 2 , Godoy Cruz
+Fri 21 Feb , D. Riestra , 0 - 0 , T. de Cordoba
+Fri 21 Feb , Estudiantes , 3 - 2 , Central Cordoba
+Fri 21 Feb , Godoy Cruz , 1 - 1 , Platense
+Sat 22 Feb , Lanus , 0 - 0 , Velez Sarsfield
+Sat 22 Feb , Independiente , 2 - 0 , Instituto
+Sat 22 Feb , Boca Juniors , 2 - 1 , Aldosivi
+Sun 23 Feb , SM San Juan , 0 - 2 , River Plate
+Sun 23 Feb , Rosario Central , 1 - 0 , Sarmiento
+Sun 23 Feb , Huracan , 2 - 0 , San Lorenzo
+Mon 24 Feb , A. Tucuman , 0 - 1 , Gimnasia
+Mon 24 Feb , Belgrano , 2 - 0 , Defensa y J.
+Mon 24 Feb , Barracas C. , 2 - 0 , Newells
+Mon 24 Feb , Argentinos Jrs , 0 - 0 , I. Rivadavia
+Tue 25 Feb , Tigre , 1 - 0 , Banfield
+Fri 28 Feb , Boca Juniors , 1 - 0 , Rosario Central
+Sat 1 Mar , Central Cordoba , 0 - 0 , D. Riestra
+Sat 1 Mar , SM San Juan , 3 - 1 , Belgrano
+Sat 1 Mar , Aldosivi , 2 - 2 , Sarmiento
+Sat 1 Mar , River Plate , 0 - 2 , Estudiantes
+Sun 2 Mar , T. de Cordoba , 1 - 2 , Tigre
+Sun 2 Mar , Union Santa Fe , 1 - 0 , Gimnasia
+Sun 2 Mar , Argentinos Jrs , 2 - 0 , Instituto
+Sun 2 Mar , I. Rivadavia , 1 - 1 , Lanus
+Sun 2 Mar , Velez Sarsfield , 0 - 2 , Huracan
+Mon 3 Mar , Barracas C. , 1 - 2 , Godoy Cruz
+Mon 3 Mar , San Lorenzo , 3 - 2 , Racing Club
+Tue 4 Mar , A. Tucuman , 1 - 2 , Newells
+Tue 4 Mar , Banfield , 0 - 0 , Independiente
+Tue 4 Mar , Platense , 0 - 1 , Defensa y J.
+Fri 7 Mar , Banfield , 1 - 2 , Argentinos Jrs
+Fri 7 Mar , Velez Sarsfield , 1 - 0 , SM San Juan
+Sat 8 Mar , Central Cordoba , 0 - 3 , Boca Juniors
+Sat 8 Mar , San Lorenzo , 1 - 2 , Independiente
+Sat 8 Mar , Racing Club , 0 - 1 , Huracan
+Sun 9 Mar , Platense , 0 - 0 , Lanus
+Sun 9 Mar , Sarmiento , 1 - 1 , Barracas C.
+Sun 9 Mar , Aldosivi , 0 - 2 , Tigre
+Sun 9 Mar , Defensa y J. , 1 - 0 , Estudiantes
+Sun 9 Mar , River Plate , 1 - 0 , A. Tucuman
+Mon 10 Mar , Instituto , 1 - 1 , Godoy Cruz
+Mon 10 Mar , Newells , 0 - 0 , Belgrano
+Mon 10 Mar , Gimnasia , 1 - 1 , D. Riestra
+Tue 11 Mar , I. Rivadavia , 2 - 0 , Union Santa Fe
+Tue 11 Mar , T. de Cordoba , 0 - 0 , Rosario Central
+Fri 14 Mar , Argentinos Jrs , 0 - 2 , Aldosivi
+Sat 15 Mar , Godoy Cruz , 0 - 0 , San Lorenzo
+Sat 15 Mar , D. Riestra , 0 - 0 , River Plate
+Sat 15 Mar , Estudiantes , 1 - 1 , Newells
+Sat 15 Mar , Rosario Central , 2 - 1 , Gimnasia
+Sun 16 Mar , Huracan , 2 - 0 , I. Rivadavia
+Sun 16 Mar , Sarmiento , 0 - 0 , T. de Cordoba
+Sun 16 Mar , Independiente , 1 - 1 , Racing Club
+Sun 16 Mar , Boca Juniors , 4 - 0 , Defensa y J.
+Mon 17 Mar , Belgrano , 1 - 1 , Barracas C.
+Mon 17 Mar , Lanus , 4 - 1 , Instituto
+Mon 17 Mar , Tigre , 1 - 2 , Central Cordoba
+Mon 17 Mar , Union Santa Fe , 3 - 1 , Banfield
+Tue 18 Mar , A. Tucuman , 1 - 2 , Velez Sarsfield
+Tue 18 Mar , SM San Juan , 0 - 2 , Platense
+Fri 21 Mar , Union Santa Fe , 0 - 1 , Racing Club
+Sat 22 Mar , Godoy Cruz , 0 - 0 , T. de Cordoba
+Thu 27 Mar , Aldosivi , 2 - 1 , Union Santa Fe
+Thu 27 Mar , Barracas C. , 2 - 1 , Estudiantes
+Fri 28 Mar , I. Rivadavia , 2 - 1 , Racing Club
+Fri 28 Mar , Defensa y J. , 1 - 2 , Tigre
+Fri 28 Mar , Banfield , 0 - 0 , Huracan
+Fri 28 Mar , San Lorenzo , 1 - 1 , Lanus
+Sat 29 Mar , Platense , 2 - 1 , A. Tucuman
+Sat 29 Mar , Velez Sarsfield , 0 - 1 , D. Riestra
+Sat 29 Mar , Instituto , 1 - 0 , SM San Juan
+Sat 29 Mar , Central Cordoba , 1 - 1 , Argentinos Jrs
+Sat 29 Mar , Independiente , 4 - 0 , Godoy Cruz
+Sun 30 Mar , River Plate , 2 - 2 , Rosario Central
+Sun 30 Mar , Belgrano , 1 - 1 , T. de Cordoba
+Sun 30 Mar , Gimnasia , 0 - 0 , Sarmiento
+Sun 30 Mar , Newells , 2 - 0 , Boca Juniors
+Fri 4 Apr , Estudiantes , 0 - 1 , Belgrano
+Sat 5 Apr , SM San Juan , 0 - 1 , San Lorenzo
+Sat 5 Apr , Godoy Cruz , 1 - 1 , I. Rivadavia
+Sat 5 Apr , Rosario Central , 2 - 1 , Velez Sarsfield
+Sat 5 Apr , Huracan , 3 - 3 , Aldosivi
+Sat 5 Apr , T. de Cordoba , 2 - 0 , Gimnasia
+Sat 5 Apr , Sarmiento , 1 - 1 , River Plate
+Sun 6 Apr , Lanus , 1 - 1 , Independiente
+Sun 6 Apr , Union Santa Fe , 1 - 0 , Central Cordoba
+Sun 6 Apr , Boca Juniors , 1 - 0 , Barracas C.
+Sun 6 Apr , Argentinos Jrs , 4 - 1 , Defensa y J.
+Sun 6 Apr , Racing Club , 4 - 1 , Banfield
+Mon 7 Apr , D. Riestra , 1 - 0 , Platense
+Tue 8 Apr , A. Tucuman , 3 - 2 , Instituto
+Tue 8 Apr , Tigre , 0 - 2 , Newells
+Fri 11 Apr , Banfield , 1 - 1 , I. Rivadavia
+Sat 12 Apr , Newells , 0 - 0 , Argentinos Jrs
+Sat 12 Apr , San Lorenzo , 1 - 0 , A. Tucuman
+Sat 12 Apr , Barracas C. , 1 - 0 , Tigre
+Sat 12 Apr , Belgrano , 1 - 3 , Boca Juniors
+Sun 13 Apr , Gimnasia , 1 - 1 , Estudiantes
+Sun 13 Apr , Instituto , 3 - 0 , D. Riestra
+Sun 13 Apr , Independiente , 2 - 0 , SM San Juan
+Sun 13 Apr , River Plate , 1 - 1 , T. de Cordoba
+Mon 14 Apr , Aldosivi , 0 - 2 , Racing Club
+Mon 14 Apr , Central Cordoba , 1 - 2 , Huracan
+Mon 14 Apr , Defensa y J. , 0 - 0 , Union Santa Fe
+Tue 15 Apr , Godoy Cruz , 0 - 0 , Lanus
+Tue 15 Apr , Velez Sarsfield , 0 - 1 , Sarmiento
+Tue 15 Apr , Platense , 0 - 0 , Rosario Central
+Fri 18 Apr , Gimnasia , 0 - 3 , River Plate
+Fri 18 Apr , Racing Club , 1 - 0 , Central Cordoba
+Fri 18 Apr , T. de Cordoba , 0 - 1 , Velez Sarsfield
+Sat 19 Apr , Union Santa Fe , 1 - 1 , Newells
+Sat 19 Apr , Lanus , 1 - 1 , Banfield
+Sat 19 Apr , Huracan , 1 - 1 , Defensa y J.
+Sat 19 Apr , Boca Juniors , 2 - 0 , Estudiantes
+Sun 20 Apr , D. Riestra , 0 - 0 , San Lorenzo
+Sun 20 Apr , SM San Juan , 1 - 0 , Godoy Cruz
+Sun 20 Apr , Sarmiento , 0 - 1 , Platense
+Sun 20 Apr , Rosario Central , 3 - 0 , Instituto
+Tue 22 Apr , Argentinos Jrs , 3 - 0 , Barracas C.
+Tue 22 Apr , Tigre , 0 - 0 , Belgrano
+Wed 23 Apr , I. Rivadavia , 1 - 0 , Aldosivi
+Sat 26 Apr , Aldosivi , 2 - 1 , Banfield
+Sat 26 Apr , San Lorenzo , 0 - 1 , Rosario Central
+Sat 26 Apr , Belgrano , 1 - 1 , Argentinos Jrs
+Sun 27 Apr , River Plate , 2 - 1 , Boca Juniors
+Sun 27 Apr , Instituto , 1 - 1 , Sarmiento
+Sun 27 Apr , Lanus , 1 - 0 , SM San Juan
+Mon 28 Apr , Independiente , 0 - 0 , D. Riestra
+Mon 28 Apr , Barracas C. , 2 - 1 , Union Santa Fe
+Mon 28 Apr , Godoy Cruz , 1 - 0 , A. Tucuman
+Mon 28 Apr , Defensa y J. , 1 - 2 , Racing Club
+Mon 28 Apr , Estudiantes , 0 - 0 , Tigre
+Tue 29 Apr , Central Cordoba , 1 - 2 , I. Rivadavia
+Tue 29 Apr , Velez Sarsfield , 1 - 0 , Gimnasia
+Tue 29 Apr , Newells , 2 - 0 , Huracan
+Tue 29 Apr , Platense , 2 - 1 , T. de Cordoba
+Thu 1 May , A. Tucuman , 2 - 0 , Independiente
+Fri 2 May , Argentinos Jrs , 4 - 0 , Estudiantes
+Fri 2 May , Banfield , 3 - 1 , Central Cordoba
+Fri 2 May , I. Rivadavia , 3 - 2 , Defensa y J.
+Fri 2 May , Racing Club , 1 - 0 , Newells
+Fri 2 May , Union Santa Fe , 1 - 1 , Belgrano
+Sat 3 May , D. Riestra , 3 - 0 , Godoy Cruz
+Sat 3 May , Sarmiento , 1 - 1 , San Lorenzo
+Sat 3 May , T. de Cordoba , 1 - 2 , Instituto
+Sat 3 May , Rosario Central , 1 - 0 , Independiente
+Sun 4 May , A. Tucuman , 1 - 0 , Lanus
+Sun 4 May , Huracan , 0 - 1 , Barracas C.
+Sun 4 May , Gimnasia , 1 - 0 , Platense
+Sun 4 May , SM San Juan , 0 - 3 , Aldosivi
+Sun 4 May , Tigre , 1 - 1 , Boca Juniors
+Sun 4 May , River Plate , 4 - 1 , Velez Sarsfie

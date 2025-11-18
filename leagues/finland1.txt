@@ -1,0 +1,180 @@
+Fri 28 Feb , Levadia , 5 - 0 , Harju JK
+Sat 1 Mar , Vaprus , 0 - 3 , Nomme Kalju
+Sat 1 Mar , Flora , 2 - 2 , Narva Trans
+Sun 2 Mar , Kuressaare , 1 - 2 , Paide
+Sun 2 Mar , Tallinna Kalev , 1 - 2 , Tammeka
+Sat 8 Mar , Flora , 0 - 1 , Vaprus
+Sat 8 Mar , Narva Trans , 0 - 2 , Kuressaare
+Sat 8 Mar , Tammeka , 2 - 3 , Levadia
+Sun 9 Mar , Harju JK , 2 - 0 , Tallinna Kalev
+Sun 9 Mar , Paide , 4 - 0 , Nomme Kalju
+Sat 15 Mar , Vaprus , 1 - 2 , Levadia
+Sat 15 Mar , Narva Trans , 1 - 0 , Paide
+Sat 15 Mar , Tallinna Kalev , 0 - 4 , Flora
+Sun 16 Mar , Kuressaare , 1 - 2 , Harju JK
+Sun 16 Mar , Nomme Kalju , 2 - 2 , Tammeka
+Sat 29 Mar , Tammeka , 0 - 5 , Vaprus
+Sat 29 Mar , Harju JK , 0 - 3 , Narva Trans
+Sat 29 Mar , Flora , 5 - 0 , Kuressaare
+Sun 30 Mar , Paide , 5 - 0 , Tallinna Kalev
+Sun 30 Mar , Levadia , 2 - 1 , Nomme Kalju
+Sat 5 Apr , Paide , 1 - 0 , Tammeka
+Sat 5 Apr , Narva Trans , 0 - 1 , Levadia
+Sat 5 Apr , Nomme Kalju , 1 - 2 , Flora
+Sat 5 Apr , Vaprus , 1 - 1 , Harju JK
+Sat 5 Apr , Tallinna Kalev , 4 - 1 , Kuressaare
+Tue 8 Apr , Narva Trans , 1 - 0 , Tallinna Kalev
+Tue 8 Apr , Levadia , 2 - 1 , Kuressaare
+Tue 8 Apr , Tammeka , 1 - 2 , Flora
+Wed 9 Apr , Nomme Kalju , 3 - 0 , Harju JK
+Wed 9 Apr , Paide , 1 - 0 , Vaprus
+Sat 12 Apr , Kuressaare , 0 - 2 , Nomme Kalju
+Sat 12 Apr , Harju JK , 1 - 2 , Paide
+Sat 12 Apr , Levadia , 0 - 0 , Flora
+Sun 13 Apr , Vaprus , 2 - 2 , Tallinna Kalev
+Sun 13 Apr , Tammeka , 1 - 2 , Narva Trans
+Fri 18 Apr , Flora , 1 - 0 , Paide
+Fri 18 Apr , Kuressaare , 1 - 0 , Vaprus
+Fri 18 Apr , Harju JK , 4 - 1 , Tammeka
+Sat 19 Apr , Tallinna Kalev , 0 - 9 , Levadia
+Sat 19 Apr , Narva Trans , 1 - 2 , Nomme Kalju
+Tue 22 Apr , Nomme Kalju , 6 - 1 , Tallinna Kalev
+Tue 22 Apr , Tammeka , 1 - 0 , Kuressaare
+Tue 22 Apr , Flora , 4 - 1 , Harju JK
+Wed 23 Apr , Vaprus , 1 - 2 , Narva Trans
+Wed 23 Apr , Paide , 2 - 1 , Levadia
+Sat 26 Apr , Harju JK , 0 - 1 , Vaprus
+Sat 26 Apr , Tallinna Kalev , 1 - 0 , Paide
+Sat 26 Apr , Levadia , 4 - 0 , Tammeka
+Sun 27 Apr , Flora , 2 - 3 , Nomme Kalju
+Sun 27 Apr , Kuressaare , 2 - 1 , Narva Trans
+Fri 2 May , Vaprus , 0 - 3 , Flora
+Sat 3 May , Tallinna Kalev , 1 - 3 , Harju JK
+Sat 3 May , Narva Trans , 4 - 0 , Tammeka
+Sun 4 May , Nomme Kalju , 2 - 0 , Levadia
+Sun 4 May , Paide , 1 - 1 , Kuressaare
+Fri 9 May , Harju JK , 0 - 3 , Flora
+Sat 10 May , Kuressaare , 2 - 0 , Tallinna Kalev
+Sat 10 May , Tammeka , 0 - 1 , Nomme Kalju
+Sun 11 May , Levadia , 2 - 1 , Paide
+Sun 11 May , Narva Trans , 4 - 2 , Vaprus
+Sat 17 May , Vaprus , 2 - 1 , Tammeka
+Sat 17 May , Paide , 2 - 2 , Harju JK
+Sun 18 May , Flora , 1 - 0 , Levadia
+Sun 18 May , Nomme Kalju , 4 - 0 , Kuressaare
+Mon 19 May , Tallinna Kalev , 2 - 5 , Narva Trans
+Tue 27 May , Kuressaare , 1 - 3 , Flora
+Tue 27 May , Tammeka , 5 - 0 , Tallinna Kalev
+Tue 27 May , Narva Trans , 4 - 2 , Harju JK
+Wed 28 May , Levadia , 2 - 2 , Vaprus
+Wed 28 May , Nomme Kalju , 0 - 2 , Paide
+Fri 30 May , Flora , 3 - 1 , Tammeka
+Sat 31 May , Harju JK , 0 - 1 , Levadia
+Sat 31 May , Paide , 0 - 1 , Narva Trans
+Sun 1 Jun , Vaprus , 2 - 1 , Kuressaare
+Sun 1 Jun , Tallinna Kalev , 0 - 1 , Nomme Kalju
+Fri 13 Jun , Tammeka , 2 - 1 , Harju JK
+Sat 14 Jun , Tallinna Kalev , 0 - 3 , Vaprus
+Sat 14 Jun , Kuressaare , 1 - 2 , Levadia
+Sun 15 Jun , Flora , 1 - 2 , Paide
+Sun 15 Jun , Nomme Kalju , 2 - 0 , Narva Trans
+Tue 17 Jun , Kuressaare , 2 - 3 , Tammeka
+Wed 18 Jun , Levadia , 4 - 0 , Tallinna Kalev
+Wed 18 Jun , Narva Trans , 1 - 2 , Flora
+Wed 18 Jun , Vaprus , 1 - 2 , Paide
+Wed 18 Jun , Nomme Kalju , 1 - 0 , Harju JK
+Sat 21 Jun , Levadia , 3 - 1 , Nomme Kalju
+Sat 21 Jun , Paide , 2 - 1 , Flora
+Fri 27 Jun , Levadia , 2 - 1 , Narva Trans
+Fri 27 Jun , Vaprus , 2 - 2 , Nomme Kalju
+Sat 28 Jun , Tammeka , 0 - 2 , Paide
+Sun 29 Jun , Harju JK , 1 - 1 , Kuressaare
+Sun 29 Jun , Flora , 3 - 1 , Tallinna Kalev
+Fri 4 Jul , Paide , 0 - 3 , Levadia
+Sat 5 Jul , Narva Trans , 3 - 2 , Kuressaare
+Sun 6 Jul , Tallinna Kalev , 3 - 2 , Tammeka
+Sun 6 Jul , Flora , 1 - 0 , Nomme Kalju
+Fri 11 Jul , Kuressaare , 0 - 2 , Tammeka
+Sat 12 Jul , Vaprus , 0 - 0 , Narva Trans
+Sun 13 Jul , Tallinna Kalev , 3 - 1 , Harju JK
+Sat 19 Jul , Levadia , 3 - 0 , Harju JK
+Sun 20 Jul , Nomme Kalju , 6 - 2 , Tallinna Kalev
+Sun 20 Jul , Tammeka , 1 - 2 , Flora
+Sun 20 Jul , Kuressaare , 2 - 1 , Vaprus
+Sun 20 Jul , Paide , 2 - 0 , Narva Trans
+Fri 25 Jul , Vaprus , 2 - 2 , Harju JK
+Fri 1 Aug , Levadia , 2 - 0 , Kuressaare
+Sat 2 Aug , Narva Trans , 1 - 1 , Flora
+Sun 3 Aug , Paide , 2 - 0 , Harju JK
+Sun 3 Aug , Tammeka , 1 - 3 , Nomme Kalju
+Tue 5 Aug , Tallinna Kalev , 0 - 2 , Vaprus
+Sat 9 Aug , Kuressaare , 1 - 3 , Harju JK
+Sat 9 Aug , Narva Trans , 4 - 1 , Tammeka
+Sat 9 Aug , Paide , 2 - 2 , Tallinna Kalev
+Sun 10 Aug , Nomme Kalju , 1 - 2 , Vaprus
+Fri 15 Aug , Vaprus , 8 - 1 , Tammeka
+Sat 16 Aug , Paide , 5 - 1 , Kuressaare
+Sat 16 Aug , Flora , 3 - 1 , Harju JK
+Sun 17 Aug , Nomme Kalju , 1 - 2 , Narva Trans
+Sun 17 Aug , Tallinna Kalev , 1 - 6 , Levadia
+Fri 22 Aug , Levadia , 1 - 3 , Vaprus
+Sat 23 Aug , Tammeka , 0 - 1 , Paide
+Sat 23 Aug , Narva Trans , 2 - 0 , Tallinna Kalev
+Sun 24 Aug , Kuressaare , 1 - 2 , Flora
+Fri 29 Aug , Levadia , 3 - 1 , Narva Trans
+Sat 30 Aug , Tallinna Kalev , 0 - 4 , Flora
+Sat 30 Aug , Vaprus , 1 - 0 , Paide
+Sun 31 Aug , Nomme Kalju , 2 - 0 , Kuressaare
+Sun 31 Aug , Tammeka , 3 - 0 , Harju JK
+Sat 13 Sep , Flora , 3 - 0 , Vaprus
+Sat 13 Sep , Tammeka , 2 - 2 , Levadia
+Sun 14 Sep , Kuressaare , 2 - 1 , Tallinna Kalev
+Sun 14 Sep , Paide , 1 - 1 , Nomme Kalju
+Sun 14 Sep , Narva Trans , 1 - 3 , Harju JK
+Tue 16 Sep , Tammeka , 1 - 4 , Vaprus
+Wed 17 Sep , Narva Trans , 0 - 0 , Nomme Kalju
+Wed 17 Sep , Harju JK , 2 - 1 , Kuressaare
+Wed 17 Sep , Levadia , 1 - 3 , Flora
+Wed 17 Sep , Tallinna Kalev , 0 - 3 , Paide
+Sat 20 Sep , Harju JK , 3 - 0 , Paide
+Sat 20 Sep , Kuressaare , 0 - 0 , Narva Trans
+Sat 20 Sep , Flora , 2 - 1 , Tammeka
+Sun 21 Sep , Nomme Kalju , 2 - 1 , Levadia
+Sun 21 Sep , Vaprus , 1 - 0 , Tallinna Kalev
+Wed 24 Sep , Harju JK , 2 - 3 , Nomme Kalju
+Wed 24 Sep , Flora , 2 - 3 , Levadia
+Fri 26 Sep , Tammeka , 0 - 1 , Kuressaare
+Sat 27 Sep , Harju JK , 1 - 2 , Vaprus
+Sat 27 Sep , Narva Trans , 2 - 3 , Paide
+Sun 28 Sep , Nomme Kalju , 3 - 1 , Flora
+Sun 28 Sep , Levadia , 3 - 1 , Tallinna Kalev
+Sat 4 Oct , Kuressaare , 1 - 1 , Paide
+Sat 4 Oct , Tallinna Kalev , 1 - 3 , Narva Trans
+Sat 4 Oct , Harju JK , 1 - 2 , Flora
+Sun 5 Oct , Levadia , 3 - 0 , Tammeka
+Sun 5 Oct , Nomme Kalju , 1 - 0 , Vaprus
+Sat 18 Oct , Paide , 5 - 0 , Tammeka
+Sat 18 Oct , Kuressaare , 0 - 3 , Levadia
+Sat 18 Oct , Narva Trans , 1 - 1 , Vaprus
+Sat 18 Oct , Flora , 6 - 0 , Tallinna Kalev
+Sun 19 Oct , Harju JK , 1 - 3 , Nomme Kalju
+Tue 21 Oct , Flora , 4 - 0 , Narva Trans
+Tue 21 Oct , Vaprus , 0 - 1 , Kuressaare
+Wed 22 Oct , Harju JK , 2 - 2 , Tammeka
+Wed 22 Oct , Tallinna Kalev , 0 - 2 , Nomme Kalju
+Wed 22 Oct , Levadia , 1 - 2 , Paide
+Sat 25 Oct , Harju JK , 1 - 0 , Narva Trans
+Sat 25 Oct , Kuressaare , 0 - 1 , Nomme Kalju
+Sat 25 Oct , Tammeka , 5 - 2 , Tallinna Kalev
+Sun 26 Oct , Paide , 1 - 1 , Flora
+Sun 26 Oct , Vaprus , 1 - 3 , Levadia
+Sat 1 Nov , Flora , 2 - 0 , Kuressaare
+Sun 2 Nov , Nomme Kalju , 2 - 1 , Tammeka
+Sun 2 Nov , Paide , 3 - 0 , Vaprus
+Sun 2 Nov , Narva Trans , 0 - 4 , Levadia
+Sun 2 Nov , Harju JK , 4 - 1 , Tallinna Kalev
+Sat 8 Nov , Harju JK , 2 - 2 , Levadia
+Sat 8 Nov , Nomme Kalju , 1 - 1 , Paide
+Sat 8 Nov , Tallinna Kalev , 2 - 1 , Kuressaare
+Sat 8 Nov , Tammeka , 2 - 0 , Narva Trans
+Sat 8 Nov , Vaprus , 0 - 3 , Flo

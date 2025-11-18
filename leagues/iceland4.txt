@@ -1,0 +1,52 @@
+Fri 8 Aug , Johor Darul , 3 - 0 , Selangor
+Sat 9 Aug , Imigresen , 0 - 3 , Kuala Lumpur
+Sat 9 Aug , Kuching , 4 - 0 , Kelantan DN
+Sat 9 Aug , PDRM , 2 - 2 , DPMM FC
+Sun 10 Aug , Pulau Pinang , 0 - 3 , Terengganu
+Tue 12 Aug , Johor Darul , 5 - 3 , Negeri Sembilan
+Tue 12 Aug , Kelantan DN , 1 - 1 , Imigresen
+Tue 12 Aug , Selangor , 3 - 0 , DPMM FC
+Wed 13 Aug , Melaka , 1 - 1 , Pulau Pinang
+Wed 13 Aug , Kuala Lumpur , 1 - 1 , Sabah
+Wed 13 Aug , Terengganu , 2 - 2 , PDRM
+Fri 22 Aug , DPMM FC , 0 - 5 , Terengganu
+Sat 23 Aug , Sabah , 0 - 0 , Kelantan DN
+Sat 23 Aug , PDRM , 0 - 0 , Melaka
+Sun 24 Aug , Kuching , 0 - 1 , Johor Darul
+Sun 24 Aug , Pulau Pinang , 1 - 2 , Kuala Lumpur
+Sun 24 Aug , Negeri Sembilan , 2 - 1 , Selangor
+Wed 27 Aug , Kuala Lumpur , 3 - 1 , PDRM
+Wed 27 Aug , Selangor , 5 - 2 , Terengganu
+Thu 28 Aug , Imigresen , 0 - 3 , Johor Darul
+Fri 29 Aug , Sabah , 1 - 1 , Melaka
+Fri 29 Aug , Negeri Sembilan , 2 - 2 , Kuching
+Sat 30 Aug , Pulau Pinang , 0 - 1 , Kelantan DN
+Thu 11 Sep , Johor Darul , 6 - 0 , Pulau Pinang
+Fri 19 Sep , Terengganu , 4 - 0 , Melaka
+Sat 20 Sep , Imigresen , 1 - 1 , Negeri Sembilan
+Sat 20 Sep , PDRM , 3 - 1 , Kelantan DN
+Sun 21 Sep , Kuching , 1 - 0 , Selangor
+Sun 21 Sep , Johor Darul , 8 - 0 , Sabah
+Mon 22 Sep , DPMM FC , 0 - 4 , Kuala Lumpur
+Fri 26 Sep , DPMM FC , 1 - 2 , Kelantan DN
+Sat 27 Sep , Kuala Lumpur , 1 - 0 , Terengganu
+Sat 27 Sep , Negeri Sembilan , 3 - 0 , Sabah
+Sun 28 Sep , Kuching , 4 - 0 , Imigresen
+Tue 30 Sep , Melaka , 0 - 1 , DPMM FC
+Fri 3 Oct , Terengganu , 4 - 1 , Kelantan DN
+Sat 4 Oct , Pulau Pinang , 2 - 1 , Negeri Sembilan
+Sat 4 Oct , Sabah , 0 - 1 , Kuching
+Sun 5 Oct , Imigresen , 1 - 3 , Selangor
+Sun 5 Oct , PDRM , 0 - 7 , Johor Darul
+Fri 24 Oct , Kelantan DN , 2 - 1 , Melaka
+Sat 25 Oct , Kuching , 1 - 1 , Pulau Pinang
+Sat 25 Oct , Johor Darul , 10 - 0 , DPMM FC
+Sat 25 Oct , Negeri Sembilan , 2 - 0 , PDRM
+Sun 26 Oct , Imigresen , 2 - 2 , Sabah
+Sun 26 Oct , Selangor , 0 - 0 , Kuala Lumpur
+Fri 31 Oct , Terengganu , 0 - 5 , Johor Darul
+Sat 1 Nov , Sabah , 1 - 2 , Selangor
+Sat 1 Nov , Kuala Lumpur , 2 - 1 , Kelantan DN
+Sat 1 Nov , PDRM , 0 - 5 , Kuching
+Sun 2 Nov , DPMM FC , 2 - 2 , Negeri Sembilan
+Sun 2 Nov , Pulau Pinang , 0 - 1 , Imigresen

@@ -1,0 +1,76 @@
+Fri 25 Jul , Ujpest , 3 - 1 , DVTK
+Sat 26 Jul , Zalaegerszegi , 3 - 3 , Debrecen
+Sat 26 Jul , MTK Budapest , 1 - 1 , Ferencvaros
+Sun 27 Jul , Nyiregyhaza , 1 - 1 , Kisvarda
+Sun 27 Jul , Paks , 3 - 3 , Gyor
+Sun 27 Jul , Puskas A. , 2 - 1 , Kazincbarcika
+Fri 1 Aug , Debrecen , 1 - 0 , MTK Budapest
+Sat 2 Aug , DVTK , 2 - 2 , Zalaegerszegi
+Sat 2 Aug , Ferencvaros , 3 - 0 , Kazincbarcika
+Sun 3 Aug , Kisvarda , 1 - 5 , Paks
+Sun 3 Aug , Puskas A. , 3 - 2 , Nyiregyhaza
+Sun 3 Aug , Gyor , 1 - 1 , Ujpest
+Fri 8 Aug , Kazincbarcika , 1 - 2 , Debrecen
+Sat 9 Aug , MTK Budapest , 5 - 0 , DVTK
+Sat 9 Aug , Nyiregyhaza , 1 - 4 , Ferencvaros
+Sun 10 Aug , Kisvarda , 2 - 1 , Puskas A.
+Sun 10 Aug , Zalaegerszegi , 1 - 1 , Gyor
+Sun 10 Aug , Ujpest , 1 - 2 , Paks
+Fri 15 Aug , Ujpest , 0 - 1 , Kisvarda
+Sat 16 Aug , DVTK , 2 - 2 , Kazincbarcika
+Sat 16 Aug , Ferencvaros , 1 - 2 , Puskas A.
+Sun 17 Aug , Debrecen , 1 - 2 , Nyiregyhaza
+Sun 17 Aug , MTK Budapest , 2 - 7 , Gyor
+Sun 17 Aug , Paks , 2 - 2 , Zalaegerszegi
+Fri 22 Aug , Puskas A. , 1 - 3 , Debrecen
+Sat 23 Aug , Zalaegerszegi , 1 - 4 , Ujpest
+Sat 23 Aug , Nyiregyhaza , 1 - 4 , DVTK
+Sun 24 Aug , MTK Budapest , 2 - 3 , Paks
+Fri 29 Aug , Paks , 3 - 0 , Kazincbarcika
+Sat 30 Aug , Zalaegerszegi , 1 - 2 , Kisvarda
+Sat 30 Aug , DVTK , 1 - 1 , Puskas A.
+Sat 30 Aug , Ujpest , 1 - 2 , MTK Budapest
+Sun 31 Aug , Gyor , 1 - 0 , Nyiregyhaza
+Sun 31 Aug , Debrecen , 0 - 3 , Ferencvaros
+Fri 19 Sep , Ferencvaros , 2 - 2 , DVTK
+Sat 20 Sep , Nyiregyhaza , 1 - 1 , Paks
+Sat 20 Sep , Kazincbarcika , 2 - 0 , Ujpest
+Sat 20 Sep , Puskas A. , 0 - 2 , Gyor
+Sun 21 Sep , Kisvarda , 0 - 1 , Debrecen
+Sun 21 Sep , MTK Budapest , 1 - 0 , Zalaegerszegi
+Fri 26 Sep , Ujpest , 2 - 2 , Nyiregyhaza
+Sat 27 Sep , Zalaegerszegi , 5 - 0 , Kazincbarcika
+Sat 27 Sep , DVTK , 0 - 0 , Debrecen
+Sat 27 Sep , Paks , 3 - 2 , Puskas A.
+Sun 28 Sep , MTK Budapest , 4 - 0 , Kisvarda
+Sun 28 Sep , Gyor , 0 - 2 , Ferencvaros
+Fri 3 Oct , Kazincbarcika , 3 - 1 , MTK Budapest
+Sat 4 Oct , Nyiregyhaza , 3 - 1 , Zalaegerszegi
+Sat 4 Oct , Puskas A. , 0 - 0 , Ujpest
+Sat 4 Oct , Debrecen , 1 - 1 , Gyor
+Sun 5 Oct , Ferencvaros , 2 - 2 , Paks
+Sun 5 Oct , Kisvarda , 1 - 0 , DVTK
+Sat 18 Oct , MTK Budapest , 5 - 1 , Nyiregyhaza
+Sat 18 Oct , Paks , 1 - 1 , Debrecen
+Sat 18 Oct , Gyor , 3 - 1 , DVTK
+Sun 19 Oct , Kazincbarcika , 0 - 1 , Kisvarda
+Sun 19 Oct , Zalaegerszegi , 0 - 1 , Puskas A.
+Sun 19 Oct , Ujpest , 1 - 1 , Ferencvaros
+Sat 25 Oct , Puskas A. , 1 - 1 , MTK Budapest
+Sat 25 Oct , DVTK , 2 - 1 , Paks
+Sat 25 Oct , Nyiregyhaza , 0 - 1 , Kazincbarcika
+Sun 26 Oct , Kisvarda , 3 - 2 , Gyor
+Sun 26 Oct , Debrecen , 5 - 2 , Ujpest
+Sun 26 Oct , Ferencvaros , 1 - 2 , Zalaegerszegi
+Fri 31 Oct , Kisvarda , 0 - 0 , Nyiregyhaza
+Sat 1 Nov , Kazincbarcika , 1 - 3 , Puskas A.
+Sat 1 Nov , Gyor , 0 - 0 , Paks
+Sat 1 Nov , Ferencvaros , 4 - 1 , MTK Budapest
+Sun 2 Nov , DVTK , 1 - 3 , Ujpest
+Sun 2 Nov , Debrecen , 2 - 1 , Zalaegerszegi
+Sat 8 Nov , Ujpest , 0 - 3 , Gyor
+Sat 8 Nov , Zalaegerszegi , 2 - 0 , DVTK
+Sat 8 Nov , Paks , 5 - 3 , Kisvarda
+Sun 9 Nov , MTK Budapest , 3 - 0 , Debrecen
+Sun 9 Nov , Kazincbarcika , 1 - 3 , Ferencvaros
+Sun 9 Nov , Nyiregyhaza , 1 - 1 , Puskas A.

@@ -1,0 +1,360 @@
+Sun 9 Mar , Lexington , 2 - 0 , Hartford A.
+Sun 9 Mar , Miami FC , 0 - 2 , Detroit City
+Sun 9 Mar , North Carolina , 1 - 1 , Pittsburgh
+Sun 9 Mar , Charleston , 1 - 2 , Louisville City
+Sun 9 Mar , Birmingham L. , 1 - 3 , Loudoun Utd
+Sun 9 Mar , San Antonio , 1 - 0 , Monterey Bay
+Sun 9 Mar , El Paso , 2 - 2 , Colorado S.
+Sun 9 Mar , Phoenix Rising , 0 - 1 , FC Tulsa
+Sun 9 Mar , Orange County , 4 - 2 , Oakland Roots
+Sun 9 Mar , Sacramento R. , 2 - 1 , New Mexico
+Sun 9 Mar , Las Vegas L. , 1 - 0 , Tampa Bay
+Sat 15 Mar , Colorado S. , 1 - 2 , Detroit City
+Sat 15 Mar , Miami FC , 1 - 3 , Indy Eleven
+Sat 15 Mar , North Carolina , 1 - 2 , Loudoun Utd
+Sat 15 Mar , Charleston , 2 - 0 , Rhode Island
+Sun 16 Mar , FC Tulsa , 1 - 0 , Tampa Bay
+Sun 16 Mar , San Antonio , 2 - 0 , Pittsburgh
+Sun 16 Mar , El Paso , 4 - 4 , Phoenix Rising
+Sun 16 Mar , Monterey Bay , 3 - 2 , Oakland Roots
+Sun 16 Mar , Las Vegas L. , 2 - 3 , New Mexico
+Sun 16 Mar , Orange County , 2 - 2 , Lexington
+Sun 16 Mar , Birmingham L. , 1 - 1 , Louisville City
+Sat 22 Mar , Detroit City , 2 - 2 , Birmingham L.
+Sat 22 Mar , Louisville City , 2 - 0 , Loudoun Utd
+Sat 22 Mar , New Mexico , 1 - 0 , El Paso
+Sat 22 Mar , Lexington , 1 - 1 , Indy Eleven
+Sat 22 Mar , Miami FC , 1 - 2 , Tampa Bay
+Sat 22 Mar , Pittsburgh , 1 - 0 , Hartford A.
+Sun 23 Mar , FC Tulsa , 0 - 1 , North Carolina
+Sun 23 Mar , Oakland Roots , 1 - 2 , San Antonio
+Sun 23 Mar , Orange County , 0 - 3 , Monterey Bay
+Sun 23 Mar , Phoenix Rising , 2 - 2 , Rhode Island
+Sun 23 Mar , Sacramento R. , 2 - 2 , Colorado S.
+Sat 29 Mar , FC Tulsa , 1 - 0 , Sacramento R.
+Sat 29 Mar , Hartford A. , 1 - 2 , El Paso
+Sat 29 Mar , Loudoun Utd , 2 - 0 , Rhode Island
+Sat 29 Mar , Louisville City , 2 - 0 , Detroit City
+Sat 29 Mar , Indy Eleven , 2 - 3 , Colorado S.
+Sat 29 Mar , Lexington , 2 - 3 , San Antonio
+Sat 29 Mar , Miami FC , 0 - 1 , New Mexico
+Sat 29 Mar , North Carolina , 2 - 1 , Charleston
+Sat 29 Mar , Pittsburgh , 2 - 0 , Birmingham L.
+Sun 30 Mar , Monterey Bay , 3 - 1 , Phoenix Rising
+Sun 30 Mar , Oakland Roots , 0 - 0 , Las Vegas L.
+Sat 5 Apr , Detroit City , 0 - 0 , Monterey Bay
+Sat 5 Apr , Oakland Roots , 0 - 3 , Rhode Island
+Sat 5 Apr , Loudoun Utd , 2 - 0 , Hartford A.
+Sat 5 Apr , Charleston , 2 - 1 , Tampa Bay
+Sat 5 Apr , Indy Eleven , 2 - 2 , North Carolina
+Sun 6 Apr , El Paso , 2 - 1 , Lexington
+Sun 6 Apr , Sacramento R. , 1 - 1 , Louisville City
+Sun 6 Apr , Las Vegas L. , 1 - 0 , Orange County
+Sun 6 Apr , San Antonio , 1 - 2 , Phoenix Rising
+Sat 12 Apr , Lexington , 0 - 0 , Las Vegas L.
+Sat 12 Apr , Charleston , 2 - 1 , Pittsburgh
+Sat 12 Apr , Tampa Bay , 1 - 2 , Loudoun Utd
+Sun 13 Apr , FC Tulsa , 1 - 2 , Oakland Roots
+Sun 13 Apr , San Antonio , 1 - 2 , Miami FC
+Sun 13 Apr , New Mexico , 1 - 0 , North Carolina
+Sun 13 Apr , Monterey Bay , 2 - 1 , Colorado S.
+Sun 13 Apr , Orange County , 2 - 1 , Sacramento R.
+Sun 13 Apr , Phoenix Rising , 2 - 3 , Detroit City
+Sun 13 Apr , Birmingham L. , 3 - 1 , El Paso
+Sat 19 Apr , Detroit City , 2 - 0 , Rhode Island
+Sat 19 Apr , Hartford A. , 1 - 0 , Birmingham L.
+Sat 19 Apr , Oakland Roots , 2 - 0 , Orange County
+Sat 19 Apr , Phoenix Rising , 2 - 2 , Sacramento R.
+Sat 19 Apr , Loudoun Utd , 2 - 1 , Pittsburgh
+Sat 19 Apr , Indy Eleven , 1 - 3 , Charleston
+Sat 19 Apr , Lexington , 0 - 0 , Monterey Bay
+Sat 19 Apr , Miami FC , 2 - 1 , North Carolina
+Sat 19 Apr , Tampa Bay , 1 - 2 , Louisville City
+Sun 20 Apr , Colorado S. , 1 - 1 , El Paso
+Sun 20 Apr , Las Vegas L. , 1 - 4 , FC Tulsa
+Thu 24 Apr , San Antonio , 3 - 2 , Colorado S.
+Thu 24 Apr , New Mexico , 1 - 0 , Monterey Bay
+Fri 2 May , Louisville City , 2 - 0 , Lexington
+Sat 3 May , Rhode Island , 0 - 0 , San Antonio
+Sat 3 May , Charleston , 4 - 2 , Hartford A.
+Sat 3 May , Indy Eleven , 2 - 2 , Detroit City
+Sat 3 May , Pittsburgh , 0 - 2 , North Carolina
+Sat 3 May , Tampa Bay , 2 - 2 , Birmingham L.
+Sun 4 May , Colorado S. , 1 - 1 , Phoenix Rising
+Sun 4 May , El Paso , 3 - 0 , New Mexico
+Sun 4 May , Orange County , 2 - 1 , FC Tulsa
+Sun 4 May , Las Vegas L. , 1 - 0 , Loudoun Utd
+Sun 4 May , Monterey Bay , 1 - 1 , Miami FC
+Sun 4 May , Oakland Roots , 0 - 1 , Sacramento R.
+Fri 9 May , North Carolina , 1 - 0 , Orange County
+Sat 10 May , Rhode Island , 1 - 1 , Monterey Bay
+Sat 10 May , Loudoun Utd , 5 - 1 , Lexington
+Sat 10 May , Hartford A. , 0 - 0 , Detroit City
+Sat 10 May , Louisville City , 0 - 0 , Pittsburgh
+Sat 10 May , Tampa Bay , 1 - 3 , Charleston
+Sun 11 May , FC Tulsa , 1 - 1 , El Paso
+Sun 11 May , San Antonio , 1 - 2 , Oakland Roots
+Sun 11 May , New Mexico , 1 - 2 , Phoenix Rising
+Sun 11 May , Sacramento R. , 1 - 1 , Indy Eleven
+Sun 11 May , Las Vegas L. , 0 - 0 , Colorado S.
+Thu 15 May , Birmingham L. , 0 - 1 , Rhode Island
+Fri 16 May , North Carolina , 4 - 2 , Oakland Roots
+Sat 17 May , El Paso , 3 - 1 , Indy Eleven
+Sat 17 May , Hartford A. , 1 - 1 , Louisville City
+Sat 17 May , Charleston , 4 - 0 , San Antonio
+Sat 17 May , Miami FC , 2 - 1 , Loudoun Utd
+Sat 17 May , Tampa Bay , 0 - 3 , Rhode Island
+Sun 18 May , Colorado S. , 1 - 0 , Pittsburgh
+Sun 18 May , Orange County , 0 - 3 , New Mexico
+Sun 18 May , Phoenix Rising , 2 - 0 , Monterey Bay
+Sun 18 May , Sacramento R. , 5 - 0 , Las Vegas L.
+Sun 18 May , Birmingham L. , 1 - 1 , Detroit City
+Sun 18 May , Lexington , 0 - 2 , FC Tulsa
+Sat 24 May , Detroit City , 1 - 3 , Charleston
+Sat 24 May , Rhode Island , 0 - 1 , Pittsburgh
+Sat 24 May , Lexington , 1 - 1 , Tampa Bay
+Sat 24 May , Miami FC , 1 - 2 , Birmingham L.
+Sun 25 May , Orange County , 3 - 1 , Colorado S.
+Sun 25 May , Monterey Bay , 0 - 2 , Louisville City
+Sun 25 May , Oakland Roots , 0 - 3 , New Mexico
+Sun 25 May , Las Vegas L. , 1 - 2 , El Paso
+Wed 28 May , Indy Eleven , 4 - 4 , Hartford A.
+Thu 29 May , San Antonio , 1 - 1 , FC Tulsa
+Thu 29 May , Las Vegas L. , 0 - 1 , Phoenix Rising
+Thu 5 Jun , Birmingham L. , 0 - 1 , Indy Eleven
+Fri 6 Jun , Hartford A. , 0 - 1 , North Carolina
+Sat 7 Jun , Loudoun Utd , 1 - 1 , Charleston
+Sat 7 Jun , Pittsburgh , 2 - 0 , Detroit City
+Sat 7 Jun , Rhode Island , 0 - 1 , Miami FC
+Sun 8 Jun , Louisville City , 2 - 1 , Tampa Bay
+Sun 8 Jun , New Mexico , 1 - 1 , Colorado S.
+Sun 8 Jun , San Antonio , 3 - 0 , Las Vegas L.
+Sun 8 Jun , Monterey Bay , 2 - 1 , Lexington
+Sun 8 Jun , Oakland Roots , 0 - 0 , El Paso
+Sun 8 Jun , Phoenix Rising , 3 - 1 , Orange County
+Sun 8 Jun , Sacramento R. , 0 - 1 , FC Tulsa
+Thu 12 Jun , Louisville City , 2 - 1 , Rhode Island
+Sat 14 Jun , Loudoun Utd , 3 - 2 , Detroit City
+Sat 14 Jun , Hartford A. , 1 - 2 , Charleston
+Sat 14 Jun , Indy Eleven , 1 - 0 , Pittsburgh
+Sat 14 Jun , Lexington , 2 - 1 , New Mexico
+Sat 14 Jun , Rhode Island , 2 - 1 , North Carolina
+Sat 14 Jun , Tampa Bay , 2 - 1 , Miami FC
+Sun 15 Jun , Louisville City , 4 - 2 , Birmingham L.
+Sun 15 Jun , FC Tulsa , 1 - 1 , Phoenix Rising
+Sun 15 Jun , Colorado S. , 1 - 0 , Oakland Roots
+Sun 15 Jun , El Paso , 0 - 3 , Orange County
+Sun 15 Jun , Las Vegas L. , 2 - 0 , Monterey Bay
+Sun 15 Jun , Sacramento R. , 0 - 0 , San Antonio
+Wed 18 Jun , Miami FC , 1 - 0 , Charleston
+Thu 19 Jun , Birmingham L. , 1 - 0 , Sacramento R.
+Fri 20 Jun , Lexington , 2 - 1 , Colorado S.
+Fri 20 Jun , Hartford A. , 3 - 0 , Loudoun Utd
+Fri 20 Jun , North Carolina , 2 - 1 , Louisville City
+Sat 21 Jun , Detroit City , 2 - 0 , Miami FC
+Sat 21 Jun , Indy Eleven , 0 - 1 , Las Vegas L.
+Sat 21 Jun , Pittsburgh , 2 - 1 , Tampa Bay
+Sat 21 Jun , Rhode Island , 0 - 2 , Sacramento R.
+Sat 21 Jun , Charleston , 4 - 1 , Phoenix Rising
+Sun 22 Jun , Birmingham L. , 0 - 1 , Oakland Roots
+Sun 22 Jun , New Mexico , 4 - 2 , San Antonio
+Sun 22 Jun , Monterey Bay , 1 - 2 , El Paso
+Wed 25 Jun , Loudoun Utd , 1 - 4 , Louisville City
+Wed 25 Jun , Tampa Bay , 3 - 1 , Indy Eleven
+Thu 3 Jul , Birmingham L. , 0 - 0 , Charleston
+Thu 3 Jul , Loudoun Utd , 0 - 0 , Orange County
+Fri 4 Jul , Pittsburgh , 1 - 0 , New Mexico
+Sat 5 Jul , Colorado S. , 0 - 1 , Louisville City
+Sat 5 Jul , El Paso , 1 - 2 , San Antonio
+Sat 5 Jul , Las Vegas L. , 0 - 2 , Sacramento R.
+Sat 5 Jul , Phoenix Rising , 0 - 1 , Lexington
+Sat 5 Jul , Miami FC , 2 - 2 , FC Tulsa
+Sat 5 Jul , Rhode Island , 1 - 1 , Birmingham L.
+Sat 5 Jul , Indy Eleven , 3 - 0 , Monterey Bay
+Sun 6 Jul , Oakland Roots , 2 - 0 , Detroit City
+Sun 6 Jul , Charleston , 1 - 0 , North Carolina
+Fri 11 Jul , North Carolina , 2 - 3 , Birmingham L.
+Sat 12 Jul , Monterey Bay , 2 - 1 , Orange County
+Sat 12 Jul , Detroit City , 1 - 2 , Hartford A.
+Sat 12 Jul , Indy Eleven , 1 - 0 , Rhode Island
+Sat 12 Jul , Miami FC , 1 - 1 , Lexington
+Sun 13 Jul , FC Tulsa , 4 - 3 , Las Vegas L.
+Sun 13 Jul , New Mexico , 1 - 2 , Charleston
+Sun 13 Jul , San Antonio , 1 - 0 , Tampa Bay
+Sun 13 Jul , Oakland Roots , 1 - 2 , Phoenix Rising
+Sun 13 Jul , Sacramento R. , 3 - 0 , El Paso
+Sun 13 Jul , Pittsburgh , 2 - 2 , Loudoun Utd
+Wed 16 Jul , Hartford A. , 0 - 1 , Tampa Bay
+Thu 17 Jul , FC Tulsa , 2 - 1 , Monterey Bay
+Fri 18 Jul , Detroit City , 0 - 0 , Pittsburgh
+Fri 18 Jul , North Carolina , 4 - 2 , Indy Eleven
+Sat 19 Jul , Rhode Island , 0 - 0 , Hartford A.
+Sat 19 Jul , Loudoun Utd , 0 - 2 , Oakland Roots
+Sat 19 Jul , Charleston , 3 - 0 , Miami FC
+Sun 20 Jul , Birmingham L. , 0 - 1 , Colorado S.
+Sun 20 Jul , Louisville City , 1 - 1 , FC Tulsa
+Sun 20 Jul , Orange County , 4 - 0 , Las Vegas L.
+Sun 20 Jul , Sacramento R. , 0 - 0 , Lexington
+Tue 29 Jul , Pittsburgh , 1 - 1 , Miami FC
+Thu 31 Jul , Hartford A. , 4 - 0 , New Mexico
+Thu 31 Jul , Orange County , 4 - 1 , Phoenix Rising
+Sat 2 Aug , FC Tulsa , 3 - 2 , Loudoun Utd
+Sat 2 Aug , Colorado S. , 3 - 1 , Lexington
+Sat 2 Aug , Indy Eleven , 1 - 3 , Tampa Bay
+Sat 2 Aug , Pittsburgh , 2 - 0 , Rhode Island
+Sun 3 Aug , Louisville City , 4 - 1 , North Carolina
+Sun 3 Aug , El Paso , 6 - 0 , Las Vegas L.
+Sun 3 Aug , San Antonio , 1 - 3 , Sacramento R.
+Sun 3 Aug , Phoenix Rising , 3 - 3 , Birmingham L.
+Wed 6 Aug , Rhode Island , 1 - 0 , Detroit City
+Wed 6 Aug , Hartford A. , 2 - 0 , Miami FC
+Thu 7 Aug , Monterey Bay , 2 - 3 , FC Tulsa
+Sat 9 Aug , Lexington , 2 - 0 , Phoenix Rising
+Sat 9 Aug , Detroit City , 1 - 0 , Indy Eleven
+Sat 9 Aug , Miami FC , 0 - 0 , El Paso
+Sat 9 Aug , Pittsburgh , 1 - 1 , Orange County
+Sat 9 Aug , Rhode Island , 0 - 0 , Loudoun Utd
+Sat 9 Aug , North Carolina , 2 - 1 , Tampa Bay
+Sun 10 Aug , Birmingham L. , 1 - 4 , Hartford A.
+Sun 10 Aug , Louisville City , 4 - 1 , Charleston
+Sun 10 Aug , FC Tulsa , 5 - 2 , New Mexico
+Sun 10 Aug , Oakland Roots , 1 - 2 , Colorado S.
+Sun 10 Aug , Las Vegas L. , 1 - 1 , San Antonio
+Sun 10 Aug , Sacramento R. , 1 - 0 , Monterey Bay
+Fri 15 Aug , North Carolina , 1 - 1 , Detroit City
+Sat 16 Aug , Hartford A. , 1 - 1 , FC Tulsa
+Sat 16 Aug , Loudoun Utd , 3 - 2 , Indy Eleven
+Sat 16 Aug , Pittsburgh , 1 - 2 , Charleston
+Sat 16 Aug , Miami FC , 2 - 4 , Louisville City
+Sun 17 Aug , El Paso , 2 - 2 , Monterey Bay
+Sun 17 Aug , New Mexico , 2 - 2 , Las Vegas L.
+Sun 17 Aug , San Antonio , 0 - 1 , Lexington
+Sun 17 Aug , Colorado S. , 0 - 1 , Orange County
+Sun 17 Aug , Tampa Bay , 1 - 1 , Phoenix Rising
+Sun 17 Aug , Sacramento R. , 3 - 3 , Oakland Roots
+Sat 23 Aug , Detroit City , 2 - 0 , Tampa Bay
+Sat 23 Aug , Hartford A. , 3 - 0 , Rhode Island
+Sat 23 Aug , Indy Eleven , 3 - 2 , Miami FC
+Sat 23 Aug , Lexington , 2 - 1 , Oakland Roots
+Sun 24 Aug , Birmingham L. , 1 - 1 , Pittsburgh
+Sun 24 Aug , Louisville City , 0 - 0 , New Mexico
+Sun 24 Aug , FC Tulsa , 1 - 0 , Orange County
+Sun 24 Aug , El Paso , 1 - 0 , Sacramento R.
+Sun 24 Aug , Monterey Bay , 0 - 0 , San Antonio
+Sun 24 Aug , Las Vegas L. , 1 - 2 , North Carolina
+Sun 24 Aug , Phoenix Rising , 4 - 1 , Colorado S.
+Sun 24 Aug , Charleston , 4 - 1 , Loudoun Utd
+Sat 30 Aug , Detroit City , 1 - 1 , San Antonio
+Sat 30 Aug , Indy Eleven , 1 - 3 , Louisville City
+Sat 30 Aug , Loudoun Utd , 3 - 1 , Miami FC
+Sat 30 Aug , Rhode Island , 1 - 0 , Charleston
+Sat 30 Aug , North Carolina , 2 - 3 , Hartford A.
+Sat 30 Aug , Tampa Bay , 2 - 1 , Pittsburgh
+Sun 31 Aug , Colorado S. , 2 - 0 , FC Tulsa
+Sun 31 Aug , New Mexico , 0 - 2 , Sacramento R.
+Sun 31 Aug , Oakland Roots , 1 - 0 , Monterey Bay
+Sun 31 Aug , Orange County , 4 - 4 , Birmingham L.
+Sun 31 Aug , Las Vegas L. , 1 - 0 , Lexington
+Sun 31 Aug , Phoenix Rising , 3 - 3 , El Paso
+Wed 3 Sep , Hartford A. , 0 - 2 , Indy Eleven
+Fri 5 Sep , Lexington , 2 - 1 , North Carolina
+Sat 6 Sep , Rhode Island , 0 - 1 , Louisville City
+Sat 6 Sep , Phoenix Rising , 0 - 0 , Las Vegas L.
+Sat 6 Sep , Detroit City , 4 - 1 , Orange County
+Sat 6 Sep , Charleston , 2 - 1 , Indy Eleven
+Sat 6 Sep , Miami FC , 0 - 1 , Hartford A.
+Sat 6 Sep , Tampa Bay , 0 - 2 , Sacramento R.
+Sun 7 Sep , FC Tulsa , 1 - 1 , Birmingham L.
+Sun 7 Sep , San Antonio , 0 - 1 , New Mexico
+Sun 7 Sep , Colorado S. , 2 - 1 , Monterey Bay
+Sun 7 Sep , El Paso , 1 - 2 , Loudoun Utd
+Sun 7 Sep , Oakland Roots , 0 - 2 , Pittsburgh
+Thu 11 Sep , New Mexico , 4 - 0 , Detroit City
+Fri 12 Sep , Lexington , 1 - 1 , Orange County
+Fri 12 Sep , North Carolina , 1 - 0 , El Paso
+Sat 13 Sep , Loudoun Utd , 2 - 5 , San Antonio
+Sat 13 Sep , Pittsburgh , 0 - 2 , Louisville City
+Sat 13 Sep , Rhode Island , 1 - 0 , Indy Eleven
+Sat 13 Sep , Charleston , 3 - 3 , Oakland Roots
+Sat 13 Sep , Tampa Bay , 3 - 3 , Colorado S.
+Sun 14 Sep , New Mexico , 0 - 1 , FC Tulsa
+Sun 14 Sep , Monterey Bay , 0 - 4 , Hartford A.
+Sun 14 Sep , Sacramento R. , 2 - 2 , Phoenix Rising
+Sun 14 Sep , Las Vegas L. , 0 - 0 , Miami FC
+Wed 17 Sep , Birmingham L. , 1 - 4 , Tampa Bay
+Fri 19 Sep , Miami FC , 0 - 1 , Rhode Island
+Sat 20 Sep , Detroit City , 0 - 1 , Lexington
+Sat 20 Sep , Hartford A. , 1 - 2 , Pittsburgh
+Sat 20 Sep , Louisville City , 3 - 1 , Las Vegas L.
+Sat 20 Sep , Tampa Bay , 2 - 2 , North Carolina
+Sun 21 Sep , Colorado S. , 0 - 2 , Sacramento R.
+Sun 21 Sep , San Antonio , 3 - 1 , Orange County
+Sun 21 Sep , El Paso , 0 - 2 , Charleston
+Sun 21 Sep , Monterey Bay , 1 - 1 , New Mexico
+Sun 21 Sep , Oakland Roots , 1 - 1 , FC Tulsa
+Sun 21 Sep , Phoenix Rising , 2 - 2 , Loudoun Utd
+Sun 21 Sep , Indy Eleven , 2 - 1 , Birmingham L.
+Thu 25 Sep , Colorado S. , 1 - 2 , New Mexico
+Fri 26 Sep , North Carolina , 1 - 0 , Miami FC
+Sat 27 Sep , El Paso , 2 - 2 , Rhode Island
+Sat 27 Sep , Detroit City , 0 - 1 , Louisville City
+Sat 27 Sep , Indy Eleven , 2 - 1 , FC Tulsa
+Sun 28 Sep , Colorado S. , 0 - 2 , Hartford A.
+Sun 28 Sep , San Antonio , 0 - 0 , Birmingham L.
+Sun 28 Sep , Monterey Bay , 1 - 0 , Sacramento R.
+Sun 28 Sep , Orange County , 2 - 2 , Charleston
+Sun 28 Sep , Phoenix Rising , 3 - 3 , Oakland Roots
+Sun 28 Sep , Loudoun Utd , 2 - 2 , Tampa Bay
+Sun 28 Sep , Pittsburgh , 1 - 0 , Las Vegas L.
+Sun 28 Sep , New Mexico , 2 - 1 , Lexington
+Wed 1 Oct , El Paso , 3 - 1 , Oakland Roots
+Thu 2 Oct , Birmingham L. , 1 - 1 , North Carolina
+Thu 2 Oct , Sacramento R. , 2 - 1 , Orange County
+Sat 4 Oct , Detroit City , 2 - 0 , North Carolina
+Sat 4 Oct , Loudoun Utd , 0 - 1 , Birmingham L.
+Sat 4 Oct , Miami FC , 3 - 1 , Pittsburgh
+Sat 4 Oct , Louisville City , 2 - 0 , Indy Eleven
+Sat 4 Oct , Tampa Bay , 4 - 0 , Monterey Bay
+Sun 5 Oct , Colorado S. , 1 - 0 , San Antonio
+Sun 5 Oct , FC Tulsa , 3 - 0 , Lexington
+Sun 5 Oct , Orange County , 0 - 0 , El Paso
+Sun 5 Oct , Phoenix Rising , 0 - 1 , New Mexico
+Sun 5 Oct , Rhode Island , 3 - 1 , Las Vegas L.
+Wed 8 Oct , Oakland Roots , 1 - 3 , Hartford A.
+Fri 10 Oct , North Carolina , 0 - 2 , Phoenix Rising
+Sat 11 Oct , Detroit City , 0 - 1 , Loudoun Utd
+Sat 11 Oct , Hartford A. , 3 - 2 , Sacramento R.
+Sat 11 Oct , Lexington , 1 - 2 , El Paso
+Sat 11 Oct , Pittsburgh , 2 - 1 , Indy Eleven
+Sat 11 Oct , Rhode Island , 5 - 0 , Tampa Bay
+Sat 11 Oct , Louisville City , 1 - 0 , Miami FC
+Sun 12 Oct , FC Tulsa , 2 - 0 , San Antonio
+Sun 12 Oct , New Mexico , 3 - 3 , Orange County
+Sun 12 Oct , Las Vegas L. , 2 - 2 , Oakland Roots
+Mon 13 Oct , Charleston , 5 - 0 , Colorado S.
+Thu 16 Oct , Orange County , 1 - 0 , San Antonio
+Fri 17 Oct , Lexington , 2 - 2 , Sacramento R.
+Sat 18 Oct , Charleston , 1 - 1 , Detroit City
+Sat 18 Oct , North Carolina , 0 - 0 , Rhode Island
+Sat 18 Oct , Tampa Bay , 3 - 2 , Hartford A.
+Sun 19 Oct , Colorado S. , 1 - 0 , Las Vegas L.
+Sun 19 Oct , El Paso , 1 - 1 , FC Tulsa
+Sun 19 Oct , Indy Eleven , 2 - 1 , Loudoun Utd
+Sun 19 Oct , Monterey Bay , 0 - 3 , Pittsburgh
+Sun 19 Oct , Orange County , 0 - 0 , Louisville City
+Sun 19 Oct , Phoenix Rising , 1 - 0 , San Antonio
+Sun 19 Oct , Birmingham L. , 2 - 3 , Miami FC
+Sun 19 Oct , New Mexico , 3 - 3 , Oakland Roots
+Thu 23 Oct , Sacramento R. , 1 - 0 , Charleston
+Sat 25 Oct , New Mexico , 2 - 1 , Rhode Island
+Sat 25 Oct , Charleston , 2 - 1 , Birmingham L.
+Sat 25 Oct , Loudoun Utd , 0 - 1 , North Carolina
+Sat 25 Oct , Pittsburgh , 0 - 0 , Phoenix Rising
+Sat 25 Oct , Louisville City , 1 - 0 , Hartford A.
+Sat 25 Oct , Tampa Bay , 1 - 1 , Detroit City
+Sun 26 Oct , San Antonio , 5 - 2 , El Paso
+Sun 26 Oct , FC Tulsa , 3 - 0 , Colorado S.
+Sun 26 Oct , Monterey Bay , 1 - 1 , Las Vegas L.
+Sun 26 Oct , Oakland Roots , 3 - 0 , Lexington
+Sun 26 Oct , Orange County , 2 - 1 , Indy Eleven
+Sun 26 Oct , Sacramento R. , 0 - 1 , Miami 

@@ -1,0 +1,180 @@
+Fri 14 Feb , Cork City , 2 - 2 , Galway Utd
+Fri 14 Feb , Shelbourne , 3 - 1 , Derry City
+Fri 14 Feb , St. Patricks , 0 - 0 , Drogheda Utd
+Sat 15 Feb , Sligo Rovers , 2 - 3 , Waterford
+Sun 16 Feb , Bohemians , 1 - 0 , Shamrock Rovers
+Fri 21 Feb , Derry City , 1 - 0 , Bohemians
+Fri 21 Feb , Drogheda Utd , 3 - 0 , Sligo Rovers
+Fri 21 Feb , Galway Utd , 2 - 1 , St. Patricks
+Fri 21 Feb , Waterford , 0 - 1 , Shelbourne
+Fri 28 Feb , Cork City , 2 - 1 , Bohemians
+Fri 28 Feb , Derry City , 1 - 2 , Waterford
+Fri 28 Feb , Drogheda Utd , 1 - 1 , Galway Utd
+Fri 28 Feb , Shelbourne , 1 - 1 , Shamrock Rovers
+Fri 28 Feb , St. Patricks , 4 - 3 , Sligo Rovers
+Mon 3 Mar , Bohemians , 0 - 1 , Drogheda Utd
+Mon 3 Mar , Galway Utd , 1 - 1 , Shelbourne
+Mon 3 Mar , Sligo Rovers , 2 - 1 , Shamrock Rovers
+Mon 3 Mar , St. Patricks , 2 - 0 , Derry City
+Mon 3 Mar , Waterford , 2 - 1 , Cork City
+Fri 7 Mar , Cork City , 1 - 1 , Sligo Rovers
+Fri 7 Mar , Derry City , 1 - 1 , Galway Utd
+Fri 7 Mar , Shamrock Rovers , 1 - 0 , St. Patricks
+Fri 7 Mar , Shelbourne , 0 - 1 , Drogheda Utd
+Fri 7 Mar , Waterford , 0 - 3 , Bohemians
+Fri 14 Mar , Drogheda Utd , 1 - 2 , Shamrock Rovers
+Fri 14 Mar , Galway Utd , 1 - 0 , Waterford
+Fri 14 Mar , Shelbourne , 1 - 1 , Cork City
+Fri 14 Mar , St. Patricks , 3 - 0 , Bohemians
+Sat 15 Mar , Sligo Rovers , 0 - 1 , Derry City
+Fri 28 Mar , Bohemians , 0 - 2 , Galway Utd
+Fri 28 Mar , Cork City , 1 - 1 , Drogheda Utd
+Fri 28 Mar , Sligo Rovers , 1 - 2 , Shelbourne
+Fri 28 Mar , Waterford , 1 - 2 , St. Patricks
+Fri 28 Mar , Shamrock Rovers , 0 - 0 , Derry City
+Fri 4 Apr , Bohemians , 4 - 2 , Sligo Rovers
+Fri 4 Apr , Derry City , 2 - 1 , Cork City
+Fri 4 Apr , Drogheda Utd , 2 - 0 , Waterford
+Fri 4 Apr , Galway Utd , 0 - 1 , Shamrock Rovers
+Fri 4 Apr , St. Patricks , 0 - 0 , Shelbourne
+Fri 11 Apr , Cork City , 0 - 2 , St. Patricks
+Fri 11 Apr , Derry City , 1 - 3 , Drogheda Utd
+Fri 11 Apr , Shelbourne , 1 - 0 , Bohemians
+Fri 11 Apr , Shamrock Rovers , 2 - 0 , Waterford
+Sat 12 Apr , Sligo Rovers , 1 - 2 , Galway Utd
+Mon 14 Apr , Shamrock Rovers , 4 - 1 , Cork City
+Fri 18 Apr , Bohemians , 1 - 0 , Cork City
+Fri 18 Apr , Drogheda Utd , 2 - 2 , Shelbourne
+Fri 18 Apr , Galway Utd , 2 - 3 , Derry City
+Fri 18 Apr , St. Patricks , 2 - 2 , Shamrock Rovers
+Fri 18 Apr , Waterford , 0 - 4 , Sligo Rovers
+Mon 21 Apr , Shamrock Rovers , 2 - 3 , Bohemians
+Mon 21 Apr , Cork City , 2 - 1 , Waterford
+Mon 21 Apr , Drogheda Utd , 0 - 0 , St. Patricks
+Mon 21 Apr , Shelbourne , 2 - 2 , Galway Utd
+Tue 22 Apr , Derry City , 3 - 0 , Sligo Rovers
+Fri 25 Apr , Bohemians , 2 - 1 , St. Patricks
+Fri 25 Apr , Galway Utd , 2 - 1 , Drogheda Utd
+Fri 25 Apr , Shamrock Rovers , 2 - 2 , Shelbourne
+Fri 25 Apr , Waterford , 2 - 1 , Derry City
+Sat 26 Apr , Sligo Rovers , 1 - 1 , Cork City
+Fri 2 May , Bohemians , 1 - 2 , Waterford
+Fri 2 May , Cork City , 1 - 1 , Shamrock Rovers
+Fri 2 May , Derry City , 2 - 0 , Shelbourne
+Fri 2 May , Sligo Rovers , 2 - 2 , Drogheda Utd
+Fri 2 May , St. Patricks , 2 - 0 , Galway Utd
+Mon 5 May , Drogheda Utd , 3 - 2 , Cork City
+Mon 5 May , Galway Utd , 1 - 2 , Bohemians
+Mon 5 May , Shelbourne , 0 - 1 , Waterford
+Mon 5 May , Shamrock Rovers , 2 - 0 , Sligo Rovers
+Mon 5 May , Derry City , 1 - 0 , St. Patricks
+Fri 9 May , Cork City , 1 - 2 , Derry City
+Fri 9 May , Shamrock Rovers , 3 - 0 , Drogheda Utd
+Fri 9 May , Shelbourne , 2 - 1 , St. Patricks
+Fri 9 May , Waterford , 1 - 0 , Galway Utd
+Sat 10 May , Sligo Rovers , 0 - 1 , Bohemians
+Fri 16 May , Bohemians , 1 - 0 , Shelbourne
+Fri 16 May , Drogheda Utd , 1 - 1 , Derry City
+Fri 16 May , Galway Utd , 0 - 1 , Sligo Rovers
+Fri 16 May , St. Patricks , 3 - 2 , Cork City
+Fri 16 May , Waterford , 1 - 3 , Shamrock Rovers
+Mon 19 May , Shelbourne , 0 - 0 , Drogheda Utd
+Mon 19 May , Shamrock Rovers , 4 - 0 , St. Patricks
+Fri 23 May , Derry City , 1 - 2 , Shamrock Rovers
+Fri 23 May , Drogheda Utd , 1 - 0 , Bohemians
+Fri 23 May , Galway Utd , 2 - 1 , Cork City
+Fri 23 May , Shelbourne , 3 - 2 , Sligo Rovers
+Fri 23 May , St. Patricks , 2 - 2 , Waterford
+Fri 30 May , Bohemians , 1 - 0 , Derry City
+Fri 30 May , Cork City , 1 - 1 , Shelbourne
+Fri 30 May , Sligo Rovers , 0 - 1 , St. Patricks
+Fri 30 May , Waterford , 2 - 2 , Drogheda Utd
+Fri 30 May , Shamrock Rovers , 0 - 0 , Galway Utd
+Fri 13 Jun , Cork City , 0 - 2 , Bohemians
+Fri 13 Jun , Derry City , 1 - 1 , Galway Utd
+Fri 13 Jun , Shelbourne , 1 - 2 , Shamrock Rovers
+Fri 13 Jun , St. Patricks , 0 - 0 , Drogheda Utd
+Sat 14 Jun , Sligo Rovers , 1 - 0 , Waterford
+Mon 16 Jun , Drogheda Utd , 1 - 2 , Shamrock Rovers
+Mon 16 Jun , St. Patricks , 0 - 1 , Shelbourne
+Fri 20 Jun , Drogheda Utd , 1 - 0 , Sligo Rovers
+Fri 20 Jun , Galway Utd , 3 - 1 , St. Patricks
+Fri 20 Jun , Shamrock Rovers , 4 - 1 , Cork City
+Fri 20 Jun , Shelbourne , 0 - 1 , Derry City
+Fri 20 Jun , Waterford , 2 - 1 , Bohemians
+Mon 23 Jun , Bohemians , 2 - 0 , Shamrock Rovers
+Mon 23 Jun , Cork City , 1 - 1 , Drogheda Utd
+Mon 23 Jun , Sligo Rovers , 2 - 1 , Galway Utd
+Mon 23 Jun , St. Patricks , 0 - 1 , Derry City
+Mon 23 Jun , Waterford , 2 - 2 , Shelbourne
+Fri 27 Jun , Bohemians , 1 - 1 , Sligo Rovers
+Fri 27 Jun , Cork City , 0 - 0 , St. Patricks
+Fri 27 Jun , Derry City , 3 - 0 , Drogheda Utd
+Fri 27 Jun , Galway Utd , 1 - 1 , Shelbourne
+Fri 27 Jun , Shamrock Rovers , 1 - 0 , Waterford
+Fri 4 Jul , Derry City , 7 - 2 , Waterford
+Fri 4 Jul , Drogheda Utd , 1 - 0 , Galway Utd
+Fri 4 Jul , Shelbourne , 3 - 1 , Cork City
+Fri 4 Jul , St. Patricks , 0 - 0 , Bohemians
+Sat 5 Jul , Sligo Rovers , 2 - 2 , Shamrock Rovers
+Fri 11 Jul , Bohemians , 3 - 0 , Galway Utd
+Fri 11 Jul , Waterford , 2 - 0 , Cork City
+Sat 12 Jul , Sligo Rovers , 2 - 0 , Derry City
+Fri 25 Jul , Cork City , 2 - 3 , Sligo Rovers
+Fri 25 Jul , Derry City , 1 - 1 , Bohemians
+Fri 25 Jul , Galway Utd , 2 - 4 , Waterford
+Fri 1 Aug , Bohemians , 0 - 1 , Drogheda Utd
+Fri 1 Aug , Cork City , 1 - 0 , Galway Utd
+Sat 2 Aug , Sligo Rovers , 0 - 2 , Shelbourne
+Sun 3 Aug , Waterford , 0 - 2 , St. Patricks
+Sun 3 Aug , Shamrock Rovers , 2 - 0 , Derry City
+Fri 8 Aug , Derry City , 0 - 0 , Cork City
+Fri 8 Aug , Drogheda Utd , 0 - 0 , Waterford
+Sat 9 Aug , Shelbourne , 2 - 2 , Bohemians
+Sun 10 Aug , Galway Utd , 0 - 0 , Shamrock Rovers
+Sun 10 Aug , St. Patricks , 3 - 0 , Sligo Rovers
+Fri 22 Aug , Bohemians , 3 - 0 , Cork City
+Fri 22 Aug , Drogheda Utd , 0 - 1 , St. Patricks
+Fri 22 Aug , Galway Utd , 1 - 2 , Derry City
+Fri 22 Aug , Waterford , 1 - 2 , Sligo Rovers
+Fri 29 Aug , Cork City , 2 - 0 , Waterford
+Fri 29 Aug , Derry City , 2 - 2 , St. Patricks
+Sat 30 Aug , Sligo Rovers , 0 - 0 , Bohemians
+Sun 31 Aug , Shamrock Rovers , 2 - 1 , Drogheda Utd
+Sun 7 Sep , Shelbourne , 1 - 0 , Galway Utd
+Fri 12 Sep , Bohemians , 3 - 4 , Derry City
+Fri 19 Sep , Bohemians , 2 - 1 , Waterford
+Fri 19 Sep , Cork City , 1 - 1 , Shamrock Rovers
+Fri 19 Sep , Derry City , 1 - 1 , Shelbourne
+Fri 19 Sep , Sligo Rovers , 1 - 1 , Drogheda Utd
+Fri 19 Sep , St. Patricks , 1 - 1 , Galway Utd
+Mon 22 Sep , Drogheda Utd , 2 - 1 , Shelbourne
+Mon 22 Sep , Galway Utd , 0 - 1 , Sligo Rovers
+Mon 22 Sep , St. Patricks , 4 - 0 , Cork City
+Mon 22 Sep , Waterford , 1 - 2 , Shamrock Rovers
+Fri 26 Sep , Drogheda Utd , 1 - 1 , Derry City
+Fri 26 Sep , Galway Utd , 2 - 1 , Cork City
+Fri 26 Sep , Shamrock Rovers , 2 - 1 , Bohemians
+Fri 26 Sep , Shelbourne , 2 - 1 , Waterford
+Sat 27 Sep , Sligo Rovers , 1 - 0 , St. Patricks
+Sun 5 Oct , Derry City , 1 - 0 , Sligo Rovers
+Sun 5 Oct , Waterford , 2 - 0 , Drogheda Utd
+Fri 10 Oct , Shamrock Rovers , 0 - 1 , Shelbourne
+Mon 13 Oct , Cork City , 1 - 2 , Shelbourne
+Fri 17 Oct , Drogheda Utd , 1 - 0 , Cork City
+Fri 17 Oct , Galway Utd , 2 - 0 , Bohemians
+Fri 17 Oct , Shelbourne , 3 - 1 , Sligo Rovers
+Fri 17 Oct , St. Patricks , 1 - 0 , Shamrock Rovers
+Fri 17 Oct , Waterford , 1 - 2 , Derry City
+Mon 20 Oct , Bohemians , 0 - 0 , St. Patricks
+Fri 24 Oct , Galway Utd , 1 - 1 , Drogheda Utd
+Fri 24 Oct , St. Patricks , 1 - 1 , Waterford
+Sat 25 Oct , Sligo Rovers , 1 - 1 , Cork City
+Sun 26 Oct , Derry City , 2 - 1 , Shamrock Rovers
+Sun 26 Oct , Bohemians , 2 - 3 , Shelbourne
+Wed 29 Oct , Shamrock Rovers , 1 - 0 , Galway Utd
+Sat 1 Nov , Cork City , 0 - 1 , Derry City
+Sat 1 Nov , Drogheda Utd , 1 - 4 , Bohemians
+Sat 1 Nov , Shamrock Rovers , 1 - 2 , Sligo Rovers
+Sat 1 Nov , Shelbourne , 0 - 0 , St. Patricks
+Sat 1 Nov , Waterford , 1 - 1 , Galway U

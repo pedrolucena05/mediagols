@@ -1,0 +1,112 @@
+Fri 25 Jul , Antwerp , 1 - 1 , Royale Union SG
+Sat 26 Jul , Dender , 0 - 0 , Cercle Brugge
+Sat 26 Jul , Zulte-Waregem , 1 - 1 , KV Mechelen
+Sat 26 Jul , La Louviere , 0 - 2 , Standard Liege
+Sun 27 Jul , Anderlecht , 5 - 2 , Westerlo
+Sun 27 Jul , OH Leuven , 2 - 2 , Charleroi
+Sun 27 Jul , Club Brugge , 2 - 1 , KRC Genk
+Sun 27 Jul , Sint-Truiden , 3 - 1 , Gent
+Fri 1 Aug , KV Mechelen , 2 - 1 , Club Brugge
+Sat 2 Aug , Westerlo , 3 - 1 , Zulte-Waregem
+Sat 2 Aug , Standard Liege , 1 - 1 , Dender
+Sat 2 Aug , Gent , 1 - 0 , La Louviere
+Sun 3 Aug , KRC Genk , 1 - 1 , Antwerp
+Sun 3 Aug , Cercle Brugge , 0 - 2 , Anderlecht
+Sun 3 Aug , Royale Union SG , 5 - 0 , OH Leuven
+Sun 3 Aug , Charleroi , 1 - 1 , Sint-Truiden
+Fri 8 Aug , Sint-Truiden , 2 - 0 , Dender
+Sat 9 Aug , Club Brugge , 2 - 0 , Cercle Brugge
+Sat 9 Aug , Westerlo , 0 - 1 , KV Mechelen
+Sat 9 Aug , Gent , 2 - 3 , Royale Union SG
+Sun 10 Aug , La Louviere , 1 - 0 , Charleroi
+Sun 10 Aug , Anderlecht , 2 - 3 , Zulte-Waregem
+Sun 10 Aug , Standard Liege , 2 - 1 , KRC Genk
+Sun 10 Aug , Antwerp , 3 - 1 , OH Leuven
+Fri 15 Aug , OH Leuven , 1 - 2 , KRC Genk
+Sat 16 Aug , Zulte-Waregem , 0 - 1 , Club Brugge
+Sat 16 Aug , KV Mechelen , 1 - 1 , Gent
+Sat 16 Aug , Royale Union SG , 3 - 0 , Standard Liege
+Sun 17 Aug , Dender , 0 - 2 , Anderlecht
+Sun 17 Aug , Sint-Truiden , 2 - 1 , La Louviere
+Sun 17 Aug , Charleroi , 1 - 1 , Antwerp
+Sun 17 Aug , Cercle Brugge , 4 - 1 , Westerlo
+Sat 23 Aug , Standard Liege , 0 - 3 , Cercle Brugge
+Sat 23 Aug , Zulte-Waregem , 0 - 2 , Sint-Truiden
+Sun 24 Aug , Antwerp , 2 - 1 , KV Mechelen
+Sun 24 Aug , La Louviere , 0 - 0 , Royale Union SG
+Sun 24 Aug , Dender , 0 - 1 , OH Leuven
+Fri 29 Aug , Cercle Brugge , 1 - 1 , Sint-Truiden
+Sat 30 Aug , KV Mechelen , 3 - 2 , La Louviere
+Sat 30 Aug , Westerlo , 2 - 0 , Antwerp
+Sat 30 Aug , Charleroi , 3 - 1 , Dender
+Sun 31 Aug , Gent , 1 - 1 , Club Brugge
+Sun 31 Aug , OH Leuven , 1 - 0 , Standard Liege
+Sun 31 Aug , Royale Union SG , 2 - 0 , Anderlecht
+Sun 31 Aug , KRC Genk , 3 - 2 , Zulte-Waregem
+Fri 12 Sep , Standard Liege , 1 - 1 , KV Mechelen
+Sat 13 Sep , Zulte-Waregem , 2 - 0 , OH Leuven
+Sat 13 Sep , Dender , 0 - 1 , Royale Union SG
+Sat 13 Sep , La Louviere , 1 - 0 , Club Brugge
+Sun 14 Sep , Antwerp , 1 - 2 , Gent
+Sun 14 Sep , Cercle Brugge , 2 - 3 , Charleroi
+Sun 14 Sep , Anderlecht , 1 - 1 , KRC Genk
+Sun 14 Sep , Sint-Truiden , 0 - 3 , Westerlo
+Wed 17 Sep , KRC Genk , 0 - 1 , Charleroi
+Fri 19 Sep , Gent , 3 - 0 , Dender
+Sat 20 Sep , OH Leuven , 1 - 2 , La Louviere
+Sat 20 Sep , Charleroi , 1 - 2 , Zulte-Waregem
+Sat 20 Sep , Anderlecht , 0 - 0 , Antwerp
+Sun 21 Sep , KRC Genk , 1 - 2 , Royale Union SG
+Sun 21 Sep , Westerlo , 0 - 2 , Standard Liege
+Sun 21 Sep , Club Brugge , 2 - 0 , Sint-Truiden
+Sun 21 Sep , KV Mechelen , 0 - 0 , Cercle Brugge
+Tue 23 Sep , Anderlecht , 1 - 0 , Gent
+Wed 24 Sep , Club Brugge , 5 - 5 , Westerlo
+Fri 26 Sep , OH Leuven , 1 - 1 , Anderlecht
+Sat 27 Sep , Zulte-Waregem , 2 - 0 , Antwerp
+Sat 27 Sep , Standard Liege , 1 - 2 , Club Brugge
+Sat 27 Sep , Royale Union SG , 2 - 0 , Westerlo
+Sun 28 Sep , Sint-Truiden , 1 - 2 , KRC Genk
+Sun 28 Sep , Cercle Brugge , 2 - 4 , Gent
+Sun 28 Sep , Charleroi , 0 - 2 , KV Mechelen
+Sun 28 Sep , Dender , 0 - 0 , La Louviere
+Fri 3 Oct , Gent , 2 - 1 , Charleroi
+Sat 4 Oct , KV Mechelen , 1 - 3 , Sint-Truiden
+Sat 4 Oct , La Louviere , 0 - 0 , Zulte-Waregem
+Sat 4 Oct , Antwerp , 1 - 1 , Cercle Brugge
+Sun 5 Oct , Anderlecht , 1 - 0 , Standard Liege
+Sun 5 Oct , KRC Genk , 2 - 1 , Dender
+Sun 5 Oct , Club Brugge , 1 - 0 , Royale Union SG
+Sun 5 Oct , Westerlo , 2 - 0 , OH Leuven
+Sat 18 Oct , La Louviere , 0 - 0 , Westerlo
+Sat 18 Oct , OH Leuven , 0 - 1 , Club Brugge
+Sat 18 Oct , Royale Union SG , 3 - 1 , Charleroi
+Sun 19 Oct , Cercle Brugge , 2 - 2 , KRC Genk
+Sun 19 Oct , Dender , 1 - 3 , KV Mechelen
+Sun 19 Oct , Sint-Truiden , 2 - 2 , Anderlecht
+Sun 19 Oct , Zulte-Waregem , 4 - 1 , Gent
+Mon 20 Oct , Standard Liege , 1 - 0 , Antwerp
+Fri 24 Oct , Charleroi , 1 - 0 , Anderlecht
+Sat 25 Oct , Westerlo , 1 - 1 , Dender
+Sat 25 Oct , KV Mechelen , 1 - 1 , OH Leuven
+Sat 25 Oct , Gent , 4 - 0 , Standard Liege
+Sun 26 Oct , Antwerp , 0 - 1 , Club Brugge
+Sun 26 Oct , Cercle Brugge , 1 - 1 , Zulte-Waregem
+Sun 26 Oct , KRC Genk , 1 - 1 , La Louviere
+Sun 26 Oct , Royale Union SG , 2 - 0 , Sint-Truiden
+Fri 31 Oct , Standard Liege , 3 - 1 , Charleroi
+Sat 1 Nov , Zulte-Waregem , 1 - 4 , Royale Union SG
+Sat 1 Nov , Club Brugge , 2 - 1 , Dender
+Sat 1 Nov , Anderlecht , 3 - 1 , KV Mechelen
+Sun 2 Nov , Westerlo , 0 - 1 , KRC Genk
+Sun 2 Nov , OH Leuven , 4 - 0 , Gent
+Sun 2 Nov , Sint-Truiden , 1 - 0 , Antwerp
+Sun 2 Nov , La Louviere , 2 - 1 , Cercle Brugge
+Fri 7 Nov , Dender , 2 - 2 , Zulte-Waregem
+Sat 8 Nov , Cercle Brugge , 1 - 2 , OH Leuven
+Sat 8 Nov , Charleroi , 2 - 0 , Westerlo
+Sat 8 Nov , Antwerp , 3 - 1 , La Louviere
+Sun 9 Nov , Anderlecht , 1 - 0 , Club Brugge
+Sun 9 Nov , Sint-Truiden , 1 - 0 , Standard Liege
+Sun 9 Nov , Gent , 1 - 1 , KRC Genk
+Sun 9 Nov , KV Mechelen , 1 - 1 , Royale Union SG

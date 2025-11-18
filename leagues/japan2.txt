@@ -1,0 +1,132 @@
+Sat 5 Apr , Breidablik , 2 - 0 , Afturelding
+Sun 6 Apr , Valur , 1 - 1 , Vestri
+Sun 6 Apr , KA Akureyri , 2 - 2 , KR Reykjavik
+Sun 6 Apr , Fram , 0 - 1 , IA Akranes
+Mon 7 Apr , Vikingur R. , 2 - 0 , IBV
+Mon 7 Apr , Stjarnan , 2 - 1 , Hafnarfjordur
+Sun 13 Apr , Vestri , 1 - 0 , Hafnarfjordur
+Sun 13 Apr , Afturelding , 0 - 0 , IBV
+Sun 13 Apr , Fram , 4 - 2 , Breidablik
+Sun 13 Apr , Vikingur R. , 4 - 0 , KA Akureyri
+Mon 14 Apr , KR Reykjavik , 3 - 3 , Valur
+Mon 14 Apr , Stjarnan , 2 - 1 , IA Akranes
+Wed 23 Apr , Hafnarfjordur , 2 - 2 , KR Reykjavik
+Wed 23 Apr , IA Akranes , 0 - 2 , Vestri
+Wed 23 Apr , Valur , 3 - 1 , KA Akureyri
+Wed 23 Apr , Breidablik , 2 - 1 , Stjarnan
+Thu 24 Apr , IBV , 3 - 1 , Fram
+Thu 24 Apr , Afturelding , 1 - 0 , Vikingur R.
+Sun 27 Apr , Vestri , 0 - 1 , Breidablik
+Sun 27 Apr , KA Akureyri , 3 - 2 , Hafnarfjordur
+Sun 27 Apr , KR Reykjavik , 5 - 0 , IA Akranes
+Mon 28 Apr , Stjarnan , 2 - 3 , IBV
+Mon 28 Apr , Fram , 3 - 0 , Afturelding
+Mon 28 Apr , Valur , 1 - 1 , Vikingur R.
+Sun 4 May , IBV , 0 - 2 , Vestri
+Sun 4 May , IA Akranes , 3 - 0 , KA Akureyri
+Sun 4 May , Hafnarfjordur , 3 - 0 , Valur
+Mon 5 May , Afturelding , 3 - 0 , Stjarnan
+Mon 5 May , Breidablik , 3 - 3 , KR Reykjavik
+Mon 5 May , Vikingur R. , 3 - 2 , Fram
+Sat 10 May , Vestri , 2 - 0 , Afturelding
+Sat 10 May , KR Reykjavik , 4 - 1 , IBV
+Sat 10 May , Stjarnan , 2 - 0 , Fram
+Sat 10 May , Valur , 6 - 1 , IA Akranes
+Sun 11 May , KA Akureyri , 0 - 1 , Breidablik
+Sun 11 May , Vikingur R. , 3 - 1 , Hafnarfjordur
+Sun 18 May , Fram , 1 - 0 , Vestri
+Sun 18 May , IBV , 0 - 0 , KA Akureyri
+Sun 18 May , Afturelding , 4 - 3 , KR Reykjavik
+Mon 19 May , Breidablik , 2 - 1 , Valur
+Mon 19 May , IA Akranes , 1 - 3 , Hafnarfjordur
+Mon 19 May , Stjarnan , 2 - 2 , Vikingur R.
+Fri 23 May , KR Reykjavik , 2 - 3 , Fram
+Sat 24 May , KA Akureyri , 1 - 0 , Afturelding
+Sat 24 May , Valur , 3 - 0 , IBV
+Sat 24 May , Vestri , 3 - 1 , Stjarnan
+Sat 24 May , Vikingur R. , 2 - 1 , IA Akranes
+Sun 25 May , Hafnarfjordur , 2 - 0 , Breidablik
+Thu 29 May , Vestri , 0 - 1 , Vikingur R.
+Thu 29 May , Afturelding , 0 - 2 , Valur
+Thu 29 May , Breidablik , 1 - 4 , IA Akranes
+Thu 29 May , Fram , 1 - 2 , KA Akureyri
+Thu 29 May , IBV , 2 - 1 , Hafnarfjordur
+Thu 29 May , Stjarnan , 4 - 2 , KR Reykjavik
+Sun 1 Jun , KR Reykjavik , 2 - 1 , Vestri
+Sun 1 Jun , KA Akureyri , 1 - 1 , Stjarnan
+Sun 1 Jun , Hafnarfjordur , 0 - 0 , Afturelding
+Sun 1 Jun , IA Akranes , 0 - 3 , IBV
+Sun 1 Jun , Breidablik , 3 - 1 , Vikingur R.
+Mon 2 Jun , Valur , 2 - 1 , Fram
+Sat 14 Jun , Stjarnan , 3 - 2 , Valur
+Sun 15 Jun , Vestri , 1 - 0 , KA Akureyri
+Sun 15 Jun , IBV , 0 - 2 , Breidablik
+Sun 15 Jun , Afturelding , 4 - 1 , IA Akranes
+Sun 15 Jun , Fram , 2 - 0 , Hafnarfjordur
+Mon 16 Jun , Vikingur R. , 3 - 2 , KR Reykjavik
+Sun 22 Jun , Hafnarfjordur , 2 - 0 , Vestri
+Sun 22 Jun , IA Akranes , 0 - 3 , Stjarnan
+Sun 22 Jun , KA Akureyri , 0 - 2 , Vikingur R.
+Mon 23 Jun , IBV , 1 - 2 , Afturelding
+Mon 23 Jun , Breidablik , 1 - 1 , Fram
+Mon 23 Jun , Valur , 6 - 1 , KR Reykjavik
+Fri 27 Jun , KA Akureyri , 2 - 5 , Valur
+Fri 27 Jun , Stjarnan , 1 - 4 , Breidablik
+Sun 29 Jun , Fram , 2 - 0 , IBV
+Sun 29 Jun , Vestri , 0 - 2 , IA Akranes
+Sun 29 Jun , KR Reykjavik , 3 - 2 , Hafnarfjordur
+Sun 29 Jun , Vikingur R. , 2 - 1 , Afturelding
+Thu 3 Jul , Afturelding , 2 - 2 , Breidablik
+Sat 5 Jul , IA Akranes , 0 - 1 , Fram
+Sat 5 Jul , Vestri , 0 - 2 , Valur
+Sat 5 Jul , IBV , 0 - 0 , Vikingur R.
+Sun 6 Jul , KR Reykjavik , 1 - 2 , KA Akureyri
+Mon 7 Jul , Hafnarfjordur , 1 - 1 , Stjarnan
+Sun 13 Jul , Hafnarfjordur , 5 - 0 , KA Akureyri
+Mon 14 Jul , IBV , 1 - 0 , Stjarnan
+Mon 14 Jul , IA Akranes , 1 - 0 , KR Reykjavik
+Thu 17 Jul , Afturelding , 1 - 1 , Fram
+Sat 19 Jul , Breidablik , 1 - 0 , Vestri
+Sat 19 Jul , KA Akureyri , 2 - 0 , IA Akranes
+Sun 20 Jul , Vikingur R. , 1 - 2 , Valur
+Sat 26 Jul , KR Reykjavik , 1 - 1 , Breidablik
+Sun 27 Jul , Vestri , 2 - 0 , IBV
+Sun 27 Jul , Fram , 2 - 2 , Vikingur R.
+Sun 27 Jul , Valur , 3 - 1 , Hafnarfjordur
+Mon 28 Jul , Stjarnan , 4 - 1 , Afturelding
+Sat 2 Aug , IBV , 2 - 1 , KR Reykjavik
+Sun 3 Aug , Breidablik , 1 - 1 , KA Akureyri
+Sun 3 Aug , Hafnarfjordur , 2 - 2 , Vikingur R.
+Tue 5 Aug , IA Akranes , 2 - 2 , Valur
+Wed 6 Aug , Afturelding , 1 - 1 , Vestri
+Wed 6 Aug , Fram , 1 - 1 , Stjarnan
+Sun 10 Aug , Vestri , 3 - 2 , Fram
+Sun 10 Aug , KA Akureyri , 1 - 0 , IBV
+Sun 10 Aug , Valur , 2 - 1 , Breidablik
+Sun 10 Aug , Vikingur R. , 2 - 4 , Stjarnan
+Mon 11 Aug , Hafnarfjordur , 3 - 2 , IA Akranes
+Mon 11 Aug , KR Reykjavik , 2 - 1 , Afturelding
+Sun 17 Aug , IBV , 4 - 1 , Valur
+Sun 17 Aug , Stjarnan , 2 - 1 , Vestri
+Sun 17 Aug , Afturelding , 3 - 3 , KA Akureyri
+Sun 17 Aug , IA Akranes , 0 - 1 , Vikingur R.
+Sun 17 Aug , Breidablik , 4 - 5 , Hafnarfjordur
+Mon 18 Aug , Fram , 0 - 1 , KR Reykjavik
+Sun 24 Aug , KA Akureyri , 2 - 0 , Fram
+Sun 24 Aug , Hafnarfjordur , 1 - 1 , IBV
+Mon 25 Aug , KR Reykjavik , 1 - 2 , Stjarnan
+Tue 26 Aug , Vikingur R. , 4 - 1 , Vestri
+Tue 26 Aug , Valur , 4 - 3 , Afturelding
+Sun 31 Aug , Afturelding , 1 - 2 , Hafnarfjordur
+Sun 31 Aug , IBV , 2 - 0 , IA Akranes
+Sun 31 Aug , Vestri , 1 - 1 , KR Reykjavik
+Sun 31 Aug , Stjarnan , 3 - 2 , KA Akureyri
+Sun 31 Aug , Fram , 2 - 1 , Valur
+Sun 31 Aug , Vikingur R. , 2 - 2 , Breidablik
+Thu 11 Sep , IA Akranes , 3 - 0 , Breidablik
+Sun 14 Sep , Hafnarfjordur , 2 - 2 , Fram
+Sun 14 Sep , KA Akureyri , 4 - 1 , Vestri
+Sun 14 Sep , KR Reykjavik , 0 - 7 , Vikingur R.
+Sun 14 Sep , Valur , 1 - 2 , Stjarnan
+Mon 15 Sep , IA Akranes , 3 - 1 , Afturelding
+Mon 15 Sep , Breidablik , 1 - 1 , I

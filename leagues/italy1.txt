@@ -1,0 +1,110 @@
+Sat 23 Aug , Genoa , 0 - 0 , Lecce
+Sat 23 Aug , Sassuolo , 0 - 2 , Napoli
+Sat 23 Aug , AC Milan , 1 - 2 , Cremonese
+Sat 23 Aug , AS Roma , 1 - 0 , Bologna
+Sun 24 Aug , Cagliari , 1 - 1 , Fiorentina
+Sun 24 Aug , Como , 2 - 0 , Lazio
+Sun 24 Aug , Atalanta , 1 - 1 , Pisa
+Sun 24 Aug , Juventus , 2 - 0 , Parma
+Mon 25 Aug , Udinese , 1 - 1 , Hellas Verona
+Mon 25 Aug , Inter Milan , 5 - 0 , Torino
+Fri 29 Aug , Cremonese , 3 - 2 , Sassuolo
+Fri 29 Aug , Lecce , 0 - 2 , AC Milan
+Sat 30 Aug , Bologna , 1 - 0 , Como
+Sat 30 Aug , Parma , 1 - 1 , Atalanta
+Sat 30 Aug , Napoli , 1 - 0 , Cagliari
+Sat 30 Aug , Pisa , 0 - 1 , AS Roma
+Sun 31 Aug , Genoa , 0 - 1 , Juventus
+Sun 31 Aug , Torino , 0 - 0 , Fiorentina
+Sun 31 Aug , Inter Milan , 1 - 2 , Udinese
+Sun 31 Aug , Lazio , 4 - 0 , Hellas Verona
+Sat 13 Sep , Cagliari , 2 - 0 , Parma
+Sat 13 Sep , Juventus , 4 - 3 , Inter Milan
+Sat 13 Sep , Fiorentina , 1 - 3 , Napoli
+Sun 14 Sep , AS Roma , 0 - 1 , Torino
+Sun 14 Sep , Atalanta , 4 - 1 , Lecce
+Sun 14 Sep , Pisa , 0 - 1 , Udinese
+Sun 14 Sep , Sassuolo , 1 - 0 , Lazio
+Sun 14 Sep , AC Milan , 1 - 0 , Bologna
+Mon 15 Sep , Hellas Verona , 0 - 0 , Cremonese
+Mon 15 Sep , Como , 1 - 1 , Genoa
+Fri 19 Sep , Lecce , 1 - 2 , Cagliari
+Sat 20 Sep , Bologna , 2 - 1 , Genoa
+Sat 20 Sep , Hellas Verona , 1 - 1 , Juventus
+Sat 20 Sep , Udinese , 0 - 3 , AC Milan
+Sun 21 Sep , Lazio , 0 - 1 , AS Roma
+Sun 21 Sep , Cremonese , 0 - 0 , Parma
+Sun 21 Sep , Torino , 0 - 3 , Atalanta
+Sun 21 Sep , Fiorentina , 1 - 2 , Como
+Sun 21 Sep , Inter Milan , 2 - 1 , Sassuolo
+Mon 22 Sep , Napoli , 3 - 2 , Pisa
+Sat 27 Sep , Como , 1 - 1 , Cremonese
+Sat 27 Sep , Juventus , 1 - 1 , Atalanta
+Sat 27 Sep , Cagliari , 0 - 2 , Inter Milan
+Sun 28 Sep , Sassuolo , 3 - 1 , Udinese
+Sun 28 Sep , AS Roma , 2 - 0 , Hellas Verona
+Sun 28 Sep , Pisa , 0 - 0 , Fiorentina
+Sun 28 Sep , Lecce , 2 - 2 , Bologna
+Sun 28 Sep , AC Milan , 2 - 1 , Napoli
+Mon 29 Sep , Parma , 2 - 1 , Torino
+Mon 29 Sep , Genoa , 0 - 3 , Lazio
+Fri 3 Oct , Hellas Verona , 0 - 1 , Sassuolo
+Sat 4 Oct , Lazio , 3 - 3 , Torino
+Sat 4 Oct , Parma , 0 - 1 , Lecce
+Sat 4 Oct , Inter Milan , 4 - 1 , Cremonese
+Sat 4 Oct , Atalanta , 1 - 1 , Como
+Sun 5 Oct , Udinese , 1 - 1 , Cagliari
+Sun 5 Oct , Bologna , 4 - 0 , Pisa
+Sun 5 Oct , Fiorentina , 1 - 2 , AS Roma
+Sun 5 Oct , Napoli , 2 - 1 , Genoa
+Sun 5 Oct , Juventus , 0 - 0 , AC Milan
+Sat 18 Oct , Lecce , 0 - 0 , Sassuolo
+Sat 18 Oct , Pisa , 0 - 0 , Hellas Verona
+Sat 18 Oct , Torino , 1 - 0 , Napoli
+Sat 18 Oct , AS Roma , 0 - 1 , Inter Milan
+Sun 19 Oct , Como , 2 - 0 , Juventus
+Sun 19 Oct , Cagliari , 0 - 2 , Bologna
+Sun 19 Oct , Genoa , 0 - 0 , Parma
+Sun 19 Oct , Atalanta , 0 - 0 , Lazio
+Sun 19 Oct , AC Milan , 2 - 1 , Fiorentina
+Mon 20 Oct , Cremonese , 1 - 1 , Udinese
+Fri 24 Oct , AC Milan , 2 - 2 , Pisa
+Sat 25 Oct , Parma , 0 - 0 , Como
+Sat 25 Oct , Udinese , 3 - 2 , Lecce
+Sat 25 Oct , Napoli , 3 - 1 , Inter Milan
+Sat 25 Oct , Cremonese , 1 - 1 , Atalanta
+Sun 26 Oct , Torino , 2 - 1 , Genoa
+Sun 26 Oct , Hellas Verona , 2 - 2 , Cagliari
+Sun 26 Oct , Sassuolo , 0 - 1 , AS Roma
+Sun 26 Oct , Fiorentina , 2 - 2 , Bologna
+Sun 26 Oct , Lazio , 1 - 0 , Juventus
+Tue 28 Oct , Lecce , 0 - 1 , Napoli
+Tue 28 Oct , Atalanta , 1 - 1 , AC Milan
+Wed 29 Oct , AS Roma , 2 - 1 , Parma
+Wed 29 Oct , Como , 3 - 1 , Hellas Verona
+Wed 29 Oct , Juventus , 3 - 1 , Udinese
+Wed 29 Oct , Bologna , 0 - 0 , Torino
+Wed 29 Oct , Genoa , 0 - 2 , Cremonese
+Wed 29 Oct , Inter Milan , 3 - 0 , Fiorentina
+Thu 30 Oct , Cagliari , 1 - 2 , Sassuolo
+Thu 30 Oct , Pisa , 0 - 0 , Lazio
+Sat 1 Nov , Udinese , 1 - 0 , Atalanta
+Sat 1 Nov , Napoli , 0 - 0 , Como
+Sat 1 Nov , Cremonese , 1 - 2 , Juventus
+Sun 2 Nov , Hellas Verona , 1 - 2 , Inter Milan
+Sun 2 Nov , Fiorentina , 0 - 1 , Lecce
+Sun 2 Nov , Torino , 2 - 2 , Pisa
+Sun 2 Nov , Parma , 1 - 3 , Bologna
+Sun 2 Nov , AC Milan , 1 - 0 , AS Roma
+Mon 3 Nov , Sassuolo , 1 - 2 , Genoa
+Mon 3 Nov , Lazio , 2 - 0 , Cagliari
+Fri 7 Nov , Pisa , 1 - 0 , Cremonese
+Sat 8 Nov , Como , 0 - 0 , Cagliari
+Sat 8 Nov , Lecce , 0 - 0 , Hellas Verona
+Sat 8 Nov , Juventus , 0 - 0 , Torino
+Sat 8 Nov , Parma , 2 - 2 , AC Milan
+Sun 9 Nov , Atalanta , 0 - 3 , Sassuolo
+Sun 9 Nov , Bologna , 2 - 0 , Napoli
+Sun 9 Nov , Genoa , 2 - 2 , Fiorentina
+Sun 9 Nov , AS Roma , 2 - 0 , Udinese
+Sun 9 Nov , Inter Milan , 2 - 0 , Lazio

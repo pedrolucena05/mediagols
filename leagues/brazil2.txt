@@ -1,0 +1,370 @@
+Fri 4 Apr , Goias , 1 - 0 , Amazonas
+Sat 5 Apr , Criciuma , 1 - 2 , Operario PR
+Sat 5 Apr , Paysandu , 1 - 2 , Athletico PR
+Sat 5 Apr , Coritiba , 1 - 0 , Vila Nova
+Sat 5 Apr , CRB , 1 - 0 , Chapecoense
+Sat 5 Apr , America MG , 1 - 0 , Botafogo SP
+Sun 6 Apr , Ferroviaria , 1 - 1 , Remo
+Sun 6 Apr , Volta Redonda , 0 - 1 , Cuiaba
+Sun 6 Apr , Avai , 1 - 1 , Novorizontino
+Mon 7 Apr , Atletico GO , 4 - 2 , Athletic Club
+Thu 10 Apr , Athletico PR , 2 - 1 , Criciuma
+Fri 11 Apr , Cuiaba , 2 - 2 , Avai
+Sat 12 Apr , Chapecoense , 1 - 2 , Coritiba
+Sat 12 Apr , Vila Nova , 1 - 0 , Paysandu
+Sat 12 Apr , Amazonas , 0 - 0 , Ferroviaria
+Sat 12 Apr , Novorizontino , 1 - 0 , Volta Redonda
+Sat 12 Apr , Operario PR , 1 - 2 , Goias
+Sun 13 Apr , Athletic Club , 1 - 2 , CRB
+Sun 13 Apr , Remo , 2 - 0 , America MG
+Sun 13 Apr , Botafogo SP , 1 - 1 , Atletico GO
+Tue 15 Apr , Cuiaba , 2 - 1 , Athletico PR
+Wed 16 Apr , Avai , 1 - 0 , Operario PR
+Wed 16 Apr , Paysandu , 0 - 2 , Chapecoense
+Thu 17 Apr , Coritiba , 0 - 0 , Novorizontino
+Thu 17 Apr , Goias , 2 - 2 , Vila Nova
+Thu 17 Apr , Botafogo SP , 2 - 2 , Remo
+Thu 17 Apr , CRB , 1 - 0 , Volta Redonda
+Thu 17 Apr , Criciuma , 4 - 0 , Athletic Club
+Fri 18 Apr , Ferroviaria , 2 - 0 , Atletico GO
+Fri 18 Apr , America MG , 3 - 1 , Amazonas
+Sat 19 Apr , Operario PR , 0 - 0 , Paysandu
+Sun 20 Apr , Vila Nova , 2 - 0 , Botafogo SP
+Sun 20 Apr , Chapecoense , 1 - 0 , Athletic Club
+Sun 20 Apr , Athletico PR , 2 - 0 , CRB
+Sun 20 Apr , America MG , 1 - 0 , Goias
+Mon 21 Apr , Amazonas , 0 - 2 , Avai
+Mon 21 Apr , Novorizontino , 1 - 1 , Criciuma
+Tue 22 Apr , Remo , 1 - 0 , Coritiba
+Tue 22 Apr , Atletico GO , 1 - 1 , Cuiaba
+Tue 22 Apr , Volta Redonda , 0 - 0 , Ferroviaria
+Fri 25 Apr , Novorizontino , 2 - 1 , Athletico PR
+Fri 25 Apr , Criciuma , 1 - 1 , Remo
+Sat 26 Apr , Vila Nova , 1 - 0 , Chapecoense
+Sat 26 Apr , Coritiba , 2 - 0 , Operario PR
+Sat 26 Apr , Avai , 3 - 0 , America MG
+Sun 27 Apr , Athletic Club , 2 - 1 , Volta Redonda
+Sun 27 Apr , Amazonas , 1 - 1 , Atletico GO
+Sun 27 Apr , Paysandu , 1 - 1 , CRB
+Sun 27 Apr , Cuiaba , 1 - 0 , Ferroviaria
+Mon 28 Apr , Botafogo SP , 0 - 1 , Goias
+Sat 3 May , Ferroviaria , 2 - 1 , Coritiba
+Sat 3 May , Remo , 1 - 0 , Amazonas
+Sat 3 May , Volta Redonda , 1 - 0 , Paysandu
+Sun 4 May , Atletico GO , 1 - 0 , Novorizontino
+Sun 4 May , Athletico PR , 1 - 4 , Botafogo SP
+Sun 4 May , Chapecoense , 2 - 1 , Criciuma
+Sun 4 May , Operario PR , 1 - 0 , America MG
+Mon 5 May , Goias , 2 - 1 , Avai
+Tue 6 May , CRB , 1 - 1 , Cuiaba
+Wed 7 May , Athletic Club , 0 - 1 , Vila Nova
+Fri 9 May , Athletico PR , 1 - 1 , Chapecoense
+Sat 10 May , Avai , 0 - 0 , Atletico GO
+Sat 10 May , Goias , 1 - 0 , Coritiba
+Sun 11 May , Criciuma , 0 - 0 , Volta Redonda
+Sun 11 May , Cuiaba , 2 - 3 , Operario PR
+Sun 11 May , Novorizontino , 2 - 2 , Ferroviaria
+Mon 12 May , Botafogo SP , 0 - 3 , Athletic Club
+Tue 13 May , Amazonas , 1 - 1 , CRB
+Wed 14 May , Remo , 2 - 0 , Vila Nova
+Wed 14 May , America MG , 2 - 2 , Paysandu
+Fri 16 May , Ferroviaria , 1 - 1 , Avai
+Fri 16 May , Chapecoense , 2 - 1 , Cuiaba
+Sat 17 May , Operario PR , 3 - 0 , Botafogo SP
+Sat 17 May , Vila Nova , 2 - 1 , Athletico PR
+Sat 17 May , Athletic Club , 0 - 2 , Novorizontino
+Sun 18 May , Atletico GO , 1 - 1 , Remo
+Sun 18 May , CRB , 1 - 0 , Criciuma
+Sun 18 May , Paysandu , 0 - 0 , Goias
+Mon 19 May , Volta Redonda , 1 - 1 , Amazonas
+Tue 20 May , Coritiba , 1 - 0 , America MG
+Sat 24 May , Goias , 2 - 0 , Ferroviaria
+Sat 24 May , Athletico PR , 1 - 0 , Athletic Club
+Sat 24 May , Remo , 1 - 1 , Volta Redonda
+Sat 24 May , Avai , 2 - 1 , Chapecoense
+Sun 25 May , Novorizontino , 3 - 1 , Paysandu
+Sun 25 May , Amazonas , 2 - 0 , Operario PR
+Mon 26 May , Criciuma , 0 - 1 , Coritiba
+Mon 26 May , Botafogo SP , 2 - 1 , CRB
+Tue 27 May , Cuiaba , 1 - 0 , Vila Nova
+Tue 27 May , America MG , 2 - 1 , Atletico GO
+Fri 30 May , Ferroviaria , 1 - 1 , Botafogo SP
+Fri 30 May , Vila Nova , 0 - 1 , Novorizontino
+Sat 31 May , Coritiba , 2 - 1 , Avai
+Sat 31 May , Atletico GO , 1 - 2 , Goias
+Sat 31 May , Athletic Club , 0 - 2 , Cuiaba
+Sun 1 Jun , Operario PR , 2 - 2 , Athletico PR
+Sun 1 Jun , CRB , 2 - 0 , Remo
+Sun 1 Jun , Volta Redonda , 1 - 0 , America MG
+Mon 2 Jun , Chapecoense , 4 - 0 , Amazonas
+Tue 3 Jun , Paysandu , 0 - 1 , Criciuma
+Thu 5 Jun , Botafogo SP , 0 - 0 , Coritiba
+Fri 6 Jun , Novorizontino , 1 - 0 , Chapecoense
+Sat 7 Jun , Cuiaba , 1 - 0 , Paysandu
+Sat 7 Jun , America MG , 1 - 2 , Ferroviaria
+Sat 7 Jun , Avai , 1 - 0 , CRB
+Sun 8 Jun , Goias , 2 - 0 , Volta Redonda
+Sun 8 Jun , Athletico PR , 0 - 1 , Atletico GO
+Sun 8 Jun , Remo , 2 - 1 , Operario PR
+Mon 9 Jun , Criciuma , 1 - 0 , Vila Nova
+Mon 9 Jun , Amazonas , 1 - 0 , Athletic Club
+Fri 13 Jun , Vila Nova , 0 - 3 , America MG
+Sat 14 Jun , Paysandu , 1 - 0 , Botafogo SP
+Sat 14 Jun , CRB , 2 - 0 , Goias
+Sat 14 Jun , Athletico PR , 2 - 1 , Remo
+Sat 14 Jun , Athletic Club , 2 - 1 , Operario PR
+Sun 15 Jun , Atletico GO , 0 - 0 , Coritiba
+Sun 15 Jun , Novorizontino , 3 - 0 , Cuiaba
+Sun 15 Jun , Criciuma , 3 - 2 , Amazonas
+Mon 16 Jun , Chapecoense , 2 - 1 , Ferroviaria
+Tue 17 Jun , Volta Redonda , 1 - 1 , Avai
+Fri 20 Jun , Botafogo SP , 1 - 0 , Chapecoense
+Sat 21 Jun , America MG , 1 - 1 , Criciuma
+Sat 21 Jun , Avai , 1 - 2 , Athletico PR
+Sat 21 Jun , Remo , 0 - 1 , Paysandu
+Sat 21 Jun , Ferroviaria , 1 - 0 , CRB
+Sun 22 Jun , Atletico GO , 2 - 0 , Volta Redonda
+Sun 22 Jun , Coritiba , 2 - 0 , Cuiaba
+Sun 22 Jun , Amazonas , 2 - 1 , Vila Nova
+Mon 23 Jun , Operario PR , 2 - 0 , Novorizontino
+Tue 24 Jun , Goias , 1 - 2 , Athletic Club
+Fri 27 Jun , CRB , 1 - 2 , America MG
+Fri 27 Jun , Criciuma , 1 - 2 , Avai
+Sat 28 Jun , Vila Nova , 1 - 0 , Atletico GO
+Sat 28 Jun , Athletico PR , 0 - 1 , Coritiba
+Sun 29 Jun , Athletic Club , 1 - 2 , Remo
+Sun 29 Jun , Volta Redonda , 1 - 0 , Operario PR
+Sun 29 Jun , Chapecoense , 1 - 2 , Goias
+Sun 29 Jun , Novorizontino , 1 - 1 , Amazonas
+Mon 30 Jun , Paysandu , 2 - 1 , Ferroviaria
+Tue 1 Jul , Cuiaba , 0 - 1 , Botafogo SP
+Fri 4 Jul , Atletico GO , 2 - 1 , CRB
+Fri 4 Jul , Coritiba , 2 - 0 , Volta Redonda
+Sat 5 Jul , Remo , 0 - 0 , Cuiaba
+Sat 5 Jul , Avai , 0 - 0 , Paysandu
+Sat 5 Jul , Amazonas , 0 - 1 , Athletico PR
+Sun 6 Jul , Ferroviaria , 1 - 3 , Vila Nova
+Sun 6 Jul , Botafogo SP , 0 - 0 , Novorizontino
+Mon 7 Jul , Operario PR , 1 - 2 , Chapecoense
+Tue 8 Jul , America MG , 0 - 1 , Athletic Club
+Tue 8 Jul , Goias , 1 - 1 , Criciuma
+Fri 11 Jul , CRB , 0 - 1 , Coritiba
+Fri 11 Jul , Vila Nova , 0 - 0 , Operario PR
+Sat 12 Jul , Novorizontino , 3 - 1 , America MG
+Sat 12 Jul , Paysandu , 2 - 2 , Atletico GO
+Sat 12 Jul , Athletico PR , 0 - 1 , Goias
+Sun 13 Jul , Criciuma , 2 - 1 , Ferroviaria
+Sun 13 Jul , Chapecoense , 1 - 1 , Remo
+Mon 14 Jul , Athletic Club , 4 - 0 , Avai
+Tue 15 Jul , Botafogo SP , 0 - 0 , Volta Redonda
+Tue 15 Jul , Cuiaba , 3 - 1 , Amazonas
+Thu 17 Jul , Operario PR , 1 - 1 , CRB
+Fri 18 Jul , Remo , 1 - 1 , Novorizontino
+Fri 18 Jul , Atletico GO , 0 - 1 , Criciuma
+Sat 19 Jul , Ferroviaria , 1 - 2 , Athletic Club
+Sat 19 Jul , Goias , 3 - 1 , Cuiaba
+Sat 19 Jul , Avai , 1 - 1 , Vila Nova
+Sat 19 Jul , Coritiba , 2 - 5 , Paysandu
+Sat 19 Jul , Volta Redonda , 3 - 2 , Athletico PR
+Sun 20 Jul , Amazonas , 3 - 0 , Botafogo SP
+Sun 20 Jul , America MG , 0 - 1 , Chapecoense
+Tue 22 Jul , Operario PR , 3 - 0 , Atletico GO
+Tue 22 Jul , Athletico PR , 1 - 1 , Ferroviaria
+Wed 23 Jul , Athletic Club , 1 - 1 , Coritiba
+Wed 23 Jul , Vila Nova , 2 - 0 , CRB
+Wed 23 Jul , Chapecoense , 4 - 2 , Volta Redonda
+Wed 23 Jul , Novorizontino , 1 - 0 , Goias
+Thu 24 Jul , Amazonas , 1 - 1 , Paysandu
+Thu 24 Jul , Cuiaba , 3 - 1 , America MG
+Thu 24 Jul , Botafogo SP , 0 - 2 , Criciuma
+Fri 25 Jul , Remo , 2 - 1 , Avai
+Sat 26 Jul , Ferroviaria , 0 - 0 , Operario PR
+Sat 26 Jul , CRB , 4 - 0 , Novorizontino
+Sun 27 Jul , Coritiba , 1 - 1 , Amazonas
+Sun 27 Jul , Volta Redonda , 2 - 1 , Vila Nova
+Sun 27 Jul , America MG , 2 - 2 , Athletico PR
+Sun 27 Jul , Atletico GO , 0 - 0 , Chapecoense
+Mon 28 Jul , Avai , 5 - 0 , Botafogo SP
+Tue 29 Jul , Paysandu , 1 - 1 , Athletic Club
+Tue 29 Jul , Criciuma , 1 - 0 , Cuiaba
+Wed 30 Jul , Goias , 1 - 1 , Remo
+Fri 1 Aug , Vila Nova , 1 - 2 , Coritiba
+Fri 1 Aug , Remo , 0 - 2 , Ferroviaria
+Sat 2 Aug , Operario PR , 1 - 0 , Criciuma
+Sat 2 Aug , Botafogo SP , 2 - 1 , America MG
+Sat 2 Aug , Amazonas , 2 - 2 , Goias
+Sun 3 Aug , Chapecoense , 3 - 2 , CRB
+Sun 3 Aug , Novorizontino , 1 - 1 , Avai
+Sun 3 Aug , Athletico PR , 1 - 1 , Paysandu
+Mon 4 Aug , Athletic Club , 1 - 1 , Atletico GO
+Tue 5 Aug , Cuiaba , 2 - 0 , Volta Redonda
+Fri 8 Aug , Ferroviaria , 2 - 1 , Amazonas
+Sat 9 Aug , Coritiba , 0 - 0 , Chapecoense
+Sat 9 Aug , America MG , 0 - 1 , Remo
+Sat 9 Aug , Goias , 2 - 1 , Operario PR
+Sat 9 Aug , Volta Redonda , 0 - 0 , Novorizontino
+Sun 10 Aug , Avai , 2 - 0 , Cuiaba
+Sun 10 Aug , Atletico GO , 2 - 0 , Botafogo SP
+Mon 11 Aug , Criciuma , 4 - 2 , Athletico PR
+Tue 12 Aug , Paysandu , 0 - 1 , Vila Nova
+Tue 12 Aug , CRB , 1 - 0 , Athletic Club
+Fri 15 Aug , Novorizontino , 1 - 2 , Coritiba
+Fri 15 Aug , Amazonas , 2 - 2 , America MG
+Sat 16 Aug , Remo , 1 - 1 , Botafogo SP
+Sat 16 Aug , Vila Nova , 2 - 0 , Goias
+Sat 16 Aug , Athletico PR , 1 - 1 , Cuiaba
+Sun 17 Aug , Chapecoense , 2 - 0 , Paysandu
+Sun 17 Aug , Atletico GO , 1 - 3 , Ferroviaria
+Mon 18 Aug , Volta Redonda , 0 - 1 , CRB
+Tue 19 Aug , Athletic Club , 1 - 1 , Criciuma
+Tue 19 Aug , Operario PR , 0 - 0 , Avai
+Fri 22 Aug , Athletic Club , 0 - 4 , Chapecoense
+Sat 23 Aug , Criciuma , 2 - 0 , Novorizontino
+Sat 23 Aug , Coritiba , 0 - 0 , Remo
+Sat 23 Aug , Goias , 1 - 0 , America MG
+Sat 23 Aug , CRB , 0 - 1 , Athletico PR
+Sun 24 Aug , Paysandu , 1 - 2 , Operario PR
+Sun 24 Aug , Ferroviaria , 0 - 0 , Volta Redonda
+Sun 24 Aug , Cuiaba , 2 - 2 , Atletico GO
+Mon 25 Aug , Botafogo SP , 2 - 0 , Vila Nova
+Tue 26 Aug , Avai , 1 - 2 , Amazonas
+Fri 29 Aug , Remo , 0 - 1 , Criciuma
+Fri 29 Aug , Operario PR , 1 - 0 , Coritiba
+Sat 30 Aug , CRB , 2 - 0 , Paysandu
+Sat 30 Aug , Goias , 2 - 3 , Botafogo SP
+Sat 30 Aug , Athletico PR , 2 - 1 , Novorizontino
+Sun 31 Aug , Atletico GO , 2 - 0 , Amazonas
+Sun 31 Aug , Volta Redonda , 0 - 2 , Athletic Club
+Mon 1 Sep , Chapecoense , 2 - 2 , Vila Nova
+Tue 2 Sep , Ferroviaria , 2 - 2 , Cuiaba
+Tue 2 Sep , America MG , 2 - 0 , Avai
+Fri 5 Sep , Amazonas , 1 - 3 , Remo
+Fri 5 Sep , Paysandu , 1 - 2 , Volta Redonda
+Sat 6 Sep , Coritiba , 4 - 0 , Ferroviaria
+Sat 6 Sep , Botafogo SP , 1 - 3 , Athletico PR
+Sun 7 Sep , Criciuma , 2 - 0 , Chapecoense
+Sun 7 Sep , America MG , 1 - 1 , Operario PR
+Sun 7 Sep , Avai , 2 - 1 , Goias
+Mon 8 Sep , Novorizontino , 1 - 1 , Atletico GO
+Mon 8 Sep , Cuiaba , 1 - 0 , CRB
+Tue 9 Sep , Vila Nova , 1 - 1 , Athletic Club
+Fri 12 Sep , Volta Redonda , 0 - 0 , Criciuma
+Sat 13 Sep , Coritiba , 0 - 0 , Goias
+Sat 13 Sep , Paysandu , 0 - 0 , America MG
+Sat 13 Sep , Vila Nova , 1 - 1 , Remo
+Sun 14 Sep , Operario PR , 1 - 1 , Cuiaba
+Sun 14 Sep , Athletic Club , 2 - 0 , Botafogo SP
+Mon 15 Sep , Ferroviaria , 1 - 2 , Novorizontino
+Tue 16 Sep , CRB , 2 - 0 , Amazonas
+Tue 16 Sep , Atletico GO , 2 - 1 , Avai
+Wed 17 Sep , Chapecoense , 2 - 3 , Athletico PR
+Thu 18 Sep , Botafogo SP , 1 - 1 , Operario PR
+Fri 19 Sep , Novorizontino , 1 - 0 , Athletic Club
+Sat 20 Sep , Goias , 1 - 0 , Paysandu
+Sat 20 Sep , Amazonas , 1 - 0 , Volta Redonda
+Sat 20 Sep , Avai , 2 - 2 , Ferroviaria
+Sat 20 Sep , Remo , 0 - 1 , Atletico GO
+Sun 21 Sep , America MG , 1 - 0 , Coritiba
+Sun 21 Sep , Criciuma , 1 - 0 , CRB
+Sun 21 Sep , Athletico PR , 2 - 0 , Vila Nova
+Sun 21 Sep , Cuiaba , 1 - 0 , Chapecoense
+Tue 23 Sep , Paysandu , 0 - 1 , Novorizontino
+Wed 24 Sep , Ferroviaria , 1 - 1 , Goias
+Wed 24 Sep , Athletic Club , 0 - 3 , Athletico PR
+Wed 24 Sep , CRB , 3 - 2 , Botafogo SP
+Wed 24 Sep , Vila Nova , 2 - 2 , Cuiaba
+Wed 24 Sep , Operario PR , 2 - 1 , Amazonas
+Thu 25 Sep , Volta Redonda , 2 - 1 , Remo
+Thu 25 Sep , Coritiba , 0 - 2 , Criciuma
+Fri 26 Sep , Atletico GO , 1 - 0 , America MG
+Fri 26 Sep , Chapecoense , 0 - 1 , Avai
+Sat 27 Sep , Athletico PR , 1 - 0 , Operario PR
+Sun 28 Sep , Criciuma , 2 - 4 , Paysandu
+Sun 28 Sep , Novorizontino , 1 - 1 , Vila Nova
+Sun 28 Sep , Remo , 4 - 2 , CRB
+Sun 28 Sep , Botafogo SP , 1 - 2 , Ferroviaria
+Sun 28 Sep , Cuiaba , 2 - 1 , Athletic Club
+Mon 29 Sep , Amazonas , 1 - 3 , Chapecoense
+Mon 29 Sep , America MG , 2 - 1 , Volta Redonda
+Mon 29 Sep , Avai , 0 - 2 , Coritiba
+Wed 1 Oct , Goias , 0 - 0 , Atletico GO
+Thu 2 Oct , Paysandu , 1 - 1 , Cuiaba
+Fri 3 Oct , Vila Nova , 1 - 1 , Criciuma
+Fri 3 Oct , Athletic Club , 2 - 2 , Amazonas
+Sat 4 Oct , Coritiba , 2 - 0 , Botafogo SP
+Sat 4 Oct , CRB , 1 - 0 , Avai
+Sat 4 Oct , Chapecoense , 1 - 0 , Novorizontino
+Sat 4 Oct , Volta Redonda , 0 - 0 , Goias
+Sat 4 Oct , Ferroviaria , 1 - 3 , America MG
+Sun 5 Oct , Operario PR , 0 - 1 , Remo
+Sun 5 Oct , Atletico GO , 3 - 0 , Athletico PR
+Tue 7 Oct , Amazonas , 2 - 1 , Criciuma
+Wed 8 Oct , Goias , 1 - 2 , CRB
+Wed 8 Oct , Botafogo SP , 1 - 0 , Paysandu
+Wed 8 Oct , Cuiaba , 0 - 1 , Novorizontino
+Wed 8 Oct , Operario PR , 1 - 4 , Athletic Club
+Thu 9 Oct , Avai , 3 - 0 , Volta Redonda
+Thu 9 Oct , America MG , 1 - 1 , Vila Nova
+Thu 9 Oct , Ferroviaria , 0 - 1 , Chapecoense
+Thu 9 Oct , Coritiba , 2 - 1 , Atletico GO
+Fri 10 Oct , Remo , 2 - 1 , Athletico PR
+Sat 11 Oct , Athletic Club , 1 - 1 , Goias
+Sun 12 Oct , Novorizontino , 3 - 0 , Operario PR
+Sun 12 Oct , Criciuma , 2 - 1 , America MG
+Sun 12 Oct , Vila Nova , 1 - 0 , Amazonas
+Sun 12 Oct , Cuiaba , 1 - 0 , Coritiba
+Mon 13 Oct , Volta Redonda , 3 - 0 , Atletico GO
+Tue 14 Oct , CRB , 2 - 2 , Ferroviaria
+Tue 14 Oct , Chapecoense , 1 - 1 , Botafogo SP
+Tue 14 Oct , Paysandu , 2 - 3 , Remo
+Wed 15 Oct , Athletico PR , 1 - 1 , Avai
+Fri 17 Oct , Amazonas , 0 - 0 , Novorizontino
+Sat 18 Oct , Atletico GO , 1 - 0 , Vila Nova
+Sat 18 Oct , America MG , 1 - 1 , CRB
+Sat 18 Oct , Remo , 3 - 1 , Athletic Club
+Sun 19 Oct , Avai , 1 - 1 , Criciuma
+Sun 19 Oct , Operario PR , 2 - 1 , Volta Redonda
+Sun 19 Oct , Botafogo SP , 2 - 2 , Cuiaba
+Sun 19 Oct , Coritiba , 0 - 0 , Athletico PR
+Sun 19 Oct , Goias , 1 - 3 , Chapecoense
+Mon 20 Oct , Ferroviaria , 2 - 2 , Paysandu
+Fri 24 Oct , Novorizontino , 1 - 1 , Botafogo SP
+Sat 25 Oct , Cuiaba , 1 - 3 , Remo
+Sat 25 Oct , Athletic Club , 0 - 2 , America MG
+Sat 25 Oct , Volta Redonda , 0 - 1 , Coritiba
+Sat 25 Oct , Paysandu , 1 - 2 , Avai
+Sat 25 Oct , Criciuma , 1 - 2 , Goias
+Sun 26 Oct , CRB , 2 - 1 , Atletico GO
+Sun 26 Oct , Vila Nova , 2 - 2 , Ferroviaria
+Mon 27 Oct , Chapecoense , 2 - 0 , Operario PR
+Tue 28 Oct , Athletico PR , 2 - 0 , Amazonas
+Fri 31 Oct , Atletico GO , 2 - 1 , Paysandu
+Fri 31 Oct , Coritiba , 0 - 0 , CRB
+Sat 1 Nov , Ferroviaria , 0 - 0 , Criciuma
+Sat 1 Nov , Goias , 0 - 1 , Athletico PR
+Sat 1 Nov , Avai , 2 - 1 , Athletic Club
+Sun 2 Nov , Amazonas , 2 - 0 , Cuiaba
+Sun 2 Nov , Remo , 1 - 1 , Chapecoense
+Sun 2 Nov , Operario PR , 2 - 2 , Vila Nova
+Mon 3 Nov , America MG , 2 - 2 , Novorizontino
+Mon 3 Nov , Volta Redonda , 0 - 1 , Botafogo SP
+Fri 7 Nov , Athletic Club , 2 - 1 , Ferroviaria
+Sat 8 Nov , Cuiaba , 0 - 1 , Goias
+Sat 8 Nov , Novorizontino , 1 - 1 , Remo
+Sat 8 Nov , Athletico PR , 2 - 0 , Volta Redonda
+Sat 8 Nov , Vila Nova , 2 - 2 , Avai
+Sun 9 Nov , Criciuma , 1 - 0 , Atletico GO
+Sun 9 Nov , CRB , 2 - 2 , Operario PR
+Sun 9 Nov , Paysandu , 1 - 2 , Coritiba
+Mon 10 Nov , Botafogo SP , 1 - 0 , Amazonas
+Mon 10 Nov , Chapecoense , 0 - 1 , America MG
+Fri 14 Nov , Paysandu , 2 - 2 , Amazonas
+Sat 15 Nov , Atletico GO , 0 - 0 , Operario PR
+Sat 15 Nov , Avai , 3 - 1 , Remo
+Sat 15 Nov , Coritiba , 0 - 0 , Athletic Club
+Sat 15 Nov , CRB , 2 - 0 , Vila Nova
+Sat 15 Nov , Volta Redonda , 1 - 1 , Chapecoense
+Sun 16 Nov , America MG , 1 - 1 , Cuiaba
+Sun 16 Nov , Criciuma , 2 - 0 , Botafogo SP
+Sun 16 Nov , Ferroviaria , 1 - 2 , Athletico PR
+Sun 16 Nov , Goias , 1 - 0 , Novorizontino
