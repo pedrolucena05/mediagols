@@ -1,0 +1,31 @@
+Sa 10 Jun 05:00AM , Shamrock Rovers x UC Dublin , Average: 3.55 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 90.0% , Premier Division , Ireland 
+
+Sa 10 Jun 23:00PM , Kristiansund x Moss , Average: 3.29 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 100.0% , Obos Ligaen , Norway 
+
+Su 11 Jun 09:00AM , FBC Melgar x Binacional , Average: 3.06 , Home Over 1.5 goals: 87.5% , Away Over 1.5 goals: 87.5% , Liga 1 , Peru
+
+Su 11 Jun 11:30AM , Alianza Lima x D. Garcilaso , Average: 2.94 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Liga 1 , Peru
+
+Su 11 Jun 04:00AM , Alianza A. x S. Cristal , Average: 3.5 , Home Over 1.5 goals: 87.5% , Away Over 1.5 goals: 87.5% , Liga 1 , Peru 
+
+Su 11 Jun 09:00AM , El Nacional x D. Cuenca , Average: 3.33 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 83.33% , Liga Pro , Ecuador
+
+Su 11 Jun 06:00AM , Ituano x Atletico GO , Average: 3.2 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Brasileirao Serie B , Brazil 
+
+Su 11 Jun 07:30AM , Atletico MG x Bragantino , Average: 2.88 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Brasileirao Serie A , Brazil
+
+Su 11 Jun 07:30AM , Bahia x Cruzeiro , Average: 3.25 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Brasileirao Serie A , Brazil 
+
+Mo 12 Jun 01:00AM , Valerenga x Stromsgodset , Average: 3.8 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Eliteserien , Norway 
+
+Mo 12 Jun 01:00AM , Sarpsborg 08 x Viking , Average: 2.62 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Eliteserien , Norway 
+
+Mo 12 Jun 01:00AM , Bodo / Glimt x HamKam , Average: 4.85 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Eliteserien , Norway
+
+Mo 12 Jun 05:00AM , Sao Paulo x Palmeiras , Average: 3.12 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 75.0% , Brasileirao Serie A , Brazil
+
+Mo 12 Jun 06:30AM , Cusco x Cesar Vallejo , Average: 2.69 , Home Over 1.5 goals: 87.5% , Away Over 1.5 goals: 100.0% , Liga 1 , Peru
+
+Mo 12 Jun 06:30AM , Guayaquil City x Barcelona SC , Average: 3.08 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 66.67% , Liga Pro , Ecuador
+
+  

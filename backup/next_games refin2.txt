@@ -1,0 +1,26 @@
+Sa 1 Jul 04:45am , Dundalk x Shamrock Rovers , Average: 2.96 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 81.82% , Home Under 2.5 goals: 18.18% , Away Under 2.5 goals: 63.64% , Premier Division , Ireland / Over 1.5 
+
+Su 2 Jul 04:00am , Atletico CE x Tocantinopolis , Average: 2.12 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 20.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie D , Brazil / Under 2.5
+Su 2 Jul 05:00am , Confianca x Ypiranga , Average: 3.25 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 25.0% , Away Under 2.5 goals: 25.0% , Brasileirao Serie C , Brazil / Over 1.5 
+Su 2 Jul 10:00am , Internacional x Cruzeiro , Average: 2.7 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 20.0% , Brasileirao Serie A , Brazil / Over 1.5 
+Su 2 Jul 12:00am , Oulu x Haka , Average: 2.8 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 85.71% , Home Under 2.5 goals: 33.33% , Away Under 2.5 goals: 42.86% , Veikkausliiga , Finland / Over 1.5
+Su 2 Jul 14:00pm , Valerenga x Viking , Average: 3.3 , Home Over 1.5 goals: 80.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 40.0% , Away Under 2.5 goals: 40.0% , Eliteserien , Norway / Over 1.5 
+Su 2 Jul 17:00pm , A. Alagoinas x Retro , Average: 1.65 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie D , Brazil / Under 2.5 
+Su 2 Jul 19:30pm , S. Shenhua x Tianjin T. , Average: 1.5 , Home Over 1.5 goals: 50.0% , Away Over 1.5 goals: 66.67% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 100.0% , Super League , China / Under 2.5
+Su 2 Jul 21:00pm , Incheon Utd x Gangwon , Average: 1.75 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 90.0% , K-League-1 , South Korea / Under 2.5 
+
+Su 2 Jul 01:00am , Lillestrom x Tromso , Average: 3.2 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 60.0% , Home Under 2.5 goals: 0.0% , Away Under 2.5 goals: 40.0% , Eliteserien , Norway / Over 2.5
+Mo 3 Jul 01:00am , Brann x HamKam , Average: 4.17 , Home Over 1.5 goals: 83.33% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 16.67% , Away Under 2.5 goals: 0.0% , Eliteserien , Norway / Over 2.5
+Mo 3 Jul 05:00am , Amazonas x Pouso Alegre , Average: 1.7 , Home Over 1.5 goals: 75.0% , Away Over 1.5 goals: 40.0% , Home Under 2.5 goals: 75.0% , Away Under 2.5 goals: 80.0% , Brasileirao Serie C , Brazil / Under 2.5 
+Mo 3 Jul 05:00am , Atletico MG x America MG , Average: 3.0 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 60.0% , Away Under 2.5 goals: 20.0% , Brasileirao Serie A , Brazil / Over 1.5
+Mo 3 Jul 12:00am , Corinthians x Bragantino , Average: 2.6 , Home Over 1.5 goals: 100.0% , Away Over 1.5 goals: 100.0% , Home Under 2.5 goals: 80.0% , Away Under 2.5 goals: 60.0% , Brasileirao Serie A , Brazil / Over 1.5
+
+Tu 4 Jul 9:00am , Newells x Gimnasia , Average: 1.83 , Home Over 1.5 goals: 40.0% , Away Over 1.5 goals: 63.64% , Home Under 2.5 goals: 100.0% , Away Under 2.5 goals: 54.55% , Liga Profesional Argentina , Argentina / Under 2.5
+ 
+  
+
+
+ 
+
+
+ 

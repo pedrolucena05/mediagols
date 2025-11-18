@@ -1,70 +1,14 @@
-import scrapyStatsSoup2 as sss
+import scrapyStatsSoup as sss
 from listasSocccerStats import leagues
 from listasSocccerStats import files_total
-import statistics_1 as stats
-import writeOnFile
-import keys
+from listasSocccerStats import corruptedLeagues
+from teamsStats import statistics_averages
+from teamsPandas import analyze_file
+import pandas as pd
 
-
-'''
-scrapeUni = ApiUnibet()
-UniBetLinks = scrapeUni.competitions()
-tupleUni = UniBetLinks.items()
-
-uniLinks = keys.organizing_keys(tupleUni)
-
-writeOnFile.write(uniLinks, scrapeUni, "Unibet.txt")
-'''
-'''
-dict_leagues = {
-    "serie_a": "italy1.txt",
-    "serie_b": "italy2.txt",
-    "bundesliga": "germany1.txt",
-    "bundesliga": "austria1.txt",
-    "2__bundesliga": "germany2.txt",
-    "3__liga": "germany4.txt",
-    "regionalliga_nord": "germany5.txt",
-    "la_liga": "spain1.txt",
-    "la_liga_2": "spain2.txt",
-    "premier_league": "england1.txt",
-    "the_championship": "england2.txt",
-    "league_one": "england3.txt",
-    "primeira_liga": "portugal1.txt",
-    "ligapro": "portugal2.txt",
-    "liga_profesional_argentina": "argentina1.txt",
-    "jupiler_pro_league": "belgium1.txt",
-    "challenger_pro_league": "belgium2.txt",
-    "brasileirao_serie_a": "brazil1.txt",
-    "brasileirao_serie_b": "brazil2.txt",
-    "brasileirao_serie_c": "brazil3.txt",
-    "primera_chile": "chile1.txt",
-    "super_league": "china1.txt", 
-    "super_league": "greece1.txt",
-    "liga_betplay_dimayor": "colombia1.txt",
-    "1__hnl_league": "croatia1.txt",
-    "superligaen": "denmark1.txt",
-    "1st_division": "denmark2.txt",
-    "liga_pro": "ecuador1.txt",
-    "veikkausliiga": "finland1.txt",
-    "ligue_1": "france1.txt",
-    "ligue_2": "france2.txt",
-    "nb_1": "hungary1.txt",
-    "premier_division": "ireland1.txt",
-    "liga_mx": "mexico1.txt", 
-    "liga_mx": "mexico2.txt",
-    "eredivisie": "eredivise.txt",
-    "eerste_divisie": "eerste.txt",
-    "eliteserien": "norway1.txt",
-    "obos-ligaen": "norway2.txt",
-    "primera_paraguay": "paraguay1.txt",
-    "liga_1": "peru1.txt",
-    "ekstraklasa": "poland1.txt",
-    "liga_1": "romania1.txt",
-    "superettan": "sweden2.txt"
-}
-'''
 
 leagues_dict = []
+
 leagues_dict.append('Serie A , Italy')
 leagues_dict.append('Serie B , Italy')
 leagues_dict.append('Bundesliga , Germany')
@@ -73,7 +17,7 @@ leagues_dict.append('2 Bundesliga , Germany')
 leagues_dict.append('3 Liga , Germany')
 leagues_dict.append('Regionalliga Nord , Germany')
 leagues_dict.append('La Liga , Spain')
-#leagues_dict.append('La liga 2 , Spain')
+leagues_dict.append('La liga 2 , Spain')
 leagues_dict.append('Premier League , England')
 leagues_dict.append('The Championship , England')
 leagues_dict.append('League One , England')
@@ -97,7 +41,7 @@ leagues_dict.append('Ligue 1 , France')
 leagues_dict.append('Ligue 2 , France')
 leagues_dict.append('NB 1 , Hungary')
 leagues_dict.append('Premier Division , Ireland')
-'''leagues_dict.append('Liga MX , Mexico')'''
+leagues_dict.append('Liga MX , Mexico')
 leagues_dict.append('Liga MX , Mexico')
 leagues_dict.append('Eredivisie , Netherlands')
 leagues_dict.append('Eerste Divisie , Netherlands')
@@ -117,14 +61,14 @@ leagues_dict.append('J1 League , Japan')
 leagues_dict.append('J2 League , Japan')
 leagues_dict.append('J3 League , Japan')
 leagues_dict.append('Urvalsdeild , Iceland')
-#leagues_dict.append('1. Deild , Iceland')
-#leagues_dict.append('2. Deild , Iceland')
-#leagues_dict.append('3. Deild , Iceland')
+leagues_dict.append('1. Deild , Iceland')
+leagues_dict.append('2. Deild , Iceland')
+leagues_dict.append('3. Deild , Iceland')
 leagues_dict.append('A Lyga , Lithuania')
 leagues_dict.append('K-League-2 , South Korea')
 leagues_dict.append('K3 League , South Korea')
 leagues_dict.append('Malasya Super League , Malasya')
-'''leagues_dict.append('Myanmar National League , Myanmar')'''
+leagues_dict.append('Myanmar National League , Myanmar')
 leagues_dict.append('Major League Soccer , USA')
 leagues_dict.append('USL Championship , USA')
 leagues_dict.append('USL League 2 , USA')
@@ -134,13 +78,6 @@ leagues_dict.append('Primera B , Chile')
 
 average_goals = 0
 average_goalsConceded = 0
-
-
-'''
-for item in files_total:
-    ind = files_total.index(item)
-    print(f'File: {item} | League: {leagues_dict[ind]}')
-'''
     
 final_list = []
 aux_list = []
@@ -161,17 +98,41 @@ def find_index (textFile):
         if item == textFile:
             return item.index()
 
+#print(corruptedLeagues)
 
-
+corruptedInd = len(corruptedLeagues)
+corruptedFlag = False
+base = 0
 for ind in range(len(leagues)):
     cont += 1
     
-    
+# busca binária em corruptedLeagues
+    lo = 0
+    hi = len(corruptedLeagues) - 1
+    corruptedFlag = False
 
+    while lo <= hi:
+        mid = (lo + hi) // 2            # posição central
+        mid_val = corruptedLeagues[mid] # valor nessa posição
+
+        if mid_val == ind:
+            corruptedFlag = True
+            break
+        elif mid_val < ind:
+            
+            lo = mid + 1
+        else:
+            
+            hi = mid - 1
+
+    # Se a liga estiver em recesso , pula para a proxima
+    if corruptedFlag:
+        continue
+    
+    with open("meu_arquivo.log", "a") as f:
+        f.write(f" {files_total[ind]} , {ind} , {leagues_dict[ind]}\n")
     
     aux_list_2 = sss.scrapeSoup(leagues[ind], files_total[ind], ind, leagues_dict[ind])
-    
-
     
     if len(aux_list_2) > 0:
         aux_list_2 = aux_list_2[0]
@@ -184,9 +145,42 @@ underTwohalf_home = 0
 conta = 0
 
 
-championships_average_goals = stats.statistics_averages(files_total)
-#print('\n\n')
-#print(len(championships_average_goals))
+championships_average_goals = statistics_averages(files_total)
+
+for item in files_total:
+
+    lo = 0
+    hi = len(corruptedLeagues) - 1
+    corruptedFlag = False
+
+    while lo <= hi:
+        mid = (lo + hi) // 2            # posição central
+        mid_val = corruptedLeagues[mid] # valor nessa posição
+
+        if mid_val == ind:
+            corruptedFlag = True
+            break
+        elif mid_val < ind:
+            
+            lo = mid + 1
+        else:
+            
+            hi = mid - 1
+
+    # Se a liga estiver em recesso , pula para a proxima
+    if corruptedFlag:
+        continue
+
+    df_matches, team_stats = analyze_file(item)
+
+    with open("pandas.log", "a") as f:
+        f.write(f"Dataframe de partidas (exemplo):\n")
+        f.write(f"{df_matches.head()}\n")
+        f.write(f"Estatísticas por time:\n")
+        f.write(f"Estatísticas por time:\n")
+        pd.set_option("display.max_columns", None)
+        f.write(f"{team_stats}\n\n")
+
 
 def find_average(homeTeam, awayTeam, ind, conta):
         conta += 1
@@ -340,77 +334,17 @@ for league in nextGames_list:
         break 
     
 #averages_list = sort_list(averages_list)
-    
+
+#print ("next games")
+#print (nextGames_list)
+
+#print ("\n\nNext games averages")
+#print (averages_list)
 with open ("next_games.txt" , "w") as arq:
     for i in range(len(averages_list)):
         arq.write(f"{averages_list[i][0]} , {averages_list[i][1]} x {averages_list[i][2]} , Average: {averages_list[i][3]} , Home Over 1.5 goals: {averages_list[i][4]}% , Away Over 1.5 goals: {averages_list[i][5]}% , Home Under 2.5 goals: {averages_list[i][6]}% , Away Under 2.5 goals: {averages_list[i][7]}% , {averages_list[i][8]} \n")
 
 
-
-'''         
-with open("unibet.txt", "r", errors="ignore") as arq:
-    team_name = ''
-    
-    matches = arq.readlines()
-    for match in matches:
-        attributes = match.split(' , ')
-        for league in leagues_dict:
-            if '-2' in league:
-                aux2 = league.replace ('-2', '')
-                flag =1
-            if attributes[0] == league:
-                home_team = attributes[2]
-                away_team = attributes[3]
-                current_file_index = leagues_dict.index(league)
-                for team in championships_average_goals[current_file_index]:
-                    #aux = team.split()
-                    if ' ' in team[0]:
-                        aux3 = team[0].split()
-                        team_name = aux3[0]
-                        for z_item in aux3:
-                            if len(z_item) > len(team):
-                                team_name = z_item    
-                    else:
-                        team_name = aux
-                    if team_name in home_team:
-                        average_goals += team[-4]
-                        average_goalsConceded += team[-2]
-                    elif team_name in away_team:
-                        average_goals += team[-3]
-                        average_goalsConceded += team[-1]
-                        average = round((float(average_goals) + float(average_goalsConceded))/2 , 4)
-                        lines.append(home_team)
-                        lines.append(away_team)
-                        lines.append(average)
-                        lines.append(primary_key)
-                        aux_list.append(lines)
-                        averages_list.append(average)
-                        averages_list.append(primary_key)
-                        lines = []
-                        primary_key += 1
-                        average_goals = 0
-                        average_goalsConceded = 0
-                        team_name = ''
-    '''  
-'''           
-    averages_list = sorted(averages_list, reverse = True)
-    for averages in averages_list:
-        for item in aux_list:
-            if averages == item[2]:
-                lines.append(item[0])
-                lines.append(item[1])
-                lines.append(averages)
-                final_list.append(lines)
-                lines = []
-    '''
-'''
-print(len(aux_list))
-with open("final-list.txt", "w") as arq3:
-    for match in aux_list:
-        arq3.write(f'{match[0]} x {match[1]} | Media: {match[2]}\n')
-
-
-'''
     
 
                         

@@ -1,0 +1,3 @@
+{'time': '2023-04-12T19:00:00Z', 'home_team': 'AC Milan', 'away_team': 'Napoli', 
+'full_time_result': {'1': 2700, 'X': 3100, '2': 2880}, 'under_over': {'O2.5': 2280, 'U2.5': 1600}, 
+'both_teams_to_score': {'yes': 1930, 'no': 1830}, 'double_chance': {'1X': 1430, '12': 1380, '2X': 1470}}
