@@ -1,79 +1,7 @@
-import scrapyStatsSoup as sss
-from listasSocccerStats import leagues
-from listasSocccerStats import files_total
-from listasSocccerStats import corruptedLeagues
-from teamsStats import statistics_averages
-from teamsPandas import analyze_file
+import SERVICES.scrapyStatsSoup as sss
+from MODELS.populateTable import leagues, files_total, corruptedLeagues, leagues_dict
+
 import pandas as pd
-
-
-leagues_dict = []
-
-leagues_dict.append('Serie A , Italy')
-leagues_dict.append('Serie B , Italy')
-leagues_dict.append('Bundesliga , Germany')
-leagues_dict.append('Bundesliga , Austria')
-leagues_dict.append('2 Bundesliga , Germany')
-leagues_dict.append('3 Liga , Germany')
-leagues_dict.append('Regionalliga Nord , Germany')
-leagues_dict.append('La Liga , Spain')
-leagues_dict.append('La liga 2 , Spain')
-leagues_dict.append('Premier League , England')
-leagues_dict.append('The Championship , England')
-leagues_dict.append('League One , England')
-leagues_dict.append('Primeira Liga , Portugal')
-leagues_dict.append('Liga Pro , Portugal')
-leagues_dict.append('Liga Profesional Argentina , Argentina')
-leagues_dict.append('Jupiler Pro League , Belgium')
-leagues_dict.append('Challenger Pro League , Belgium')
-leagues_dict.append('Brasileirao Serie A , Brazil')
-leagues_dict.append('Brasileirao Serie B , Brazil')
-leagues_dict.append('Brasileirao Serie C , Brazil')
-leagues_dict.append('Primera Chile , Chile')
-leagues_dict.append('Super League , China')
-leagues_dict.append('Super League , Greece')
-leagues_dict.append('Liga Betplay Dimayor , Colombia')
-leagues_dict.append('1 HNL League , Croatia')
-leagues_dict.append('Superligaen , Denmark')
-leagues_dict.append('1st Division , Denmark')
-leagues_dict.append('Liga Pro , Ecuador')
-leagues_dict.append('Ligue 1 , France')
-leagues_dict.append('Ligue 2 , France')
-leagues_dict.append('NB 1 , Hungary')
-leagues_dict.append('Premier Division , Ireland')
-leagues_dict.append('Liga MX , Mexico')
-leagues_dict.append('Liga MX , Mexico')
-leagues_dict.append('Eredivisie , Netherlands')
-leagues_dict.append('Eerste Divisie , Netherlands')
-leagues_dict.append('Eliteserien , Norway')
-leagues_dict.append('Obos Ligaen , Norway')
-leagues_dict.append('Primera Paraguay , Paraguay')
-leagues_dict.append('Liga 1 , Peru')
-leagues_dict.append('Ekstraklasa , Polland')
-leagues_dict.append('liga 1 , Romenia')
-leagues_dict.append('Superettan , Sweden')
-leagues_dict.append('Veikkausliiga , Finland')
-leagues_dict.append('Ykkonen , Finland')
-leagues_dict.append('Meistriliiga , Estonia')
-leagues_dict.append('K-League-1 , South Korea')
-leagues_dict.append('Brasileirao Serie D , Brazil')
-leagues_dict.append('J1 League , Japan')
-leagues_dict.append('J2 League , Japan')
-leagues_dict.append('J3 League , Japan')
-leagues_dict.append('Urvalsdeild , Iceland')
-leagues_dict.append('1. Deild , Iceland')
-leagues_dict.append('2. Deild , Iceland')
-leagues_dict.append('3. Deild , Iceland')
-leagues_dict.append('A Lyga , Lithuania')
-leagues_dict.append('K-League-2 , South Korea')
-leagues_dict.append('K3 League , South Korea')
-leagues_dict.append('Malasya Super League , Malasya')
-leagues_dict.append('Myanmar National League , Myanmar')
-leagues_dict.append('Major League Soccer , USA')
-leagues_dict.append('USL Championship , USA')
-leagues_dict.append('USL League 2 , USA')
-leagues_dict.append('Primera Division , Venezuela')
-leagues_dict.append('Primera B , Chile')
 
 
 average_goals = 0
@@ -98,21 +26,22 @@ def find_index (textFile):
         if item == textFile:
             return item.index()
 
-#print(corruptedLeagues)
+
 
 corruptedInd = len(corruptedLeagues)
 corruptedFlag = False
+
 base = 0
 for ind in range(len(leagues)):
     cont += 1
     
-# busca binária em corruptedLeagues
+    # busca binária para verificar se a liga selecionada 
     lo = 0
     hi = len(corruptedLeagues) - 1
     corruptedFlag = False
 
     while lo <= hi:
-        mid = (lo + hi) // 2            # posição central
+        mid = (lo + hi) // 2 # posição central
         mid_val = corruptedLeagues[mid] # valor nessa posição
 
         if mid_val == ind:
@@ -129,7 +58,8 @@ for ind in range(len(leagues)):
     if corruptedFlag:
         continue
     
-    with open("meu_arquivo.log", "a") as f:
+    # Armazenando as ligas que não estão em recesso
+    with open("logs/meu_arquivo.log", "a") as f:
         f.write(f" {files_total[ind]} , {ind} , {leagues_dict[ind]}\n")
     
     aux_list_2 = sss.scrapeSoup(leagues[ind], files_total[ind], ind, leagues_dict[ind])
@@ -180,6 +110,7 @@ for item in files_total:
         f.write(f"Estatísticas por time:\n")
         pd.set_option("display.max_columns", None)
         f.write(f"{team_stats}\n\n")
+
 
 
 def find_average(homeTeam, awayTeam, ind, conta):
