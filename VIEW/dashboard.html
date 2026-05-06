@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Dados do CSV</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    th {
+      background: #222;
+      color: white;
+      position: sticky;
+      top: 0;
+    }
+
+    tr:nth-child(even) {
+      background: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Jogos do arquivo final.csv</h1>
+
+  <table id="tabela">
+    <thead></thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    let dados = [];
+    let cabecalho = [];
+
+    fetch("../final.csv")
+    .then(response => response.text())
+    .then(csv => {
+        const linhas = csv.trim().split("\n");
+
+        cabecalho = linhas[0].split(",");
+        dados = linhas.slice(1).map(linha => linha.split(","));
+
+        renderTabela();
+    });
+
+    function renderTabela() {
+    const thead = document.querySelector("#tabela thead");
+    const tbody = document.querySelector("#tabela tbody");
+
+    thead.innerHTML = "";
+    tbody.innerHTML = "";
+
+    const trHead = document.createElement("tr");
+
+    cabecalho.forEach((coluna, index) => {
+        const th = document.createElement("th");
+        th.textContent = coluna;
+        th.style.cursor = "pointer";
+
+        th.addEventListener("click", () => {
+        ordenarDecrescente(index);
+        });
+
+        trHead.appendChild(th);
+    });
+
+    thead.appendChild(trHead);
+
+    dados.forEach(linha => {
+        const tr = document.createElement("tr");
+
+        linha.forEach(valor => {
+        const td = document.createElement("td");
+        td.textContent = valor;
+        tr.appendChild(td);
+        });
+
+        tbody.appendChild(tr);
+    });
+    }
+
+    function ordenarDecrescente(index) {
+    dados.sort((a, b) => {
+        let valorA = a[index];
+        let valorB = b[index];
+
+        let numA = parseFloat(valorA);
+        let numB = parseFloat(valorB);
+
+        if (!isNaN(numA) && !isNaN(numB)) {
+        return numB - numA;
+        }
+
+        return valorB.localeCompare(valorA);
+    });
+
+    renderTabela();
+    }
+</script>
+
+</body>
+</html>

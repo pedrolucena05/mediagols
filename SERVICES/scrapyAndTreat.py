@@ -53,7 +53,7 @@ for i in range(1, 66):
         # tratamento de dados das partidas num arquivo csv
         generateLeagueCSV(league)
 
-        #calculo das medias das proximas partidas 
+        # cálculo das medias das proximas partidas 
         processNextMatches("league.csv", "league_averages.csv", "next_games.csv", league_name)
 
     except Exception as erro:

@@ -8,6 +8,7 @@ from typing import Dict, List, Tuple
 
 SCORE_PATTERN = re.compile(r"^\s*(\d+)\s*-\s*(\d+)\s*$")
 TIME_PATTERN = re.compile(r"^\s*\d{1,2}:\d{2}\s*$")
+firstLeague = True
 
 
 def is_played_match(match):
@@ -217,6 +218,9 @@ def predict_total_goals(home_team: str, away_team: str, team_data: Dict[str, Dic
 
 
 def generate_next_games(matches_csv: str, averages_csv: str, output_csv: str, league: str = "", country: str = "") -> None:
+    
+    global firstLeague
+
     team_data = read_team_averages(averages_csv)
     thresholds = compute_global_thresholds(team_data)
 
@@ -224,8 +228,6 @@ def generate_next_games(matches_csv: str, averages_csv: str, output_csv: str, le
         "Date",
         "Home Team",
         "Away Team",
-        "Match",
-        "Kickoff",
         "Expected Home Goals",
         "Expected Away Goals",
         "Average",
@@ -241,23 +243,36 @@ def generate_next_games(matches_csv: str, averages_csv: str, output_csv: str, le
         "Away Under 2.5 goals",
         "Bonus Flag",
         "League",
-        "Country",
     ]
+
 
     rows_to_write = []
 
     with open(matches_csv, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
+        nextMatches = 0
+        
         for row in reader:
             score_or_time = str(row["Placar/Hora"]).strip()
 
             if not is_future_match(score_or_time):
                 continue
 
+            if is_future_match(score_or_time):
+                nextMatches += 1
+
+                if nextMatches == 13:
+                    break
+
             date_str = str(row["Data"]).strip()
+            aux = date_str.split(" ")
+            if not date_str[0].isdigit():
+                date_str = aux[1] + " " + aux[2]
+
+            date_str += " - " + score_or_time
+            
             home_team = str(row["Mandante"]).strip()
             away_team = str(row["Visitante"]).strip()
-            kickoff = score_or_time
 
             exp_home, exp_away, exp_total = predict_total_goals(home_team, away_team, team_data)
             bonus_flag = build_bonus_flag(home_team, away_team, team_data, thresholds)
@@ -269,8 +284,6 @@ def generate_next_games(matches_csv: str, averages_csv: str, output_csv: str, le
                 "Date": date_str,
                 "Home Team": home_team,
                 "Away Team": away_team,
-                "Match": f"{home_team} x {away_team}",
-                "Kickoff": kickoff,
                 "Expected Home Goals": exp_home,
                 "Expected Away Goals": exp_away,
                 "Average": exp_total,
@@ -286,12 +299,16 @@ def generate_next_games(matches_csv: str, averages_csv: str, output_csv: str, le
                 "Away Under 2.5 goals": round2(away.get("Away Under 2.5 %", 0.0)),
                 "Bonus Flag": bonus_flag,
                 "League": league,
-                "Country": country,
             })
 
-    with open(output_csv, "w", encoding="utf-8", newline="") as f:
+    with open(output_csv, "a", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
+        
+        if firstLeague:
+            writer.writeheader()
+            firstLeague = False
+
+
         writer.writerows(rows_to_write)
 
 

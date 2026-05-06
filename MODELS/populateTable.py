@@ -214,7 +214,7 @@ print(len(urls))
 conn = psycopg2.connect(
     dbname="bestBet",
     user="postgres",
-    password="senha",
+    password="446123ABpp",
     host="localhost",
     port="5432"
 )
