@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para analisar estatísticas de partidas de futebol de mais de **65 ligas** diferentes, calculando médias ofensivas e defensivas dos times com base em jogos anteriores.
 
-Os dados são extraídos automaticamente do site :contentReference[oaicite:0]{index=0} e processados para gerar indicadores estatísticos sobre as próximas partidas.
+Os dados são extraídos automaticamente do site soccerstats.com e processados para gerar indicadores estatísticos sobre as próximas partidas.
 
 ---
 
