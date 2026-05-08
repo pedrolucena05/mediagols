@@ -1,36 +1,47 @@
-# Cálculo de média de gols e portcentagem de partidas acima de 1.5 gols e 2.5 gols de diversas ligas de futebol.
+# ⚽ Football Goals Statistics Analyzer
 
-<p style="text-ident: 20rem">Fiz essa aplicação para calcular a média de gols de times de diversas ligas de futebol. Faço a leitura do site <b><a href="https://www.soccerstats.com/">soccerstats.com</a></b> e o algoritmo organiza os dados como no arquivo 
-<b>england1.txt</b>. Outro algoritmo calcula a média de gols dos times, a quantidade de partidas que tiveram acima de 1.5 gols e abaixo de 2.5 gols. E no arquivo <b>next_games.txt</b>
-mostra as partidas que vão ter com as medias dos times que vão se enfrentar. </p>
+Projeto desenvolvido para analisar estatísticas de partidas de futebol de mais de **65 ligas** diferentes, calculando médias ofensivas e defensivas dos times com base em jogos anteriores.
 
-O código acabou ficando complexo por causa que os dados extraidos do site vinham da seguinte forma:
+Os dados são extraídos automaticamente do site soccerstats.com e processados para gerar estatísticas sobre as próximas partidas. Marcando partidas onde uma equipe que faz muitos gols enfrenta outra que sofre muitos gols. 
 
-['2.5+TGBTSFr', '29', 'JulUnion', 'Tornesch', '2', '-', '2', 'Altona+4+Su', '31', 'JulPaloma', '2', '-', '1', 'Rugenbergen+3+Su', '31', 'JulT.', 'Wilhelmsburg', 
-'3', '-', '1', 'HEBC+4+Su', '31', 'JulNiendorfer', 'TSV', '1', '-', '0', 'Victoria', 'H.', 'B-1-Su', '31', 'JulBuchholz', '2', '-', '5', 'Eimsbutteler', 'TV+7+Su', 
-'31', 'JulHamm', 'Utd', '1', '-', '1', 'Harksheide-2+Su', '31', 'JulOsdorf', '1', '-', '5', 'Curslack-N.+6+Su', '31', 'JulSasel', '4', '-', '0', 'Süderelbe+4-Su', 
-'31', 'JulHamburger', 'SV', 'C', '0', '-', '2', 'W.', 'Concordia-2-Fr', '5', 'AugSüderelbe', '1', '-', '2', 'Paloma+3+Fr', '5', 'AugHarksheide', '1', '-', '0', 'T.', 
-'Wilhelmsburg-1-Fr', '5', 'AugVictoria', 'H.', 'B', '3', '-', '2', 'Hamburger', 'SV', 'C+5+Fr', '5', 'AugW.', 'Concordia', '4', '-', '0', 'Buchholz+4-Fr', '5', 
-'AugEimsbutteler', 'TV', '3', '-', '0', 'Dassendorfstats+3-Sa', '6', 'AugRugenbergen', '0', '-', '2', 'Niendorfer', 'TSVstats-2-Sa', '6', 'AugCurslack-N.', '1', '-', 
-'1', 'Hamm', 'Utdstats-2+Sa', '6', 'AugAltona', '2', '-', '1', 'Osdorfstats+3+Fr', '12', 'AugDassendorf', '4', '-', '2', 'W.', 'Concordiastats+6+Fr', '12', 'AugHamm', 
-'Utd', '2', '-', '1', 'Altonastats+3+Fr', '12', 'AugHamburger', 'SV', 'C', '3', '-', '0', 'Rugenbergenstats+3-Su', '14', 'AugPaloma', '1', '-', '1', 'HEBCstats-2+Su', 
-'14', 'AugT.', 'Wilhelmsburg', '4', '-', '1', 'Curslack-N.stats+5+Su', '14', 'AugNiendorfer', 'TSV', '6', '-', '2', 'Süderelbestats+8+Su', '14', 'AugBuchholz', '1', 
-'-', '4', 'Victoria', 'H.', 'Bstats+5+Su'] <br/>
+    - As estatísticas são separadas com gols feitos em casa com gols feitos fora de casa para aumentar a acertividade.
 
-Link de onde eu extraio os dados no site: <a>https://www.soccerstats.com/results.asp?league=italy&pmtype=bydate</a> (Serie A Italiana).<br/> 
+---
 
-**Como utilizar a aplicação:**<br/> 
-<br/>A aplicação se inicia pelo arquivo **controller.py**.<br/> 
-Caso não esteja funcionando a escrita nos arquivos de texto, tente atualizar o python para a última versão estável.<br/> 
-Rode o arquivo controller.py<br/> 
+# 📊 Funcionalidades
+
+- Extração automática de dados do SoccerStats
+- Processamento de partidas futuras e históricas
+- Cálculo de médias de gols:
+  - Média de gols marcados em casa
+  - Média de gols sofridos em casa
+  - Média de gols marcados fora
+  - Média de gols sofridos fora
+- Estatísticas de Over Goals:
+  - Over 1.5 gols
+  - Over 2.5 gols
+- Análise separada para:
+  - Jogos em casa
+  - Jogos fora de casa
+- Identificação de partidas promissoras:
+  - Equipes com ataque forte vs defesa fraca
+- Exportação dos dados em CSV/TXT
+
+---
+
+# Como exucutar o programa
 
 
 
+---
 
+# 🛠️ Tecnologias Utilizadas
 
+- Python
+- Pandas
+- BeautifulSoup
+- CSV Processing
+- View com o html
 
-
-
-
-
+---
 
