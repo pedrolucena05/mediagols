@@ -1,14 +1,7 @@
-import psycopg2
 
-conn = psycopg2.connect(
-    dbname="bestBet",
-    user="postgres",
-    password="446123ABpp",
-    host="localhost",
-    port="5432"
-)
+from MODELS.dbVariable import conn, cursor
 
-cursor = conn.cursor()
+
 
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS next_matches (

@@ -25,12 +25,12 @@ def sortCSV ():
             partes = valor.split()
 
             if not partes[0].isdigit():
-                print("Caiu Primeiro if")
+                
                 dia = int(partes[1])
                 mes = MESES[partes[2]]
         
             else:
-                print("Caiu segundo if")
+                
                 dia = int(partes[0])
                 mes = MESES[partes[1]]
 

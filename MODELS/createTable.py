@@ -1,14 +1,5 @@
-import psycopg2
 
-conn = psycopg2.connect(
-    dbname="bestBet",
-    user="postgres",
-    password="senha",
-    host="localhost",
-    port="5432"
-)
-
-cursor = conn.cursor()
+from MODELS.dbVariable import conn , cursor
 
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS leagues (

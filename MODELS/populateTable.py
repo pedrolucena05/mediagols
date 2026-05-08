@@ -1,6 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
-import psycopg2
+
+from MODELS.dbVariable import conn, cursor
 
 urls = []
 leagues = []
@@ -210,16 +209,6 @@ urls.append('https://www.soccerstats.com/results.asp?league=chile2&pmtype=bydate
 leagues_dict.append('Primera B , Chile')
 
 print(len(urls))
-
-conn = psycopg2.connect(
-    dbname="bestBet",
-    user="postgres",
-    password="446123ABpp",
-    host="localhost",
-    port="5432"
-)
-
-cursor = conn.cursor()
 
 dados = list(zip(urls, leagues_dict))
 

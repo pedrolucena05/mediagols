@@ -1,21 +1,10 @@
-from MODELS.populateTable import urls
+
 from bs4 import BeautifulSoup
 import requests
-import psycopg2
+from MODELS.dbVariable import conn, cursor
 from SERVICES.treatMatches import generateLeagueCSV
 from SERVICES.calculateTeamsAverages import processNextMatches
 from SERVICES.sortCSV import sortCSV
-
-
-conn = psycopg2.connect(
-    dbname="bestBet",
-    user="postgres",
-    password="446123ABpp",
-    host="localhost",
-    port="5432"
-)
-
-cursor = conn.cursor()
 
 
 headers = {
