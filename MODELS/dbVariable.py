@@ -1,10 +1,10 @@
 import psycopg2
 
 conn = psycopg2.connect(
-    dbname="dbname",
+    dbname="COLOQUE_O_NOME_AQUI",
     user="postgres",
-    password="password",
-    host="localhost",
+    password="COLOQUE_A_SENHA_AQUI",
+    host="host.docker.internal", # host docker
     port="5432"
 )
 
