@@ -1,4 +1,4 @@
-# ⚽ Football Goals Statistics Analyzer
+# Football Goals Statistics Analyzer
 
 Projeto desenvolvido para analisar estatísticas de partidas de futebol de mais de **65 ligas** diferentes, calculando médias ofensivas e defensivas dos times com base em jogos anteriores.
 
@@ -8,7 +8,7 @@ Os dados são extraídos automaticamente do site soccerstats.com e processados p
 
 ---
 
-# 📊 Funcionalidades
+# Funcionalidades
 
 - Extração automática de dados do SoccerStats
 - Processamento de partidas futuras e históricas
@@ -25,7 +25,7 @@ Os dados são extraídos automaticamente do site soccerstats.com e processados p
   - Jogos fora de casa
 - Identificação de partidas promissoras:
   - Equipes com ataque forte vs defesa fraca
-- Exportação dos dados em CSV/TXT
+- Dados HTMl
 
 ---
 
@@ -35,13 +35,5 @@ Os dados são extraídos automaticamente do site soccerstats.com e processados p
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
 
-- Python
-- Pandas
-- BeautifulSoup
-- CSV Processing
-- View com o html
-
----
 
