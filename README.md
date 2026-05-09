@@ -31,6 +31,14 @@ As estatísticas são separadas com gols feitos em casa com gols feitos fora de 
 
 # Como exucutar o programa
 
+1. Crie um banco de dados no postgrees para o programa;
+2. No arquivo MODELS/dbVariable.py altere e coloque suas credenciais de usuario , senha e nome do banco;  
+3. Execute o programa docker desktop;
+4. No diretório onde esta localizado o makefile, execute no terminal os seguintes comandos:
+     - make build-image // Cria ou reabre a imagem docker com as bibliotecas necessárias instaladas
+     - make build-tables // Cria as tabelas do banco e as preenche corretamnte com dados de 65 ligas de futebol
+     - make run // executa o programa completo e cria o arquivo csv final com as próximas partidas e suas estatísticas
+     - make show // Cria um servidor http na porta 8000 e exibe o dashboard.html num navegador
 
 
 ---
