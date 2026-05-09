@@ -25,7 +25,7 @@ Os dados são extraídos automaticamente do site soccerstats.com e processados p
   - Jogos fora de casa
 - Identificação de partidas promissoras:
   - Equipes com ataque forte vs defesa fraca
-- Resultado Final exibido num HTML
+- Resultado Final exibido numa página HTML
 
 ---
 
