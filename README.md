@@ -1,25 +1,25 @@
 # Football Goals Statistics Analyzer
 
-Projeto desenvolvido para analisar estatísticas de partidas de futebol de mais de **65 ligas** diferentes, calculando médias ofensivas e defensivas dos times com base em jogos anteriores.
+Projeto desenvolvido para analisar estatísticas de gols de mais de **65 ligas** diferentes, calculando médias ofensivas e defensivas dos times com base nas partidas anteriores.
 
 Os dados são extraídos automaticamente do site soccerstats.com e processados para gerar estatísticas sobre as próximas partidas. Marcando partidas onde uma equipe que faz muitos gols enfrenta outra que sofre muitos gols.
 
-As estatísticas são separadas com gols feitos em casa com gols feitos fora de casa para aumentar a acertividade.
+As estatísticas são separadas com gols feitos em casa com gols feitos fora de casa para aumentar a assertividade.
 
 ---
 
 # Funcionalidades
 
-- Extração automática de dados do SoccerStats
-- Processamento de partidas futuras e históricas
-- Cálculo de médias de gols:
+- Extração automática do resultado das partidas de diversas ligas do SoccerStats
+- Tratamento de dados em arquivo csv
+- Cálculo de médias de gols das equipes com a biblioteca Pandas:
   - Média de gols marcados em casa
   - Média de gols sofridos em casa
   - Média de gols marcados fora
   - Média de gols sofridos fora
 - Estatísticas de Over Goals:
-  - Over 1.5 gols
-  - Over 2.5 gols
+  - Porcentagem de partidas Over 1.5 gols
+  - Porcentagem de partidas Over 2.5 gols
 - Análise separada para:
   - Jogos em casa
   - Jogos fora de casa
