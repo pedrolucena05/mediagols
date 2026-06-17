@@ -3,14 +3,14 @@ import csv
 
 MESES = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"}
 
-def formatar_placar_ou_hora(token: str) -> str:
+def formatar_placar_ou_hora(token: str):
     esquerda, direita = token.split(":")
     if len(esquerda) == 1 and len(direita) == 1:
         return f"{int(esquerda)} - {int(direita)}"
     return token
 
 
-def parsear_partidas(tokens: list[str]) -> list[dict]:
+def parsear_partidas(tokens: list[str]):
     registros = []
     i = 0
 
@@ -90,7 +90,7 @@ def parsear_partidas(tokens: list[str]) -> list[dict]:
     return registros
 
 
-def generateLeagueCSV(tokens: list[str], arquivo_saida: str = "league.csv") -> None:
+def generateLeagueCSV(tokens: list[str], arquivo_saida: str = "league.csv"):
     partidas = parsear_partidas(tokens)
 
     with open(arquivo_saida, "w", newline="", encoding="utf-8-sig") as f:
