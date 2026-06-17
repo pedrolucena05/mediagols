@@ -1,6 +1,6 @@
 # Football Goals Statistics Analyzer
 
-Projeto desenvolvido para analisar estatísticas de gols de mais de **65 ligas** diferentes utilizando o webscraping para extração dos dados, tratando os dados em arquivos csv para cálculo de médias de gols feitos e sofridos de cada equipe separado por partidas feitas em casa e fora de casa para melhorar a assertividade da analise.
+Projeto desenvolvido para analisar estatísticas de gols de mais de **65 ligas** diferentes utilizando o webscraping para extração dos dados, tratando os dados em arquivos csv para cálculo de médias de gols feitos e sofridos de cada equipe separado por partidas feitas em casa e fora de casa para melhorar a assertividade da análise.
 
 Os dados são extraídos automaticamente do site soccerstats.com e processados para gerar estatísticas sobre as próximas partidas. Marcando partidas onde uma equipe que faz muitos gols enfrenta outra que sofre muitos gols.
 
