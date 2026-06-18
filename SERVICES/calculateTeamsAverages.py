@@ -15,7 +15,7 @@ def is_played_match(match):
     return bool(' - ' in match)
 
 
-def is_future_match(value: str) -> bool:
+def is_future_match(value: str):
     return bool(TIME_PATTERN.match(str(value)))
 
 
